@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: saphari
-Version: 0.1.0
-Summary: Satellite Phage Algorithmic Recognition and Interpretation
-Author: Namit Nallapaneni
-License-Expression: MIT
-Requires-Python: >=3.8
-Requires-Dist: pandas<3.0,>=2.0
-Requires-Dist: biopython<2.0,>=1.83
