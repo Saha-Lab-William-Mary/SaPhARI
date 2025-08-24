@@ -1,0 +1,16 @@
+# containers/Singularity.def
+Bootstrap: docker-daemon
+From: saphari:0.1.0
+
+%labels
+  Author SaPhARI
+  Version 0.1.0
+  Description "Local SaPhARI image converted from Docker daemon"
+
+%help
+  This image provides the 'saphari' CLI and all dependencies.
+  Build it from your local Docker image:
+    apptainer build saphari.sif containers/Singularity.def
+
+%runscript
+  exec saphari "$@"

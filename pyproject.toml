@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "saphari"
+version = "0.1.0"
+description = "Satellite Phage Algorithmic Recognition and Interpretation"
+requires-python = ">=3.8"
+license = "MIT"
+authors = [{ name = "Namit Nallapaneni" }]
+dependencies = [
+  "pandas>=2.0,<3.0",
+  "biopython>=1.83,<2.0"
+]
+
+[project.scripts]
+saphari = "saphari.cli:main"   # ← points to src/saphari/cli.py
+
+[tool.setuptools]
+package-dir = {"" = "src"}     # ← tell setuptools about src layout
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["saphari*"]         # package + subpackages
+
+[tool.setuptools.package-data]
+saphari = ["annotation/*", "data/*.json", "*.py"]

@@ -1,0 +1,17 @@
+name: saphari
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - openjdk=21
+  - nextflow=24.04.4
+  - diamond=2.1.9
+  - blast=2.14.1
+  - prodigal=2.6.3
+  - pandas=2.2.*
+  - biopython=1.83
+  - pip
+  - pip:
+      - .

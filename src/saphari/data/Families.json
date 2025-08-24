@@ -1,0 +1,36 @@
+[
+  {
+    "title": "PICI",
+    "proteins": [
+      "integrase",
+      "primase",
+      "decor",
+      ["major head", "major capsid"], 
+      ["alpa", "icd-like"]
+    ],
+    "length": 15000,
+    "minnumber": 3,
+    "forbidden": ["PhoQ"],
+    "specific_distances": [
+      { "pair": ["integrase", "icd-like"], "distance": 5000 },
+      { "pair": ["primase", ["major head", "major capsid"]], "distance": 5000 }
+    ]
+  },
+  {
+    "title": "cfPICI",
+    "proteins": [
+      "integrase",
+      "primase",
+      "decor",
+      ["major head", "major capsid"],
+      ["alpa", "icd-like"]
+    ],
+    "length": 15000,
+    "minnumber": 3,
+    "forbidden": ["PhoQ"],
+    "specific_distances": [
+      { "pair": ["integrase", "icd-like"], "distance": 5000 },
+      { "pair": ["primase", ["major head", "major capsid"]], "distance": 5000 }
+    ]
+  }
+]
