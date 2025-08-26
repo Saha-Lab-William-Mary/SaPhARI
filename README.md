@@ -181,7 +181,26 @@ The **Families JSON** file defines the rules that SaPhARI uses to detect specifi
 }
 
 ```
+## Database Considerations  
 
+The six satellite phage families (**PICI**, **cf-PICI**, **PICMI**, **P4-like**, **PLE**, and **Phagelet**) defined in `Families.json` require a database that actually contains these proteins.  
+
+### Recommended Databases  
+- **RefSeq proteins (Bacteria, Archaea, Viruses)**: Deep coverage of microbial and viral proteins.  
+- **Custom-augmented RefSeq**: RefSeq plus selected satellite phage proteins (e.g., PLE proteins) for better sensitivity.  
+
+Large protein databases can exceed **100–400 GB** once indexed with DIAMOND. Make sure your system has sufficient storage and memory before running searches.  
+
+### Build a Custom Database  
+```bash
+diamond makedb --in protein_fasta.faa --db db_name.dmnd --threads num_of_threads
+````
+
+* `protein_fasta.faa` → multi-FASTA of amino acid sequences
+* `db_name.dmnd` → name of the output database
+* `num_of_threads` → CPUs to allocate during indexing
+
+See the [DIAMOND documentation](https://github.com/bbuchfink/diamond) for more options.
 
 ## Output Structure
 SaPhARI creates a structured output directory. This ensures that intermediate files (annotation, BLAST results, etc.) are separated from the final per-family reports.
