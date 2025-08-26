@@ -33,6 +33,8 @@ docker build -t saphari:0.1.0 -f containers/Dockerfile .
 ### Example (Conda)
 
 ```bash
+git clone https://github.com/namitn04/SaPhARI.git
+cd SaPhARI
 conda env create -f environment.linux.yml
 conda activate saphari
 saphari --help
