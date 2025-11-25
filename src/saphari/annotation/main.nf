@@ -39,7 +39,7 @@ process protorfmeta {
 
     script:
     """
-    prodigal -i ${contigfile} -a ${contigfile.baseName}_prot_orfed.fna -p
+    prodigal -i ${contigfile} -a ${contigfile.baseName}_prot_orfed.fna -p meta
     """
 }
 
@@ -69,7 +69,7 @@ process nucorfmeta {
 
     script:
     """
-    prodigal -i ${contigfile} -d ${contigfile.baseName}_nuc_orfed.fna -p
+    prodigal -i ${contigfile} -d ${contigfile.baseName}_nuc_orfed.fna -p meta
     """
 }
 
