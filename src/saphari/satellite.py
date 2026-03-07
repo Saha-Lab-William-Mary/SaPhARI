@@ -130,6 +130,7 @@ class Satellite:
                 group_line = []
                 protein_counter = set()
                 min_stop_position = None
+                forbidden_found = False
 
                 for linex in lines[i:]:  # Continue till the end of file
                     linex_parts = linex.strip().split('|')
@@ -143,6 +144,7 @@ class Satellite:
                     # Check window length
                     if (stop_position - start_position <= self.length):
                         if contains_forbidden(linex):
+                            forbidden_found = True
                             break
                         proteins_found = extract_proteins(linex)
                         if proteins_found:
@@ -153,7 +155,7 @@ class Satellite:
                         # If the current region is too long, break
                         break
 
-                if len(protein_counter) >= self.number and len(group_line) > 0:
+                if not forbidden_found and len(protein_counter) >= self.number and len(group_line) > 0:
                     all_regions.append((set(group_line), i, len(group_line), start_position, min_stop_position))
 
             # Sort regions by their number of lines in descending order
@@ -352,6 +354,7 @@ class Satellite:
                 group_line = []
                 protein_counter = set()
                 min_stop_position = None
+                forbidden_found = False
 
                 for linex in lines[i:]:
                     linex_parts = linex.strip().split('|')
@@ -364,6 +367,7 @@ class Satellite:
 
                     if (stop_position - start_position <= self.length):
                         if contains_forbidden(linex):
+                            forbidden_found = True
                             break
                         proteins_found = extract_proteins(linex)
                         if proteins_found:
@@ -373,7 +377,7 @@ class Satellite:
                     else:
                         break
 
-                if len(protein_counter) >= self.number and len(group_line) > 0:
+                if not forbidden_found and len(protein_counter) >= self.number and len(group_line) > 0:
                     all_regions.append((set(group_line), i, len(group_line), start_position, min_stop_position))
 
             # Sort regions by number of lines descending
