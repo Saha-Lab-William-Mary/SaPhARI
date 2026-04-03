@@ -40,7 +40,8 @@ def main():
     ARGS = argparser.parse_args()
 
     input_filename = ARGS.input
-    output_filename = f"{os.path.splitext(input_filename)[0]}_gbtofasta_{os.path.splitext(input_filename)[1]}"
+    base = os.path.splitext(os.path.basename(input_filename))[0]
+    output_filename = f"{base}_genbank.fna"
 
     # Process the input file
     results = process_genbank(input_filename)
