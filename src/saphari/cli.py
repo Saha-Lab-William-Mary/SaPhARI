@@ -321,14 +321,18 @@ def main() -> None:
         if not sequence_files:
             sys.stderr.write("Error: No GenBank CDS files (*.gbk|*.gb|*.gbff) found in --data_dir.\n")
             sys.exit(1)
-        sat.process_files(
-            file_list=sequence_files,
-            use_cds=True,
-            output_type=args.output_type,
-            inputpath=data_dir,
-            familiestosearchfor=families_to_search,
-            outDir=out_dir,
-        )
+        for gb_file in sequence_files:
+            try:
+                sat.process_files(
+                    file_list=[gb_file],
+                    use_cds=True,
+                    output_type=args.output_type,
+                    inputpath=data_dir,
+                    familiestosearchfor=families_to_search,
+                    outDir=out_dir,
+                )
+            except Exception as e:
+                sys.stderr.write(f"[WARN] Skipping CDS file '{gb_file}': {e}\n")
         post_process_results(out_dir)
         sys.exit(0)
 
