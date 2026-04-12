@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - NZ_CP098874.1	Upstream	1069	1101683	1101931	1	WP_000581937.1	100	98.8	1.30e-53	MULTISPECIES: type II toxin-antitoxin system antitoxin MazE [Gammaproteobacteria]
+PICI REGION 1 - NZ_CP098874.1	Upstream	1070	1101931	1102266	1	WP_000254738.1	100	99.1	4.16e-77	MULTISPECIES: endoribonuclease MazF [Gammaproteobacteria]
+PICI REGION 1 - NZ_CP098874.1	Upstream	1071	1102337	1103128	1	WP_001071648.1	100	99.6	1.46e-183	MULTISPECIES: nucleoside triphosphate pyrophosphohydrolase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP098874.1	Upstream	1072	1103356	1104993	1	WP_000210878.1	100	99.8	0.0	MULTISPECIES: glutamine hydrolyzing CTP synthase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP098874.1	Upstream	1073	1105081	1106379	1	WP_000036723.1	100	99.8	1.49e-300	MULTISPECIES: phosphopyruvate hydratase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP098874.1	Core	1074	1106439	1107311	-1	CORE	100	91.4	1.12e-184	PROTEIN: WP_046644702.1 TPM domain-containing protein, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP098874.1	Core	1075	1107325	1107465	-1	CORE	100	97.9	1.07e-23	PROTEIN: WP_001288227.1 MULTISPECIES: cell envelope stress response protein YqcG [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP098874.1	Downstream	1076	1107604	1108275	1	WP_001199979.1	100	99.6	8.91e-165	MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP098874.1	Downstream	1077	1108671	1109135	-1	WP_260821620.1	48.4	41.3	3.76e-07	hypothetical protein, partial [Salmonella enterica]
+PICI REGION 1 - NZ_CP098874.1	Downstream	1078	1109769	1111247	-1	WP_000039683.1	100	99.8	0.0	MULTISPECIES: FGGY-family carbohydrate kinase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP098874.1	Downstream	1079	1111274	1112551	-1	WP_060621186.1	100	99.8	1.09e-303	MULTISPECIES: MFS transporter [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP098874.1	Downstream	1080	1112870	1113655	1	WP_000021330.1	100	99.6	5.55e-187	MULTISPECIES: SDR family oxidoreductase [Enterobacteriaceae]

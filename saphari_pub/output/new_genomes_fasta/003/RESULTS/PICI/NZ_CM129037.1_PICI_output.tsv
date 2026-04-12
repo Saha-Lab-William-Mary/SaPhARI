@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - NZ_CM129037.1	Upstream	3809	3911773	3912021	1	WP_000581941.1	100	98.8	9.18e-54	MULTISPECIES: type II toxin-antitoxin system antitoxin MazE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM129037.1	Upstream	3810	3912021	3912356	1	WP_000254738.1	100	99.1	4.16e-77	MULTISPECIES: endoribonuclease MazF [Gammaproteobacteria]
+PICI REGION 1 - NZ_CM129037.1	Upstream	3811	3912427	3913218	1	WP_032237256.1	100	99.6	5.96e-183	nucleoside triphosphate pyrophosphohydrolase [Escherichia coli]
+PICI REGION 1 - NZ_CM129037.1	Upstream	3812	3913446	3915083	1	WP_000210878.1	100	99.8	0.0	MULTISPECIES: glutamine hydrolyzing CTP synthase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM129037.1	Upstream	3813	3915171	3916469	1	WP_000036723.1	100	99.8	1.49e-300	MULTISPECIES: phosphopyruvate hydratase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM129037.1	Core	3814	3916529	3917401	-1	CORE	100	91.4	1.97e-185	PROTEIN: WP_097437629.1 TPM domain-containing protein, partial [Escherichia coli]
+PICI REGION 1 - NZ_CM129037.1	Core	3815	3917415	3917555	-1	CORE	100	97.9	1.84e-24	PROTEIN: WP_001288228.1 MULTISPECIES: cell envelope stress response protein YqcG [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM129037.1	Downstream	3816	3917694	3918365	1	WP_001199973.1	100	99.6	2.19e-165	MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM129037.1	Downstream	3817	3920063	3920338	1	WP_000179210.1	100	98.9	4.11e-61	MULTISPECIES: IS1-like element transposase [Gammaproteobacteria]
+PICI REGION 1 - NZ_CM129037.1	Downstream	3818	3920467	3920760	1	WP_000951585.1	100	99.0	2.69e-62	MULTISPECIES: IS1 family transposase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM129037.1	Downstream	3819	3920886	3922133	1	WP_247148699.1	100	99.8	1.05e-313	FAD-binding oxidoreductase, partial [Escherichia coli]
+PICI REGION 1 - NZ_CM129037.1	Downstream	3820	3922155	3923564	1	WP_001618808.1	100	99.8	0.0	MULTISPECIES: MFS transporter [Enterobacteriaceae]

@@ -1,0 +1,12 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - EcCIIHE3034	Upstream	5	2973	3200	1	WP_000549001.1	100	98.7	1.97e-45	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIIHE3034	Upstream	6	3206	3505	1	CORE	100	99.0	1.95e-65	PROTEIN: WP_000791984.1 MULTISPECIES: DUF4222 domain-containing protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIIHE3034	Upstream	7	3502	5250	1	CORE	100	99.8	0.0	PROTEIN: WP_000761791.1 DNA primase family protein [Escherichia coli]
+PICI REGION 1 - EcCIIHE3034	Upstream	8	5539	5796	1	WP_001260558.1	100	98.8	1.56e-51	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIIHE3034	Upstream	9	5793	6215	1	WP_000126681.1	100	99.3	6.23e-95	MULTISPECIES: single-stranded DNA-binding protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIIHE3034	Core	10	6631	6837	1	CORE	100	98.6	3.76e-40	PROTEIN: WP_000796963.1 MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIIHE3034	Core	11	6837	7892	1	WP_000907460.1	100	99.7	2.85e-257	MULTISPECIES: major capsid protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIIHE3034	Core	12	7904	8239	1	CORE	100	99.1	6.91e-76	PROTEIN: WP_000380879.1 MULTISPECIES: head decoration protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIIHE3034	Core	13	8252	8665	1	WP_253030595.1	99.3	99.3	8.92e-89	phage head-tail connector protein [Escherichia coli]
+PICI REGION 1 - EcCIIHE3034	Core	14	8873	9415	1	CORE	100	99.4	2.15e-119	PROTEIN: WP_000835278.1 MULTISPECIES: terminase small subunit [Enterobacteriaceae]
+PICI REGION 1 - EcCIIHE3034	Downstream	15	9696	10133	-1	WP_001557247.1	100	69.2	3.19e-72	hypothetical protein, partial [Escherichia coli]

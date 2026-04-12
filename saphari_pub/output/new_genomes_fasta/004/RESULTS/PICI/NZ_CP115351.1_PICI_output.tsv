@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - NZ_CP115351.1	Upstream	939	1008743	1008991	1	WP_000581937.1	100	98.8	1.30e-53	MULTISPECIES: type II toxin-antitoxin system antitoxin MazE [Gammaproteobacteria]
+PICI REGION 1 - NZ_CP115351.1	Upstream	940	1008991	1009326	1	WP_000254745.1	100	99.1	1.19e-76	MULTISPECIES: endoribonuclease MazF [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP115351.1	Upstream	941	1009397	1010188	1	WP_001071648.1	100	99.6	1.46e-183	MULTISPECIES: nucleoside triphosphate pyrophosphohydrolase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP115351.1	Upstream	942	1010416	1012053	1	WP_000210878.1	100	99.8	0.0	MULTISPECIES: glutamine hydrolyzing CTP synthase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP115351.1	Upstream	943	1012141	1013439	1	WP_000036723.1	100	99.8	1.49e-300	MULTISPECIES: phosphopyruvate hydratase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP115351.1	Core	944	1013499	1014371	-1	CORE	100	91.8	3.76e-185	PROTEIN: WP_103951434.1 TPM domain-containing protein [Escherichia coli]
+PICI REGION 1 - NZ_CP115351.1	Core	945	1014385	1014525	-1	CORE	100	97.9	1.07e-23	PROTEIN: WP_001288227.1 MULTISPECIES: cell envelope stress response protein YqcG [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP115351.1	Downstream	946	1014664	1015335	1	WP_001199970.1	100	99.6	1.54e-165	MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP115351.1	Downstream	947	1015561	1016451	-1	WP_214277590.1	83.6	22.6	1.86e-29	hypothetical protein, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP115351.1	Downstream	948	1017623	1019101	-1	WP_000039691.1	100	99.8	0.0	MULTISPECIES: FGGY-family carbohydrate kinase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP115351.1	Downstream	949	1019128	1020405	-1	WP_001164574.1	100	99.8	8.98e-303	MULTISPECIES: MFS transporter [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP115351.1	Downstream	950	1020724	1021509	1	WP_000021321.1	100	99.6	9.59e-188	MULTISPECIES: SDR family oxidoreductase [Enterobacteriaceae]

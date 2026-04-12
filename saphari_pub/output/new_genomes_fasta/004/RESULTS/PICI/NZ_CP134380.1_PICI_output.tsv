@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - NZ_CP134380.1	Upstream	952	1025842	1026090	1	WP_000581939.1	100	98.8	1.85e-53	MULTISPECIES: type II toxin-antitoxin system antitoxin MazE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134380.1	Upstream	953	1026090	1026425	1	WP_000254745.1	100	99.1	1.19e-76	MULTISPECIES: endoribonuclease MazF [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134380.1	Upstream	954	1026496	1027287	1	WP_001071645.1	100	99.6	5.11e-184	nucleoside triphosphate pyrophosphohydrolase [Escherichia coli]
+PICI REGION 1 - NZ_CP134380.1	Upstream	955	1027515	1029152	1	WP_000210878.1	100	99.8	0.0	MULTISPECIES: glutamine hydrolyzing CTP synthase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134380.1	Upstream	956	1029240	1030538	1	WP_000036723.1	100	99.8	1.49e-300	MULTISPECIES: phosphopyruvate hydratase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134380.1	Core	957	1030598	1031470	-1	CORE	100	91.8	4.58e-186	PROTEIN: WP_140237667.1 TPM domain-containing protein, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP134380.1	Core	958	1031484	1031624	-1	CORE	100	97.9	1.07e-23	PROTEIN: WP_001288227.1 MULTISPECIES: cell envelope stress response protein YqcG [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134380.1	Downstream	959	1031763	1032434	1	WP_001199973.1	100	99.6	2.19e-165	MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134380.1	Downstream	960	1034478	1035956	-1	WP_113708269.1	100	99.8	0.0	FGGY-family carbohydrate kinase [Escherichia coli]
+PICI REGION 1 - NZ_CP134380.1	Downstream	961	1035983	1037260	-1	WP_001164567.1	100	99.8	3.13e-303	MULTISPECIES: MFS transporter [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134380.1	Downstream	962	1037579	1038364	1	WP_000021321.1	100	99.6	9.59e-188	MULTISPECIES: SDR family oxidoreductase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134380.1	Downstream	963	1038434	1039888	1	WP_000059312.1	100	99.8	0.0	MULTISPECIES: FAD-binding oxidoreductase [Enterobacteriaceae]

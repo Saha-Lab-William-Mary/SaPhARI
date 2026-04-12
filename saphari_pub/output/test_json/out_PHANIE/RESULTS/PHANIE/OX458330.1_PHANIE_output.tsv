@@ -1,0 +1,12 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PHANIE REGION 1 - OX458330.1	Core	1	275	505	1	CORE	38.4	94.8	2.73e-06	PROTEIN: WP_435534697.1 hypothetical protein [Glaesserella parasuis]
+PHANIE REGION 1 - OX458330.1	Core	2	498	1106	1	CORE	53.8	89.7	5.63e-60	PROTEIN: WP_427287007.1 hypothetical protein, partial [Escherichia coli]
+PHANIE REGION 1 - OX458330.1	Core	3	1110	3221	1	CORE	62.2	99.4	6.86e-314	PROTEIN: YP_009857579.1 DNA polymerase [Salmonella phage astrithr]
+PHANIE REGION 1 - OX458330.1	Core	4	3218	4306	1	CORE	69.4	98.6	2.16e-186	PROTEIN: WP_259542332.1 phage DNA encapsidation protein [Herbiconiux daphne]
+PHANIE REGION 1 - OX458330.1	Core	6	4506	5591	1	CORE	59.0	76.2	1.59e-113	PROTEIN: YP_009857582.1 upper collar connector [Salmonella phage astrithr]
+PHANIE REGION 1 - OX458330.1	Core	7	5575	6132	1	CORE	36.4	84.9	9.04e-17	PROTEIN: WP_443699221.1 hypothetical protein [Pseudomonas sp.]
+PHANIE REGION 1 - OX458330.1	Core	8	6146	7294	1	CORE	61.6	98.2	4.35e-162	PROTEIN: YP_009857584.1 major head protein [Salmonella phage astrithr]
+PHANIE REGION 1 - OX458330.1	Core	9	7353	7796	1	CORE	41.1	98.6	4.59e-30	PROTEIN: YP_009857585.1 hypothetical protein HWD18_gp09 [Salmonella phage astrithr]
+PHANIE REGION 1 - OX458330.1	Core	10	7796	10360	1	CORE	24.9	60.1	8.38e-21	PROTEIN: WP_227954247.1 hypothetical protein, partial [Staphylococcus epidermidis]
+PHANIE REGION 1 - OX458330.1	Core	11	10350	10964	1	CORE	49.3	73.2	2.76e-42	PROTEIN: WP_443699225.1 CHAP domain-containing protein [Pseudomonas sp.]
+PHANIE REGION 1 - OX458330.1	Core	12	11063	11365	-1	CORE	66.7	95.0	3.39e-33	PROTEIN: WP_425665501.1 MULTISPECIES: hypothetical protein [Gammaproteobacteria]

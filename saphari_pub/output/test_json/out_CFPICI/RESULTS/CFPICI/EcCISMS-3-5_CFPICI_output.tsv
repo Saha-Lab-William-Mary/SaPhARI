@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+CFPICI REGION 1 - EcCISMS-3-5	Upstream	10	6375	6620	1	WP_000125507.1	100	98.8	7.66e-48	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+CFPICI REGION 1 - EcCISMS-3-5	Upstream	11	6617	7042	1	WP_000126652.1	100	99.3	3.33e-95	MULTISPECIES: single-stranded DNA-binding protein [Escherichia]
+CFPICI REGION 1 - EcCISMS-3-5	Upstream	12	7065	7307	1	WP_024167808.1	98.8	98.8	3.20e-49	MULTISPECIES: hypothetical protein [Escherichia]
+CFPICI REGION 1 - EcCISMS-3-5	Upstream	13	7343	7849	-1	WP_001053662.1	100	99.4	3.65e-112	MULTISPECIES: hypothetical protein [Escherichia]
+CFPICI REGION 1 - EcCISMS-3-5	Upstream	14	8136	9305	1	WP_000733253.1	100	99.7	1.91e-272	MULTISPECIES: phage major capsid protein [Escherichia]
+CFPICI REGION 1 - EcCISMS-3-5	Core	15	9360	9920	1	CORE	100	99.5	7.80e-134	PROTEIN: WP_000798773.1 MULTISPECIES: HK97 family phage prohead protease [Enterobacteriaceae]
+CFPICI REGION 1 - EcCISMS-3-5	Core	16	9922	11136	1	CORE	100	99.8	1.94e-300	PROTEIN: WP_000270251.1 MULTISPECIES: phage portal protein [Escherichia]
+CFPICI REGION 1 - EcCISMS-3-5	Core	17	11129	11431	1	CORE	100	99.0	8.87e-67	PROTEIN: WP_001287546.1 MULTISPECIES: head-tail connector protein [Enterobacteriaceae]
+CFPICI REGION 1 - EcCISMS-3-5	Core	18	11431	11871	1	CORE	100	99.3	1.06e-107	PROTEIN: WP_001145897.1 MULTISPECIES: HNH endonuclease signature motif containing protein [Enterobacteriaceae]
+CFPICI REGION 1 - EcCISMS-3-5	Core	19	12019	12516	1	CORE	100	71.1	3.98e-77	PROTEIN: WP_001353110.1 MULTISPECIES: phage terminase small subunit P27 family [Enterobacteriaceae]
+CFPICI REGION 1 - EcCISMS-3-5	Core	20	12500	14161	1	CORE	100	99.8	0.0	PROTEIN: WP_000127869.1 MULTISPECIES: terminase large subunit [Escherichia]
+CFPICI REGION 1 - EcCISMS-3-5	Downstream	21	14158	14448	1	WP_001353111.1	100	95.9	2.38e-55	MULTISPECIES: hypothetical protein [Escherichia]

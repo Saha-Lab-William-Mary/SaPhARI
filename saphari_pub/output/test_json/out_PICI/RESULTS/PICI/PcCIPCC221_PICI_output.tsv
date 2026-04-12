@@ -1,0 +1,12 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - PcCIPCC221	Upstream	2	897	1136	-1	WP_043901846.1	100	98.8	1.34e-47	type II toxin-antitoxin system RelB/DinJ family antitoxin [Pectobacterium carotovorum]
+PICI REGION 1 - PcCIPCC221	Upstream	3	1457	1702	-1	WP_014914993.1	100	98.8	4.60e-49	MULTISPECIES: type II toxin-antitoxin system RelB family antitoxin [Pectobacterium]
+PICI REGION 1 - PcCIPCC221	Upstream	4	2059	2301	-1	WP_123923994.1	81.3	98.8	1.34e-43	hypothetical protein [Enterobacter roggenkampii]
+PICI REGION 1 - PcCIPCC221	Upstream	5	2375	2548	-1	WP_187290689.1	100	98.3	3.87e-35	hypothetical protein [Pectobacterium carotovorum]
+PICI REGION 1 - PcCIPCC221	Upstream	6	2631	3347	-1	WP_014914996.1	100	99.6	2.17e-168	hypothetical protein [Pectobacterium carotovorum]
+PICI REGION 1 - PcCIPCC221	Core	7	4406	7012	-1	CORE	100	99.9	0.0	PROTEIN: WP_014914997.1 TOPRIM and DUF927 domain-containing protein [Pectobacterium carotovorum]
+PICI REGION 1 - PcCIPCC221	Core	8	7009	7176	-1	WP_014914998.1	100	98.2	3.05e-29	MULTISPECIES: hypothetical protein [Pectobacterium]
+PICI REGION 1 - PcCIPCC221	Core	9	7169	7369	-1	WP_014914999.1	100	98.5	4.64e-40	MULTISPECIES: host cell division inhibitor Icd-like protein [Pectobacterium]
+PICI REGION 1 - PcCIPCC221	Core	10	7559	7750	1	CORE	100	98.4	4.41e-39	PROTEIN: WP_014915000.1 MULTISPECIES: YlcI/YnfO family protein [Pectobacteriaceae]
+PICI REGION 1 - PcCIPCC221	Downstream	11	7891	8106	-1	WP_014915001.1	100	98.6	4.80e-42	MULTISPECIES: helix-turn-helix transcriptional regulator [Pectobacterium]
+PICI REGION 1 - PcCIPCC221	Downstream	12	8383	9633	-1	WP_014915002.1	100	99.8	2.46e-300	integrase domain-containing protein [Pectobacterium carotovorum]

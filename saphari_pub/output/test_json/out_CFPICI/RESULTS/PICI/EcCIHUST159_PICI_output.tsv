@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - EcCIHUST159	Upstream	8	5128	6297	-1	WP_000733253.1	100	99.7	1.91e-272	MULTISPECIES: phage major capsid protein [Escherichia]
+PICI REGION 1 - EcCIHUST159	Upstream	9	6584	7090	1	WP_001053662.1	100	99.4	3.65e-112	MULTISPECIES: hypothetical protein [Escherichia]
+PICI REGION 1 - EcCIHUST159	Upstream	10	7125	7367	-1	WP_024167808.1	98.8	98.8	3.20e-49	MULTISPECIES: hypothetical protein [Escherichia]
+PICI REGION 1 - EcCIHUST159	Upstream	11	7390	7815	-1	WP_001576606.1	100	99.3	1.16e-95	single-stranded DNA-binding protein [Escherichia coli]
+PICI REGION 1 - EcCIHUST159	Upstream	12	7812	8126	-1	WP_024187906.1	100	79.0	1.04e-47	hypothetical protein [Escherichia coli]
+PICI REGION 1 - EcCIHUST159	Core	13	8414	10162	-1	CORE	100	99.8	0.0	PROTEIN: WP_001576604.1 DNA primase family protein [Escherichia coli]
+PICI REGION 1 - EcCIHUST159	Core	14	10159	10458	-1	CORE	100	99.0	3.93e-65	PROTEIN: WP_000770153.1 MULTISPECIES: DUF4222 domain-containing protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIHUST159	Core	15	10464	10691	-1	WP_001576603.1	100	98.7	6.85e-46	hypothetical protein [Escherichia coli]
+PICI REGION 1 - EcCIHUST159	Core	16	10684	10887	-1	WP_001576602.1	100	98.5	1.22e-40	host cell division inhibitor Icd-like protein [Escherichia coli]
+PICI REGION 1 - EcCIHUST159	Core	17	11081	11260	1	CORE	100	98.3	2.92e-31	PROTEIN: WP_000190457.1 MULTISPECIES: YlcI/YnfO family protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIHUST159	Downstream	18	11604	11813	-1	WP_001206970.1	100	98.6	1.24e-43	MULTISPECIES: helix-turn-helix transcriptional regulator [Enterobacteriaceae]
+PICI REGION 1 - EcCIHUST159	Downstream	19	12223	13449	-1	WP_001576601.1	100	99.8	2.76e-303	MULTISPECIES: tyrosine-type recombinase/integrase [Enterobacteriaceae]

@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - NZ_CP101705.1	Upstream	1076	1120631	1120879	1	WP_000581937.1	100	98.8	1.30e-53	MULTISPECIES: type II toxin-antitoxin system antitoxin MazE [Gammaproteobacteria]
+PICI REGION 1 - NZ_CP101705.1	Upstream	1077	1120879	1121214	1	WP_000254738.1	100	99.1	4.16e-77	MULTISPECIES: endoribonuclease MazF [Gammaproteobacteria]
+PICI REGION 1 - NZ_CP101705.1	Upstream	1078	1121285	1122076	1	WP_001071648.1	100	99.6	1.46e-183	MULTISPECIES: nucleoside triphosphate pyrophosphohydrolase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP101705.1	Upstream	1079	1122304	1123941	1	WP_000210878.1	100	99.8	0.0	MULTISPECIES: glutamine hydrolyzing CTP synthase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP101705.1	Upstream	1080	1124029	1125327	1	WP_000036723.1	100	99.8	1.49e-300	MULTISPECIES: phosphopyruvate hydratase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP101705.1	Core	1081	1125387	1126259	-1	CORE	100	91.4	1.12e-184	PROTEIN: WP_046644702.1 TPM domain-containing protein, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP101705.1	Core	1082	1126273	1126413	-1	CORE	100	97.9	1.07e-23	PROTEIN: WP_001288227.1 MULTISPECIES: cell envelope stress response protein YqcG [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP101705.1	Downstream	1083	1126552	1127223	1	WP_001199979.1	100	99.6	8.91e-165	MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP101705.1	Downstream	1084	1127619	1128083	-1	WP_260821620.1	48.4	41.3	3.76e-07	hypothetical protein, partial [Salmonella enterica]
+PICI REGION 1 - NZ_CP101705.1	Downstream	1085	1128717	1129490	-1	WP_332378753.1	98.8	99.6	2.81e-188	FGGY-family carbohydrate kinase, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP101705.1	Downstream	1086	1129559	1130194	-1	WP_251121482.1	100	80.2	1.59e-125	FGGY family carbohydrate kinase, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP101705.1	Downstream	1087	1130221	1131498	-1	WP_001164578.1	100	99.8	2.69e-304	MULTISPECIES: MFS transporter [Enterobacteriaceae]

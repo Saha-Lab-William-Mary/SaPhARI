@@ -1,0 +1,12 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - PcCISCRI1043	Upstream	1	138	1388	1	WP_011094287.1	100	99.8	1.00e-299	integrase domain-containing protein [Pectobacterium atrosepticum]
+PICI REGION 1 - PcCISCRI1043	Upstream	2	1535	2419	1	WP_011094288.1	100	99.7	2.48e-211	MULTISPECIES: hypothetical protein [Pectobacterium]
+PICI REGION 1 - PcCISCRI1043	Upstream	3	2525	2740	1	WP_010286533.1	100	98.6	9.70e-42	MULTISPECIES: helix-turn-helix transcriptional regulator [Pectobacteriaceae]
+PICI REGION 1 - PcCISCRI1043	Core	4	2879	3070	-1	CORE	100	98.4	2.19e-39	PROTEIN: WP_039291225.1 MULTISPECIES: YlcI/YnfO family protein [Pectobacterium]
+PICI REGION 1 - PcCISCRI1043	Core	5	3260	3460	1	WP_039291223.1	100	98.5	4.64e-40	MULTISPECIES: host cell division inhibitor Icd-like protein [Pectobacterium]
+PICI REGION 1 - PcCISCRI1043	Core	6	3453	3620	1	WP_162837369.1	100	98.2	1.06e-29	MULTISPECIES: hypothetical protein [Pectobacterium]
+PICI REGION 1 - PcCISCRI1043	Core	7	3617	6223	1	CORE	100	99.9	0.0	PROTEIN: WP_011094290.1 TOPRIM and DUF927 domain-containing protein [Pectobacterium atrosepticum]
+PICI REGION 1 - PcCISCRI1043	Core	8	7012	8037	1	WP_011094292.1	100	99.7	1.83e-248	DUF5677 domain-containing protein [Pectobacterium atrosepticum]
+PICI REGION 1 - PcCISCRI1043	Core	9	8265	8510	1	WP_010286544.1	100	98.8	4.60e-49	MULTISPECIES: type II toxin-antitoxin system RelB family antitoxin [Pectobacteriaceae]
+PICI REGION 1 - PcCISCRI1043	Core	10	8500	8784	1	CORE	100	98.9	2.17e-62	PROTEIN: WP_011094293.1 type II toxin-antitoxin system RelE/ParE family toxin [Pectobacterium atrosepticum]
+PICI REGION 1 - PcCISCRI1043	Downstream	11	8830	9189	1	WP_011094294.1	100	99.2	2.24e-78	hypothetical protein [Pectobacterium atrosepticum]

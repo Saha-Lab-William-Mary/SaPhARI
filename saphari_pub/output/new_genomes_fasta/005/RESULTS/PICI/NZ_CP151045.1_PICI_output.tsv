@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - NZ_CP151045.1	Upstream	3413	3628505	3629959	-1	WP_089571839.1	100	99.8	0.0	FAD-binding oxidoreductase [Escherichia coli]
+PICI REGION 1 - NZ_CP151045.1	Upstream	3414	3630029	3630814	-1	WP_000021321.1	100	99.6	9.59e-188	MULTISPECIES: SDR family oxidoreductase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP151045.1	Upstream	3415	3631133	3632410	1	WP_001472116.1	100	99.8	2.69e-304	MULTISPECIES: MFS transporter [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP151045.1	Upstream	3416	3632437	3633915	1	WP_000039712.1	100	99.8	0.0	MULTISPECIES: FGGY-family carbohydrate kinase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP151045.1	Upstream	3417	3635897	3636568	-1	WP_001199973.1	100	99.6	2.19e-165	MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP151045.1	Core	3418	3636707	3636847	1	CORE	100	97.9	1.07e-23	PROTEIN: WP_001288227.1 MULTISPECIES: cell envelope stress response protein YqcG [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP151045.1	Core	3419	3637029	3637733	1	CORE	98.7	99.6	3.54e-144	PROTEIN: WP_052929061.1 TPM domain-containing protein, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP151045.1	Downstream	3420	3637793	3639091	-1	WP_000036723.1	100	99.8	1.49e-300	MULTISPECIES: phosphopyruvate hydratase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP151045.1	Downstream	3421	3639179	3640816	-1	WP_000210878.1	100	99.8	0.0	MULTISPECIES: glutamine hydrolyzing CTP synthase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP151045.1	Downstream	3422	3641044	3641835	-1	WP_001071648.1	100	99.6	1.46e-183	MULTISPECIES: nucleoside triphosphate pyrophosphohydrolase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP151045.1	Downstream	3423	3641906	3642241	-1	WP_000254745.1	100	99.1	1.19e-76	MULTISPECIES: endoribonuclease MazF [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP151045.1	Downstream	3424	3642241	3642489	-1	WP_000581937.1	100	98.8	1.30e-53	MULTISPECIES: type II toxin-antitoxin system antitoxin MazE [Gammaproteobacteria]

@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - NZ_CP073924.1	Upstream	1008	1075346	1075594	1	WP_000581937.1	100	98.8	1.30e-53	MULTISPECIES: type II toxin-antitoxin system antitoxin MazE [Gammaproteobacteria]
+PICI REGION 1 - NZ_CP073924.1	Upstream	1009	1075594	1075929	1	WP_000254745.1	100	99.1	1.19e-76	MULTISPECIES: endoribonuclease MazF [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP073924.1	Upstream	1010	1076000	1076791	1	WP_001071648.1	100	99.6	1.46e-183	MULTISPECIES: nucleoside triphosphate pyrophosphohydrolase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP073924.1	Upstream	1011	1077019	1078656	1	WP_000210878.1	100	99.8	0.0	MULTISPECIES: glutamine hydrolyzing CTP synthase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP073924.1	Upstream	1012	1078744	1080042	1	WP_000036723.1	100	99.8	1.49e-300	MULTISPECIES: phosphopyruvate hydratase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP073924.1	Core	1013	1080102	1080806	-1	CORE	98.7	99.6	3.54e-144	PROTEIN: WP_052929061.1 TPM domain-containing protein, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP073924.1	Core	1014	1080988	1081128	-1	CORE	100	97.9	1.07e-23	PROTEIN: WP_001288227.1 MULTISPECIES: cell envelope stress response protein YqcG [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP073924.1	Downstream	1015	1081267	1081938	1	WP_001199970.1	100	99.6	1.54e-165	MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP073924.1	Downstream	1016	1083799	1085277	-1	WP_000039691.1	100	99.8	0.0	MULTISPECIES: FGGY-family carbohydrate kinase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP073924.1	Downstream	1017	1085304	1086581	-1	WP_001164567.1	100	99.8	3.13e-303	MULTISPECIES: MFS transporter [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP073924.1	Downstream	1018	1086900	1087685	1	WP_000021321.1	100	99.6	9.59e-188	MULTISPECIES: SDR family oxidoreductase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP073924.1	Downstream	1019	1087755	1089209	1	WP_000059312.1	100	99.8	0.0	MULTISPECIES: FAD-binding oxidoreductase [Enterobacteriaceae]

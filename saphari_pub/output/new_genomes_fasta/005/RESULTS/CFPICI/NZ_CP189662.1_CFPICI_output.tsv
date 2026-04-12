@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+CFPICI REGION 1 - NZ_CP189662.1	Core	1	1	1662	1	CORE	100	99.8	0.0	PROTEIN: WP_032266469.1 MULTISPECIES: terminase large subunit [Enterobacteriaceae]
+CFPICI REGION 1 - NZ_CP189662.1	Core	2	1726	3663	1	WP_000173042.1	100	99.8	0.0	phage major capsid protein [Escherichia coli]
+CFPICI REGION 1 - NZ_CP189662.1	Core	3	3708	3929	1	WP_001063096.1	100	98.6	5.07e-47	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+CFPICI REGION 1 - NZ_CP189662.1	Core	4	3875	5239	1	CORE	97.6	99.8	0.0	PROTEIN: WP_203457556.1 phage portal protein [Escherichia coli]
+CFPICI REGION 1 - NZ_CP189662.1	Core	5	5236	6459	1	CORE	99.5	99.3	1.77e-179	PROTEIN: WP_001430806.1 phage portal protein [Escherichia coli]
+CFPICI REGION 1 - NZ_CP189662.1	Core	6	6456	6782	1	CORE	100	99.1	7.02e-70	PROTEIN: WP_000125990.1 MULTISPECIES: head-tail connector protein [Enterobacteriaceae]
+CFPICI REGION 1 - NZ_CP189662.1	Core	7	6792	7142	1	CORE	100	99.1	8.56e-77	PROTEIN: WP_001007905.1 MULTISPECIES: phage head closure protein [Enterobacteriaceae]
+CFPICI REGION 1 - NZ_CP189662.1	Downstream	8	7139	7585	1	WP_000573362.1	100	99.3	6.84e-96	MULTISPECIES: HK97-gp10 family putative phage morphogenesis protein [Enterobacteriaceae]
+CFPICI REGION 1 - NZ_CP189662.1	Downstream	9	7582	7926	1	WP_000133388.1	100	99.1	5.00e-75	MULTISPECIES: tail completion protein gp17 [Gammaproteobacteria]
+CFPICI REGION 1 - NZ_CP189662.1	Downstream	10	7993	8709	1	WP_032266389.1	100	99.6	1.91e-162	major tail subunit [Escherichia coli]
+CFPICI REGION 1 - NZ_CP189662.1	Downstream	11	8724	9098	1	WP_000710949.1	100	99.2	6.07e-83	MULTISPECIES: phage tail assembly chaperone [Enterobacteriaceae]
+CFPICI REGION 1 - NZ_CP189662.1	Downstream	12	9194	9403	1	WP_001513217.1	100	98.6	6.15e-44	MULTISPECIES: phage tail assembly protein T [Enterobacteriaceae]

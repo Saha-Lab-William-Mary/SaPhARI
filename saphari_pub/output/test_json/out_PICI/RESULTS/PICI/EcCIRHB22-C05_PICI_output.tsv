@@ -1,0 +1,10 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - EcCIRHB22-C05	Upstream	4	6060	6308	1	WP_000581937.1	100	98.8	1.30e-53	MULTISPECIES: type II toxin-antitoxin system antitoxin MazE [Gammaproteobacteria]
+PICI REGION 1 - EcCIRHB22-C05	Upstream	5	6308	6643	1	WP_000254745.1	100	99.1	1.19e-76	MULTISPECIES: endoribonuclease MazF [Enterobacteriaceae]
+PICI REGION 1 - EcCIRHB22-C05	Upstream	6	6714	7505	1	WP_001071648.1	100	99.6	1.46e-183	MULTISPECIES: nucleoside triphosphate pyrophosphohydrolase [Enterobacteriaceae]
+PICI REGION 1 - EcCIRHB22-C05	Upstream	7	7733	9370	1	WP_000210878.1	100	99.8	0.0	MULTISPECIES: glutamine hydrolyzing CTP synthase [Enterobacteriaceae]
+PICI REGION 1 - EcCIRHB22-C05	Upstream	8	9458	10756	1	WP_000036723.1	100	99.8	1.49e-300	MULTISPECIES: phosphopyruvate hydratase [Enterobacteriaceae]
+PICI REGION 1 - EcCIRHB22-C05	Core	9	10816	11688	-1	CORE	99.7	99.7	3.66e-186	PROTEIN: WP_044861889.1 TPM domain-containing protein [Escherichia coli]
+PICI REGION 1 - EcCIRHB22-C05	Core	10	11702	11842	-1	CORE	100	97.9	1.07e-23	PROTEIN: WP_001288227.1 MULTISPECIES: cell envelope stress response protein YqcG [Enterobacteriaceae]
+PICI REGION 1 - EcCIRHB22-C05	Downstream	11	11981	12652	1	WP_001199973.1	100	99.6	2.19e-165	MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [Enterobacteriaceae]
+PICI REGION 1 - EcCIRHB22-C05	Downstream	12	12987	13340	-1	WP_410401536.1	58.8	43.2	1.88e-06	hypothetical protein [Escherichia coli]

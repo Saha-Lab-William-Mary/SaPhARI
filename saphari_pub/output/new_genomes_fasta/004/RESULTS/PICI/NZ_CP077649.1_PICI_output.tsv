@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - NZ_CP077649.1	Upstream	3252	3523680	3524015	1	WP_000254745.1	100	99.1	1.19e-76	MULTISPECIES: endoribonuclease MazF [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP077649.1	Upstream	3253	3524086	3524877	1	WP_001071648.1	100	99.6	1.46e-183	MULTISPECIES: nucleoside triphosphate pyrophosphohydrolase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP077649.1	Upstream	3254	3525105	3526742	1	WP_000210878.1	100	99.8	0.0	MULTISPECIES: glutamine hydrolyzing CTP synthase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP077649.1	Upstream	3255	3526830	3528128	1	WP_000036723.1	100	99.8	1.49e-300	MULTISPECIES: phosphopyruvate hydratase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP077649.1	Upstream	3256	3528183	3529511	-1	WP_224466228.1	100	99.8	0.0	IS4 family transposase, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP077649.1	Core	3257	3529628	3530500	-1	CORE	100	91.8	4.58e-186	PROTEIN: WP_140237667.1 TPM domain-containing protein, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP077649.1	Core	3258	3530514	3530654	-1	CORE	100	97.9	1.07e-23	PROTEIN: WP_001288227.1 MULTISPECIES: cell envelope stress response protein YqcG [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP077649.1	Downstream	3259	3530793	3531464	1	WP_001199973.1	100	99.6	2.19e-165	MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP077649.1	Downstream	3260	3533325	3534803	-1	WP_000039749.1	100	99.8	0.0	MULTISPECIES: FGGY-family carbohydrate kinase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP077649.1	Downstream	3261	3534830	3536107	-1	WP_001164567.1	100	99.8	3.13e-303	MULTISPECIES: MFS transporter [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP077649.1	Downstream	3262	3536426	3537211	1	WP_000021321.1	100	99.6	9.59e-188	MULTISPECIES: SDR family oxidoreductase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP077649.1	Downstream	3263	3537281	3538735	1	WP_000059312.1	100	99.8	0.0	MULTISPECIES: FAD-binding oxidoreductase [Enterobacteriaceae]

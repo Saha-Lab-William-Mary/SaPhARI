@@ -1,0 +1,12 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - EcCIPUO103	Upstream	10	7450	7674	-1	WP_001132077.1	100	98.7	1.56e-46	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIPUO103	Upstream	11	7800	8072	-1	WP_000233301.1	100	98.9	6.36e-60	PerC family transcriptional regulator [Escherichia coli]
+PICI REGION 1 - EcCIPUO103	Upstream	12	8083	8493	-1	WP_000126697.1	100	99.3	8.96e-93	single-stranded DNA-binding protein [Escherichia coli]
+PICI REGION 1 - EcCIPUO103	Upstream	13	8503	8808	-1	WP_001294165.1	100	99.0	7.24e-71	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIPUO103	Upstream	14	8805	9119	-1	WP_162769792.1	100	84.8	4.50e-50	hypothetical protein [Shigella sonnei]
+PICI REGION 1 - EcCIPUO103	Core	15	9403	11157	-1	CORE	100	99.8	0.0	PROTEIN: WP_000761829.1 DNA primase family protein [Escherichia coli]
+PICI REGION 1 - EcCIPUO103	Downstream	16	11154	11453	-1	WP_000770138.1	100	99.0	1.66e-66	DUF4222 domain-containing protein [Escherichia coli]
+PICI REGION 1 - EcCIPUO103	Downstream	17	11459	11692	-1	WP_001204971.1	100	98.7	6.99e-49	hypothetical protein [Escherichia coli]
+PICI REGION 1 - EcCIPUO103	Downstream	18	11694	12131	-1	WP_042854119.1	99.3	98.6	2.51e-94	hypothetical protein [Escherichia coli]
+PICI REGION 1 - EcCIPUO103	Downstream	19	12327	12791	-1	WP_047086949.1	77.8	98.7	8.65e-70	host cell division inhibitor Icd-like protein [Escherichia coli]
+PICI REGION 1 - EcCIPUO103	Downstream	20	12784	12981	-1	WP_000226784.1	100	98.5	1.06e-40	MULTISPECIES: host cell division inhibitor Icd-like protein [Enterobacteriaceae]

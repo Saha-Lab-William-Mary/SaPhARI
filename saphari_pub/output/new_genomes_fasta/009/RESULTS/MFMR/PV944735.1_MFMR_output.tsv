@@ -1,0 +1,10 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+MFMR REGION 1 - PV944735.1	Upstream	1	54	512	1	WP_269593711.1	37.0	88.2	2.00e-22	MULTISPECIES: hypothetical protein [unclassified Rhodococcus (in: high G+C Gram-positive bacteria)]
+MFMR REGION 1 - PV944735.1	Core	2	594	2153	1	CORE	53.4	93.5	1.97e-184	PROTEIN: WP_056607664.1 phage terminase large subunit family protein [Aeromicrobium sp. Root472D3]
+MFMR REGION 1 - PV944735.1	Core	3	2156	3496	1	WP_162248835.1	53.3	96.4	1.15e-159	phage portal protein [Aeromicrobium sp. Root472D3]
+MFMR REGION 1 - PV944735.1	Core	5	3953	4408	1	CORE	38.3	93.4	1.92e-20	PROTEIN: WP_157432526.1 phage scaffolding protein [Aeromicrobium sp. Root472D3]
+MFMR REGION 1 - PV944735.1	Core	6	4550	5425	1	WP_082556124.1	71.4	98.3	1.11e-138	phage major capsid protein [Aeromicrobium sp. Root472D3]
+MFMR REGION 1 - PV944735.1	Core	7	5432	5866	1	CORE	61.3	97.9	9.00e-51	PROTEIN: WP_310359678.1 hypothetical protein [Neobacillus drentensis]
+MFMR REGION 1 - PV944735.1	Core	11	10824	11225	1	WP_389740819.1	29.6	84.3	1.36e-05	hypothetical protein [Streptomyces violaceusniger]
+MFMR REGION 1 - PV944735.1	Core	15	12468	12749	1	CORE	40.7	91.5	2.97e-10	PROTEIN: YP_010107594.1 membrane protein [Streptomyces phage Bmoc]
+MFMR REGION 1 - PV944735.1	Downstream	17	13736	14491	1	WP_183225376.1	30.8	39.7	1.22e-07	endonuclease VII domain-containing protein [Actinoplanes campanulatus]

@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - EcCI224	Upstream	1	203	1423	1	WP_000513574.1	100	99.8	1.12e-300	MULTISPECIES: tyrosine-type recombinase/integrase [Enterobacteriaceae]
+PICI REGION 1 - EcCI224	Upstream	2	1420	2274	1	WP_060614944.1	100	99.6	9.00e-209	MULTISPECIES: DUF6387 family protein [Enterobacteriaceae]
+PICI REGION 1 - EcCI224	Upstream	3	2378	2602	1	WP_001075377.1	100	98.7	7.74e-47	MULTISPECIES: helix-turn-helix transcriptional regulator [Enterobacteriaceae]
+PICI REGION 1 - EcCI224	Core	4	2954	3259	-1	CORE	100	99.0	1.16e-58	PROTEIN: WP_000190561.1 MULTISPECIES: YlcI/YnfO family protein [Enterobacteriaceae]
+PICI REGION 1 - EcCI224	Core	5	3652	3972	1	WP_001113139.1	100	99.1	8.94e-72	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+PICI REGION 1 - EcCI224	Core	6	3979	4278	1	CORE	100	99.0	3.93e-65	PROTEIN: WP_001261503.1 MULTISPECIES: DUF4222 domain-containing protein [Enterobacteriaceae]
+PICI REGION 1 - EcCI224	Core	7	4275	6092	1	CORE	100	99.8	0.0	PROTEIN: WP_001547125.1 MULTISPECIES: DNA primase family protein [Enterobacteriaceae]
+PICI REGION 1 - EcCI224	Core	8	6418	6669	1	WP_215200175.1	100	98.8	3.67e-56	hypothetical protein, partial [Escherichia coli]
+PICI REGION 1 - EcCI224	Core	9	6874	7083	1	WP_052968078.1	100	98.6	3.69e-45	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+PICI REGION 1 - EcCI224	Core	10	7080	8993	1	CORE	100	99.8	0.0	PROTEIN: WP_053888089.1 MULTISPECIES: ClpP-like prohead protease/major capsid protein fusion protein [Escherichia]
+PICI REGION 1 - EcCI224	Downstream	11	9251	9736	1	WP_077135225.1	100	99.4	2.82e-108	MULTISPECIES: DUF1441 family protein [Enterobacteriaceae]
+PICI REGION 1 - EcCI224	Downstream	12	9733	10020	1	WP_029395903.1	100	96.9	2.29e-55	MULTISPECIES: hypothetical protein [Enterobacteriaceae]

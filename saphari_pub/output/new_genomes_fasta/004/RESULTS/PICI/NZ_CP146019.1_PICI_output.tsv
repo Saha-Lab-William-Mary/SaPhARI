@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - NZ_CP146019.1	Upstream	946	1013455	1013703	1	WP_000581939.1	100	98.8	1.85e-53	MULTISPECIES: type II toxin-antitoxin system antitoxin MazE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP146019.1	Upstream	947	1013703	1014038	1	WP_000254745.1	100	99.1	1.19e-76	MULTISPECIES: endoribonuclease MazF [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP146019.1	Upstream	948	1014109	1014900	1	WP_001071648.1	100	99.6	1.46e-183	MULTISPECIES: nucleoside triphosphate pyrophosphohydrolase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP146019.1	Upstream	949	1015128	1016765	1	WP_000210878.1	100	99.8	0.0	MULTISPECIES: glutamine hydrolyzing CTP synthase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP146019.1	Upstream	950	1016853	1018151	1	WP_000036723.1	100	99.8	1.49e-300	MULTISPECIES: phosphopyruvate hydratase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP146019.1	Core	951	1018211	1018915	-1	CORE	98.7	99.6	3.54e-144	PROTEIN: WP_052929061.1 TPM domain-containing protein, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP146019.1	Core	952	1019097	1019237	-1	CORE	100	97.9	1.07e-23	PROTEIN: WP_001288227.1 MULTISPECIES: cell envelope stress response protein YqcG [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP146019.1	Downstream	953	1019376	1020047	1	WP_001199970.1	100	99.6	1.54e-165	MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP146019.1	Downstream	954	1022335	1023813	-1	WP_000039693.1	100	99.8	0.0	MULTISPECIES: FGGY-family carbohydrate kinase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP146019.1	Downstream	955	1023840	1025117	-1	WP_001164567.1	100	99.8	3.13e-303	MULTISPECIES: MFS transporter [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP146019.1	Downstream	956	1025436	1026221	1	WP_000021321.1	100	99.6	9.59e-188	MULTISPECIES: SDR family oxidoreductase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP146019.1	Downstream	957	1026291	1027745	1	WP_000059312.1	100	99.8	0.0	MULTISPECIES: FAD-binding oxidoreductase [Enterobacteriaceae]

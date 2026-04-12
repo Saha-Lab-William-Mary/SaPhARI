@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - KvCIGJ3	Upstream	8	4899	6080	-1	WP_191711191.1	100	99.7	1.73e-289	phage portal protein, partial [Klebsiella pneumoniae]
+PICI REGION 1 - KvCIGJ3	Upstream	9	6136	6696	-1	WP_077139445.1	100	99.5	1.24e-130	MULTISPECIES: HK97 family phage prohead protease [Klebsiella]
+PICI REGION 1 - KvCIGJ3	Upstream	10	6748	7908	-1	WP_004174253.1	100	99.7	5.06e-271	MULTISPECIES: phage major capsid protein [Klebsiella]
+PICI REGION 1 - KvCIGJ3	Upstream	11	8164	8937	1	WP_070544411.1	100	99.6	2.20e-166	MULTISPECIES: hypothetical protein [Klebsiella]
+PICI REGION 1 - KvCIGJ3	Upstream	12	8990	9235	-1	WP_004174250.1	100	98.8	1.17e-51	MULTISPECIES: hypothetical protein [Klebsiella]
+PICI REGION 1 - KvCIGJ3	Core	13	9515	11314	-1	CORE	100	99.8	0.0	PROTEIN: WP_004174245.1 MULTISPECIES: DNA primase family protein [Klebsiella]
+PICI REGION 1 - KvCIGJ3	Core	14	11311	11610	-1	CORE	100	99.0	4.96e-68	PROTEIN: WP_040177077.1 MULTISPECIES: DUF4222 domain-containing protein [Enterobacteriaceae]
+PICI REGION 1 - KvCIGJ3	Downstream	15	11594	11815	-1	WP_077139446.1	100	98.6	2.94e-46	hypothetical protein [Klebsiella variicola]
+PICI REGION 1 - KvCIGJ3	Downstream	16	11808	12068	-1	WP_004174243.1	100	98.9	4.76e-60	MULTISPECIES: host cell division inhibitor Icd-like protein [Klebsiella/Raoultella group]
+PICI REGION 1 - KvCIGJ3	Downstream	17	12208	12399	1	WP_071533773.1	100	98.4	1.04e-37	MULTISPECIES: toxin-antitoxin system HicB family antitoxin [Klebsiella/Raoultella group]
+PICI REGION 1 - KvCIGJ3	Downstream	18	12508	12714	-1	WP_004174242.1	100	98.6	1.93e-42	MULTISPECIES: helix-turn-helix domain-containing protein [Enterobacteriaceae]
+PICI REGION 1 - KvCIGJ3	Downstream	19	12862	13476	-1	WP_004174241.1	100	99.5	2.11e-140	MULTISPECIES: hypothetical protein [Enterobacteriaceae]

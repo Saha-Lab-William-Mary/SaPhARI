@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - NZ_CP134353.1	Upstream	1015	1105676	1105924	1	WP_000581937.1	100	98.8	1.30e-53	MULTISPECIES: type II toxin-antitoxin system antitoxin MazE [Gammaproteobacteria]
+PICI REGION 1 - NZ_CP134353.1	Upstream	1016	1105924	1106259	1	WP_000254741.1	100	99.1	5.91e-77	MULTISPECIES: endoribonuclease MazF [Escherichia]
+PICI REGION 1 - NZ_CP134353.1	Upstream	1017	1106330	1107121	1	WP_001071648.1	100	99.6	1.46e-183	MULTISPECIES: nucleoside triphosphate pyrophosphohydrolase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134353.1	Upstream	1018	1107349	1108986	1	WP_000210878.1	100	99.8	0.0	MULTISPECIES: glutamine hydrolyzing CTP synthase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134353.1	Upstream	1019	1109074	1110372	1	WP_000036723.1	100	99.8	1.49e-300	MULTISPECIES: phosphopyruvate hydratase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134353.1	Core	1020	1110432	1111304	-1	CORE	100	91.4	1.97e-185	PROTEIN: WP_097437629.1 TPM domain-containing protein, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP134353.1	Core	1021	1111318	1111458	-1	CORE	100	97.9	1.84e-24	PROTEIN: WP_001288228.1 MULTISPECIES: cell envelope stress response protein YqcG [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134353.1	Downstream	1022	1111597	1112268	1	WP_001199973.1	100	99.6	2.19e-165	MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134353.1	Downstream	1023	1113012	1113494	-1	WP_214278840.1	54.5	31.7	1.25e-06	hypothetical protein, partial [Escherichia coli]
+PICI REGION 1 - NZ_CP134353.1	Downstream	1024	1114129	1115607	-1	WP_000039688.1	100	99.8	0.0	MULTISPECIES: FGGY-family carbohydrate kinase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134353.1	Downstream	1025	1115634	1116911	-1	WP_001164543.1	100	99.8	2.69e-304	MULTISPECIES: MFS transporter [Enterobacteriaceae]
+PICI REGION 1 - NZ_CP134353.1	Downstream	1026	1117230	1118015	1	WP_000021321.1	100	99.6	9.59e-188	MULTISPECIES: SDR family oxidoreductase [Enterobacteriaceae]

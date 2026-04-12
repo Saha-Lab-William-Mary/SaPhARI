@@ -1,0 +1,10 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - EcCICFT073	Upstream	9	6536	6793	1	WP_001260558.1	100	98.8	1.56e-51	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+PICI REGION 1 - EcCICFT073	Upstream	10	6790	7200	1	WP_000126698.1	100	99.3	1.81e-92	MULTISPECIES: single-stranded DNA-binding protein [Enterobacteriaceae]
+PICI REGION 1 - EcCICFT073	Upstream	11	7211	7459	1	WP_000233305.1	100	98.8	7.29e-51	MULTISPECIES: PerC family transcriptional regulator [Enterobacteriaceae]
+PICI REGION 1 - EcCICFT073	Upstream	12	7714	7920	1	WP_000796960.1	100	98.6	4.56e-41	hypothetical protein [Escherichia coli]
+PICI REGION 1 - EcCICFT073	Upstream	13	7920	8975	1	WP_000216279.1	100	99.7	2.74e-255	major capsid protein [Escherichia coli]
+PICI REGION 1 - EcCICFT073	Core	14	8987	9322	1	CORE	100	99.1	6.91e-76	PROTEIN: WP_000380877.1 MULTISPECIES: head decoration protein [Enterobacteriaceae]
+PICI REGION 1 - EcCICFT073	Downstream	15	9335	9748	1	WP_253030595.1	98.5	99.3	2.56e-88	phage head-tail connector protein [Escherichia coli]
+PICI REGION 1 - EcCICFT073	Downstream	16	9911	10345	1	WP_000565609.1	100	99.3	4.51e-99	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+PICI REGION 1 - EcCICFT073	Downstream	17	10625	10906	1	WP_000133413.1	100	98.9	2.56e-56	MULTISPECIES: hypothetical protein [Enterobacteriaceae]

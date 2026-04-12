@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - NZ_CM135133.1	Upstream	3436	3694805	3696259	-1	WP_000059312.1	100	99.8	0.0	MULTISPECIES: FAD-binding oxidoreductase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM135133.1	Upstream	3437	3696329	3697114	-1	WP_000021330.1	100	99.6	5.55e-187	MULTISPECIES: SDR family oxidoreductase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM135133.1	Upstream	3438	3697433	3698710	1	WP_050938970.1	100	99.8	6.60e-305	MFS transporter [Escherichia coli]
+PICI REGION 1 - NZ_CM135133.1	Upstream	3439	3698737	3700215	1	WP_000039683.1	100	99.8	0.0	MULTISPECIES: FGGY-family carbohydrate kinase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM135133.1	Upstream	3440	3701526	3702197	-1	WP_001199979.1	100	99.6	8.91e-165	MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM135133.1	Core	3441	3702336	3702476	1	CORE	100	97.9	1.07e-23	PROTEIN: WP_001288227.1 MULTISPECIES: cell envelope stress response protein YqcG [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM135133.1	Core	3442	3702490	3703362	1	CORE	100	91.4	6.06e-185	PROTEIN: WP_074507824.1 TPM domain-containing protein [Escherichia coli]
+PICI REGION 1 - NZ_CM135133.1	Downstream	3443	3703422	3704720	-1	WP_000036723.1	100	99.8	1.49e-300	MULTISPECIES: phosphopyruvate hydratase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM135133.1	Downstream	3444	3704808	3706445	-1	WP_000210878.1	100	99.8	0.0	MULTISPECIES: glutamine hydrolyzing CTP synthase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM135133.1	Downstream	3445	3706673	3707464	-1	WP_001071648.1	100	99.6	1.46e-183	MULTISPECIES: nucleoside triphosphate pyrophosphohydrolase [Enterobacteriaceae]
+PICI REGION 1 - NZ_CM135133.1	Downstream	3446	3707535	3707870	-1	WP_000254738.1	100	99.1	4.16e-77	MULTISPECIES: endoribonuclease MazF [Gammaproteobacteria]
+PICI REGION 1 - NZ_CM135133.1	Downstream	3447	3707870	3708118	-1	WP_000581937.1	100	98.8	1.30e-53	MULTISPECIES: type II toxin-antitoxin system antitoxin MazE [Gammaproteobacteria]

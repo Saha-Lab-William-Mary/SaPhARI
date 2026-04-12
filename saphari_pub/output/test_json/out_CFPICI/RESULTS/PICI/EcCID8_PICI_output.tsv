@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - EcCID8	Upstream	7	4983	5543	-1	WP_000798770.1	100	99.5	1.92e-134	MULTISPECIES: HK97 family phage prohead protease [Escherichia]
+PICI REGION 1 - EcCID8	Upstream	8	5598	6767	-1	WP_074434941.1	100	99.7	1.35e-272	phage major capsid protein [Escherichia coli]
+PICI REGION 1 - EcCID8	Upstream	9	7042	7290	-1	WP_001145407.1	100	98.8	1.26e-51	hypothetical protein [Escherichia coli]
+PICI REGION 1 - EcCID8	Upstream	10	7308	7730	-1	WP_074434942.1	100	99.3	1.47e-93	single-stranded DNA-binding protein [Escherichia coli]
+PICI REGION 1 - EcCID8	Upstream	11	7727	7972	-1	WP_000125509.1	100	98.8	5.39e-48	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
+PICI REGION 1 - EcCID8	Core	12	8260	10077	-1	CORE	100	99.8	0.0	PROTEIN: WP_074434943.1 DNA primase family protein [Escherichia coli]
+PICI REGION 1 - EcCID8	Core	13	10074	10373	-1	CORE	100	99.0	1.37e-65	PROTEIN: WP_001261489.1 MULTISPECIES: DUF4222 domain-containing protein [Enterobacteriaceae]
+PICI REGION 1 - EcCID8	Downstream	14	10380	10700	-1	WP_074434944.1	100	99.1	6.29e-72	hypothetical protein [Escherichia coli]
+PICI REGION 1 - EcCID8	Downstream	15	10693	11358	-1	WP_201482899.1	94.9	97.3	4.18e-146	host cell division inhibitor Icd-like protein [Escherichia coli]
+PICI REGION 1 - EcCID8	Downstream	16	11345	12028	-1	WP_074434945.1	100	99.6	4.94e-164	ORF6N domain-containing protein [Escherichia coli]
+PICI REGION 1 - EcCID8	Downstream	17	12049	12333	-1	WP_001165816.1	100	98.9	4.02e-67	MULTISPECIES: helix-turn-helix transcriptional regulator [Enterobacteriaceae]
+PICI REGION 1 - EcCID8	Downstream	18	12429	13232	-1	WP_016236857.1	100	99.6	5.78e-192	MULTISPECIES: DUF6387 family protein [Enterobacteriaceae]

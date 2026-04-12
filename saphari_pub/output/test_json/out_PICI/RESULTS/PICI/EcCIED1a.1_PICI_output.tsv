@@ -1,0 +1,9 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - EcCIED1a.1	Upstream	6	3616	3915	1	CORE	100	99.0	1.13e-64	PROTEIN: WP_001261494.1 MULTISPECIES: DUF4222 domain-containing protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIED1a.1	Upstream	7	3912	6053	1	WP_000710145.1	100	99.9	0.0	DUF927 domain-containing protein [Escherichia coli]
+PICI REGION 1 - EcCIED1a.1	Upstream	8	6652	7074	1	WP_000126655.1	100	99.3	5.12e-94	MULTISPECIES: single-stranded DNA-binding protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIED1a.1	Upstream	9	7490	7696	1	WP_000796957.1	100	98.6	9.21e-41	hypothetical protein [Escherichia coli]
+PICI REGION 1 - EcCIED1a.1	Upstream	10	7696	8751	1	WP_000216219.1	100	99.7	6.72e-256	major capsid protein [Escherichia coli]
+PICI REGION 1 - EcCIED1a.1	Core	11	8764	9099	1	CORE	100	99.1	9.82e-76	PROTEIN: WP_000380882.1 MULTISPECIES: head decoration protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIED1a.1	Downstream	12	9112	9525	1	WP_105495004.1	99.3	99.3	1.08e-89	phage head-tail connector protein [Escherichia coli]
+PICI REGION 1 - EcCIED1a.1	Downstream	13	10188	10469	1	WP_000133410.1	100	98.9	2.56e-56	MULTISPECIES: hypothetical protein [Enterobacteriaceae]

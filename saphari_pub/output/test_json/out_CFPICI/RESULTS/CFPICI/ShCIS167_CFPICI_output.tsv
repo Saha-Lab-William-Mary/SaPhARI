@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+CFPICI REGION 1 - ShCIS167	Core	1	13	1656	-1	CORE	100	99.8	0.0	PROTEIN: WP_053017510.1 terminase large subunit [Staphylococcus haemolyticus]
+CFPICI REGION 1 - ShCIS167	Core	2	1649	1981	-1	WP_053017512.1	100	99.1	6.96e-71	MULTISPECIES: hypothetical protein [Staphylococcus]
+CFPICI REGION 1 - ShCIS167	Core	3	2119	2409	-1	CORE	99.0	99.0	1.14e-67	PROTEIN: WP_119633652.1 MULTISPECIES: HNH endonuclease [Staphylococcus]
+CFPICI REGION 1 - ShCIS167	Core	4	2402	2683	-1	CORE	100	98.9	4.07e-62	PROTEIN: WP_037558410.1 MULTISPECIES: head-tail connector protein [Staphylococcus]
+CFPICI REGION 1 - ShCIS167	Core	5	2751	3989	-1	WP_062931963.1	100	99.8	1.98e-288	phage major capsid protein [Staphylococcus haemolyticus]
+CFPICI REGION 1 - ShCIS167	Core	6	3991	4557	-1	CORE	100	99.5	1.34e-126	PROTEIN: WP_053017517.1 MULTISPECIES: HK97 family phage prohead protease [Staphylococcus]
+CFPICI REGION 1 - ShCIS167	Core	7	4544	5743	-1	CORE	100	99.8	9.33e-285	PROTEIN: WP_235601753.1 phage portal protein [Staphylococcus haemolyticus]
+CFPICI REGION 1 - ShCIS167	Downstream	8	5904	6173	-1	WP_107616285.1	95.5	98.9	1.15e-57	pathogenicity island protein [Staphylococcus haemolyticus]
+CFPICI REGION 1 - ShCIS167	Downstream	9	6569	8902	-1	WP_062931966.1	100	99.9	0.0	phage/plasmid primase, P4 family [Staphylococcus haemolyticus]
+CFPICI REGION 1 - ShCIS167	Downstream	10	9000	9254	-1	WP_062931967.1	100	98.8	4.70e-48	DUF1474 family protein [Staphylococcus haemolyticus]
+CFPICI REGION 1 - ShCIS167	Downstream	11	9254	9670	-1	WP_368917144.1	88.3	98.6	1.31e-79	pathogenicity island protein [Staphylococcus haemolyticus]
+CFPICI REGION 1 - ShCIS167	Downstream	12	9674	9817	-1	WP_201030977.1	100	97.9	1.10e-21	hypothetical protein [Staphylococcus haemolyticus]

@@ -1,0 +1,13 @@
+Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
+PICI REGION 1 - CP127790.1	Upstream	1151	1261792	1263510	1	WP_000560476.1	100	99.8	0.0	MULTISPECIES: hypothetical protein [Staphylococcus]
+PICI REGION 1 - CP127790.1	Upstream	1152	1263614	1264003	1	WP_000394569.1	100	99.2	3.73e-84	MULTISPECIES: hypothetical protein [Staphylococcus]
+PICI REGION 1 - CP127790.1	Upstream	1153	1264079	1264384	1	WP_000792984.1	100	99.0	7.86e-66	MULTISPECIES: MazG-like family protein [Staphylococcus]
+PICI REGION 1 - CP127790.1	Upstream	1154	1264407	1264877	-1	WP_000231299.1	100	99.4	2.17e-105	hypothetical protein [Staphylococcus aureus]
+PICI REGION 1 - CP127790.1	Upstream	1155	1265298	1265489	1	WP_000584491.1	100	98.4	4.99e-36	MULTISPECIES: hypothetical protein [Staphylococcus]
+PICI REGION 1 - CP127790.1	Core	1156	1265521	1267395	1	CORE	100	99.8	0.0	PROTEIN: WP_000276481.1 MULTISPECIES: DNA primase family protein [Staphylococcus]
+PICI REGION 1 - CP127790.1	Core	1157	1267700	1268191	1	CORE	100	99.4	1.98e-109	PROTEIN: WP_000933402.1 MULTISPECIES: sigma factor-like helix-turn-helix DNA-binding protein [Staphylococcus]
+PICI REGION 1 - CP127790.1	Downstream	1158	1268624	1268914	1	WP_000870118.1	100	99.0	6.86e-69	MULTISPECIES: HNH endonuclease [Staphylococcus]
+PICI REGION 1 - CP127790.1	Downstream	1159	1269266	1269565	1	WP_417766519.1	100	99.0	1.73e-59	terminase [Staphylococcus aureus]
+PICI REGION 1 - CP127790.1	Downstream	1160	1269549	1271192	1	WP_046463075.1	100	99.8	0.0	MULTISPECIES: terminase TerL endonuclease subunit [Staphylococcus]
+PICI REGION 1 - CP127790.1	Downstream	1161	1271208	1272344	1	WP_000523761.1	99.7	99.7	1.88e-262	MULTISPECIES: phage portal protein [Staphylococcus]
+PICI REGION 1 - CP127790.1	Downstream	1162	1272344	1273030	1	WP_047213417.1	100	99.6	1.30e-155	head maturation protease, ClpP-related [Staphylococcus aureus]
