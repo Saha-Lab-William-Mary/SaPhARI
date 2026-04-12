@@ -183,7 +183,7 @@ The **Families JSON** file defines the rules that SaPhARI uses to detect specifi
 ```
 ## Database Considerations  
 
-The six satellite phage families (**PICI**, **cf-PICI**, **PICMI**, **P4-like**, **PLE**, and **Phagelet**) defined in `Families.json` require a database that actually contains these proteins.  
+The satellite phage families (**PICI**, **CFPICI**, **EPIP**, **P4**, **MFMR**, and **PHANIE**) defined in `Families.json` require a database that actually contains these proteins.  
 
 ### Recommended Databases  
 - **RefSeq proteins (Bacteria, Archaea, Viruses)**: Deep coverage of microbial and viral proteins.  
