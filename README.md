@@ -25,7 +25,7 @@ SaPhARI can be installed in multiple ways depending on your environment:
 ### Example (Docker)
 
 ```bash
-git clone https://github.com/namitn04/SaPhARI.git
+git clone https://github.com/Saha-Lab-William-Mary/SaPhARI.git
 cd SaPhARI
 docker build -t saphari:0.1.0 -f containers/Dockerfile .
 ```
@@ -33,7 +33,7 @@ docker build -t saphari:0.1.0 -f containers/Dockerfile .
 ### Example (Conda)
 
 ```bash
-git clone https://github.com/namitn04/SaPhARI.git
+git clone https://github.com/Saha-Lab-William-Mary/SaPhARI.git
 cd SaPhARI
 conda env create -f environment.linux.yml
 conda activate saphari
