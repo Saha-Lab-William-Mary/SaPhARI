@@ -1,11 +1,11 @@
 Root: /sciclone/scr10/ncnallapaneni/saphari_pub/output/new_genomes_fasta
 Min bytes: 89
-Total flagged files: 411
-Total unique flagged accessions: 321
-Accessions flagged in multiple families: 90
+Total flagged files: 432
+Total unique flagged accessions: 341
+Accessions flagged in multiple families: 91
 
 Per-family unique accession counts:
-CFPICI	222
+CFPICI	237
 EPIP	2
 MFMR	1
-PICI	186
+PICI	192
