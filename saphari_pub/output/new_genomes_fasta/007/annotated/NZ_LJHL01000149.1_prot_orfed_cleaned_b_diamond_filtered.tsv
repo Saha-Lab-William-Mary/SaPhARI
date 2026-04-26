@@ -1,0 +1,12 @@
+NZ_LJHL01000149.1_1|59|484|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.671	WP_042914054.1 Zn-ribbon domain-containing OB-fold protein [Mycobacterium intracellulare]	100	99.3	1.07e-100
+NZ_LJHL01000149.1_2|490|1698|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.672	WP_038538281.1 MULTISPECIES: thiolase family protein [Mycobacterium]	100	99.8	9.44e-291
+NZ_LJHL01000149.1_3|1707|3932|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.693	WP_042914055.1 acyl-CoA dehydrogenase [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000149.1_4|4090|4686|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.707	WP_042914056.1 TetR/AcrR family transcriptional regulator [Mycobacterium intracellulare]	100	99.5	5.60e-133
+NZ_LJHL01000149.1_5|4673|5239|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.727	WP_051445958.1 TetR family transcriptional regulator [Mycobacterium intracellulare]	100	99.5	2.46e-107
+NZ_LJHL01000149.1_6|5374|6468|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.688	WP_042914059.1 DUF1214 domain-containing protein [Mycobacterium intracellulare]	100	99.7	1.96e-266
+NZ_LJHL01000149.1_7|6468|7640|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.665	WP_042914060.1 sulfotransferase family protein [Mycobacterium intracellulare]	100	99.7	1.50e-290
+NZ_LJHL01000149.1_8|7722|8801|1|ID=1_8;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.662	WP_172417547.1 DUF190 domain-containing protein [Mycobacterium intracellulare]	100	99.7	1.66e-260
+NZ_LJHL01000149.1_9|8884|9777|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.664	WP_042914063.1 fructose bisphosphate aldolase [Mycobacterium intracellulare]	100	99.7	4.39e-202
+NZ_LJHL01000149.1_10|10126|10503|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.661	WP_042914065.1 STAS domain-containing protein [Mycobacterium intracellulare]	100	99.2	6.79e-76
+NZ_LJHL01000149.1_11|10564|11007|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.700	WP_042914067.1 ATP-binding protein [Mycobacterium intracellulare]	100	99.3	4.47e-96
+NZ_LJHL01000149.1_12|11012|12085|-1|ID=1_12;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.709	WP_008262415.1 MULTISPECIES: phosphotransferase family protein [Mycobacterium]	100	96.6	1.11e-253

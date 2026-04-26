@@ -1,0 +1,12 @@
+NZ_DF968414.1_1|3|323|-1|ID=1_1;partial=10;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.720	WP_248511391.1 hypothetical protein [Streptomyces sp. D2-8]	86.7	28.0	7.85e-10
+NZ_DF968414.1_2|320|553|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.654	WP_402367942.1 pre-toxin TG domain-containing protein [Streptomyces paradoxus]	86.4	56.4	1.37e-14
+NZ_DF968414.1_3|1332|1589|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.717	WP_059423204.1 hypothetical protein [Streptomyces azureus]	100	98.8	2.47e-57
+NZ_DF968414.1_4|1687|1914|-1|ID=1_4;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.711	WP_359371232.1 replication-relaxation family protein [Streptomyces cinnamoneus]	58.3	78.9	2.88e-11
+NZ_DF968414.1_5|2091|2735|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.678	WP_059423208.1 CBS domain-containing protein [Streptomyces azureus]	100	99.5	4.76e-151
+NZ_DF968414.1_6|3034|3426|-1|ID=1_6;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.570	WP_148640411.1 hypothetical protein [Streptomyces azureus]	100	99.2	1.57e-81
+NZ_DF968414.1_7|3423|3683|-1|ID=1_7;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.540	WP_148640412.1 hypothetical protein [Streptomyces azureus]	100	98.9	8.61e-54
+NZ_DF968414.1_8|3863|4543|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.675	WP_236711910.1 IS5 family transposase [Streptomyces azureus]	100	99.6	1.48e-169
+NZ_DF968414.1_9|5041|5568|1|ID=1_9;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.669	WP_174523390.1 hypothetical protein [Streptomyces azureus]	100	99.4	1.04e-128
+NZ_DF968414.1_10|5481|6140|-1|ID=1_10;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.683	WP_333738968.1 IS5 family transposase [Streptomyces sp. IBSBF 2806]	83.0	50.9	8.84e-56
+NZ_DF968414.1_11|6561|7166|1|ID=1_11;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.683	WP_059423214.1 LysE family translocator [Streptomyces azureus]	100	99.5	9.59e-131
+NZ_DF968414.1_12|7168|7869|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.701	WP_059423212.1 B3/B4 domain-containing protein [Streptomyces azureus]	100	99.6	3.89e-164

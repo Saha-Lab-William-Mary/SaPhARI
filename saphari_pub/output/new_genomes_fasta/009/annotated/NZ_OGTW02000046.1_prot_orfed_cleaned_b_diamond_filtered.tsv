@@ -1,0 +1,41 @@
+NZ_OGTW02000046.1_1|106|345|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.304	WP_209712162.1 helix-turn-helix domain-containing protein [Lactococcus lactis]	100	98.8	4.50e-46
+NZ_OGTW02000046.1_2|342|860|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.345	WP_127093818.1 host-nuclease inhibitor Gam family protein [Lactococcus lactis]	100	99.4	2.86e-111
+NZ_OGTW02000046.1_3|869|1627|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.372	WP_127093819.1 Rad52/Rad22 family DNA repair protein [Lactococcus lactis]	100	99.6	3.22e-186
+NZ_OGTW02000046.1_4|1620|2045|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.357	WP_127093820.1 single-stranded DNA-binding protein [Lactococcus lactis]	100	99.3	1.41e-96
+NZ_OGTW02000046.1_5|2170|2973|1|ID=1_5;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.308	WP_127093821.1 helix-turn-helix domain-containing protein [Lactococcus lactis]	100	99.6	2.56e-170
+NZ_OGTW02000046.1_6|2954|3184|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.381	WP_127093822.1 hypothetical protein [Lactococcus lactis]	100	98.7	4.42e-47
+NZ_OGTW02000046.1_7|3153|3539|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.328	WP_127093823.1 DUF1064 domain-containing protein [Lactococcus lactis]	99.2	96.1	1.14e-79
+NZ_OGTW02000046.1_8|3536|4030|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.331	NP_076654.1 Orf20 [Lactococcus phage bIL286]	95.7	99.4	1.10e-111
+NZ_OGTW02000046.1_9|4023|4262|1|ID=1_9;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.296	WP_185852384.1 DUF1031 family protein [Lactococcus lactis]	100	98.8	2.81e-49
+NZ_OGTW02000046.1_10|4371|4895|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.358	NP_112680.1 ORF17 [Lactococcus phage TP901-1]	100	99.4	1.60e-118
+NZ_OGTW02000046.1_11|4909|5115|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.261	WP_011676933.1 MULTISPECIES: DUF1125 domain-containing protein [Lactococcus]	100	98.6	1.31e-40
+NZ_OGTW02000046.1_12|5108|5686|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.359	WP_127093826.1 DUF1642 domain-containing protein [Lactococcus lactis]	100	99.5	3.29e-138
+NZ_OGTW02000046.1_13|5683|6078|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.369	WP_098408012.1 hypothetical protein [Lactococcus lactis]	100	99.2	6.64e-97
+NZ_OGTW02000046.1_14|6075|6494|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.383	WP_003129863.1 MULTISPECIES: dUTP diphosphatase [Lactococcus]	100	99.3	4.75e-94
+NZ_OGTW02000046.1_15|6498|6773|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.395	WP_127093827.1 hypothetical protein [Lactococcus lactis]	100	98.9	1.68e-60
+NZ_OGTW02000046.1_16|6770|7450|1|ID=1_16;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.364	WP_127093828.1 hypothetical protein [Lactococcus lactis]	100	99.6	9.23e-164
+NZ_OGTW02000046.1_17|7497|7736|1|ID=1_17;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.354	WP_095346056.1 hypothetical protein [Lactococcus lactis]	100	98.8	3.99e-49
+NZ_OGTW02000046.1_18|7733|7915|1|ID=1_18;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.404	WP_127093829.1 DUF1660 domain-containing protein [Lactococcus lactis]	100	98.4	7.50e-41
+NZ_OGTW02000046.1_19|7924|8088|1|ID=1_19;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.255	WP_167593467.1 MULTISPECIES: hypothetical protein [unclassified Lactococcus]	94.4	98.2	3.23e-26
+NZ_OGTW02000046.1_20|8096|8278|1|ID=1_20;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.388	WP_127093830.1 hypothetical protein [Lactococcus lactis]	100	98.4	5.77e-36
+NZ_OGTW02000046.1_21|8275|8589|1|ID=1_21;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.352	WP_127093831.1 hypothetical protein [Lactococcus lactis]	100	99.0	1.69e-57
+NZ_OGTW02000046.1_22|8721|8963|1|ID=1_22;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.280	WP_063283919.1 MULTISPECIES: DUF6275 family protein [Lactococcus]	100	98.8	9.31e-53
+NZ_OGTW02000046.1_23|9043|9465|1|ID=1_23;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.326	WP_127093807.1 RinA family protein [Lactococcus lactis]	100	99.3	2.64e-96
+NZ_OGTW02000046.1_24|9839|10129|1|ID=1_24;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.299	WP_011835814.1 MULTISPECIES: hypothetical protein [Lactobacillales]	100	99.0	4.32e-63
+NZ_OGTW02000046.1_25|10133|10648|1|ID=1_25;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.388	WP_010905939.1 HNH endonuclease [Lactococcus lactis]	100	99.4	5.19e-127
+NZ_OGTW02000046.1_26|10777|11250|1|ID=1_26;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.348	WP_010905938.1 phage terminase small subunit P27 family [Lactococcus lactis]	100	99.4	1.03e-108
+NZ_OGTW02000046.1_27|11240|13210|1|ID=1_27;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.337	WP_185852386.1 terminase large subunit [Lactococcus lactis]	100	99.8	0.0
+NZ_OGTW02000046.1_28|13182|13388|1|ID=1_28;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.280	WP_010905936.1 MULTISPECIES: DUF1056 family protein [Lactobacillales]	100	98.6	1.30e-38
+NZ_OGTW02000046.1_29|13391|14563|1|ID=1_29;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.355	WP_011835809.1 phage portal protein [Lactococcus lactis]	100	99.7	8.93e-283
+NZ_OGTW02000046.1_30|14609|15313|1|ID=1_30;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.343	WP_223848659.1 head maturation protease, ClpP-related [Lactococcus lactis]	100	99.6	2.72e-160
+NZ_OGTW02000046.1_31|15325|16557|1|ID=1_31;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.375	WP_127093833.1 phage major capsid protein [Lactococcus lactis]	100	99.8	1.81e-283
+NZ_OGTW02000046.1_32|16573|16896|1|ID=1_32;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.377	WP_127093834.1 head-tail connector protein [Lactococcus lactis]	100	99.1	4.59e-70
+NZ_OGTW02000046.1_33|16871|17221|1|ID=1_33;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.330	WP_127093835.1 phage head closure protein [Lactococcus lactis]	100	99.1	1.17e-74
+NZ_OGTW02000046.1_34|17223|17729|1|ID=1_34;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.355	WP_127093836.1 HK97 gp10 family phage protein [Lactococcus lactis]	100	99.4	7.68e-114
+NZ_OGTW02000046.1_35|17726|18121|1|ID=1_35;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.318	WP_021214449.1 MULTISPECIES: DUF806 family protein [Bacillati]	100	99.2	1.51e-84
+NZ_OGTW02000046.1_36|18152|18745|1|ID=1_36;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.369	WP_010905928.1 phage tail protein [Lactococcus lactis]	100	99.5	1.88e-135
+NZ_OGTW02000046.1_37|18890|19306|1|ID=1_37;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.309	WP_021214451.1 MULTISPECIES: phage tail assembly chaperone [Streptococcaceae]	100	99.3	2.97e-83
+NZ_OGTW02000046.1_38|19531|24660|1|ID=1_38;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.364	WP_127093837.1 phage tail tape measure protein [Lactococcus lactis]	100	99.9	0.0
+NZ_OGTW02000046.1_39|24663|26198|1|ID=1_39;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.350	WP_127093838.1 distal tail protein Dit [Lactococcus lactis]	100	99.8	0.0
+NZ_OGTW02000046.1_40|26198|27985|1|ID=1_40;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.339	WP_127093839.1 phage tail protein [Lactococcus lactis]	100	99.8	0.0
+NZ_OGTW02000046.1_41|28001|28471|1|ID=1_41;partial=01;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.384	WP_259687687.1 hypothetical protein [Lactococcus cremoris]	100	100	5.36e-91

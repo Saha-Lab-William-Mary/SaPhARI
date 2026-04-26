@@ -1,0 +1,13 @@
+NZ_DF968411.1_1|98|1393|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.718	WP_059423064.1 FUSC family protein [Streptomyces azureus]	100	96.5	2.02e-262
+NZ_DF968411.1_2|1437|1931|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.665	WP_059423065.1 FBP domain-containing protein [Streptomyces azureus]	100	99.4	7.17e-117
+NZ_DF968411.1_3|2019|2933|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.761	WP_059423067.1 DUF3626 domain-containing protein [Streptomyces azureus]	100	99.7	3.69e-218
+NZ_DF968411.1_4|2873|3517|-1|ID=1_4;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.761	WP_059423068.1 PAS domain S-box protein [Streptomyces azureus]	100	99.5	6.98e-144
+NZ_DF968411.1_5|3670|6852|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.738	WP_059423071.1 bifunctional cytochrome P450/NADPH--P450 reductase [Streptomyces azureus]	100	99.9	0.0
+NZ_DF968411.1_6|6882|7865|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.737	WP_059423073.1 phosphotransferase family protein [Streptomyces azureus]	100	99.7	7.08e-239
+NZ_DF968411.1_7|7967|8245|1|ID=1_7;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.735	WP_059423075.1 hypothetical protein [Streptomyces azureus]	100	98.9	5.63e-46
+NZ_DF968411.1_8|8363|9394|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.744	WP_059423083.1 SDR family oxidoreductase [Streptomyces azureus]	99.7	99.4	1.62e-245
+NZ_DF968411.1_9|9711|11300|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.749	WP_063889041.1 FUSC family protein [Streptomyces azureus]	100	74.0	9.72e-273
+NZ_DF968411.1_10|11342|12007|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.743	WP_059423077.1 HAD family hydrolase [Streptomyces azureus]	100	99.5	8.85e-155
+NZ_DF968411.1_11|12059|13099|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.739	WP_099054750.1 PHP domain-containing protein [Streptomyces azureus]	100	99.7	4.01e-250
+NZ_DF968411.1_12|13222|14031|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.737	WP_059423079.1 SDR family oxidoreductase [Streptomyces azureus]	100	99.6	1.07e-188
+NZ_DF968411.1_13|14119|14364|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.687	WP_059423081.1 hypothetical protein [Streptomyces azureus]	100	98.8	7.04e-53

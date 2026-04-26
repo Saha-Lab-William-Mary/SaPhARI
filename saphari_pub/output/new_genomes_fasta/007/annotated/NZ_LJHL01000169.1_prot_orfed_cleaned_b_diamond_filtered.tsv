@@ -1,0 +1,12 @@
+NZ_LJHL01000169.1_1|205|855|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614	WP_225336839.1 class I SAM-dependent methyltransferase [Mycobacterium intracellulare]	100	91.2	1.00e-142
+NZ_LJHL01000169.1_2|943|2190|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.619	WP_054585728.1 MFS transporter [Mycobacterium intracellulare]	100	99.8	5.39e-283
+NZ_LJHL01000169.1_3|2932|3156|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.702	WP_207361876.1 metal ABC transporter permease [Mycolicibacterium sp. S2-37]	91.4	93.3	1.55e-31
+NZ_LJHL01000169.1_5|4064|5581|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.663	WP_054585729.1 multicopper oxidase family protein [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LJHL01000169.1_6|5640|5858|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.594	WP_054585730.1 alpha/beta fold hydrolase [Mycobacterium intracellulare]	100	98.6	1.94e-45
+NZ_LJHL01000169.1_7|6045|7295|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.654	WP_225336840.1 threonine synthase [Mycobacterium intracellulare]	100	99.8	1.36e-297
+NZ_LJHL01000169.1_8|7321|7887|-1|ID=1_8;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.661	WP_054585731.1 DUF6398 domain-containing protein [Mycobacterium intracellulare]	100	99.5	3.17e-134
+NZ_LJHL01000169.1_9|8032|9105|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.693	WP_442361992.1 DUF6398 domain-containing protein [Mycobacterium sp.]	86.2	99.4	9.99e-219
+NZ_LJHL01000169.1_10|9467|10231|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.668	WP_054585736.1 YoaK family protein [Mycobacterium intracellulare]	100	99.6	8.13e-156
+NZ_LJHL01000169.1_11|10807|11325|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.645	WP_054585734.1 general stress protein [Mycobacterium intracellulare]	100	99.4	6.52e-117
+NZ_LJHL01000169.1_12|12229|12585|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.639	WP_324447506.1 hypothetical protein [Mycobacterium sp.]	71.1	31.9	3.24e-05
+NZ_LJHL01000169.1_13|13066|13335|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.689	WP_364977556.1 MULTISPECIES: heme-binding protein [unclassified Mycobacterium]	54.7	67.8	5.51e-05

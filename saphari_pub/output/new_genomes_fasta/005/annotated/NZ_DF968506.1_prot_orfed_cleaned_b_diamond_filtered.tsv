@@ -1,0 +1,20 @@
+NZ_DF968506.1_1|667|1776|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.702	WP_078945693.1 glycosyl hydrolase family 18 protein [Streptomyces azureus]	100	99.7	1.25e-276
+NZ_DF968506.1_2|1773|2768|1|ID=1_2;partial=00;start_type=GTG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.730	WP_059424342.1 phosphotransferase family protein [Streptomyces azureus]	100	99.7	3.37e-239
+NZ_DF968506.1_3|2743|3519|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.659	WP_059424344.1 succinate dehydrogenase/fumarate reductase iron-sulfur subunit [Streptomyces azureus]	100	99.6	8.59e-194
+NZ_DF968506.1_4|3516|5456|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.706	WP_059424345.1 fumarate reductase/succinate dehydrogenase flavoprotein subunit [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968506.1_5|5456|6292|-1|ID=1_5;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.674	WP_059424347.1 hypothetical protein [Streptomyces azureus]	100	99.6	6.37e-215
+NZ_DF968506.1_6|6348|6638|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.722	WP_059424348.1 MULTISPECIES: hypothetical protein [Streptomyces]	100	99.0	8.10e-59
+NZ_DF968506.1_7|6927|9119|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.729	WP_059424349.1 ABC transporter family substrate-binding protein [Streptomyces azureus]	100	99.9	0.0
+NZ_DF968506.1_8|9234|9902|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.719	WP_059424350.1 hypothetical protein [Streptomyces azureus]	100	99.6	3.77e-161
+NZ_DF968506.1_9|10074|11981|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.687	WP_059424351.1 translational GTPase TypA [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968506.1_10|13007|14620|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.625	WP_059424352.1 peptide ABC transporter substrate-binding protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968506.1_11|14753|15682|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.642	WP_059424354.1 ABC transporter permease [Streptomyces azureus]	100	99.7	5.14e-207
+NZ_DF968506.1_12|15675|16637|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.664	WP_059424355.1 ABC transporter permease [Streptomyces azureus]	100	99.7	1.03e-207
+NZ_DF968506.1_13|16649|17707|1|ID=1_13;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.678	WP_236711949.1 ABC transporter ATP-binding protein [Streptomyces azureus]	100	98.0	6.96e-248
+NZ_DF968506.1_14|17700|18848|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.689	WP_059424357.1 ABC transporter ATP-binding protein [Streptomyces azureus]	100	99.7	2.84e-275
+NZ_DF968506.1_15|19088|19339|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.683	WP_167745808.1 VOC family protein [Streptomyces azureus]	100	98.8	8.80e-57
+NZ_DF968506.1_16|19461|21716|-1|ID=1_16;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.717	WP_059424359.1 S9 family peptidase [Streptomyces azureus]	100	94.0	0.0
+NZ_DF968506.1_17|21762|21956|1|ID=1_17;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.595	WP_030842840.1 MULTISPECIES: hypothetical protein [Streptomyces]	100	98.5	3.51e-32
+NZ_DF968506.1_18|22019|22879|1|ID=1_18;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.720	WP_059424360.1 N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside deacetylase [Streptomyces azureus]	100	99.7	1.01e-206
+NZ_DF968506.1_19|22876|23286|1|ID=1_19;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=3-4bp;gc_cont=0.771	WP_059424362.1 DUF6113 family protein [Streptomyces azureus]	100	99.3	9.30e-86
+NZ_DF968506.1_20|23443|24510|1|ID=1_20;partial=01;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.773	WP_423586642.1 hypothetical protein [Streptomyces azureus]	100	94.9	3.07e-132

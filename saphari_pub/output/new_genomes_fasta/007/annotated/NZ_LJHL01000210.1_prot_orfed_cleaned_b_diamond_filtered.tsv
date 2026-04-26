@@ -1,0 +1,4 @@
+NZ_LJHL01000210.1_1|265|1296|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.700	WP_042912966.1 diacylglycerol/lipid kinase family protein [Mycobacterium intracellulare]	100	99.7	3.70e-249
+NZ_LJHL01000210.1_2|1483|2358|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.689	WP_042912967.1 oxidoreductase [Mycobacterium intracellulare]	100	99.7	1.27e-207
+NZ_LJHL01000210.1_3|2462|3379|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.710	WP_042912968.1 DMT family transporter [Mycobacterium intracellulare]	100	99.7	2.33e-201
+NZ_LJHL01000210.1_4|3403|15756|-1|ID=1_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.697	WP_051445915.1 non-ribosomal peptide synthetase [Mycobacterium intracellulare]	100	100.0	0.0

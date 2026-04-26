@@ -1,5 +1,5 @@
 Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
-PICI REGION 1 - AacCIRhAA1	Upstream	1	68	1312	1	WP_005577176.1	100	99.8	2.56e-301	tyrosine-type recombinase/integrase [Aggregatibacter actinomycetemcomitans]
+PICI REGION 1 - AacCIRhAA1	Core	1	68	1312	1	CORE	100	99.8	2.56e-301	PROTEIN: WP_005577176.1 tyrosine-type recombinase/integrase [Aggregatibacter actinomycetemcomitans]
 PICI REGION 1 - AacCIRhAA1	Core	2	1769	2137	1	CORE	100	99.2	6.88e-79	PROTEIN: WP_005577178.1 Mor transcription activator family protein [Aggregatibacter actinomycetemcomitans]
 PICI REGION 1 - AacCIRhAA1	Core	3	2541	2732	1	WP_005558512.1	100	98.4	4.99e-36	helix-turn-helix domain-containing protein [Aggregatibacter actinomycetemcomitans]
 PICI REGION 1 - AacCIRhAA1	Core	4	2729	3358	1	WP_032995581.1	100	86.2	4.40e-129	host cell division inhibitor Icd-like protein [Aggregatibacter actinomycetemcomitans]

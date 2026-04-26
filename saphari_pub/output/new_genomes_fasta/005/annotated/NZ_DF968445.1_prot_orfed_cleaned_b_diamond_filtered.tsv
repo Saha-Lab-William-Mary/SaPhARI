@@ -1,0 +1,16 @@
+NZ_DF968445.1_1|1|540|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.752	WP_148640422.1 maltotransferase domain-containing protein, partial [Streptomyces azureus]	100	100	9.52e-125
+NZ_DF968445.1_2|611|934|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.707	WP_010033302.1 MULTISPECIES: DUF5133 domain-containing protein [Streptomyces]	100	63.9	1.43e-39
+NZ_DF968445.1_3|1297|1809|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.702	WP_356098123.1 pep a2 [Streptomyces coeruleorubidus]	97.6	99.4	3.66e-122
+NZ_DF968445.1_4|1806|3959|1|ID=1_4;partial=00;start_type=GTG;rbs_motif=AGGAGG;rbs_spacer=3-4bp;gc_cont=0.703	WP_059423683.1 glycogen debranching protein GlgX [Streptomyces azureus]	100	99.9	0.0
+NZ_DF968445.1_5|3993|4796|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.723	WP_059423686.1 VOC family protein [Streptomyces azureus]	100	99.6	2.78e-199
+NZ_DF968445.1_6|5049|5369|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.688	WP_174523400.1 MULTISPECIES: ANTAR domain-containing protein [Streptomyces]	100	99.1	8.29e-68
+NZ_DF968445.1_7|5403|6194|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.713	WP_059423690.1 RNA polymerase sigma factor SigF [Streptomyces azureus]	100	99.6	1.12e-187
+NZ_DF968445.1_8|6472|6927|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.754	WP_059423692.1 MarR family winged helix-turn-helix transcriptional regulator [Streptomyces azureus]	100	99.3	7.34e-97
+NZ_DF968445.1_9|6924|7781|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.741	WP_059423695.1 ABC transporter ATP-binding protein [Streptomyces azureus]	100	99.7	6.49e-198
+NZ_DF968445.1_10|7741|8601|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.698	WP_059423697.1 ABC transporter permease [Streptomyces azureus]	100	99.7	5.07e-191
+NZ_DF968445.1_11|8793|9311|1|ID=1_11;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.715	WP_059423699.1 hypothetical protein [Streptomyces azureus]	100	99.4	4.43e-124
+NZ_DF968445.1_12|9336|10271|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.725	WP_059423701.1 hydroxymethylbilane synthase [Streptomyces azureus]	100	99.7	1.40e-221
+NZ_DF968445.1_13|10339|11361|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.743	WP_059423702.1 questin oxidase family protein [Streptomyces azureus]	100	99.7	2.41e-248
+NZ_DF968445.1_14|11461|12234|-1|ID=1_14;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.689	WP_059423704.1 NPP1 family protein [Streptomyces azureus]	100	99.6	1.87e-192
+NZ_DF968445.1_15|12375|13388|-1|ID=1_15;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.758	WP_059423709.1 non-homologous end-joining DNA ligase [Streptomyces azureus]	99.7	96.4	1.82e-232
+NZ_DF968445.1_16|13533|14048|1|ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.733	WP_059423705.1 MarR family winged helix-turn-helix transcriptional regulator [Streptomyces azureus]	100	99.4	2.76e-113

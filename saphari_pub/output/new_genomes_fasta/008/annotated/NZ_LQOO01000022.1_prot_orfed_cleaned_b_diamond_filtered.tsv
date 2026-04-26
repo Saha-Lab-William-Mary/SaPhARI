@@ -1,0 +1,10 @@
+NZ_LQOO01000022.1_2|80|793|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.612	WP_051445762.1 nitroreductase family protein [Mycobacterium intracellulare]	100	99.6	3.35e-176
+NZ_LQOO01000022.1_3|768|2231|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.628	WP_225336916.1 aldehyde dehydrogenase [Mycobacterium intracellulare]	99.8	98.6	0.0
+NZ_LQOO01000022.1_4|2311|3285|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.619	WP_042913095.1 phosphotriesterase family protein [Mycobacterium intracellulare]	100	99.7	2.28e-238
+NZ_LQOO01000022.1_5|3456|4592|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=3-4bp;gc_cont=0.659	WP_042913096.1 flavin-containing monooxygenase [Mycobacterium intracellulare]	100	99.7	1.03e-275
+NZ_LQOO01000022.1_6|4629|5507|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.617	WP_089148163.1 helix-turn-helix domain-containing protein [Mycobacterium intracellulare]	100	99.7	4.21e-217
+NZ_LQOO01000022.1_7|5876|6289|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.560	WP_139315469.1 hypothetical protein [Mycobacterium intracellulare]	100	99.3	6.79e-93
+NZ_LQOO01000022.1_8|6282|7697|1|ID=1_8;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.638	WP_225336914.1 FAD-dependent oxidoreductase [Mycobacterium intracellulare]	99.8	99.8	0.0
+NZ_LQOO01000022.1_9|7724|8866|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.639	WP_042913099.1 LLM class flavin-dependent oxidoreductase [Mycobacterium intracellulare]	100	99.7	1.86e-279
+NZ_LQOO01000022.1_10|8863|9588|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.656	WP_225336913.1 alpha/beta fold hydrolase [Mycobacterium intracellulare]	100	99.6	1.79e-173
+NZ_LQOO01000022.1_11|9624|10337|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.651	WP_042913100.1 nitroreductase family protein [Mycobacterium intracellulare]	100	99.6	1.17e-176

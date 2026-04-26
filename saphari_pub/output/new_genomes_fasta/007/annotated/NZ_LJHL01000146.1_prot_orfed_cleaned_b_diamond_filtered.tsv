@@ -1,0 +1,7 @@
+NZ_LJHL01000146.1_1|1|690|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667	WP_054585623.1 NIPSNAP family protein, partial [Mycobacterium intracellulare]	100	100	4.95e-172
+NZ_LJHL01000146.1_2|694|1257|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.729	WP_042913935.1 hypothetical protein [Mycobacterium intracellulare]	100	99.5	5.65e-123
+NZ_LJHL01000146.1_3|1416|2585|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.715	WP_014712531.1 MULTISPECIES: CoA transferase [Mycobacterium]	100	99.7	2.30e-289
+NZ_LJHL01000146.1_4|2768|3520|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.672	WP_014712532.1 MULTISPECIES: SDR family NAD(P)-dependent oxidoreductase [Mycobacterium]	100	99.6	7.75e-168
+NZ_LJHL01000146.1_5|3669|4376|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.688	WP_008262003.1 MULTISPECIES: DUF427 domain-containing protein [Mycobacterium]	100	99.6	4.96e-177
+NZ_LJHL01000146.1_6|4432|5607|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.662	WP_014712533.1 MULTISPECIES: acyl-CoA dehydrogenase family protein [Mycobacterium]	100	99.7	1.10e-288
+NZ_LJHL01000146.1_7|5608|6066|-1|ID=1_7;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.706	WP_353454311.1 LLM class F420-dependent oxidoreductase [Mycobacterium intracellulare]	98.0	99.3	2.20e-103

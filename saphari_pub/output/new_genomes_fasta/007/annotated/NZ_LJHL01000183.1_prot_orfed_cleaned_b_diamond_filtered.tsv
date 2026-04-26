@@ -1,0 +1,7 @@
+NZ_LJHL01000183.1_1|181|480|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.660	WP_054585229.1 PE family protein [Mycobacterium intracellulare]	100	99.0	2.03e-49
+NZ_LJHL01000183.1_2|1279|2127|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.681	WP_054585230.1 glycoside hydrolase family 16 protein [Mycobacterium intracellulare]	100	99.6	4.00e-220
+NZ_LJHL01000183.1_3|2138|2926|-1|ID=1_3;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.689	WP_054585231.1 class I SAM-dependent methyltransferase [Mycobacterium intracellulare]	99.6	99.6	3.22e-191
+NZ_LJHL01000183.1_4|3070|4524|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.647	WP_008256733.1 MULTISPECIES: aldehyde dehydrogenase family protein [Mycobacterium]	100	99.8	0.0
+NZ_LJHL01000183.1_5|4636|5046|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.640	WP_008256735.1 MULTISPECIES: VOC family protein [Mycobacterium]	100	99.3	2.28e-95
+NZ_LJHL01000183.1_6|5051|5533|-1|ID=1_6;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.658	WP_054585248.1 helix-turn-helix transcriptional regulator [Mycobacterium intracellulare]	99.3	93.2	1.51e-98
+NZ_LJHL01000183.1_7|5572|6138|-1|ID=1_7;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667	WP_054585760.1 glycerol acyltransferase, partial [Mycobacterium intracellulare]	100	99.5	7.48e-133

@@ -4,7 +4,7 @@ CFPICI REGION 1 - SsCICCUG38042	Core	2	1044	1361	-1	CORE	100	99.1	1.96e-70	PROTE
 CFPICI REGION 1 - SsCICCUG38042	Core	3	1707	3350	-1	CORE	100	99.8	0.0	PROTEIN: WP_103301586.1 terminase large subunit [Staphylococcus saprophyticus]
 CFPICI REGION 1 - SsCICCUG38042	Core	4	3343	3675	-1	WP_071562079.1	100	99.1	2.84e-70	MULTISPECIES: hypothetical protein [Staphylococcus]
 CFPICI REGION 1 - SsCICCUG38042	Core	5	3834	4058	-1	CORE	100	98.7	3.37e-52	PROTEIN: WP_103301587.1 HNH endonuclease [Staphylococcus saprophyticus]
-CFPICI REGION 1 - SsCICCUG38042	Core	6	4117	4398	-1	WP_103301588.1	100	98.9	1.17e-61	head-tail connector protein [Staphylococcus saprophyticus]
+CFPICI REGION 1 - SsCICCUG38042	Core	6	4117	4398	-1	CORE	100	98.9	1.17e-61	PROTEIN: WP_103301588.1 head-tail connector protein [Staphylococcus saprophyticus]
 CFPICI REGION 1 - SsCICCUG38042	Core	7	4467	5711	-1	WP_103301589.1	100	99.8	4.66e-288	phage major capsid protein [Staphylococcus saprophyticus]
 CFPICI REGION 1 - SsCICCUG38042	Core	8	5713	6282	-1	CORE	100	99.5	3.69e-129	PROTEIN: WP_103301590.1 HK97 family phage prohead protease [Staphylococcus saprophyticus]
 CFPICI REGION 1 - SsCICCUG38042	Core	9	6269	7474	-1	CORE	100	99.8	1.33e-285	PROTEIN: WP_103301591.1 phage portal protein [Staphylococcus saprophyticus]

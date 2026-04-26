@@ -1,0 +1,17 @@
+NZ_LJHL01000090.1_1|301|543|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.716	WP_297599505.1 PspA/IM30 family protein [Mycobacterium sp.]	81.3	98.8	1.96e-34
+NZ_LJHL01000090.1_2|545|3463|-1|ID=1_2;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.678	WP_042912131.1 excinuclease ABC subunit UvrA [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000090.1_3|3546|4295|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.680	WP_020188595.1 MULTISPECIES: MBL fold metallo-hydrolase [Mycobacterium]	100	92.8	2.33e-169
+NZ_LJHL01000090.1_4|4318|4761|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.687	WP_008257654.1 MULTISPECIES: universal stress protein [Mycobacterium]	100	99.3	5.01e-93
+NZ_LJHL01000090.1_5|5058|6641|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.692	WP_042912231.1 glycosyltransferase family 39 protein [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LJHL01000090.1_6|6653|8071|-1|ID=1_6;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.714	WP_042912132.1 MFS transporter [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LJHL01000090.1_7|8129|10300|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.675	WP_020822792.1 excinuclease ABC subunit UvrB [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000090.1_8|10858|11721|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.593	WP_014942318.1 MULTISPECIES: hypothetical protein [Mycobacterium avium complex (MAC)]	98.5	94.8	1.06e-193
+NZ_LJHL01000090.1_9|11679|13718|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=11-12bp;gc_cont=0.706	WP_042912134.1 serine/threonine-protein kinase [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000090.1_10|13951|16470|1|ID=1_10;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.691	WP_225336808.1 FHA domain-containing protein [Mycobacterium intracellulare]	99.9	99.9	0.0
+NZ_LJHL01000090.1_11|16532|17005|1|ID=1_11;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.700	WP_008257664.1 MULTISPECIES: DUF402 domain-containing protein [Mycobacterium]	99.3	92.4	1.13e-105
+NZ_LJHL01000090.1_12|17017|17730|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.639	WP_042912138.1 Crp/Fnr family transcriptional regulator [Mycobacterium intracellulare]	100	99.6	1.92e-166
+NZ_LJHL01000090.1_13|17837|18478|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.712	WP_042912139.1 chemotaxis protein CheB [Mycobacterium intracellulare]	100	99.5	4.19e-140
+NZ_LJHL01000090.1_14|18484|19482|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.683	WP_042912141.1 non-homologous end-joining DNA ligase [Mycobacterium intracellulare]	100	99.7	1.91e-250
+NZ_LJHL01000090.1_15|19482|20372|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.691	WP_042912142.1 non-homologous end-joining DNA ligase [Mycobacterium intracellulare]	100	99.7	2.59e-214
+NZ_LJHL01000090.1_16|20365|21150|1|ID=1_16;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.737	WP_042912144.1 Fpg/Nei family DNA glycosylase [Mycobacterium intracellulare]	100	99.6	1.27e-192
+NZ_LJHL01000090.1_17|21198|21611|1|ID=1_17;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.676	WP_042912146.1 hypothetical protein [Mycobacterium intracellulare]	100	99.3	5.59e-92

@@ -1,0 +1,22 @@
+NZ_LJHL01000219.1_1|3|212|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.662	WP_224112853.1 MULTISPECIES: ATP-binding protein [Mycobacterium]	98.2	80.0	2.62e-31
+NZ_LJHL01000219.1_2|209|1615|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.683	WP_007168461.1 MULTISPECIES: DDE-type integrase/transposase/recombinase [Mycobacterium]	100	99.8	0.0
+NZ_LJHL01000219.1_3|1662|1910|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647	WP_069953934.1 hypothetical protein [Mycobacterium intracellulare]	85.1	56.6	7.22e-18
+NZ_LJHL01000219.1_4|1889|2407|-1|ID=1_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.601	WP_142386456.1 amino acid permease, partial [Mycobacterium avium]	70.1	96.0	4.55e-61
+NZ_LJHL01000219.1_5|2416|2700|-1|ID=1_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.625	WP_324676525.1 APC family permease [Mycobacterium sp. 663a-19]	88.0	78.9	3.93e-32
+NZ_LJHL01000219.1_6|2790|2936|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.748	WP_276760502.1 aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme, partial [Mycolicibacter arupensis]	90.5	85.7	3.18e-17
+NZ_LJHL01000219.1_7|2940|3929|-1|ID=1_7;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.686	WP_076247759.1 succinyldiaminopimelate transaminase, partial [Mycobacterium sp. SP-6446]	87.3	76.4	2.59e-151
+NZ_LJHL01000219.1_8|3938|4264|-1|ID=1_8;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.596	WP_007168467.1 MULTISPECIES: ferredoxin [Mycobacterium]	100	99.1	9.91e-79
+NZ_LJHL01000219.1_9|4613|4891|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.613	WP_007168468.1 MULTISPECIES: transposase [Mycobacterium]	100	98.9	2.47e-58
+NZ_LJHL01000219.1_11|5119|5568|1|ID=1_11;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=3-4bp;gc_cont=0.662	WP_007168470.1 MULTISPECIES: DDE-type integrase/transposase/recombinase [Mycobacterium]	100	99.3	1.28e-105
+NZ_LJHL01000219.1_12|5645|6223|1|ID=1_12;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.720	WP_225337605.1 hypothetical protein [Mycobacterium intracellulare]	85.6	82.9	1.09e-81
+NZ_LJHL01000219.1_13|6220|6312|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.645	WP_076057823.1 APC family permease [Mycobacterium sp. IS-1264]	81.5	87.1	7.61e-06
+NZ_LJHL01000219.1_14|6430|6768|1|ID=1_14;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.673	WP_076114961.1 alpha/beta hydrolase [Mycobacterium sp. IS-2888]	75.0	54.0	1.99e-16
+NZ_LJHL01000219.1_15|6802|7911|1|ID=1_15;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.613	WP_007168472.1 MULTISPECIES: NAD(P)H-dependent amine dehydrogenase family protein [Mycobacterium]	100	99.7	1.04e-284
+NZ_LJHL01000219.1_16|8204|8872|1|ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.593	WP_007168473.1 MULTISPECIES: cation:proton antiporter [Mycobacterium]	100	99.6	7.23e-150
+NZ_LJHL01000219.1_17|8894|9442|1|ID=1_17;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.617	WP_083141166.1 IS256 family transposase [Mycobacterium alsense]	97.1	94.0	3.56e-107
+NZ_LJHL01000219.1_18|9436|10239|-1|ID=1_18;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.631	WP_225589814.1 MULTISPECIES: IS30 family transposase [Mycobacterium]	100	99.6	2.78e-199
+NZ_LJHL01000219.1_19|10337|10606|-1|ID=1_19;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.641	WP_225589815.1 hypothetical protein [Mycobacterium avium]	100	98.9	3.49e-55
+NZ_LJHL01000219.1_20|10748|11467|-1|ID=1_20;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667	WP_230484171.1 MULTISPECIES: IS256 family transposase [Mycobacterium]	99.6	99.6	1.48e-171
+NZ_LJHL01000219.1_21|11535|12095|-1|ID=1_21;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.674	WP_080691073.1 MULTISPECIES: transposase [Mycobacterium]	100	99.5	1.18e-119
+NZ_LJHL01000219.1_22|12251|12631|1|ID=1_22;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.588	WP_268128814.1 replicative DNA helicase [Mycobacterium sp. Aquia_216]	80.3	55.9	2.60e-27
+NZ_LJHL01000219.1_23|12607|12918|1|ID=1_23;partial=00;start_type=GTG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.606	WP_224111648.1 transposase [Mycobacterium avium]	82.5	76.9	2.32e-39

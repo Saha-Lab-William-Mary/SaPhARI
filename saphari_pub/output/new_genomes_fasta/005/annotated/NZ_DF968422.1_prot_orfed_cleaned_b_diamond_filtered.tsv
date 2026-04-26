@@ -1,0 +1,14 @@
+NZ_DF968422.1_1|140|520|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.745	WP_059423464.1 DUF6009 family protein [Streptomyces azureus]	100	99.2	3.77e-87
+NZ_DF968422.1_2|517|2028|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.698	WP_059423466.1 DNA primase family protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968422.1_3|2025|2990|-1|ID=1_3;partial=00;start_type=GTG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.756	WP_078945640.1 bifunctional DNA primase/polymerase [Streptomyces azureus]	99.7	99.7	4.47e-212
+NZ_DF968422.1_4|3571|3789|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.694	WP_398457401.1 transposase [Streptomyces virginiae]	77.6	79.5	9.10e-21
+NZ_DF968422.1_5|3934|4605|-1|ID=1_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.699	WP_059423488.1 telomere-protecting terminal protein Tpg [Streptomyces azureus]	100	82.6	4.71e-124
+NZ_DF968422.1_6|4727|5230|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.696	WP_086599887.1 glycosyltransferase family 39 protein [Streptomyces swartbergensis]	94.5	97.0	1.49e-94
+NZ_DF968422.1_7|5227|6069|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.709	WP_059423474.1 hypothetical protein [Streptomyces azureus]	100	99.6	3.42e-186
+NZ_DF968422.1_8|6081|7049|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.708	WP_059423476.1 hypothetical protein [Streptomyces azureus]	100	99.7	1.60e-212
+NZ_DF968422.1_9|7046|7801|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.705	WP_059423478.1 ABC transporter ATP-binding protein [Streptomyces azureus]	100	99.6	3.87e-173
+NZ_DF968422.1_10|7819|8040|-1|ID=1_10;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.653	WP_059423480.1 hypothetical protein [Streptomyces azureus]	100	98.6	1.83e-49
+NZ_DF968422.1_11|8964|9338|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.701	WP_059423484.1 hypothetical protein [Streptomyces azureus]	100	99.2	1.05e-83
+NZ_DF968422.1_12|9771|10394|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.679	WP_236711917.1 peptidase inhibitor family I36 protein [Streptomyces azureus]	99.4	87.0	8.53e-131
+NZ_DF968422.1_13|10413|10727|-1|ID=1_13;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.654	WP_363051384.1 replication initiation protein, RepL2 [Streptomyces sp. NPDC048564]	98.1	98.1	3.18e-64
+NZ_DF968422.1_14|10724|11176|-1|ID=1_14;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.645	WP_059423486.1 MarR family transcriptional regulator [Streptomyces azureus]	100	99.3	2.04e-107

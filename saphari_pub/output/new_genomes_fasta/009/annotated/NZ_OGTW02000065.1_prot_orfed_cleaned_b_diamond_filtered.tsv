@@ -1,0 +1,15 @@
+NZ_OGTW02000065.1_1|2|724|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.311	WP_148113558.1 site-specific integrase, partial [Lactococcus lactis]	100	100	5.74e-172
+NZ_OGTW02000065.1_2|846|1424|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.307	WP_127093930.1 SHOCT domain-containing protein [Lactococcus lactis]	100	99.5	1.22e-124
+NZ_OGTW02000065.1_3|1509|1946|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.326	WP_127093931.1 ImmA/IrrE family metallo-endopeptidase [Lactococcus lactis]	100	99.3	2.71e-105
+NZ_OGTW02000065.1_4|1943|2440|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.335	WP_011834771.1 MULTISPECIES: helix-turn-helix domain-containing protein [Lactococcus]	100	99.4	7.39e-106
+NZ_OGTW02000065.1_5|2677|2820|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.306	WP_195229142.1 hypothetical protein [Lactococcus lactis]	93.6	97.9	1.77e-18
+NZ_OGTW02000065.1_6|2764|3219|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.261	WP_312257860.1 MULTISPECIES: alkylphosphonate ABC transporter permease [Bacillati]	99.3	99.3	8.48e-87
+NZ_OGTW02000065.1_7|3271|3624|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356	WP_408886360.1 helix-turn-helix domain-containing protein, partial [Lactococcus lactis]	95.7	99.2	3.34e-70
+NZ_OGTW02000065.1_8|3639|4376|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.328	WP_127093932.1 ORF6C domain-containing protein [Lactococcus lactis]	100	99.6	2.96e-174
+NZ_OGTW02000065.1_9|4389|4718|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.315	WP_010905345.1 DUF771 domain-containing protein [Lactococcus lactis]	100	99.1	2.00e-74
+NZ_OGTW02000065.1_10|4719|4889|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.398	WP_010905346.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	98.2	4.80e-31
+NZ_OGTW02000065.1_11|4933|5106|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.328	WP_010905347.1 putative transcriptional regulator [Lactococcus lactis]	100	98.3	8.86e-32
+NZ_OGTW02000065.1_12|5205|6011|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.363	WP_010905348.1 recombinase RecT [Lactococcus lactis]	100	99.6	3.57e-182
+NZ_OGTW02000065.1_13|6011|6787|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333	WP_010905349.1 PD-(D/E)XK nuclease-like domain-containing protein [Lactococcus lactis]	100	99.6	1.04e-185
+NZ_OGTW02000065.1_14|7015|7791|1|ID=1_14;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.337	WP_010905350.1 phage replisome organizer protein [Lactococcus lactis]	100	99.6	1.70e-175
+NZ_OGTW02000065.1_15|7801|8184|1|ID=1_15;partial=01;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.354	WP_010905351.1 ATP-binding protein [Lactococcus lactis]	100	100	7.46e-85

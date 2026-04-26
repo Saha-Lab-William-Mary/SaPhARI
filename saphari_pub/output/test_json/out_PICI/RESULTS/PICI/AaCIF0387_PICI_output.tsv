@@ -1,5 +1,5 @@
 Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
-PICI REGION 1 - AaCIF0387	Upstream	1	209	1450	1	WP_005701717.1	100	99.8	2.88e-302	tyrosine-type recombinase/integrase [Aggregatibacter aphrophilus]
+PICI REGION 1 - AaCIF0387	Core	1	209	1450	1	CORE	100	99.8	2.88e-302	PROTEIN: WP_005701717.1 tyrosine-type recombinase/integrase [Aggregatibacter aphrophilus]
 PICI REGION 1 - AaCIF0387	Core	2	1925	2293	1	CORE	100	99.2	1.97e-78	PROTEIN: WP_005701718.1 Mor transcription activator family protein [Aggregatibacter aphrophilus]
 PICI REGION 1 - AaCIF0387	Core	3	2696	2887	1	WP_005701719.1	100	98.4	4.12e-35	MULTISPECIES: helix-turn-helix domain-containing protein [Aggregatibacter]
 PICI REGION 1 - AaCIF0387	Core	4	2884	3516	1	WP_366179557.1	100	99.5	7.93e-148	host cell division inhibitor Icd-like protein [Aggregatibacter aphrophilus]

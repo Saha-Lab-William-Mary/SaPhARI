@@ -1,8 +1,1 @@
 Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
-CFPICI REGION 1 - EpCIETW41	Upstream	10	4315	4662	1	WP_080783594.1	100	99.1	2.11e-72	hypothetical protein [Edwardsiella piscicida]
-CFPICI REGION 1 - EpCIETW41	Upstream	11	4659	6413	1	WP_080783596.1	100	99.8	0.0	DNA primase family protein [Edwardsiella piscicida]
-CFPICI REGION 1 - EpCIETW41	Upstream	13	7175	7363	-1	WP_314141029.1	65.6	96.8	1.66e-18	hypothetical protein [Buttiauxella noackiae]
-CFPICI REGION 1 - EpCIETW41	Upstream	14	7681	8151	-1	WP_080783600.1	100	99.4	1.12e-116	hypothetical protein [Edwardsiella piscicida]
-CFPICI REGION 1 - EpCIETW41	Upstream	15	8413	9591	1	WP_080783602.1	100	99.7	1.31e-276	phage major capsid protein [Edwardsiella piscicida]
-CFPICI REGION 1 - EpCIETW41	Core	16	9636	10205	1	CORE	100	99.5	9.43e-132	PROTEIN: WP_080783603.1 MULTISPECIES: HK97 family phage prohead protease [Edwardsiella]
-CFPICI REGION 1 - EpCIETW41	Core	17	10208	10270	1	CORE	100	100	7.93e-05	PROTEIN: WP_136499213.1 phage portal protein [Edwardsiella tarda]

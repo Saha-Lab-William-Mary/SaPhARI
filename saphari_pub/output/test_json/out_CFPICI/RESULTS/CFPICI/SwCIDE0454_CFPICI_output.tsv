@@ -4,7 +4,7 @@ CFPICI REGION 1 - SwCIDE0454	Core	2	1031	1345	-1	CORE	100	99.0	2.05e-67	PROTEIN:
 CFPICI REGION 1 - SwCIDE0454	Core	3	1358	3001	-1	CORE	99.1	99.8	0.0	PROTEIN: WP_232159793.1 terminase large subunit [Staphylococcus pasteuri]
 CFPICI REGION 1 - SwCIDE0454	Core	4	2994	3326	-1	WP_037558417.1	99.1	99.1	5.95e-72	hypothetical protein [Staphylococcus haemolyticus]
 CFPICI REGION 1 - SwCIDE0454	Core	5	3465	3755	-1	CORE	90.6	99.0	1.51e-63	PROTEIN: WP_233643641.1 MULTISPECIES: HNH endonuclease [Staphylococcus]
-CFPICI REGION 1 - SwCIDE0454	Core	6	3748	4029	-1	WP_289354186.1	91.4	98.9	2.56e-56	head-tail connector protein [Staphylococcus borealis]
+CFPICI REGION 1 - SwCIDE0454	Core	6	3748	4029	-1	CORE	91.4	98.9	2.56e-56	PROTEIN: WP_289354186.1 head-tail connector protein [Staphylococcus borealis]
 CFPICI REGION 1 - SwCIDE0454	Core	7	4089	5072	-1	WP_037558406.1	97.9	99.7	1.60e-224	phage major capsid protein [Staphylococcus haemolyticus]
 CFPICI REGION 1 - SwCIDE0454	Core	8	5079	5333	-1	WP_369080051.1	98.8	98.8	8.10e-45	phage major capsid protein [Staphylococcus haemolyticus]
 CFPICI REGION 1 - SwCIDE0454	Core	9	5335	5904	-1	CORE	97.4	99.5	9.74e-125	PROTEIN: WP_325989646.1 HK97 family phage prohead protease [Staphylococcus borealis]

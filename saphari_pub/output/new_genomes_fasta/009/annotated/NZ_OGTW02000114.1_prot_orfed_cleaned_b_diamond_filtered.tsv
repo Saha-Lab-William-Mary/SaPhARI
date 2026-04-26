@@ -1,0 +1,12 @@
+NZ_OGTW02000114.1_1|221|2311|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.331	WP_185852451.1 DUF3329 domain-containing protein [Lactococcus lactis]	100	99.3	0.0
+NZ_OGTW02000114.1_2|2438|3247|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.322	WP_003132563.1 MULTISPECIES: Cof-type HAD-IIB family hydrolase [Lactococcus]	100	99.6	2.53e-187
+NZ_OGTW02000114.1_3|3257|3808|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.337	WP_259754140.1 VC0807 family protein [Lactococcus lactis]	99.5	99.5	5.86e-114
+NZ_OGTW02000114.1_4|3870|5249|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.361	WP_010905575.1 signal recognition particle-docking protein FtsY [Lactococcus lactis]	100	99.8	2.62e-294
+NZ_OGTW02000114.1_5|5425|6399|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.409	WP_011835531.1 MULTISPECIES: ribose-phosphate diphosphokinase [Lactococcus]	100	99.7	8.42e-225
+NZ_OGTW02000114.1_6|6472|7143|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.314	WP_003132570.1 MULTISPECIES: helix-turn-helix domain-containing protein [Lactococcus]	100	99.6	6.15e-147
+NZ_OGTW02000114.1_7|7214|9703|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.393	WP_003132571.1 MULTISPECIES: leucine--tRNA ligase [Lactococcus]	100	99.9	0.0
+NZ_OGTW02000114.1_8|9969|10724|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.357	WP_003132572.1 MULTISPECIES: MurR/RpiR family transcriptional regulator [Lactococcus]	100	99.6	1.92e-173
+NZ_OGTW02000114.1_9|11138|12556|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.386	WP_010905577.1 MULTISPECIES: PTS sugar transporter subunit IIC [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000114.1_10|12641|14002|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.340	WP_127094146.1 glycoside hydrolase family 1 protein [Lactococcus lactis]	100	99.8	0.0
+NZ_OGTW02000114.1_11|14254|15057|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.350	WP_003132575.1 MULTISPECIES: alpha/beta fold hydrolase [Lactococcus]	100	99.6	6.28e-196
+NZ_OGTW02000114.1_12|15217|15579|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.317	WP_003132576.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.2	7.20e-80

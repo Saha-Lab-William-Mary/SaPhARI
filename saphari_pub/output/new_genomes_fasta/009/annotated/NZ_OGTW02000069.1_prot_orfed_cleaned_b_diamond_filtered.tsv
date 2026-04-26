@@ -1,0 +1,4 @@
+NZ_OGTW02000069.1_1|233|3679|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.259	WP_127093943.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.9	0.0
+NZ_OGTW02000069.1_2|3686|4153|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.244	WP_127093944.1 MULTISPECIES: response regulator [Lactococcus]	100	99.4	2.45e-106
+NZ_OGTW02000069.1_3|4150|5364|1|ID=1_3;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.289	WP_127093945.1 MULTISPECIES: phosphorylase family protein [Lactococcus]	100	99.8	1.10e-290
+NZ_OGTW02000069.1_4|6015|6182|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.333	WP_369126019.1 hypothetical protein [Lactococcus sp.]	100	98.2	2.22e-31

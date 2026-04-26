@@ -1,0 +1,7 @@
+NZ_LJHL01000097.1_1|916|1542|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.604	WP_036390192.1 MULTISPECIES: MmpS family protein [Mycobacterium]	100	66.0	1.11e-94
+NZ_LJHL01000097.1_2|1539|4430|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.611	WP_054585388.1 MMPL/RND family transporter [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000097.1_3|4520|7435|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.601	WP_042912213.1 MMPL/RND family transporter [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000097.1_4|7659|8606|1|ID=1_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.671	WP_042912214.1 daunorubicin resistance protein DrrA family ABC transporter ATP-binding protein [Mycobacterium intracellulare]	100	99.7	4.12e-216
+NZ_LJHL01000097.1_5|8603|9343|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.636	WP_042912215.1 ABC transporter permease [Mycobacterium intracellulare]	100	99.6	2.13e-163
+NZ_LJHL01000097.1_6|9343|10134|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.611	WP_072501354.1 ABC transporter permease [Mycobacterium intracellulare]	100	99.6	5.48e-179
+NZ_LJHL01000097.1_7|10169|10921|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.517	WP_241403632.1 MULTISPECIES: class I SAM-dependent methyltransferase [unclassified Mycolicibacterium]	45.9	88.0	3.65e-62

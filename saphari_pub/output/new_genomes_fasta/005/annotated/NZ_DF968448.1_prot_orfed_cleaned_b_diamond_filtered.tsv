@@ -1,0 +1,13 @@
+NZ_DF968448.1_1|78|470|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.720	WP_059423711.1 VOC family protein [Streptomyces azureus]	100	99.2	1.30e-89
+NZ_DF968448.1_2|515|1429|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.738	WP_059423713.1 GNAT family N-acetyltransferase [Streptomyces azureus]	100	99.7	8.80e-226
+NZ_DF968448.1_3|1608|2369|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.726	WP_059423715.1 VOC family protein [Streptomyces azureus]	100	99.6	1.04e-187
+NZ_DF968448.1_4|3387|3515|1|ID=1_4;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.721	WP_399169747.1 aldo/keto reductase [Streptomyces sp. NPDC050164]	92.9	97.7	1.14e-19
+NZ_DF968448.1_5|3568|4104|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.745	WP_059423717.1 MarR family winged helix-turn-helix transcriptional regulator [Streptomyces azureus]	100	99.4	1.07e-118
+NZ_DF968448.1_6|4605|6269|-1|ID=1_6;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.760	WP_059423719.1 FUSC family protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968448.1_7|6434|6994|1|ID=1_7;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.745	WP_059423721.1 DUF5134 domain-containing protein [Streptomyces azureus]	100	99.5	4.49e-124
+NZ_DF968448.1_8|7094|8029|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.762	WP_059423723.1 M56 family metallopeptidase [Streptomyces azureus]	100	99.7	6.14e-200
+NZ_DF968448.1_9|8179|8871|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.727	WP_059423731.1 phosphatase PAP2 family protein [Streptomyces azureus]	100	99.6	1.03e-162
+NZ_DF968448.1_10|8881|9570|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.719	WP_059423725.1 HAD family hydrolase [Streptomyces azureus]	100	99.6	1.16e-163
+NZ_DF968448.1_11|9718|10404|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.729	WP_059423728.1 TetR/AcrR family transcriptional regulator [Streptomyces azureus]	100	99.6	1.11e-156
+NZ_DF968448.1_12|10392|11894|-1|ID=1_12;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.675	WP_059423730.1 LVIVD repeat-containing protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968448.1_13|12085|12738|1|ID=1_13;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.688	WP_381039438.1 DUF305 domain-containing protein [Streptomyces coeruleorubidus]	94.9	99.5	1.67e-132

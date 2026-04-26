@@ -1,0 +1,12 @@
+NZ_OGTW02000026.1_1|320|487|1|ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.369	WP_252447616.1 BRCT domain-containing protein, partial [Lactococcus lactis]	98.2	98.2	8.58e-30
+NZ_OGTW02000026.1_2|518|973|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.331	WP_011869582.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.3	1.09e-98
+NZ_OGTW02000026.1_3|977|1576|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.388	WP_011869583.1 MULTISPECIES: recombinase family protein [Lactococcus]	100	99.5	1.75e-116
+NZ_OGTW02000026.1_4|2152|3303|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.360	WP_127093719.1 MULTISPECIES: RepB family plasmid replication initiator protein [Lactococcus]	100	99.7	7.74e-269
+NZ_OGTW02000026.1_5|3303|4076|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.363	WP_258175751.1 helix-turn-helix transcriptional regulator [Lactococcus petauri]	87.5	99.6	4.26e-108
+NZ_OGTW02000026.1_6|4087|5028|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.385	WP_332381894.1 3-dehydroquinate synthase family protein [Lactococcus cremoris]	94.2	81.2	4.05e-165
+NZ_OGTW02000026.1_7|5139|6062|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.381	WP_011869578.1 MULTISPECIES: DMT family transporter [Lactococcus]	100	99.7	1.75e-213
+NZ_OGTW02000026.1_8|6174|6518|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.345	WP_011869579.1 MULTISPECIES: DUF1054 family protein [Lactococcus]	100	99.1	1.96e-72
+NZ_OGTW02000026.1_9|6523|7104|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.309	WP_011869580.1 MULTISPECIES: HAD family hydrolase [Lactococcus]	100	99.5	6.88e-136
+NZ_OGTW02000026.1_10|7109|7999|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.386	WP_127093720.1 IS982-like element ISLll1 family transposase [Lactococcus lactis]	100	99.7	6.55e-208
+NZ_OGTW02000026.1_11|8211|10289|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.376	WP_127093721.1 heavy metal translocating P-type ATPase [Lactococcus lactis]	100	99.9	0.0
+NZ_OGTW02000026.1_12|10698|10820|1|ID=1_12;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.317	WP_148113547.1 ATP cone domain-containing protein, partial [Lactococcus lactis]	100	100	2.33e-18

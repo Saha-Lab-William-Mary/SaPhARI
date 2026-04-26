@@ -1,0 +1,5 @@
+NZ_DF968435.1_1|2|928|-1|ID=1_1;partial=10;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.744	WP_059423638.1 MGH1-like glycoside hydrolase domain-containing protein, partial [Streptomyces azureus]	99.7	100	2.58e-226
+NZ_DF968435.1_2|1149|2375|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.751	WP_174523397.1 ROK family transcriptional regulator [Streptomyces azureus]	100	99.8	3.97e-286
+NZ_DF968435.1_3|2781|5528|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.691	WP_059423634.1 pyruvate, phosphate dikinase [Streptomyces azureus]	100	99.9	0.0
+NZ_DF968435.1_4|5715|8024|-1|ID=1_4;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.701	WP_059423635.1 FhaA domain-containing protein [Streptomyces azureus]	100	99.9	0.0
+NZ_DF968435.1_5|8249|9406|-1|ID=1_5;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.718	WP_059423636.1 alkaline phosphatase PhoX [Streptomyces azureus]	100	99.7	1.04e-283

@@ -1,0 +1,8 @@
+NZ_LJHL01000091.1_1|300|1514|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.695	WP_042912147.1 dephospho-CoA kinase [Mycobacterium intracellulare]	100	99.8	4.69e-292
+NZ_LJHL01000091.1_2|1533|2975|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.658	WP_008257673.1 MULTISPECIES: 30S ribosomal protein S1 [Mycobacterium]	100	99.8	0.0
+NZ_LJHL01000091.1_3|3079|4614|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.685	WP_042912148.1 carotenoid oxygenase family protein [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LJHL01000091.1_4|4632|5273|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.717	WP_172417526.1 TetR family transcriptional regulator [Mycobacterium intracellulare]	100	99.5	6.21e-142
+NZ_LJHL01000091.1_5|5287|7947|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.683	WP_161807798.1 DNA polymerase I [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000091.1_6|8112|8594|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.673	WP_042912150.1 Zn-ribbon domain-containing OB-fold protein [Mycobacterium intracellulare]	100	99.4	2.52e-115
+NZ_LJHL01000091.1_7|8591|9802|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.699	WP_042912234.1 lipid-transfer protein [Mycobacterium intracellulare]	100	99.0	1.19e-286
+NZ_LJHL01000091.1_8|10010|10624|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.672	WP_042912152.1 ANTAR domain-containing response regulator [Mycobacterium intracellulare]	100	99.5	3.09e-133

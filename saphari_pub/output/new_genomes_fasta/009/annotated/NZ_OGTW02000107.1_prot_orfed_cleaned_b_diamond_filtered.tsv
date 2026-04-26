@@ -1,0 +1,25 @@
+NZ_OGTW02000107.1_1|3|155|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.392	WP_353727683.1 peptide ABC transporter substrate-binding protein [Lactococcus lactis]	100	98.0	3.49e-25
+NZ_OGTW02000107.1_2|233|1144|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.377	WP_003131640.1 MULTISPECIES: ABC transporter permease [Lactococcus]	100	99.7	1.41e-201
+NZ_OGTW02000107.1_3|1160|2191|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.388	WP_003131638.1 MULTISPECIES: ABC transporter permease [Lactococcus]	100	99.7	1.12e-234
+NZ_OGTW02000107.1_4|2194|3243|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.406	WP_003131637.1 MULTISPECIES: ABC transporter ATP-binding protein [Lactococcus]	100	99.7	9.53e-255
+NZ_OGTW02000107.1_5|3243|4181|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=3bp;gc_cont=0.382	WP_020480960.1 MULTISPECIES: ABC transporter ATP-binding protein [Lactococcus]	100	99.7	3.41e-218
+NZ_OGTW02000107.1_6|4413|5984|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=11bp;gc_cont=0.386	WP_003131635.1 MULTISPECIES: peptide chain release factor 3 [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000107.1_7|6248|7891|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=3bp;gc_cont=0.409	WP_010905296.1 MULTISPECIES: DEAD/DEAH box helicase [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000107.1_8|8262|9173|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=7bp;gc_cont=0.364	WP_003131632.1 MULTISPECIES: GTPase Era [Lactococcus]	100	99.7	3.28e-216
+NZ_OGTW02000107.1_9|9270|10862|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.376	WP_010905297.1 MULTISPECIES: asparagine synthase B [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000107.1_11|11056|11874|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.360	WP_010905298.1 MULTISPECIES: DNA-formamidopyrimidine glycosylase [Lactococcus]	100	99.6	1.31e-195
+NZ_OGTW02000107.1_12|12028|13191|1|ID=1_12;partial=00;start_type=TTG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.397	WP_003131629.1 MULTISPECIES: recombinase RecA [Lactococcus]	99.7	99.7	1.41e-257
+NZ_OGTW02000107.1_13|13204|14577|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=TATAA;rbs_spacer=4bp;gc_cont=0.347	WP_003131627.1 MULTISPECIES: amino acid permease [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000107.1_14|14646|16025|-1|ID=1_14;partial=00;start_type=TTG;rbs_motif=AAAA;rbs_spacer=3bp;gc_cont=0.371	WP_003131626.1 MULTISPECIES: amino acid permease [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000107.1_15|16172|16552|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=4bp;gc_cont=0.333	WP_010905299.1 MULTISPECIES: YlbF family regulator [Lactococcus]	100	99.2	4.77e-81
+NZ_OGTW02000107.1_16|16527|16853|1|ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.309	WP_003131624.1 MULTISPECIES: YlbG family protein [Lactococcus]	100	95.4	9.50e-65
+NZ_OGTW02000107.1_17|17083|17601|1|ID=1_17;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=3bp;gc_cont=0.341	WP_163657007.1 dithiol-disulfide isomerase [Lactococcus lactis]	99.4	99.4	1.17e-119
+NZ_OGTW02000107.1_18|17666|18259|-1|ID=1_18;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=9bp;gc_cont=0.352	WP_010905301.1 MULTISPECIES: CYTH domain-containing protein [Lactococcus]	100	99.5	8.97e-134
+NZ_OGTW02000107.1_19|18476|19120|1|ID=1_19;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=4bp;gc_cont=0.305	WP_010905302.1 MULTISPECIES: DUF817 domain-containing protein [Lactococcus]	100	99.5	3.09e-147
+NZ_OGTW02000107.1_20|19308|19967|1|ID=1_20;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.368	WP_003131620.1 MULTISPECIES: GTP pyrophosphokinase [Lactococcus]	100	99.5	2.54e-153
+NZ_OGTW02000107.1_21|19942|20766|1|ID=1_21;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=4bp;gc_cont=0.377	WP_127094126.1 NAD kinase [Lactococcus lactis]	100	98.2	2.11e-192
+NZ_OGTW02000107.1_22|20766|21647|1|ID=1_22;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.368	WP_012897207.1 MULTISPECIES: RluA family pseudouridine synthase [Lactococcus]	100	99.7	2.30e-211
+NZ_OGTW02000107.1_23|21689|22519|-1|ID=1_23;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=8bp;gc_cont=0.348	WP_003131617.1 MULTISPECIES: peptidylprolyl isomerase [Lactococcus]	100	99.6	5.29e-188
+NZ_OGTW02000107.1_24|22830|24263|1|ID=1_24;partial=00;start_type=ATG;rbs_motif=AAA;rbs_spacer=4bp;gc_cont=0.381	WP_010905304.1 MULTISPECIES: amino acid permease [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000107.1_25|24444|25190|1|ID=1_25;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=12bp;gc_cont=0.364	WP_003131615.1 MULTISPECIES: NADPH-dependent FMN reductase [Lactococcus]	100	99.6	6.85e-173
+NZ_OGTW02000107.1_26|25190|26167|1|ID=1_26;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.355	WP_003131614.1 MULTISPECIES: FAD:protein FMN transferase [Lactococcus]	100	99.7	3.76e-233

@@ -11,6 +11,6 @@ CFPICI REGION 1 - KpCIAR_0148	Core	18	12650	12949	1	CORE	100	99.0	2.77e-65	PROTE
 CFPICI REGION 1 - KpCIAR_0148	Core	19	12949	13392	1	CORE	100	99.3	4.84e-109	PROTEIN: WP_004150959.1 MULTISPECIES: HNH endonuclease signature motif containing protein [Enterobacteriaceae]
 CFPICI REGION 1 - KpCIAR_0148	Core	20	13385	13537	1	WP_004150957.1	100	98.0	1.74e-26	MULTISPECIES: hypothetical protein [Gammaproteobacteria]
 CFPICI REGION 1 - KpCIAR_0148	Core	21	13519	13710	1	WP_126066294.1	100	96.9	8.68e-39	terminase, partial [Klebsiella pneumoniae]
-CFPICI REGION 1 - KpCIAR_0148	Core	22	13668	14024	1	CORE	100	99.2	1.21e-77	PROTEIN: WP_000113647.1 MULTISPECIES: phage terminase small subunit P27 family [Gammaproteobacteria]
+CFPICI REGION 1 - KpCIAR_0148	Core	22	13668	14024	1	WP_000113647.1	100	99.2	1.21e-77	MULTISPECIES: phage terminase small subunit P27 family [Gammaproteobacteria]
 CFPICI REGION 1 - KpCIAR_0148	Core	23	14008	15669	1	CORE	100	99.8	0.0	PROTEIN: WP_004150955.1 MULTISPECIES: terminase large subunit [Enterobacteriaceae]
 CFPICI REGION 1 - KpCIAR_0148	Downstream	24	15672	15836	1	WP_117145930.1	100	100	5.72e-30	MULTISPECIES: hypothetical protein, partial [Klebsiella pneumoniae complex]

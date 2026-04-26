@@ -1,0 +1,9 @@
+NZ_LJHL01000068.1_1|3|551|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.683	WP_054585573.1 hypothetical protein, partial [Mycobacterium intracellulare]	100	100	2.58e-117
+NZ_LJHL01000068.1_2|861|2690|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.659	WP_008256304.1 MULTISPECIES: proteasome ATPase [Mycobacterium]	100	99.8	0.0
+NZ_LJHL01000068.1_3|2725|4530|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.683	WP_054585320.1 hypothetical protein [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LJHL01000068.1_4|4538|5143|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.662	WP_008256307.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.5	5.42e-146
+NZ_LJHL01000068.1_5|5267|6775|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.686	WP_008256308.1 MULTISPECIES: pup deamidase/depupylase [Mycobacterium]	100	99.8	0.0
+NZ_LJHL01000068.1_6|6893|7087|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.656	WP_083739627.1 MULTISPECIES: ubiquitin-like protein Pup [unclassified Mycobacterium]	95.3	98.5	2.59e-25
+NZ_LJHL01000068.1_7|7084|7959|1|ID=1_7;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.680	WP_008256310.1 MULTISPECIES: proteasome subunit beta [Mycobacterium]	100	99.7	4.57e-201
+NZ_LJHL01000068.1_8|7956|8723|1|ID=1_8;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.659	WP_008256312.1 MULTISPECIES: proteasome subunit alpha [Mycobacterium]	100	99.6	3.17e-174
+NZ_LJHL01000068.1_9|8953|9087|1|ID=1_9;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.674	WP_214289999.1 proteasome accessory factor PafA2 family protein, partial [Mycobacterium tuberculosis]	100	100	8.15e-26

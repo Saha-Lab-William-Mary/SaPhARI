@@ -1,0 +1,37 @@
+NZ_DF968469.1_1|1|717|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.678	WP_059423877.1 FadR/GntR family transcriptional regulator [Streptomyces azureus]	99.6	97.5	6.14e-151
+NZ_DF968469.1_2|868|1302|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.685	WP_286259263.1 MMPL family transporter [Streptomyces graminofaciens]	93.7	97.9	3.95e-80
+NZ_DF968469.1_3|1463|2830|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.689	WP_385786366.1 RICIN domain-containing protein [Streptomyces sp. NPDC127197]	98.0	99.8	4.30e-252
+NZ_DF968469.1_4|2862|4292|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.686	WP_059423833.1 endo-1,4-beta-xylanase [Streptomyces azureus]	100	94.8	0.0
+NZ_DF968469.1_5|4974|6440|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.653	WP_059423834.1 non-reducing end alpha-L-arabinofuranosidase family hydrolase [Streptomyces azureus]	100	99.8	7.81e-290
+NZ_DF968469.1_6|6826|7314|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.683	WP_399165405.1 ATP-binding cassette domain-containing protein [Streptomyces sp. NPDC050164]	96.1	94.5	8.01e-96
+NZ_DF968469.1_7|7555|8319|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.692	WP_078945662.1 ABC transporter permease [Streptomyces azureus]	100	99.6	1.95e-163
+NZ_DF968469.1_8|8126|10780|-1|ID=1_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.743	WP_399165407.1 ATP-binding protein [Streptomyces sp. NPDC050164]	95.4	93.0	0.0
+NZ_DF968469.1_9|11287|12117|1|ID=1_9;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.691	WP_236711926.1 hypothetical protein [Streptomyces azureus]	99.6	99.6	1.37e-190
+NZ_DF968469.1_10|12114|14981|1|ID=1_10;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.690	WP_236711927.1 TIR domain-containing protein [Streptomyces azureus]	100	99.9	0.0
+NZ_DF968469.1_11|15002|15682|1|ID=1_11;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.675	WP_086566882.1 hypothetical protein [Streptomyces alboverticillatus]	89.8	99.6	2.89e-142
+NZ_DF968469.1_12|15672|15980|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.696	WP_059423837.1 hypothetical protein [Streptomyces azureus]	98.4	62.1	2.17e-36
+NZ_DF968469.1_14|17262|17888|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.699	WP_059423839.1 MULTISPECIES: class I SAM-dependent methyltransferase [Streptomyces]	100	99.5	1.43e-149
+NZ_DF968469.1_15|17891|18613|-1|ID=1_15;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.696	WP_408055224.1 transposase family protein [Streptomyces azureus]	99.6	99.6	1.04e-170
+NZ_DF968469.1_17|19238|19627|1|ID=1_17;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.697	WP_059423840.1 hypothetical protein [Streptomyces azureus]	99.2	99.2	2.97e-89
+NZ_DF968469.1_18|20661|21047|1|ID=1_18;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.674	WP_078945665.1 asparagine synthase-related protein [Streptomyces azureus]	100	99.2	4.77e-88
+NZ_DF968469.1_19|21064|21411|-1|ID=1_19;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.678	WP_374202091.1 transposase, partial [Streptomyces sp. AC550_RSS872]	87.4	81.9	4.05e-53
+NZ_DF968469.1_20|22014|22373|1|ID=1_20;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.683	WP_236711930.1 DUF6281 family protein [Streptomyces azureus]	100	99.2	2.34e-79
+NZ_DF968469.1_21|23002|23460|-1|ID=1_21;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.715	WP_236711932.1 PAS domain-containing protein [Streptomyces azureus]	100	99.3	1.08e-103
+NZ_DF968469.1_22|23806|26178|1|ID=1_22;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.689	WP_167745801.1 transglycosylase domain-containing protein [Streptomyces azureus]	100	99.9	0.0
+NZ_DF968469.1_23|26246|26533|1|ID=1_23;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.757	WP_386632926.1 ArnT family glycosyltransferase [Streptomyces qaidamensis]	97.1	72.9	5.18e-33
+NZ_DF968469.1_24|26596|26853|1|ID=1_24;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.698	WP_338776019.1 ArnT family glycosyltransferase [Streptomyces sp. DG1A-41]	94.1	98.8	1.80e-48
+NZ_DF968469.1_25|26826|27866|-1|ID=1_25;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.695	WP_236711933.1 acyltransferase family protein [Streptomyces azureus]	100	99.7	1.63e-249
+NZ_DF968469.1_26|28268|29773|1|ID=1_26;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.709	WP_059423855.1 S53 family peptidase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968469.1_27|29897|31117|1|ID=1_27;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.719	WP_059423857.1 metallophosphoesterase [Streptomyces azureus]	100	99.8	7.47e-290
+NZ_DF968469.1_28|31760|33145|1|ID=1_28;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.708	WP_059423859.1 MFS transporter [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968469.1_29|33206|35164|-1|ID=1_29;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.749	WP_059423860.1 helix-turn-helix domain-containing protein [Streptomyces azureus]	100	98.9	0.0
+NZ_DF968469.1_30|35220|36020|-1|ID=1_30;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.715	WP_059423862.1 3-hydroxybutyrate dehydrogenase [Streptomyces azureus]	100	99.6	1.07e-182
+NZ_DF968469.1_31|36075|36554|-1|ID=1_31;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.679	WP_059423864.1 NUDIX hydrolase [Streptomyces azureus]	100	99.4	7.83e-114
+NZ_DF968469.1_32|36623|38239|-1|ID=1_32;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.720	WP_059423865.1 apolipoprotein N-acyltransferase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968469.1_33|38475|39584|1|ID=1_33;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.771	WP_059423867.1 O-antigen ligase family protein [Streptomyces azureus]	99.7	92.2	3.91e-223
+NZ_DF968469.1_34|39597|40151|-1|ID=1_34;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.719	WP_059423869.1 hypothetical protein [Streptomyces azureus]	100	99.5	7.52e-131
+NZ_DF968469.1_35|40268|41038|-1|ID=1_35;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.772	WP_059423871.1 glutamate racemase [Streptomyces azureus]	100	99.6	9.69e-173
+NZ_DF968469.1_36|41123|42286|1|ID=1_36;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.734	WP_059423873.1 glycosyltransferase [Streptomyces azureus]	99.7	99.7	2.83e-280
+NZ_DF968469.1_37|42302|43618|-1|ID=1_37;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.706	WP_059423875.1 TerD family protein [Streptomyces azureus]	100	96.6	4.28e-295
+NZ_DF968469.1_38|43875|44306|1|ID=1_38;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.748	WP_059423876.1 MULTISPECIES: DUF6643 family protein [Streptomyces]	100	99.3	1.55e-76
+NZ_DF968469.1_39|44352|44705|1|ID=1_39;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.737	WP_148640428.1 MOSC domain-containing protein, partial [Streptomyces azureus]	100	100	1.78e-81

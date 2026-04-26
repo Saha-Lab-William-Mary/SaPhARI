@@ -1,0 +1,12 @@
+NZ_LJHL01000141.1_1|3|881|-1|ID=1_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.677	WP_136245934.1 PPE family protein, partial [Mycobacterium intracellulare]	96.7	93.5	1.07e-165
+NZ_LJHL01000141.1_2|932|1033|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.706	WP_201406248.1 PPE domain-containing protein, partial [Mycobacterium intracellulare]	100	85.3	1.56e-11
+NZ_LJHL01000141.1_3|1131|2039|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.691	WP_008261717.1 MULTISPECIES: oxygenase MpaB family protein [Mycobacterium]	100	99.7	9.45e-220
+NZ_LJHL01000141.1_4|2121|2783|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.713	WP_015632553.1 MULTISPECIES: TetR/AcrR family transcriptional regulator [Mycobacterium]	100	99.5	3.44e-147
+NZ_LJHL01000141.1_5|2788|4143|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.735	WP_054585298.1 hypothetical protein [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LJHL01000141.1_6|4146|5621|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.664	WP_042913760.1 condensation domain-containing protein [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LJHL01000141.1_7|6026|6574|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.661	WP_003874010.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.5	3.31e-124
+NZ_LJHL01000141.1_8|6611|7192|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.655	WP_042913761.1 VOC family protein [Mycobacterium intracellulare]	100	99.5	9.43e-143
+NZ_LJHL01000141.1_9|7289|7939|1|ID=1_9;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.679	WP_042913762.1 TetR/AcrR family transcriptional regulator [Mycobacterium intracellulare]	100	99.5	2.17e-148
+NZ_LJHL01000141.1_10|7941|9071|1|ID=1_10;partial=00;start_type=TTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.702	WP_042913763.1 alpha/beta hydrolase [Mycobacterium intracellulare]	100	99.7	1.16e-280
+NZ_LJHL01000141.1_11|9155|11356|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.691	WP_042913765.1 acyl-CoA dehydrogenase [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000141.1_12|11530|11775|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.744	WP_112632723.1 hypothetical protein [Mycobacterium sp. FLAC0960]	58.1	75.6	2.75e-09

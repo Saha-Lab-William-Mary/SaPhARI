@@ -4,7 +4,7 @@ CFPICI REGION 1 - SaCIC0673	Core	2	856	1173	-1	CORE	96.2	99.1	1.09e-67	PROTEIN: 
 CFPICI REGION 1 - SaCIC0673	Core	3	1493	3136	-1	CORE	99.8	99.8	0.0	PROTEIN: WP_198051934.1 terminase large subunit [Mammaliicoccus sciuri]
 CFPICI REGION 1 - SaCIC0673	Core	4	3129	3461	-1	WP_037589582.1	100	99.1	8.13e-70	hypothetical protein [Mammaliicoccus sciuri]
 CFPICI REGION 1 - SaCIC0673	Core	5	3626	3916	-1	CORE	100	99.0	3.53e-71	PROTEIN: WP_037589583.1 MULTISPECIES: HNH endonuclease [Staphylococcaceae]
-CFPICI REGION 1 - SaCIC0673	Core	6	3909	4193	-1	WP_037589585.1	100	98.9	1.30e-63	head-tail connector protein [Mammaliicoccus sciuri]
+CFPICI REGION 1 - SaCIC0673	Core	6	3909	4193	-1	CORE	100	98.9	1.30e-63	PROTEIN: WP_037589585.1 head-tail connector protein [Mammaliicoccus sciuri]
 CFPICI REGION 1 - SaCIC0673	Core	7	4256	5494	-1	WP_198051931.1	99.8	99.8	6.06e-283	phage major capsid protein [Mammaliicoccus sciuri]
 CFPICI REGION 1 - SaCIC0673	Core	8	5496	6065	-1	CORE	99.5	99.5	3.54e-127	PROTEIN: WP_103360826.1 MULTISPECIES: HK97 family phage prohead protease [Staphylococcaceae]
 CFPICI REGION 1 - SaCIC0673	Core	9	6052	7257	-1	CORE	99.5	99.8	4.64e-286	PROTEIN: WP_107596518.1 phage portal protein [Mammaliicoccus sciuri]

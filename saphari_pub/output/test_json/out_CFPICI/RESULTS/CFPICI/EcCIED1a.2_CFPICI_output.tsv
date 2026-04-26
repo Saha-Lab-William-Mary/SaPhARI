@@ -1,7 +1,7 @@
 Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
 CFPICI REGION 1 - EcCIED1a.2	Upstream	1	775	1056	-1	WP_000133423.1	100	98.9	7.34e-56	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
 CFPICI REGION 1 - EcCIED1a.2	Core	2	1070	2731	-1	CORE	100	99.8	0.0	PROTEIN: WP_000127880.1 terminase large subunit [Escherichia coli]
-CFPICI REGION 1 - EcCIED1a.2	Core	3	2715	3071	-1	CORE	100	99.2	5.97e-78	PROTEIN: WP_000113645.1 MULTISPECIES: phage terminase small subunit P27 family [Enterobacteriaceae]
+CFPICI REGION 1 - EcCIED1a.2	Core	3	2715	3071	-1	WP_000113645.1	100	99.2	5.97e-78	MULTISPECIES: phage terminase small subunit P27 family [Enterobacteriaceae]
 CFPICI REGION 1 - EcCIED1a.2	Core	4	3363	3800	-1	CORE	100	99.3	6.90e-108	PROTEIN: WP_001145902.1 HNH endonuclease signature motif containing protein [Escherichia coli]
 CFPICI REGION 1 - EcCIED1a.2	Core	5	3800	4096	-1	CORE	100	99.0	6.31e-66	PROTEIN: WP_000134109.1 MULTISPECIES: head-tail connector protein [Enterobacteriaceae]
 CFPICI REGION 1 - EcCIED1a.2	Core	6	4093	4431	-1	CORE	100	99.1	2.05e-73	PROTEIN: WP_001020662.1 MULTISPECIES: phage head closure protein [Enterobacteriaceae]

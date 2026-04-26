@@ -1,0 +1,8 @@
+NZ_LJHL01000174.1_1|141|1445|-1|ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.582	WP_042912260.1 UDP-glucose dehydrogenase family protein [Mycobacterium intracellulare]	99.8	99.8	7.82e-314
+NZ_LJHL01000174.1_3|1733|2485|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.595	WP_248921292.1 class I SAM-dependent methyltransferase [Mycobacterium intracellulare]	97.7	86.1	1.01e-155
+NZ_LJHL01000174.1_4|2858|3685|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.575	WP_042912258.1 NAD-dependent epimerase/dehydratase family protein [Mycobacterium intracellulare]	100	99.6	1.04e-198
+NZ_LJHL01000174.1_5|3685|4743|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.563	WP_054585391.1 class I SAM-dependent methyltransferase [Mycobacterium intracellulare]	100	99.7	8.23e-262
+NZ_LJHL01000174.1_6|4736|5506|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.554	WP_042912257.1 cephalosporin hydroxylase family protein [Mycobacterium intracellulare]	100	99.6	8.17e-182
+NZ_LJHL01000174.1_7|5545|6768|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.569	WP_042912254.1 class I SAM-dependent methyltransferase [Mycobacterium intracellulare]	100	99.8	1.36e-297
+NZ_LJHL01000174.1_8|6765|7316|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607	WP_042912253.1 dTDP-4-dehydrorhamnose 3,5-epimerase family protein [Mycobacterium intracellulare]	100	99.5	1.03e-132
+NZ_LJHL01000174.1_9|7313|7636|-1|ID=1_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.546	WP_072501355.1 CDP-glucose 4,6-dehydratase [Mycobacterium intracellulare]	98.8	76.9	5.91e-51

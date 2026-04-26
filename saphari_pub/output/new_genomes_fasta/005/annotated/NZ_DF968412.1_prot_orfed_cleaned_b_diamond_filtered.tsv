@@ -1,0 +1,20 @@
+NZ_DF968412.1_1|3|419|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.700	WP_148640410.1 alpha/beta hydrolase, partial [Streptomyces azureus]	100	100	2.09e-90
+NZ_DF968412.1_2|622|1464|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682	WP_059423088.1 CDP-diacylglycerol--serine O-phosphatidyltransferase [Streptomyces azureus]	99.6	99.6	2.82e-190
+NZ_DF968412.1_3|1457|2113|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.694	WP_059423090.1 phosphatidylserine decarboxylase [Streptomyces azureus]	100	99.5	9.20e-151
+NZ_DF968412.1_4|2284|3489|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.645	WP_059423092.1 acyl-CoA dehydrogenase family protein [Streptomyces azureus]	100	99.8	1.24e-290
+NZ_DF968412.1_5|3492|4004|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.634	WP_059423094.1 MaoC family dehydratase [Streptomyces azureus]	100	99.4	2.68e-124
+NZ_DF968412.1_6|4008|4970|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.673	WP_010038783.1 MULTISPECIES: HpcH/HpaI aldolase/citrate lyase family protein [Streptomyces]	100	99.7	2.85e-230
+NZ_DF968412.1_7|4967|6994|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.690	WP_059423096.1 protein meaA [Streptomyces azureus]	100	99.9	0.0
+NZ_DF968412.1_8|7014|8357|-1|ID=1_8;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.686	WP_059423099.1 crotonyl-CoA carboxylase/reductase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968412.1_9|8736|9563|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.715	WP_432969093.1 TetR family transcriptional regulator [Streptomyces sp. CA-179760]	97.5	99.6	5.86e-180
+NZ_DF968412.1_10|9661|11466|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.721	WP_059423101.1 3-hydroxyacyl-CoA dehydrogenase family protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968412.1_11|11869|12444|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.750	WP_059423103.1 adenylosuccinate lyase [Streptomyces azureus]	100	99.5	3.96e-125
+NZ_DF968412.1_12|12447|12950|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.724	WP_099054751.1 GNAT family N-acetyltransferase [Streptomyces azureus]	100	99.4	1.10e-117
+NZ_DF968412.1_13|12983|13561|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.713	WP_059423106.1 RidA family protein [Streptomyces azureus]	100	72.5	3.26e-90
+NZ_DF968412.1_14|13682|13849|-1|ID=1_14;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.649	WP_167745793.1 hypothetical protein [Streptomyces azureus]	100	98.2	1.03e-27
+NZ_DF968412.1_15|14128|14697|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.704	WP_059423108.1 TetR/AcrR family transcriptional regulator [Streptomyces azureus]	100	99.5	4.14e-126
+NZ_DF968412.1_16|15010|15705|-1|ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682	WP_388054217.1 4Fe-4S binding protein [Streptomyces coeruleorubidus]	96.9	97.4	1.31e-158
+NZ_DF968412.1_17|15907|17481|-1|ID=1_17;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.714	WP_059423109.1 alpha/beta hydrolase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968412.1_18|17619|18659|-1|ID=1_18;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=3-4bp;gc_cont=0.695	WP_059423110.1 Rv2578c family radical SAM protein [Streptomyces azureus]	100	99.7	1.12e-256
+NZ_DF968412.1_19|18831|19274|1|ID=1_19;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.700	WP_059423111.1 MULTISPECIES: SRPBCC family protein [Streptomyces]	100	99.3	2.30e-98
+NZ_DF968412.1_20|19431|21374|1|ID=1_20;partial=01;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.720	WP_423587581.1 MFS transporter [Streptomyces azureus]	100	100	0.0

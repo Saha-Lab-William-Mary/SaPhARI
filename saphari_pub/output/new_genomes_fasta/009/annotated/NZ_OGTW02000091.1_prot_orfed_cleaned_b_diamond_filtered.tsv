@@ -1,0 +1,14 @@
+NZ_OGTW02000091.1_1|3|158|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.436	WP_058208703.1 hemolysin XhlA family protein, partial [Lactococcus lactis]	100	65.4	5.43e-13
+NZ_OGTW02000091.1_2|155|2788|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.355	WP_127094032.1 BppU family phage baseplate upper protein [Lactococcus lactis]	100	99.9	0.0
+NZ_OGTW02000091.1_3|2801|5554|-1|ID=1_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.388	WP_185852425.1 phage tail spike protein [Lactococcus lactis]	100	99.9	0.0
+NZ_OGTW02000091.1_4|5554|6315|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.354	WP_127094033.1 distal tail protein Dit [Lactococcus lactis]	100	99.6	2.17e-180
+NZ_OGTW02000091.1_5|6329|8953|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.377	WP_127094034.1 tape measure protein [Lactococcus lactis]	100	99.9	0.0
+NZ_OGTW02000091.1_6|8969|9280|-1|ID=1_6;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.330	YP_010663550.1 tail assembly chaperone [Streptococcus phage SW16]	96.1	99.0	5.93e-62
+NZ_OGTW02000091.1_7|9322|9672|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.333	WP_127094020.1 tail assembly chaperone [Lactococcus lactis]	100	99.1	4.77e-74
+NZ_OGTW02000091.1_8|9788|10285|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.376	WP_127094035.1 phage major tail protein, TP901-1 family [Lactococcus lactis]	100	99.4	4.83e-111
+NZ_OGTW02000091.1_9|10296|10691|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.338	WP_081144339.1 phage capsid protein [Lactococcus lactis]	100	99.2	5.48e-87
+NZ_OGTW02000091.1_10|10688|11047|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.367	WP_081144340.1 MULTISPECIES: HK97-gp10 family putative phage morphogenesis protein [Lactococcus]	100	99.2	1.35e-79
+NZ_OGTW02000091.1_11|11044|11355|-1|ID=1_11;partial=00;start_type=TTG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.369	NP_663679.1 minor head protein [Lactococcus phage ul36]	99.0	99.0	4.15e-71
+NZ_OGTW02000091.1_12|11352|11684|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.393	WP_127094036.1 phage head-tail connector protein [Lactococcus lactis]	100	99.1	1.92e-68
+NZ_OGTW02000091.1_13|11671|11868|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.348	WP_014570729.1 MULTISPECIES: HeH/LEM domain-containing protein [Lactobacillales]	100	98.5	5.94e-38
+NZ_OGTW02000091.1_14|11868|11942|-1|ID=1_14;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.333	WP_336264510.1 N4-gp56 family major capsid protein [Lactococcus cremoris]	100	96.0	1.17e-07

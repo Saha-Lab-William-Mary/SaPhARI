@@ -1,0 +1,13 @@
+NZ_LQOO01000063.1_1|2|76|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.680	WP_007172562.1 MULTISPECIES: MMPL/RND family transporter [Mycobacteriaceae]	100	96.0	1.32e-07
+NZ_LQOO01000063.1_2|529|1170|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.643	WP_007172204.1 MULTISPECIES: TetR/AcrR family transcriptional regulator [Mycobacteriaceae]	100	99.5	2.75e-145
+NZ_LQOO01000063.1_4|1466|1729|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=11-12bp;gc_cont=0.629	WP_236724418.1 hypothetical protein, partial [Mycobacterium avium]	74.7	98.9	7.64e-39
+NZ_LQOO01000063.1_5|1975|5061|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.634	WP_170320644.1 MULTISPECIES: MMPL/RND family transporter [Mycobacterium]	100	99.9	0.0
+NZ_LQOO01000063.1_6|5058|5954|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639	WP_042910691.1 MULTISPECIES: alpha/beta fold hydrolase [Mycobacterium]	100	99.7	4.67e-218
+NZ_LQOO01000063.1_7|6069|6515|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.615	WP_007172201.1 MULTISPECIES: DUF6188 family protein [Mycobacteriaceae]	100	99.3	5.22e-109
+NZ_LQOO01000063.1_8|6591|7202|-1|ID=1_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.641	WP_101930920.1 MULTISPECIES: TetR family transcriptional regulator [Mycobacterium]	100	99.5	8.54e-135
+NZ_LQOO01000063.1_10|7631|8230|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.592	WP_033717415.1 MULTISPECIES: TetR family transcriptional regulator [Mycobacteriaceae]	100	99.5	2.11e-133
+NZ_LQOO01000063.1_11|8390|9127|-1|ID=1_11;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.631	WP_174814221.1 MULTISPECIES: hypothetical protein [Mycobacteriaceae]	100	91.5	3.89e-163
+NZ_LQOO01000063.1_12|9352|9633|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.674	WP_042909865.1 transposase [Mycobacterium intracellulare]	100	98.9	2.46e-54
+NZ_LQOO01000063.1_13|9684|10499|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.653	WP_087139632.1 MULTISPECIES: IS3 family transposase [Mycobacterium]	100	99.6	4.04e-200
+NZ_LQOO01000063.1_14|10465|11784|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.645	WP_422119893.1 MULTISPECIES: IS30 family transposase [Mycobacterium]	99.8	94.5	2.36e-304
+NZ_LQOO01000063.1_15|11785|12330|-1|ID=1_15;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.606	WP_156181233.1 hypothetical protein [Mycobacterium nebraskense]	100	85.7	5.92e-110

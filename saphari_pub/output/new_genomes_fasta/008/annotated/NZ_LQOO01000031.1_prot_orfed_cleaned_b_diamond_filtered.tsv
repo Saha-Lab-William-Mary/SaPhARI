@@ -1,0 +1,11 @@
+NZ_LQOO01000031.1_1|104|838|1|ID=1_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.648	WP_099459185.1 MULTISPECIES: TnsA-like heteromeric transposase endonuclease subunit [Mycobacteriaceae]	99.6	99.6	8.18e-181
+NZ_LQOO01000031.1_2|835|2919|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.675	WP_224111287.1 MULTISPECIES: Mu transposase C-terminal domain-containing protein [Mycobacterium]	100	99.4	0.0
+NZ_LQOO01000031.1_3|2907|3932|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.643	WP_007172501.1 MULTISPECIES: ATP-binding protein [Mycobacteriaceae]	100	99.7	8.00e-243
+NZ_LQOO01000031.1_4|4051|4752|-1|ID=1_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.719	WP_155722797.1 hypothetical protein, partial [Mycobacterium avium]	99.3	57.7	8.51e-86
+NZ_LQOO01000031.1_5|4905|5261|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.669	WP_007170255.1 MULTISPECIES: Cd(II)/Pb(II)-sensing metalloregulatory transcriptional regulator CmtR [Mycobacteriaceae]	100	99.2	6.98e-77
+NZ_LQOO01000031.1_6|5343|5639|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.694	WP_033718759.1 MULTISPECIES: DUF1490 family protein [Mycobacteriaceae]	100	99.0	3.26e-59
+NZ_LQOO01000031.1_7|5665|7992|1|ID=1_7;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.682	WP_033718775.1 MULTISPECIES: heavy metal translocating P-type ATPase [Mycobacteriaceae]	99.9	98.2	0.0
+NZ_LQOO01000031.1_8|8221|8517|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.687	WP_033718771.1 MULTISPECIES: DUF1490 family protein [Mycobacteriaceae]	100	99.0	4.46e-57
+NZ_LQOO01000031.1_9|8507|10942|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.692	WP_089150873.1 MULTISPECIES: copper-translocating P-type ATPase [Mycobacteriaceae]	100	97.2	0.0
+NZ_LQOO01000031.1_10|11008|11292|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.670	WP_007172604.1 MULTISPECIES: transposase [Mycobacterium avium complex (MAC)]	100	98.9	1.65e-57
+NZ_LQOO01000031.1_11|11436|11699|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.629	WP_306454150.1 alkylmercury lyase [Mycobacterium avium]	100	98.9	1.92e-54

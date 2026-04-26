@@ -1,0 +1,14 @@
+NZ_LQOO01000087.1_1|74|1315|-1|ID=1_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.610	WP_087139692.1 MATE family efflux transporter [Mycobacterium intracellulare]	100	99.8	3.71e-273
+NZ_LQOO01000087.1_2|1327|2694|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.621	WP_042910222.1 Y4yA family PLP-dependent enzyme [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LQOO01000087.1_3|2685|3704|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.634	WP_054585452.1 ornithine cyclodeaminase [Mycobacterium intracellulare]	100	99.7	2.99e-237
+NZ_LQOO01000087.1_4|3799|5040|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.667	WP_225336931.1 PLP-dependent cysteine synthase family protein [Mycobacterium intracellulare]	85.5	88.2	5.01e-230
+NZ_LQOO01000087.1_5|5151|5831|-1|ID=1_5;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.643	WP_292976640.1 hypothetical protein [Mycobacterium sp.]	64.8	71.4	3.74e-55
+NZ_LQOO01000087.1_6|5916|6140|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.542	WP_192579484.1 DUF305 domain-containing protein [Mycobacterium intracellulare]	100	97.3	1.75e-38
+NZ_LQOO01000087.1_7|6178|6657|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.621	WP_192579484.1 DUF305 domain-containing protein [Mycobacterium intracellulare]	100	64.4	7.89e-59
+NZ_LQOO01000087.1_8|7390|8637|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633	WP_042910246.1 MFS transporter [Mycobacterium intracellulare]	100	99.8	1.35e-276
+NZ_LQOO01000087.1_10|10322|10615|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.636	WP_042910221.1 PE family protein [Mycobacterium intracellulare]	100	99.0	1.39e-55
+NZ_LQOO01000087.1_11|10638|11828|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.672	WP_072501253.1 PPE family protein [Mycobacterium intracellulare]	100	99.7	6.73e-226
+NZ_LQOO01000087.1_12|12088|13620|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.635	WP_042910245.1 multicopper oxidase family protein [Mycobacterium intracellulare]	99.8	98.8	0.0
+NZ_LQOO01000087.1_14|13829|14827|1|ID=1_14;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.624	WP_042910219.1 phosphate ABC transporter substrate-binding protein PstS [Mycobacterium intracellulare]	99.7	99.7	2.32e-234
+NZ_LQOO01000087.1_15|14845|16821|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.655	WP_042910217.1 serine/threonine-protein kinase PknD [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LQOO01000087.1_16|17028|19214|-1|ID=1_16;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.674	WP_089151540.1 heavy metal translocating P-type ATPase [Mycobacterium intracellulare]	99.9	96.7	0.0

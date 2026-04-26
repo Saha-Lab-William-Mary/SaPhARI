@@ -2,7 +2,7 @@ Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Prote
 CFPICI REGION 1 - KoCICAV1752	Upstream	1	1	168	1	WP_251739324.1	100	98.2	2.60e-30	DNA-binding transcriptional regulator Fis, partial [Klebsiella africana]
 CFPICI REGION 1 - KoCICAV1752	Upstream	2	326	634	-1	WP_001547818.1	100	99.0	2.32e-72	MULTISPECIES: DUF3892 domain-containing protein [Enterobacterales]
 CFPICI REGION 1 - KoCICAV1752	Core	3	785	2446	-1	CORE	100	99.8	0.0	PROTEIN: WP_065805094.1 MULTISPECIES: terminase large subunit [Klebsiella]
-CFPICI REGION 1 - KoCICAV1752	Core	4	2430	2936	-1	CORE	100	69.8	1.91e-78	PROTEIN: WP_065805092.1 MULTISPECIES: phage terminase small subunit P27 family [Enterobacteriaceae]
+CFPICI REGION 1 - KoCICAV1752	Core	4	2430	2936	-1	WP_065805092.1	100	69.8	1.91e-78	MULTISPECIES: phage terminase small subunit P27 family [Enterobacteriaceae]
 CFPICI REGION 1 - KoCICAV1752	Core	5	2918	3070	-1	WP_014072017.1	100	98.0	7.10e-26	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
 CFPICI REGION 1 - KoCICAV1752	Core	6	3063	3506	-1	CORE	100	99.3	9.76e-109	PROTEIN: WP_047723297.1 MULTISPECIES: HNH endonuclease signature motif containing protein [Enterobacteriaceae]
 CFPICI REGION 1 - KoCICAV1752	Core	7	3506	3799	-1	CORE	100	99.0	1.97e-64	PROTEIN: WP_000123150.1 MULTISPECIES: head-tail connector protein [Enterobacteriaceae]

@@ -1,0 +1,5 @@
+NZ_DF968425.1_1|1779|2039|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.693	WP_078945641.1 hypothetical protein [Streptomyces azureus]	100	98.9	7.99e-50
+NZ_DF968425.1_2|2039|3949|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.669	WP_236711919.1 hypothetical protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968425.1_3|3959|4642|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.716	WP_190194355.1 telomere-protecting terminal protein Tpg [Streptomyces minutiscleroticus]	74.5	20.6	2.21e-11
+NZ_DF968425.1_4|5573|8014|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.688	WP_078945642.1 DEAD/DEAH box helicase [Streptomyces azureus]	100	99.9	0.0
+NZ_DF968425.1_5|8433|8651|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.639	WP_323137681.1 MULTISPECIES: double zinc ribbon domain-containing protein [unclassified Streptomyces]	98.6	95.9	1.55e-45

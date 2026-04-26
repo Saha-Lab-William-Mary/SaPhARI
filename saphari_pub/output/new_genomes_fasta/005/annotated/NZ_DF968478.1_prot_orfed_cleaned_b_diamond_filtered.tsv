@@ -1,0 +1,37 @@
+NZ_DF968478.1_1|363|1127|1|ID=1_1;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.677	WP_099054772.1 bestrophin-like domain [Streptomyces azureus]	100	99.6	7.22e-175
+NZ_DF968478.1_2|1352|1870|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.724	WP_059424039.1 hypothetical protein [Streptomyces azureus]	100	99.4	5.36e-116
+NZ_DF968478.1_3|1982|2470|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.746	WP_059424041.1 hypothetical protein [Streptomyces azureus]	100	99.4	2.77e-95
+NZ_DF968478.1_4|2845|3513|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.714	WP_059424044.1 class F sortase [Streptomyces azureus]	100	99.6	4.06e-156
+NZ_DF968478.1_5|3553|4386|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.723	WP_059424046.1 polysaccharide deacetylase family protein [Streptomyces azureus]	100	99.6	2.56e-200
+NZ_DF968478.1_6|4476|4910|-1|ID=1_6;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.722	WP_385856547.1 bifunctional lysylphosphatidylglycerol synthetase/lysine--tRNA ligase LysX, partial [Streptomyces sp. NPDC127178]	95.8	99.3	2.11e-91
+NZ_DF968478.1_7|5449|5721|1|ID=1_7;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.755	WP_345664303.1 hypothetical protein [Streptomyces venetus]	54.7	70.3	1.84e-08
+NZ_DF968478.1_8|5999|6481|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.720	WP_059424079.1 universal stress protein [Streptomyces azureus]	100	77.0	2.06e-79
+NZ_DF968478.1_9|6557|6994|1|ID=1_9;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.703	WP_059424047.1 pyridoxamine 5'-phosphate oxidase family protein [Streptomyces azureus]	100	99.3	1.51e-102
+NZ_DF968478.1_10|7093|8505|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.679	WP_059424048.1 amino acid permease [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968478.1_11|8526|9680|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.743	WP_059424049.1 CapA family protein [Streptomyces azureus]	100	99.7	2.84e-276
+NZ_DF968478.1_12|9903|10448|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.733	WP_059424050.1 sigma-70 family RNA polymerase sigma factor [Streptomyces azureus]	100	99.5	6.66e-119
+NZ_DF968478.1_13|10600|11112|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.706	WP_059424052.1 hypothetical protein [Streptomyces azureus]	100	99.4	4.44e-123
+NZ_DF968478.1_14|11264|11917|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.722	WP_059424054.1 zf-HC2 domain-containing protein [Streptomyces azureus]	100	99.5	1.47e-151
+NZ_DF968478.1_15|12164|12613|1|ID=1_15;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.724	WP_059424056.1 SpoIIE family protein phosphatase [Streptomyces azureus]	100	99.3	4.81e-101
+NZ_DF968478.1_16|12776|13639|-1|ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.723	WP_059424059.1 Fpg/Nei family DNA glycosylase [Streptomyces azureus]	100	99.7	7.67e-207
+NZ_DF968478.1_17|13662|15749|-1|ID=1_17;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=3-4bp;gc_cont=0.735	WP_059424061.1 SpoIIE family protein phosphatase [Streptomyces azureus]	100	99.9	0.0
+NZ_DF968478.1_18|15827|16324|-1|ID=1_18;partial=00;start_type=TTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.749	WP_403839082.1 DUF6777 domain-containing protein [Streptomyces swartbergensis]	73.3	98.8	1.07e-63
+NZ_DF968478.1_19|16288|16518|-1|ID=1_19;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.788	WP_356096016.1 DUF6777 domain-containing protein [Streptomyces coeruleorubidus]	87.3	92.2	3.43e-31
+NZ_DF968478.1_20|16527|16973|-1|ID=1_20;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.758	WP_397697801.1 DUF6777 domain-containing protein [Streptomyces coeruleorubidus]	67.6	92.6	3.46e-49
+NZ_DF968478.1_21|17115|18536|1|ID=1_21;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.687	WP_059424063.1 lipase maturation factor family protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968478.1_23|19353|19670|-1|ID=1_23;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.708	WP_059424066.1 L-rhamnose mutarotase [Streptomyces azureus]	100	99.1	1.38e-70
+NZ_DF968478.1_24|19667|20677|-1|ID=1_24;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.739	WP_059424068.1 aldo/keto reductase [Streptomyces azureus]	100	99.7	3.51e-239
+NZ_DF968478.1_25|20674|21429|-1|ID=1_25;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.757	WP_059424070.1 SDR family NAD(P)-dependent oxidoreductase [Streptomyces azureus]	100	99.6	8.02e-166
+NZ_DF968478.1_26|21426|21875|-1|ID=1_26;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.689	WP_338784683.1 L-fuconate dehydratase [Streptomyces sp. DG1A-41]	96.0	99.3	1.23e-93
+NZ_DF968478.1_27|22056|22718|1|ID=1_27;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.739	WP_059424081.1 FadR/GntR family transcriptional regulator [Streptomyces azureus]	100	99.5	3.69e-142
+NZ_DF968478.1_28|22753|23226|-1|ID=1_28;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.692	WP_059424072.1 carboxymuconolactone decarboxylase family protein [Streptomyces azureus]	100	99.4	1.92e-104
+NZ_DF968478.1_29|23380|24345|1|ID=1_29;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.713	WP_403839106.1 alpha/beta hydrolase family protein [Streptomyces swartbergensis]	95.0	99.7	2.66e-220
+NZ_DF968478.1_30|24704|26047|1|ID=1_30;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.740	WP_059424074.1 amidase [Streptomyces azureus]	100	99.8	8.36e-315
+NZ_DF968478.1_31|26257|26676|1|ID=1_31;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.690	WP_059424075.1 VOC family protein [Streptomyces azureus]	100	99.3	1.08e-99
+NZ_DF968478.1_32|26648|26977|-1|ID=1_32;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.764	WP_086855222.1 GNAT family N-acetyltransferase [Streptomyces coeruleofuscus]	86.8	81.8	8.92e-44
+NZ_DF968478.1_33|27002|27484|-1|ID=1_33;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.706	WP_059424077.1 GNAT family N-acetyltransferase [Streptomyces azureus]	100	99.4	3.72e-117
+NZ_DF968478.1_34|27542|27715|-1|ID=1_34;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.707	WP_107084056.1 MULTISPECIES: hypothetical protein [Streptomyces]	100	98.3	2.63e-33
+NZ_DF968478.1_35|28149|28364|1|ID=1_35;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.750	WP_346137697.1 MULTISPECIES: SDR family oxidoreductase [Streptomyces]	97.1	95.8	9.13e-35
+NZ_DF968478.1_36|28445|28684|1|ID=1_36;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.717	WP_346137697.1 MULTISPECIES: SDR family oxidoreductase [Streptomyces]	97.4	95.0	5.54e-47
+NZ_DF968478.1_37|28681|28950|1|ID=1_37;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.726	WP_399017064.1 SDR family oxidoreductase [Streptomyces sp. NPDC050546]	86.7	98.9	2.60e-45
+NZ_DF968478.1_38|28958|30190|-1|ID=1_38;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.703	WP_059424078.1 SDR family NAD(P)-dependent oxidoreductase, partial [Streptomyces azureus]	100	99.8	9.53e-295

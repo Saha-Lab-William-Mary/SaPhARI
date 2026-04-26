@@ -1,6 +1,6 @@
 Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
 CFPICI REGION 1 - PmCIATCC29906	Core	1	702	2363	-1	CORE	100	99.8	0.0	PROTEIN: WP_004245343.1 MULTISPECIES: terminase large subunit [Proteus]
-CFPICI REGION 1 - PmCIATCC29906	Core	2	2360	2713	-1	CORE	100	99.2	3.76e-76	PROTEIN: WP_004245345.1 MULTISPECIES: phage terminase small subunit P27 family [Morganellaceae]
+CFPICI REGION 1 - PmCIATCC29906	Core	2	2360	2713	-1	WP_004245345.1	100	99.2	3.76e-76	MULTISPECIES: phage terminase small subunit P27 family [Morganellaceae]
 CFPICI REGION 1 - PmCIATCC29906	Core	3	2842	3009	-1	WP_260665042.1	92.7	98.2	3.57e-28	hypothetical protein [Proteus vulgaris]
 CFPICI REGION 1 - PmCIATCC29906	Core	4	2987	3433	-1	CORE	100	99.3	1.23e-107	PROTEIN: WP_004245346.1 MULTISPECIES: HNH endonuclease [Proteus]
 CFPICI REGION 1 - PmCIATCC29906	Core	5	3434	3730	-1	CORE	100	99.0	6.31e-66	PROTEIN: WP_004245347.1 MULTISPECIES: head-tail connector protein [Proteus]

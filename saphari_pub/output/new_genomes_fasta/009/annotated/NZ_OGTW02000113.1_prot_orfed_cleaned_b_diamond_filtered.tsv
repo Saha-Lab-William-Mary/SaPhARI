@@ -1,0 +1,17 @@
+NZ_OGTW02000113.1_1|1|882|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.347	WP_127094139.1 MDR family MFS transporter, partial [Lactococcus lactis]	100	100	3.12e-207
+NZ_OGTW02000113.1_2|966|2192|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.346	WP_127094140.1 multidrug efflux MFS transporter LmrP [Lactococcus lactis]	100	99.8	4.96e-280
+NZ_OGTW02000113.1_3|2380|2874|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.321	WP_127094141.1 RNA polymerase sigma factor [Lactococcus lactis]	100	99.4	3.15e-111
+NZ_OGTW02000113.1_4|2898|4004|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.323	WP_127094142.1 anti-sigma factor [Lactococcus lactis]	100	99.7	4.20e-238
+NZ_OGTW02000113.1_5|4100|5446|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.398	WP_010906353.1 MULTISPECIES: glucose-6-phosphate isomerase [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000113.1_6|5790|6296|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.349	WP_021214982.1 MULTISPECIES: YkgJ family cysteine cluster protein [Lactococcus]	100	99.4	2.58e-121
+NZ_OGTW02000113.1_7|6330|7175|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.394	WP_010906355.1 MULTISPECIES: NAD(P)H-binding protein [Lactococcus]	100	99.6	2.95e-192
+NZ_OGTW02000113.1_8|7348|7680|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.420	WP_031296984.1 MULTISPECIES: winged helix-turn-helix transcriptional regulator [Lactococcus]	100	99.1	8.78e-74
+NZ_OGTW02000113.1_9|7796|8125|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.303	WP_010906357.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.1	5.08e-66
+NZ_OGTW02000113.1_10|8169|10811|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.392	WP_031561152.1 MULTISPECIES: valine--tRNA ligase [Lactococcus]	100	99.9	0.0
+NZ_OGTW02000113.1_11|11067|11723|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.355	WP_010906359.1 MULTISPECIES: FusB/FusC family EF-G-binding protein [Lactococcus]	100	99.5	1.07e-149
+NZ_OGTW02000113.1_12|12000|12248|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.333	WP_003132639.1 MULTISPECIES: DUF1912 family protein [Lactococcus]	100	98.8	1.79e-51
+NZ_OGTW02000113.1_13|12287|12631|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.383	WP_010906360.1 MULTISPECIES: MmcQ/YjbR family DNA-binding protein [Lactococcus]	100	99.1	1.09e-78
+NZ_OGTW02000113.1_14|12632|13141|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.357	WP_010906361.1 MULTISPECIES: GNAT family N-acetyltransferase [Lactococcus]	100	99.4	2.68e-119
+NZ_OGTW02000113.1_15|13296|14003|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.367	WP_127094143.1 B3/B4 domain-containing protein [Lactococcus lactis]	100	99.6	9.16e-164
+NZ_OGTW02000113.1_16|14335|15876|-1|ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.368	WP_127094144.1 23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD [Lactococcus lactis]	100	99.8	0.0
+NZ_OGTW02000113.1_17|16105|18387|-1|ID=1_17;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.367	WP_021214985.1 mucin-binding protein [Lactococcus lactis]	100	99.9	0.0

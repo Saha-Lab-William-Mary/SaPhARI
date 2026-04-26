@@ -1,0 +1,23 @@
+NZ_DF968470.1_1|1|525|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.693	WP_388063885.1 MarR family transcriptional regulator [Streptomyces coeruleorubidus]	95.7	92.0	3.00e-111
+NZ_DF968470.1_2|716|1222|1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.708	WP_059423888.1 DUF6624 domain-containing protein [Streptomyces azureus]	100	99.4	1.14e-115
+NZ_DF968470.1_3|1321|1797|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.679	WP_059423890.1 hypothetical protein [Streptomyces azureus]	99.3	95.0	8.73e-109
+NZ_DF968470.1_4|1927|2454|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.616	WP_078945669.1 hypothetical protein [Streptomyces azureus]	99.4	96.0	7.48e-123
+NZ_DF968470.1_5|2484|2744|-1|ID=1_5;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.663	WP_063889050.1 DUF397 domain-containing protein [Streptomyces azureus]	100	98.9	1.54e-56
+NZ_DF968470.1_6|2741|3589|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.651	WP_059423891.1 helix-turn-helix domain-containing protein [Streptomyces azureus]	100	99.6	4.10e-204
+NZ_DF968470.1_7|3804|4451|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.670	WP_059423892.1 ATP-binding protein [Streptomyces azureus]	100	99.5	4.40e-152
+NZ_DF968470.1_8|4865|5344|-1|ID=1_8;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.654	WP_059423895.1 hypothetical protein [Streptomyces azureus]	100	99.4	2.52e-110
+NZ_DF968470.1_9|5775|5936|1|ID=1_9;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.636	WP_356670743.1 transcriptional regulator, partial [Streptomyces sp. NPDC006386]	83.7	79.6	1.45e-14
+NZ_DF968470.1_10|6462|7241|-1|ID=1_10;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.558	WP_167745802.1 Eco29kI family restriction endonuclease [Streptomyces azureus]	100	99.6	6.48e-185
+NZ_DF968470.1_11|7379|8659|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.592	WP_078945666.1 DNA cytosine methyltransferase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968470.1_12|8659|9441|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.626	WP_351392828.1 very short patch repair endonuclease [Streptomyces sp. NPDC094034]	78.8	97.7	3.25e-139
+NZ_DF968470.1_13|9674|10624|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.611	WP_059423899.1 Eco29kI family restriction endonuclease [Streptomyces azureus]	100	91.8	8.95e-210
+NZ_DF968470.1_14|10780|11916|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.610	WP_078945668.1 MrcB family domain-containing protein [Streptomyces azureus]	100	99.7	3.63e-285
+NZ_DF968470.1_15|12315|13331|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.718	WP_059423901.1 SEC-C domain-containing protein [Streptomyces azureus]	100	99.7	6.60e-245
+NZ_DF968470.1_16|13491|14966|-1|ID=1_16;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.674	WP_274816617.1 beta-1,6-galactanase [Streptomyces coeruleorubidus]	99.2	99.8	0.0
+NZ_DF968470.1_17|15205|15516|1|ID=1_17;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.760	WP_059423904.1 DUF6412 domain-containing protein [Streptomyces azureus]	100	99.0	4.00e-51
+NZ_DF968470.1_18|15613|16320|1|ID=1_18;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.703	WP_059423906.1 YidC/Oxa1 family membrane protein insertase [Streptomyces azureus]	100	99.6	8.67e-153
+NZ_DF968470.1_19|16470|17327|1|ID=1_19;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.712	WP_059423916.1 fumarylacetoacetate hydrolase family protein [Streptomyces azureus]	100	99.7	2.20e-205
+NZ_DF968470.1_20|17405|18274|-1|ID=1_20;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.732	WP_059423908.1 LLM class F420-dependent oxidoreductase [Streptomyces azureus]	100	99.7	7.37e-206
+NZ_DF968470.1_21|18381|18914|-1|ID=1_21;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.702	WP_059423909.1 heme-degrading domain-containing protein [Streptomyces azureus]	100	99.4	9.21e-124
+NZ_DF968470.1_22|18911|20008|-1|ID=1_22;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.741	WP_059423910.1 Gfo/Idh/MocA family protein [Streptomyces azureus]	100	99.7	5.14e-258
+NZ_DF968470.1_23|20114|21274|1|ID=1_23;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.774	WP_099054767.1 ROK family transcriptional regulator [Streptomyces azureus]	100	99.7	5.04e-239

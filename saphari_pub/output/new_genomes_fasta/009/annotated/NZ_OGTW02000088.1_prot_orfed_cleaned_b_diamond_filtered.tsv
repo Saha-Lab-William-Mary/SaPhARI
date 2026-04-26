@@ -1,0 +1,16 @@
+NZ_OGTW02000088.1_1|607|1443|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=9bp;gc_cont=0.314	WP_003130766.1 MULTISPECIES: metallophosphoesterase [Lactococcus]	100	99.6	3.10e-197
+NZ_OGTW02000088.1_2|1504|2034|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=11bp;gc_cont=0.354	WP_003130764.1 CHAP domain-containing protein [Lactococcus lactis]	100	99.4	2.30e-103
+NZ_OGTW02000088.1_3|2504|2881|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.349	WP_010906050.1 MULTISPECIES: TIGR02328 family protein [Lactococcus]	100	95.2	2.53e-88
+NZ_OGTW02000088.1_4|2963|3427|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.318	WP_003130761.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.4	7.90e-107
+NZ_OGTW02000088.1_5|3511|3828|1|ID=1_5;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.377	WP_003130760.1 MULTISPECIES: type B 50S ribosomal protein L31 [Lactococcus]	100	76.4	1.62e-53
+NZ_OGTW02000088.1_6|3959|4489|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=3bp;gc_cont=0.299	WP_003130758.1 MULTISPECIES: YceD family protein [Lactococcus]	100	99.4	1.78e-116
+NZ_OGTW02000088.1_7|4645|5337|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=14bp;gc_cont=0.381	WP_003130756.1 MULTISPECIES: response regulator transcription factor [Lactococcus]	100	99.6	1.64e-159
+NZ_OGTW02000088.1_8|5345|6820|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=7bp;gc_cont=0.346	WP_010906048.1 MULTISPECIES: HAMP domain-containing sensor histidine kinase [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000088.1_9|7003|8244|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.401	WP_003130753.1 MULTISPECIES: ammonium transporter [Lactococcus]	100	99.8	2.23e-290
+NZ_OGTW02000088.1_10|8310|8717|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.338	WP_127094014.1 P-II family nitrogen regulator [Lactococcus lactis]	100	83.1	1.68e-67
+NZ_OGTW02000088.1_11|9208|10560|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=11bp;gc_cont=0.356	WP_003130748.1 MULTISPECIES: UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000088.1_12|10770|11843|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AAAAA;rbs_spacer=5bp;gc_cont=0.369	WP_003130746.1 MULTISPECIES: undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase [Lactococcus]	100	99.7	2.71e-249
+NZ_OGTW02000088.1_13|11844|13022|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=4bp;gc_cont=0.342	WP_127094015.1 cell division protein FtsQ/DivIB [Lactococcus lactis]	100	99.7	1.86e-260
+NZ_OGTW02000088.1_14|13172|14485|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=AAA;rbs_spacer=4bp;gc_cont=0.398	WP_003130743.1 MULTISPECIES: GTPase ObgE [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000088.1_15|14513|14683|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.339	WP_003130741.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	98.2	2.46e-33
+NZ_OGTW02000088.1_16|14697|15314|-1|ID=1_16;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.312	WP_010906043.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.5	9.65e-142

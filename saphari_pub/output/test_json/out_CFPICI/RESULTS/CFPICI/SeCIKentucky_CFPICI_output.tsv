@@ -11,6 +11,6 @@ CFPICI REGION 1 - SeCIKentucky	Core	18	12408	12707	1	CORE	100	99.0	2.77e-65	PROT
 CFPICI REGION 1 - SeCIKentucky	Core	19	12707	13150	1	CORE	100	99.3	1.97e-108	PROTEIN: WP_058654938.1 MULTISPECIES: HNH endonuclease signature motif containing protein [Salmonella]
 CFPICI REGION 1 - SeCIKentucky	Core	20	13143	13295	1	WP_161397194.1	100	98.0	2.11e-27	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
 CFPICI REGION 1 - SeCIKentucky	Core	21	13277	13468	1	WP_126066294.1	91.9	96.9	1.15e-34	terminase, partial [Klebsiella pneumoniae]
-CFPICI REGION 1 - SeCIKentucky	Core	22	13426	13782	1	CORE	100	99.2	1.21e-77	PROTEIN: WP_000113647.1 MULTISPECIES: phage terminase small subunit P27 family [Gammaproteobacteria]
+CFPICI REGION 1 - SeCIKentucky	Core	22	13426	13782	1	WP_000113647.1	100	99.2	1.21e-77	MULTISPECIES: phage terminase small subunit P27 family [Gammaproteobacteria]
 CFPICI REGION 1 - SeCIKentucky	Core	23	13766	15427	1	CORE	100	99.8	0.0	PROTEIN: WP_058654936.1 MULTISPECIES: terminase large subunit [Enterobacteriaceae]
 CFPICI REGION 1 - SeCIKentucky	Downstream	24	15578	15886	1	WP_001547818.1	100	99.0	2.32e-72	MULTISPECIES: DUF3892 domain-containing protein [Enterobacterales]

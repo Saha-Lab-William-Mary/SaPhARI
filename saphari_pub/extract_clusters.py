@@ -116,6 +116,7 @@ STOPWORDS = {
     "protein", "domain", "containing", "like", "family", "subunit", "putative",
     "phage", "bacteriophage", "type", "dependent", "large", "small",
     "dna", "rna", "atp", "binding", "partial", "related", "predicted",
+    "multispecies",
 }
 
 
@@ -155,32 +156,34 @@ def strip_taxon_brackets(subject: str) -> str:
 
 
 def parse_accession(subject_no_taxon: str) -> str:
+    """
+    Extract the leading protein accession from an annotation subject.
+    Examples: WP_..., YP_..., NP_..., XP_...
+    """
     if not subject_no_taxon:
         return ""
-    m = re.match(r"^([A-Z]{2}_[0-9]+\.[0-9]+)\b", subject_no_taxon.strip())
+    m = re.match(r"^((?:WP|YP|NP|XP)_[0-9]+\.[0-9]+)\b", subject_no_taxon.strip())
     return m.group(1) if m else ""
 
-
 def parse_raw_name(subject_no_taxon: str) -> str:
+    """
+    Remove the leading accession and annotation metadata prefixes,
+    leaving the broad protein name.
+    """
     if not subject_no_taxon:
         return ""
     s = subject_no_taxon.strip()
-    s = re.sub(r"^[A-Z]{2}_[0-9]+\.[0-9]+\s+", "", s)
+    s = re.sub(r"^(?:WP|YP|NP|XP)_[0-9]+\.[0-9]+\s+", "", s)
+    s = re.sub(r"^MULTISPECIES:\s*", "", s, flags=re.IGNORECASE)
     return s.strip()
-
-
-def is_hypothetical(raw_name: str) -> bool:
-    if not raw_name:
-        return False
-    s = raw_name.lower().strip()
-    return "hypothetical protein" in s or s == "hypothetical"
-
 
 def normalize_function_label(raw_name: str) -> str:
     if not raw_name:
         return ""
 
     key = raw_name.strip()
+    key = re.sub(r"^MULTISPECIES:\s*", "", key, flags=re.IGNORECASE)
+
     if key in NORMALIZE_MAP:
         return NORMALIZE_MAP[key]
     for k, v in NORMALIZE_MAP.items():
@@ -207,6 +210,17 @@ def iter_subject_column(tsv_path: str) -> Iterable[str]:
             if len(cols) < 2:
                 continue
             yield cols[1]
+
+
+def is_hypothetical(name: str) -> bool:
+    """
+    Return True for generic hypothetical protein annotations.
+    These should not become broad functional markers.
+    """
+    if not name:
+        return False
+    s = name.lower()
+    return "hypothetical protein" in s or s.strip() == "hypothetical"
 
 
 def read_sample(tsv_path: str) -> List[Tuple[str, str, str, str]]:
@@ -259,29 +273,90 @@ def choose_representative_raw_name(raw_names: Set[str]) -> str:
     return sorted(raw_names, key=lambda s: (len(s), s.lower()))[0]
 
 
+def clean_broad_marker_name(raw_name: str) -> str:
+    """
+    Clean a broad protein label for use as a SaPhARI marker entry.
+    This keeps the searchable biological phrase, not the normalized FUNC key.
+    """
+    if not raw_name:
+        return ""
+    s = raw_name.strip()
+    s = re.sub(r"^MULTISPECIES:\s*", "", s, flags=re.IGNORECASE)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+def extract_accessions_from_evidence(evidence_subjects: Set[str]) -> List[str]:
+    """
+    Pull accession-only marker entries from evidence strings.
+    This avoids redundant entries like:
+      WP_214396676.1 phage head completion protein
+    and instead keeps:
+      WP_214396676.1
+    """
+    accs: List[str] = []
+    for ev in evidence_subjects:
+        m = re.match(r"^((?:WP|YP|NP|XP)_[0-9]+\.[0-9]+)\b", ev.strip())
+        if m:
+            accs.append(m.group(1))
+    return sorted(set(accs))
+
+
+def dedupe_keep_order(items: List[str]) -> List[str]:
+    seen: Set[str] = set()
+    out: List[str] = []
+    for x in items:
+        x = x.strip()
+        if not x or x in seen:
+            continue
+        seen.add(x)
+        out.append(x)
+    return out
+
+
 def build_json_group(cid: str, raw_names: Set[str], evidence_subjects: Set[str]) -> Optional[List[str]]:
+    """
+    Build JSON marker entries optimized for current SaPhARI search behavior.
+
+    Current SaPhARI flattens nested JSON marker groups before searching.
+    Therefore, this output intentionally separates:
+      1. broad functional marker names
+      2. accession-only reference-specific markers
+
+    For functionally named proteins:
+      - keep one clean broad marker name
+      - keep accession-only markers
+
+    For hypothetical proteins:
+      - keep accession-only markers only
+      - do NOT emit broad "hypothetical protein"
+    """
+    accessions = extract_accessions_from_evidence(evidence_subjects)
+
     if cid.startswith("FUNC:"):
+        broad_candidates = [
+            clean_broad_marker_name(x)
+            for x in sorted(raw_names, key=lambda s: (len(s), s.lower()))
+            if x
+        ]
+
+        broad_candidates = [
+            x for x in broad_candidates
+            if x and not is_hypothetical(x)
+        ]
+
         items: List[str] = []
-        items.extend(x for x in sorted(raw_names) if x)
-        items.extend(x for x in sorted(evidence_subjects) if x)
-        seen: Set[str] = set()
-        out: List[str] = []
-        for x in items:
-            if x in seen:
-                continue
-            seen.add(x)
-            out.append(x)
+
+        if broad_candidates:
+            items.append(broad_candidates[0])
+
+        items.extend(accessions)
+
+        out = dedupe_keep_order(items)
         return out if out else None
 
     if cid.startswith("HYP:"):
-        items = [x for x in sorted(evidence_subjects) if x]
-        seen: Set[str] = set()
-        out: List[str] = []
-        for x in items:
-            if x in seen:
-                continue
-            seen.add(x)
-            out.append(x)
+        out = dedupe_keep_order(accessions)
         return out if out else None
 
     return None

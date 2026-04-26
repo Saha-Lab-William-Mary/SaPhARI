@@ -1,0 +1,23 @@
+BX571858.1_1|12|638|1|ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.292	WP_000593103.1 MULTISPECIES: ABC transporter ATP-binding protein [Bacteria]	100	99.5	7.86e-138
+BX571858.1_2|876|1181|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.225	WP_000122363.1 MULTISPECIES: plasmid recombination protein [Bacteria]	100	99.0	4.38e-63
+BX571858.1_3|1206|1505|1|ID=1_3;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.317	WP_000390798.1 plasmid recombination protein [Staphylococcus aureus]	100	99.0	2.28e-64
+BX571858.1_4|1599|2144|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.262	WP_374731482.1 recombinase [Staphylococcus aureus]	99.4	99.5	1.40e-120
+BX571858.1_5|2527|3387|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.266	WP_000145511.1 MULTISPECIES: replication initiation protein [Bacteria]	100	99.7	4.41e-201
+BX571858.1_6|3474|3815|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.339	WP_000761341.1 MULTISPECIES: helix-turn-helix domain-containing protein [Bacteria]	100	99.1	6.60e-75
+BX571858.1_7|4274|4459|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.323	WP_000466619.1 MULTISPECIES: hypothetical protein [Bacteria]	100	98.4	3.28e-40
+BX571858.1_8|4678|5421|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.293	WP_000843757.1 MULTISPECIES: DUF536 domain-containing protein [Bacteria]	100	99.6	7.16e-135
+BX571858.1_9|5727|6107|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.241	WP_001789671.1 MULTISPECIES: replication initiator protein A [Bacteria]	100	99.2	8.90e-86
+BX571858.1_10|8010|8627|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.270	WP_000616820.1 MULTISPECIES: cadmium resistance transporter CadD [Bacteria]	100	99.5	4.35e-129
+BX571858.1_11|8646|8993|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.259	WP_000119691.1 MULTISPECIES: ArsR/SmtB family transcription factor [Bacteria]	100	99.1	3.12e-74
+BX571858.1_12|9466|10440|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.254	WP_000072388.1 DUF4062 domain-containing protein [Staphylococcus aureus]	100	99.7	3.29e-222
+BX571858.1_13|10560|11375|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.295	WP_000164957.1 AAA family ATPase [Staphylococcus aureus]	100	99.6	2.67e-199
+BX571858.1_14|11368|12198|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.323	WP_001566955.1 MULTISPECIES: Mu transposase C-terminal domain-containing protein [Bacteria]	100	99.6	1.33e-206
+BX571858.1_15|12143|12811|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.318	WP_001566954.1 MULTISPECIES: DDE-type integrase/transposase/recombinase [Bacteria]	100	99.6	2.86e-156
+BX571858.1_16|12783|13376|-1|ID=1_16;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.335	WP_000690638.1 MULTISPECIES: recombinase family protein [Bacteria]	100	99.5	1.38e-137
+BX571858.1_17|13640|14020|-1|ID=1_17;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.241	WP_001284653.1 MULTISPECIES: penicillinase repressor BlaI [Bacteria]	100	99.2	1.12e-79
+BX571858.1_18|14010|15809|-1|ID=1_18;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.261	WP_001096385.1 MULTISPECIES: beta-lactam sensor/signal transducer BlaR1 [Bacteria]	100	97.5	0.0
+BX571858.1_19|15874|16719|1|ID=1_19;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.279	WP_000733289.1 MULTISPECIES: penicillin-hydrolyzing class A beta-lactamase BlaZ [Bacteria]	100	99.6	3.60e-193
+BX571858.1_20|17088|17621|1|ID=1_20;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.331	WP_001823239.1 MULTISPECIES: recombinase family protein [Bacillales]	100	99.4	2.85e-118
+BX571858.1_21|18035|18328|1|ID=1_21;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.367	WP_000726502.1 MULTISPECIES: lactococcin 972 family bacteriocin [Bacteria]	100	99.0	3.40e-65
+BX571858.1_22|18403|20337|1|ID=1_22;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.253	WP_000713729.1 MULTISPECIES: bacteriocin-associated integral membrane family protein [Bacteria]	100	99.8	0.0
+BX571858.1_23|20341|20646|1|ID=1_23;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.268	WP_000831611.1 YxeA family protein [Staphylococcus aureus]	100	99.0	2.44e-60

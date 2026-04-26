@@ -10,7 +10,7 @@ CFPICI REGION 1 - SeCI7830	Core	17	11241	11579	1	CORE	100	99.1	5.44e-78	PROTEIN:
 CFPICI REGION 1 - SeCI7830	Core	18	11572	11862	1	CORE	100	99.0	2.31e-67	PROTEIN: WP_001650759.1 MULTISPECIES: head-tail connector protein [Enterobacteriaceae]
 CFPICI REGION 1 - SeCI7830	Core	19	11863	12306	1	CORE	100	99.3	2.30e-107	PROTEIN: WP_023165946.1 MULTISPECIES: HNH endonuclease signature motif containing protein [Enterobacteriaceae]
 CFPICI REGION 1 - SeCI7830	Core	20	12299	12481	1	WP_311186546.1	76.6	77.0	4.86e-18	hypothetical protein, partial [Citrobacter freundii]
-CFPICI REGION 1 - SeCI7830	Core	21	12447	12803	1	CORE	100	99.2	3.60e-79	PROTEIN: WP_001137908.1 MULTISPECIES: phage terminase small subunit P27 family [Enterobacteriaceae]
+CFPICI REGION 1 - SeCI7830	Core	21	12447	12803	1	WP_001137908.1	100	99.2	3.60e-79	MULTISPECIES: phage terminase small subunit P27 family [Enterobacteriaceae]
 CFPICI REGION 1 - SeCI7830	Core	22	12969	14447	1	CORE	99.8	99.8	0.0	PROTEIN: WP_001650758.1 MULTISPECIES: terminase large subunit [Salmonella]
 CFPICI REGION 1 - SeCI7830	Downstream	23	14535	15383	1	WP_136655157.1	99.6	99.6	9.15e-192	DUF4062 domain-containing protein [Salmonella enterica]
 CFPICI REGION 1 - SeCI7830	Downstream	24	15427	15531	-1	WP_001804916.1	100	97.1	4.42e-11	MULTISPECIES: hypothetical protein [Enterobacteriaceae]

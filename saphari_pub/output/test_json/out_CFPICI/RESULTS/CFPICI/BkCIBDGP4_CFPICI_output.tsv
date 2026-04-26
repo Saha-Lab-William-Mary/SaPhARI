@@ -3,7 +3,7 @@ CFPICI REGION 1 - BkCIBDGP4	Upstream	1	185	394	-1	WP_095370787.1	100	98.6	1.99e-
 CFPICI REGION 1 - BkCIBDGP4	Core	2	479	2119	-1	CORE	100	99.8	0.0	PROTEIN: WP_095370788.1 terminase large subunit [Cytobacillus kochii]
 CFPICI REGION 1 - BkCIBDGP4	Core	3	2128	2466	-1	WP_095370789.1	100	99.1	2.31e-70	hypothetical protein [Cytobacillus kochii]
 CFPICI REGION 1 - BkCIBDGP4	Core	4	2574	2879	-1	CORE	100	99.0	2.72e-75	PROTEIN: WP_095370790.1 HNH endonuclease [Cytobacillus kochii]
-CFPICI REGION 1 - BkCIBDGP4	Core	5	2879	3157	-1	WP_095370791.1	100	98.9	1.80e-60	head-tail connector protein [Cytobacillus kochii]
+CFPICI REGION 1 - BkCIBDGP4	Core	5	2879	3157	-1	CORE	100	98.9	1.80e-60	PROTEIN: WP_095370791.1 head-tail connector protein [Cytobacillus kochii]
 CFPICI REGION 1 - BkCIBDGP4	Core	6	3226	4479	-1	WP_095370792.1	100	99.8	3.48e-280	phage major capsid protein [Cytobacillus kochii]
 CFPICI REGION 1 - BkCIBDGP4	Core	7	4480	5061	-1	CORE	100	99.5	4.46e-132	PROTEIN: WP_095370793.1 HK97 family phage prohead protease [Cytobacillus kochii]
 CFPICI REGION 1 - BkCIBDGP4	Core	8	5068	5679	-1	WP_095370794.1	100	99.5	1.33e-156	hypothetical protein [Cytobacillus kochii]

@@ -1,0 +1,5 @@
+NZ_LJHL01000113.1_1|3|587|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.662	WP_036453705.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.5	6.94e-131
+NZ_LJHL01000113.1_2|602|1684|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.685	WP_020823338.1 MULTISPECIES: PDR/VanB family oxidoreductase [Mycobacterium]	100	99.7	2.78e-264
+NZ_LJHL01000113.1_3|1687|2610|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.673	WP_041297999.1 MULTISPECIES: alpha/beta fold hydrolase [Mycobacterium]	100	99.7	1.77e-222
+NZ_LJHL01000113.1_4|2628|3536|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.667	WP_008259582.1 MULTISPECIES: metal-dependent hydrolase [Mycobacterium]	100	99.7	1.65e-229
+NZ_LJHL01000113.1_5|3558|6806|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=11-12bp;gc_cont=0.684	WP_042912964.1 thioester reductase domain-containing protein [Mycobacterium intracellulare]	100	99.9	0.0

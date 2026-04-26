@@ -1,0 +1,10 @@
+NZ_LQOO01000016.1_1|2|307|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.621	WP_264061647.1 Fic family protein, partial [Mycobacterium angelicum]	92.0	24.5	1.45e-06
+NZ_LQOO01000016.1_2|343|483|1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.681	WP_007168489.1 hypothetical protein [Mycobacterium gordonae]	95.7	97.9	2.42e-22
+NZ_LQOO01000016.1_3|516|788|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.630	WP_033711258.1 MULTISPECIES: type II toxin-antitoxin system Phd/YefM family antitoxin [Mycobacterium]	100	98.9	1.15e-53
+NZ_LQOO01000016.1_4|792|1199|1|ID=1_4;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.598	WP_007168487.1 MULTISPECIES: type II toxin-antitoxin system VapC family toxin [Mycobacterium]	100	99.3	2.38e-83
+NZ_LQOO01000016.1_5|1220|1561|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.611	WP_007168486.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.1	9.74e-77
+NZ_LQOO01000016.1_6|1622|1927|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.667	WP_007168485.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.0	9.96e-60
+NZ_LQOO01000016.1_7|2345|2683|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.696	WP_080691075.1 MULTISPECIES: hypothetical protein [Mycobacterium]	99.1	99.1	6.82e-54
+NZ_LQOO01000016.1_8|3375|3779|-1|ID=1_8;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.642	WP_155250266.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	34.8	2.02e-23
+NZ_LQOO01000016.1_9|4153|5217|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.630	WP_042910040.1 MULTISPECIES: IS110 family transposase [Mycobacterium]	100	99.7	1.06e-249
+NZ_LQOO01000016.1_10|5306|5542|-1|ID=1_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.608	WP_418289655.1 IS30 family transposase [Mycobacterium intracellulare]	100	98.7	3.21e-51

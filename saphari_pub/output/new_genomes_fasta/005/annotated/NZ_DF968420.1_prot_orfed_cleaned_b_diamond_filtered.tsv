@@ -1,0 +1,16 @@
+NZ_DF968420.1_1|335|985|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.710	WP_059423435.1 DNA-3-methyladenine glycosylase [Streptomyces azureus]	100	99.5	1.80e-156
+NZ_DF968420.1_2|1131|1913|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.660	WP_059423437.1 sporulation protein [Streptomyces azureus]	100	99.6	4.93e-185
+NZ_DF968420.1_3|1967|2506|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.715	WP_059423438.1 YbhB/YbcL family Raf kinase inhibitor-like protein [Streptomyces azureus]	100	99.4	2.64e-133
+NZ_DF968420.1_4|2717|3223|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.704	WP_059423440.1 HNH endonuclease [Streptomyces azureus]	100	99.4	5.85e-118
+NZ_DF968420.1_5|3288|4247|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.668	WP_356031028.1 SPFH domain-containing protein [Streptomyces coeruleorubidus]	100	99.7	8.04e-156
+NZ_DF968420.1_6|4380|4811|-1|ID=1_6;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.694	WP_059423444.1 NfeD family protein [Streptomyces azureus]	100	99.3	2.71e-86
+NZ_DF968420.1_7|4907|5704|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.699	WP_059423446.1 MULTISPECIES: ABC transporter ATP-binding protein [Streptomyces]	100	99.6	2.17e-186
+NZ_DF968420.1_8|5947|6651|1|ID=1_8;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.760	WP_059423448.1 hypothetical protein [Streptomyces azureus]	99.6	99.6	1.67e-149
+NZ_DF968420.1_9|6844|7086|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.708	WP_059423450.1 chaplin [Streptomyces azureus]	100	98.8	8.04e-45
+NZ_DF968420.1_10|7243|7884|-1|ID=1_10;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.693	WP_059423452.1 response regulator [Streptomyces azureus]	100	99.5	1.78e-141
+NZ_DF968420.1_11|7877|9055|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.729	WP_059423454.1 GAF domain-containing sensor histidine kinase [Streptomyces azureus]	100	99.7	2.07e-273
+NZ_DF968420.1_12|9291|9989|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.763	WP_059423456.1 SDR family NAD(P)-dependent oxidoreductase [Streptomyces azureus]	100	99.6	2.40e-153
+NZ_DF968420.1_13|9986|11029|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.752	WP_059423458.1 S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Streptomyces azureus]	100	99.7	8.38e-248
+NZ_DF968420.1_14|11373|12101|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.664	WP_059423459.1 transglycosylase SLT domain-containing protein [Streptomyces azureus]	100	99.6	1.97e-141
+NZ_DF968420.1_15|12205|14760|-1|ID=1_15;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.692	WP_174523394.1 ABC transporter ATP-binding protein/permease [Streptomyces azureus]	99.9	99.4	0.0
+NZ_DF968420.1_16|14992|16404|1|ID=1_16;partial=01;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.747	WP_059423462.1 streptophobe family protein, partial [Streptomyces azureus]	100	100	1.65e-312

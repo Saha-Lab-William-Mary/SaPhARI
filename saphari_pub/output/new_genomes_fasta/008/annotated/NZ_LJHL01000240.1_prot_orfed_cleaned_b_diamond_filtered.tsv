@@ -1,0 +1,9 @@
+NZ_LJHL01000240.1_1|358|810|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.634	WP_007172211.1 MULTISPECIES: MaoC/PaaZ C-terminal domain-containing protein [Mycobacteriaceae]	100	99.3	9.70e-106
+NZ_LJHL01000240.1_2|825|1337|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.639	WP_065133746.1 FAS1-like dehydratase domain-containing protein [Mycobacterium gordonae]	97.1	99.4	2.57e-122
+NZ_LJHL01000240.1_3|1334|1669|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.643	WP_007172213.1 MULTISPECIES: AtuA-related protein [Mycobacteriaceae]	100	99.1	6.40e-72
+NZ_LJHL01000240.1_4|1656|3047|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.664	WP_033721564.1 MULTISPECIES: acyclic terpene utilization AtuA family protein [Mycobacteriaceae]	100	99.8	0.0
+NZ_LJHL01000240.1_5|3044|3217|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.718	WP_007172215.1 MULTISPECIES: hypothetical protein [Mycobacteriaceae]	100	98.3	3.49e-29
+NZ_LJHL01000240.1_6|3674|4828|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.622	WP_007172216.1 MULTISPECIES: acyl-CoA dehydrogenase family protein [Mycobacteriaceae]	100	99.7	3.32e-275
+NZ_LJHL01000240.1_7|4788|6056|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.618	WP_007172217.1 MULTISPECIES: thiolase family protein [Mycobacterium]	100	99.8	5.22e-305
+NZ_LJHL01000240.1_8|6053|6457|1|ID=1_8;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.593	WP_198528417.1 MULTISPECIES: Zn-ribbon domain-containing OB-fold protein [unclassified Mycobacteroides]	100	99.3	9.74e-96
+NZ_LJHL01000240.1_9|6509|6649|1|ID=1_9;partial=01;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.603	WP_157679851.1 MULTISPECIES: transposase [Mycobacterium]	100	100	8.13e-24

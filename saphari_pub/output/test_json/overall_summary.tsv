@@ -1,2 +1,2 @@
 root	total_output_tsvs_seen	TP	FP	FN	TN	precision	recall	f1
-/sciclone/scr10/ncnallapaneni/saphari_pub/output/test_json	834	124	12	15	683	0.911765	0.892086	0.901818
+/sciclone/scr10/ncnallapaneni/saphari_pub/output/test_json	834	133	21	6	674	0.863636	0.956835	0.90785

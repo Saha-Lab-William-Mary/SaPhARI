@@ -11,7 +11,7 @@ CFPICI REGION 1 - EcCI144	Core	18	13595	13894	1	CORE	100	99.0	2.77e-65	PROTEIN: 
 CFPICI REGION 1 - EcCI144	Core	19	13894	14337	1	CORE	100	99.3	1.97e-108	PROTEIN: WP_021538170.1 MULTISPECIES: HNH endonuclease signature motif containing protein [Enterobacteriaceae]
 CFPICI REGION 1 - EcCI144	Core	20	14330	14482	1	WP_001547822.1	100	98.0	5.00e-26	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
 CFPICI REGION 1 - EcCI144	Core	21	14464	14655	1	WP_126066294.1	91.9	96.9	4.01e-35	terminase, partial [Klebsiella pneumoniae]
-CFPICI REGION 1 - EcCI144	Core	22	14613	14969	1	CORE	100	99.2	1.21e-77	PROTEIN: WP_000113647.1 MULTISPECIES: phage terminase small subunit P27 family [Gammaproteobacteria]
+CFPICI REGION 1 - EcCI144	Core	22	14613	14969	1	WP_000113647.1	100	99.2	1.21e-77	MULTISPECIES: phage terminase small subunit P27 family [Gammaproteobacteria]
 CFPICI REGION 1 - EcCI144	Core	23	14953	16614	1	CORE	100	99.8	0.0	PROTEIN: WP_001547819.1 MULTISPECIES: terminase large subunit [Enterobacteriaceae]
 CFPICI REGION 1 - EcCI144	Downstream	24	16765	17073	1	WP_001547818.1	100	99.0	2.32e-72	MULTISPECIES: DUF3892 domain-containing protein [Enterobacterales]
 CFPICI REGION 1 - EcCI144	Downstream	25	17231	17527	-1	WP_000462905.1	100	99.0	1.96e-60	MULTISPECIES: DNA-binding transcriptional regulator Fis [Bacteria]

@@ -1,0 +1,9 @@
+NZ_LJHL01000218.1_1|3|146|-1|ID=1_1;partial=10;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.681	WP_152978974.1 PPE domain-containing protein, partial [Mycobacterium intracellulare]	100	100	2.85e-24
+NZ_LJHL01000218.1_2|523|1617|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.648	WP_054586231.1 cation diffusion facilitator family transporter [Mycobacterium intracellulare]	100	99.7	3.15e-247
+NZ_LJHL01000218.1_3|1614|1970|-1|ID=1_3;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.639	WP_042910230.1 ArsR/SmtB family transcription factor [Mycobacterium intracellulare]	100	98.3	1.83e-73
+NZ_LJHL01000218.1_4|2558|2848|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.567	WP_042910231.1 metal-sensitive transcriptional regulator [Mycobacterium intracellulare]	100	99.0	3.30e-58
+NZ_LJHL01000218.1_5|3337|3687|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.624	WP_085270640.1 hypothetical protein [Mycobacterium parmense]	40.4	44.4	2.76e-05
+NZ_LJHL01000218.1_6|3758|4162|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.602	WP_225336745.1 DUF732 domain-containing protein [Mycobacterium intracellulare]	99.3	99.3	2.46e-85
+NZ_LJHL01000218.1_7|4467|4823|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.608	WP_087139696.1 hypothetical protein [Mycobacterium intracellulare]	100	99.2	2.43e-77
+NZ_LJHL01000218.1_8|4959|5384|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.603	WP_072501257.1 DUF4189 domain-containing protein [Mycobacterium intracellulare]	100	99.3	3.60e-99
+NZ_LJHL01000218.1_9|5703|6011|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.667	WP_216638641.1 IS110 family transposase [Mycobacterium colombiense]	79.1	41.7	2.03e-11

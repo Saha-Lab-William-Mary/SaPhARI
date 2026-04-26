@@ -1,0 +1,7 @@
+NZ_LQOO01000099.1_1|2|2191|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.618	WP_308011497.1 helix-turn-helix domain-containing protein [Mycobacterium intracellulare]	99.9	94.9	0.0
+NZ_LQOO01000099.1_2|2191|3366|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.585	WP_080691160.1 AAA family ATPase [Mycobacterium intracellulare]	100	99.2	6.04e-281
+NZ_LQOO01000099.1_3|3442|5982|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.645	WP_074021449.1 TniQ family protein [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LQOO01000099.1_4|6280|7119|-1|ID=1_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.662	WP_225336776.1 hypothetical protein [Mycobacterium intracellulare]	100	99.6	2.04e-207
+NZ_LQOO01000099.1_5|7328|7906|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.668	WP_065125688.1 ATP-binding protein [Mycobacterium colombiense]	93.3	84.5	5.28e-107
+NZ_LQOO01000099.1_6|7860|8738|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.691	WP_065125688.1 ATP-binding protein [Mycobacterium colombiense]	96.2	99.3	7.13e-189
+NZ_LQOO01000099.1_7|9183|9695|-1|ID=1_7;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.618	WP_289115811.1 hypothetical protein, partial [Mycobacterium intracellulare]	97.6	24.6	4.62e-19

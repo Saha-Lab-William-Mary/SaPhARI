@@ -1,0 +1,11 @@
+NZ_OGTW02000062.1_1|2|181|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.389	WP_148113555.1 transposase, partial [Lactococcus lactis]	100	100	1.86e-34
+NZ_OGTW02000062.1_2|405|1940|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.391	WP_058219368.1 hypothetical protein [Lactococcus lactis]	100	99.8	0.0
+NZ_OGTW02000062.1_3|1956|3605|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.381	WP_058219367.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000062.1_4|3782|4900|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.316	WP_058221681.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.7	9.65e-262
+NZ_OGTW02000062.1_5|4909|5526|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.282	WP_058219365.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.5	2.51e-128
+NZ_OGTW02000062.1_7|5911|6825|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.323	WP_058219364.1 MULTISPECIES: helix-turn-helix transcriptional regulator [Lactococcus]	100	99.7	9.07e-219
+NZ_OGTW02000062.1_8|7005|7979|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.339	WP_221885531.1 zinc ribbon domain-containing protein [Lactococcus lactis]	100	99.7	3.22e-213
+NZ_OGTW02000062.1_9|7999|8895|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.352	WP_058219363.1 zinc ribbon domain-containing protein [Lactococcus lactis]	100	99.7	8.78e-182
+NZ_OGTW02000062.1_10|8905|9615|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.338	WP_058219362.1 MULTISPECIES: zinc-ribbon domain-containing protein [Lactococcus]	100	99.6	7.16e-104
+NZ_OGTW02000062.1_11|9930|10136|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.396	WP_233332582.1 Rep family protein [Streptococcus sp. XMC]	82.9	98.6	1.63e-27
+NZ_OGTW02000062.1_12|10139|10378|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.408	WP_058219360.1 MULTISPECIES: FtsK/SpoIIIE domain-containing protein [Lactococcus]	100	98.8	1.22e-39

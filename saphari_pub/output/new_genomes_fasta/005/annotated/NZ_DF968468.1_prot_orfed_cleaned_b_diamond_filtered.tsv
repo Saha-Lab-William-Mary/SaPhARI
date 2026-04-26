@@ -1,0 +1,8 @@
+NZ_DF968468.1_1|99|1625|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.691	WP_059423818.1 NCS1 family nucleobase:cation symporter-1 [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968468.1_2|1762|2784|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.689	WP_059423819.1 TIGR03842 family LLM class F420-dependent oxidoreductase [Streptomyces azureus]	100	99.7	1.24e-250
+NZ_DF968468.1_3|2796|4196|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.688	WP_059423821.1 dihydropyrimidinase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968468.1_4|4288|5130|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.671	WP_059423822.1 nitrilase-related carbon-nitrogen hydrolase [Streptomyces azureus]	100	99.6	1.14e-209
+NZ_DF968468.1_5|5286|6860|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.754	WP_059423823.1 PucR family transcriptional regulator [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968468.1_6|6889|8175|-1|ID=1_6;partial=00;start_type=GTG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.713	WP_059423825.1 aspartate aminotransferase family protein [Streptomyces azureus]	100	99.8	8.13e-312
+NZ_DF968468.1_7|8172|9014|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.679	WP_059423827.1 nitrilase-related carbon-nitrogen hydrolase [Streptomyces azureus]	100	99.6	3.40e-211
+NZ_DF968468.1_8|9184|9732|-1|ID=1_8;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.778	WP_059423829.1 hypothetical protein, partial [Streptomyces azureus]	100	99.5	2.21e-62

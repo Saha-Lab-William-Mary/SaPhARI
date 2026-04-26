@@ -3,7 +3,7 @@ CFPICI REGION 1 - SeCIDerby	Upstream	1	2	73	1	WP_289484213.1	100	95.8	2.09e-06	t
 CFPICI REGION 1 - SeCIDerby	Upstream	2	99	395	1	WP_000462905.1	100	99.0	1.96e-60	MULTISPECIES: DNA-binding transcriptional regulator Fis [Bacteria]
 CFPICI REGION 1 - SeCIDerby	Upstream	3	553	861	-1	WP_001547818.1	100	99.0	2.32e-72	MULTISPECIES: DUF3892 domain-containing protein [Enterobacterales]
 CFPICI REGION 1 - SeCIDerby	Core	4	1012	2673	-1	CORE	100	99.8	0.0	PROTEIN: WP_046275061.1 MULTISPECIES: terminase large subunit [Enterobacteriaceae]
-CFPICI REGION 1 - SeCIDerby	Core	5	2657	3013	-1	CORE	100	99.2	1.21e-77	PROTEIN: WP_000113647.1 MULTISPECIES: phage terminase small subunit P27 family [Gammaproteobacteria]
+CFPICI REGION 1 - SeCIDerby	Core	5	2657	3013	-1	WP_000113647.1	100	99.2	1.21e-77	MULTISPECIES: phage terminase small subunit P27 family [Gammaproteobacteria]
 CFPICI REGION 1 - SeCIDerby	Core	6	3144	3296	-1	WP_224085195.1	96.0	98.0	5.86e-25	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
 CFPICI REGION 1 - SeCIDerby	Core	7	3289	3732	-1	CORE	100	99.3	6.87e-109	PROTEIN: WP_044704018.1 MULTISPECIES: HNH endonuclease signature motif containing protein [Enterobacteriaceae]
 CFPICI REGION 1 - SeCIDerby	Core	8	3732	4025	-1	CORE	100	99.0	1.97e-64	PROTEIN: WP_000123150.1 MULTISPECIES: head-tail connector protein [Enterobacteriaceae]

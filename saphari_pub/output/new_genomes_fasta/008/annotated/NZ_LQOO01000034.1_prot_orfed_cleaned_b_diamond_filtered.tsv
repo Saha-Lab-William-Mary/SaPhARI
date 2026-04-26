@@ -1,0 +1,16 @@
+NZ_LQOO01000034.1_1|250|951|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.620	WP_033721584.1 MULTISPECIES: TetR/AcrR family transcriptional regulator [Mycobacteriaceae]	100	99.6	3.58e-160
+NZ_LQOO01000034.1_2|1273|1716|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.608	WP_007172254.1 MULTISPECIES: SRPBCC family protein [Mycobacteriaceae]	100	99.3	6.05e-99
+NZ_LQOO01000034.1_3|1783|1950|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.625	WP_073695328.1 transposase, partial [Mycobacterium sp. ST-F2]	94.4	64.3	4.54e-14
+NZ_LQOO01000034.1_4|2069|2848|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.687	WP_007172252.1 MULTISPECIES: IS256 family transposase [Mycobacterium]	100	99.6	3.91e-186
+NZ_LQOO01000034.1_5|3014|3409|-1|ID=1_5;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.677	WP_197083502.1 transposase, partial [Mycobacterium nebraskense]	100	52.3	8.60e-35
+NZ_LQOO01000034.1_6|3889|4725|-1|ID=1_6;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.657	WP_225343452.1 IS3 family transposase, partial [Mycobacterium avium]	99.6	99.6	6.35e-203
+NZ_LQOO01000034.1_7|4803|5147|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.641	WP_235677901.1 transposase [Mycolicibacterium sarraceniae]	94.7	99.1	8.30e-65
+NZ_LQOO01000034.1_8|5199|5639|-1|ID=1_8;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.628	WP_431505328.1 IS110 family transposase [Mycobacterium sp.]	90.3	98.0	4.06e-78
+NZ_LQOO01000034.1_9|5685|6080|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.614	WP_431505328.1 IS110 family transposase [Mycobacterium sp.]	95.3	96.2	6.84e-80
+NZ_LQOO01000034.1_10|6432|6599|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.619	WP_207569377.1 transposase, partial [Mycolicibacterium parafortuitum]	86.0	89.3	7.67e-22
+NZ_LQOO01000034.1_11|6819|8384|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.575	WP_007172240.1 MULTISPECIES: flavin-containing monooxygenase [Mycobacteriaceae]	100	99.8	0.0
+NZ_LQOO01000034.1_12|8430|9320|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.603	WP_172975555.1 MULTISPECIES: metal-dependent hydrolase [Mycobacteriaceae]	100	99.7	1.98e-218
+NZ_LQOO01000034.1_14|10114|11352|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=11-12bp;gc_cont=0.682	WP_007172236.1 MULTISPECIES: IS110 family transposase [Mycobacteriaceae]	100	99.8	1.11e-294
+NZ_LQOO01000034.1_15|11292|11939|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667	WP_429429018.1 MULTISPECIES: IS3 family transposase [unclassified Nocardia]	64.2	24.5	1.74e-09
+NZ_LQOO01000034.1_16|12065|13852|1|ID=1_16;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.635	WP_046186391.1 MULTISPECIES: group II intron reverse transcriptase/maturase [Mycobacteriaceae]	100	99.8	0.0
+NZ_LQOO01000034.1_17|14119|14715|1|ID=1_17;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.652	WP_075362194.1 transposase [Mycobacterium avium]	100	100	2.25e-142

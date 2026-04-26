@@ -1,0 +1,9 @@
+NZ_LQOO01000083.1_1|3|326|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.648	WP_142263550.1 IS110 family transposase, partial [Mycobacterium intracellulare]	100	100	4.03e-69
+NZ_LQOO01000083.1_2|566|1618|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.645	WP_192579510.1 MULTISPECIES: IS110 family transposase [Mycobacterium]	100	99.7	7.67e-247
+NZ_LQOO01000083.1_3|2116|2232|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.744	WP_172669197.1 class I SAM-dependent methyltransferase, partial [Mycobacterium tuberculosis]	78.8	84.6	1.78e-05
+NZ_LQOO01000083.1_4|2229|3041|1|ID=1_4;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.643	WP_083088261.1 SAM-dependent methyltransferase [Mycobacterium noviomagense]	66.9	99.6	3.24e-126
+NZ_LQOO01000083.1_5|3049|3282|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.684	WP_065015714.1 class I SAM-dependent methyltransferase [Mycobacterium kyorinense]	81.1	67.9	5.97e-15
+NZ_LQOO01000083.1_6|4056|4643|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.658	WP_292976672.1 DNA-binding protein [Mycobacterium sp.]	94.9	99.5	3.37e-128
+NZ_LQOO01000083.1_7|4640|5305|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.668	WP_047322046.1 MULTISPECIES: RES family NAD+ phosphorylase [Mycobacterium]	100	99.5	2.19e-164
+NZ_LQOO01000083.1_8|5421|5690|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.633	WP_047322047.1 MULTISPECIES: type II toxin-antitoxin system Phd/YefM family antitoxin [Mycobacteriaceae]	100	98.9	1.11e-55
+NZ_LQOO01000083.1_9|5687|5968|1|ID=1_9;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.621	WP_052955269.1 MULTISPECIES: type II toxin-antitoxin system RelE family toxin [Mycobacterium]	100	98.9	2.36e-61

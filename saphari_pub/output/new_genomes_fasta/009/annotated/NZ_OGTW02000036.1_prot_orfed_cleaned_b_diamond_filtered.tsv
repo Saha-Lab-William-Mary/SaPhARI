@@ -1,0 +1,7 @@
+NZ_OGTW02000036.1_1|2|466|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.411	WP_127093745.1 IS6-like element ISS1N family transposase, partial [Lactococcus lactis]	100	99.4	5.56e-107
+NZ_OGTW02000036.1_2|522|2543|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.343	WP_127093746.1 MobQ family relaxase [Lactococcus lactis]	100	99.9	0.0
+NZ_OGTW02000036.1_3|2791|3072|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.245	WP_015081729.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	98.9	1.17e-52
+NZ_OGTW02000036.1_4|3078|3455|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.241	WP_127093747.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.2	3.78e-73
+NZ_OGTW02000036.1_5|3476|3637|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=15bp;gc_cont=0.241	WP_021215412.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	98.1	5.57e-31
+NZ_OGTW02000036.1_6|3638|4864|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=4bp;gc_cont=0.363	WP_015081727.1 MULTISPECIES: RepB family plasmid replication initiator protein [Lactococcus]	100	94.1	1.01e-271
+NZ_OGTW02000036.1_7|5376|5492|-1|ID=1_7;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.316	WP_163688032.1 helix-turn-helix domain-containing protein, partial [Lactococcus lactis]	100	97.4	2.51e-17

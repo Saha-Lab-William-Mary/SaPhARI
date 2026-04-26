@@ -1,0 +1,22 @@
+NZ_LJHL01000179.1_1|1|303|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.604	WP_152978964.1 L,D-transpeptidase family protein, partial [Mycobacterium intracellulare]	100	99.0	9.92e-73
+NZ_LJHL01000179.1_2|359|640|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.578	WP_236722055.1 tryptophanase [Mycobacterium avium]	80.6	98.9	8.94e-48
+NZ_LJHL01000179.1_3|754|1272|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.632	WP_051445806.1 MULTISPECIES: general stress protein [Mycobacterium]	100	99.4	5.15e-114
+NZ_LJHL01000179.1_4|1568|2083|1|ID=1_4;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.688	WP_300574967.1 DoxX family membrane protein [Mycobacterium sp.]	74.1	94.2	2.10e-85
+NZ_LJHL01000179.1_5|2668|5526|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.628	WP_051445807.1 MMPL/RND family transporter [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000179.1_6|5523|5954|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.604	WP_042910275.1 MULTISPECIES: MmpS family transport accessory protein [Mycobacterium]	100	99.3	2.72e-95
+NZ_LJHL01000179.1_7|6126|6455|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.618	WP_372509387.1 metal-sensitive transcriptional regulator [Mycobacterium intracellulare]	99.1	97.3	1.61e-66
+NZ_LJHL01000179.1_8|6637|7254|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.659	WP_051445808.1 MULTISPECIES: mycothiol-dependent nitroreductase Rv2466c family protein [Mycobacterium]	100	99.5	8.89e-138
+NZ_LJHL01000179.1_9|7278|7382|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.686	WP_167544946.1 hypothetical protein [Mycobacterium gordonae]	71.0	88.6	3.84e-08
+NZ_LJHL01000179.1_10|7456|8637|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.633	WP_042910276.1 MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Mycobacterium]	100	99.7	2.89e-285
+NZ_LJHL01000179.1_11|8855|9427|1|ID=1_11;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.682	WP_042910277.1 MULTISPECIES: recombinase family protein [Mycobacterium]	100	99.5	7.62e-118
+NZ_LJHL01000179.1_12|9436|9996|1|ID=1_12;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.624	WP_083651534.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.5	3.57e-130
+NZ_LJHL01000179.1_13|10191|11231|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.688	WP_042910278.1 MULTISPECIES: ERCC4 domain-containing protein [Mycobacterium]	99.7	95.4	2.07e-237
+NZ_LJHL01000179.1_14|11456|11614|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.660	WP_154074437.1 MULTISPECIES: hypothetical protein [Mycobacteriaceae]	100	98.1	1.23e-29
+NZ_LJHL01000179.1_15|11826|12527|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.658	WP_054585403.1 MULTISPECIES: ParA family protein [Mycobacterium]	100	99.6	3.20e-163
+NZ_LJHL01000179.1_16|12527|12952|1|ID=1_16;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.629	WP_169824281.1 ParA family protein [Mycobacterium intracellulare]	100	99.3	4.86e-58
+NZ_LJHL01000179.1_17|13271|14017|1|ID=1_17;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.655	WP_042910280.1 MULTISPECIES: NYN domain-containing protein [Mycobacterium]	100	99.6	1.42e-187
+NZ_LJHL01000179.1_18|14270|14698|1|ID=1_18;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.657	WP_306249094.1 toxin-antitoxin system [Mycobacterium sp. TY815]	54.4	39.9	1.35e-07
+NZ_LJHL01000179.1_19|15006|16184|1|ID=1_19;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.757	WP_154074439.1 MULTISPECIES: helix-turn-helix domain-containing protein [Mycobacterium]	100	99.7	5.63e-239
+NZ_LJHL01000179.1_20|16181|16333|-1|ID=1_20;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.686	WP_154074436.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	98.0	2.18e-29
+NZ_LJHL01000179.1_21|16983|19817|1|ID=1_21;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.689	WP_042910282.1 MobF family relaxase [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000179.1_22|20184|21029|1|ID=1_22;partial=01;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.643	WP_207795610.1 L,D-transpeptidase, partial [Serratia marcescens]	98.2	100	8.91e-190

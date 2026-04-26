@@ -1,0 +1,9 @@
+NZ_LJHL01000155.1_1|54|257|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.627	WP_080691110.1 MULTISPECIES: helix-turn-helix domain-containing protein [Mycobacterium]	100	98.5	6.83e-38
+NZ_LJHL01000155.1_2|405|1274|1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.649	WP_226069254.1 MULTISPECIES: 2-keto-4-pentenoate hydratase [Mycobacterium]	99.6	94.1	5.17e-184
+NZ_LJHL01000155.1_3|2418|3317|1|ID=1_3;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.633	WP_042910185.1 MULTISPECIES: alpha/beta fold hydrolase [Mycobacterium]	100	99.7	1.19e-216
+NZ_LJHL01000155.1_4|3329|4636|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.597	WP_054585633.1 aromatic ring-hydroxylating oxygenase subunit alpha [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LJHL01000155.1_5|4651|5154|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.605	WP_226069255.1 MULTISPECIES: aromatic-ring-hydroxylating dioxygenase subunit beta [Mycobacterium]	100	99.4	8.31e-113
+NZ_LJHL01000155.1_6|5191|6423|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.613	WP_042910187.1 Gfo/Idh/MocA family protein [Mycobacterium intracellulare]	100	99.8	1.67e-304
+NZ_LJHL01000155.1_7|6472|7416|1|ID=1_7;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=3-4bp;gc_cont=0.567	WP_054585634.1 MULTISPECIES: extradiol ring-cleavage dioxygenase [Mycobacterium]	100	99.7	4.57e-233
+NZ_LJHL01000155.1_8|7711|8106|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.601	WP_042910189.1 MULTISPECIES: DUF732 domain-containing protein [Mycobacterium]	100	99.2	1.40e-89
+NZ_LJHL01000155.1_9|8142|8507|-1|ID=1_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.626	WP_232530539.1 integrase core domain-containing protein, partial [Mycobacterium intracellulare]	100	99.2	1.90e-80

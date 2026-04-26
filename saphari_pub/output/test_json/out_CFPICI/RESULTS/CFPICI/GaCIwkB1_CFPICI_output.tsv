@@ -9,7 +9,7 @@ CFPICI REGION 1 - GaCIwkB1	Core	13	9524	10723	1	CORE	100	99.8	2.23e-292	PROTEIN:
 CFPICI REGION 1 - GaCIwkB1	Core	14	10720	11052	1	CORE	100	99.1	4.35e-74	PROTEIN: WP_025315439.1 MULTISPECIES: phage head closure protein [Orbaceae]
 CFPICI REGION 1 - GaCIwkB1	Core	15	11045	11338	1	CORE	100	99.0	1.14e-63	PROTEIN: WP_025315440.1 MULTISPECIES: head-tail connector protein [Orbaceae]
 CFPICI REGION 1 - GaCIwkB1	Core	16	11346	11714	1	CORE	100	99.2	2.48e-90	PROTEIN: WP_025315441.1 MULTISPECIES: HNH endonuclease signature motif containing protein [Gilliamella]
-CFPICI REGION 1 - GaCIwkB1	Core	17	11857	12201	1	CORE	100	99.1	1.68e-73	PROTEIN: WP_025315442.1 MULTISPECIES: phage terminase small subunit P27 family [Orbaceae]
+CFPICI REGION 1 - GaCIwkB1	Core	17	11857	12201	1	WP_025315442.1	100	99.1	1.68e-73	MULTISPECIES: phage terminase small subunit P27 family [Orbaceae]
 CFPICI REGION 1 - GaCIwkB1	Core	18	12179	13852	1	CORE	99.8	99.5	0.0	PROTEIN: WP_025315443.1 terminase large subunit [Gilliamella apicola]
 CFPICI REGION 1 - GaCIwkB1	Downstream	19	13833	14156	-1	WP_025315444.1	100	99.1	5.37e-69	MULTISPECIES: hypothetical protein [Gilliamella]
 CFPICI REGION 1 - GaCIwkB1	Downstream	20	14686	15018	1	WP_025315445.1	100	99.1	3.58e-64	DMT family transporter [Gilliamella apicola]

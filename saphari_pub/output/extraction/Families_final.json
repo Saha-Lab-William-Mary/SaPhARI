@@ -3,940 +3,1200 @@
     "title": "CFPICI",
     "proteins": [
       [
-        "MULTISPECIES: head-tail connector protein",
-        "WP_000123150.1 MULTISPECIES: head-tail connector protein",
-        "WP_000134107.1 MULTISPECIES: head-tail connector protein",
-        "WP_000134108.1 MULTISPECIES: head-tail connector protein",
-        "WP_000134109.1 MULTISPECIES: head-tail connector protein",
-        "WP_000134110.1 MULTISPECIES: head-tail connector protein",
-        "WP_000134113.1 MULTISPECIES: head-tail connector protein",
-        "WP_001287546.1 MULTISPECIES: head-tail connector protein",
-        "WP_001547824.1 MULTISPECIES: head-tail connector protein",
-        "WP_001650759.1 MULTISPECIES: head-tail connector protein",
-        "WP_003574397.1 MULTISPECIES: head-tail connector protein",
-        "WP_003586097.1 MULTISPECIES: head-tail connector protein",
-        "WP_004245347.1 MULTISPECIES: head-tail connector protein",
-        "WP_012425025.1 MULTISPECIES: head-tail connector protein",
-        "WP_023323295.1 MULTISPECIES: head-tail connector protein",
-        "WP_025315440.1 MULTISPECIES: head-tail connector protein",
-        "WP_025861186.1 MULTISPECIES: head-tail connector protein",
-        "WP_032660536.1 MULTISPECIES: head-tail connector protein",
-        "WP_037558410.1 MULTISPECIES: head-tail connector protein",
-        "WP_038679600.1 MULTISPECIES: head-tail connector protein",
-        "WP_063844875.1 MULTISPECIES: head-tail connector protein",
-        "WP_071687082.1 MULTISPECIES: head-tail connector protein"
+        "terminase large subunit",
+        "WP_000127869.1",
+        "WP_000127874.1",
+        "WP_000127880.1",
+        "WP_000127881.1",
+        "WP_000127889.1",
+        "WP_000127891.1",
+        "WP_000127893.1",
+        "WP_000127894.1",
+        "WP_000127897.1",
+        "WP_000127901.1",
+        "WP_001547819.1",
+        "WP_001576610.1",
+        "WP_001650758.1",
+        "WP_004150955.1",
+        "WP_004245343.1",
+        "WP_012423621.1",
+        "WP_012492218.1",
+        "WP_014570232.1",
+        "WP_019077807.1",
+        "WP_021292931.1",
+        "WP_025315443.1",
+        "WP_031914421.1",
+        "WP_032326831.1",
+        "WP_038679608.1",
+        "WP_045517675.1",
+        "WP_046275061.1",
+        "WP_048253837.1",
+        "WP_048618022.1",
+        "WP_049409526.1",
+        "WP_053017510.1",
+        "WP_058654936.1",
+        "WP_065805094.1",
+        "WP_074434940.1",
+        "WP_077139444.1",
+        "WP_086392326.1",
+        "WP_095370788.1",
+        "WP_101999632.1",
+        "WP_103170272.1",
+        "WP_103301586.1",
+        "WP_103848548.1",
+        "WP_107642694.1",
+        "WP_128875153.1",
+        "WP_135023961.1",
+        "WP_149608041.1",
+        "WP_181597176.1",
+        "WP_198051934.1",
+        "WP_225230786.1",
+        "WP_232159793.1",
+        "WP_275150245.1",
+        "WP_334325051.1"
       ],
       [
         "phage portal protein",
-        "phage portal protein, partial",
-        "WP_000171117.1 phage portal protein",
-        "WP_000267600.1 phage portal protein",
-        "WP_000267601.1 phage portal protein",
-        "WP_000267616.1 phage portal protein",
-        "WP_004245349.1 phage portal protein",
-        "WP_014570233.1 phage portal protein",
-        "WP_025315438.1 phage portal protein",
-        "WP_038679595.1 phage portal protein",
-        "WP_045519151.1 phage portal protein",
-        "WP_048253842.1 phage portal protein",
-        "WP_049409516.1 phage portal protein",
-        "WP_053265105.1 phage portal protein",
-        "WP_058820230.1 phage portal protein",
-        "WP_060579290.1 phage portal protein",
-        "WP_086392271.1 phage portal protein",
-        "WP_095370795.1 phage portal protein",
-        "WP_103170278.1 phage portal protein",
-        "WP_103301591.1 phage portal protein",
-        "WP_107596518.1 phage portal protein",
-        "WP_107642690.1 phage portal protein",
-        "WP_135023944.1 phage portal protein",
-        "WP_136499213.1 phage portal protein",
-        "WP_144413896.1 phage portal protein",
-        "WP_162248835.1 phage portal protein",
-        "WP_168177832.1 phage portal protein",
-        "WP_179778328.1 phage portal protein, partial",
-        "WP_181655105.1 phage portal protein",
-        "WP_191711191.1 phage portal protein, partial",
-        "WP_224732318.1 phage portal protein",
-        "WP_235601753.1 phage portal protein",
-        "WP_249546630.1 phage portal protein, partial",
-        "WP_260390058.1 phage portal protein",
-        "WP_389539698.1 phage portal protein",
-        "WP_426760776.1 phage portal protein"
-      ],
-      [
-        "MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_000089568.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_000113645.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_000113647.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_001137908.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_001353110.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_004174262.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_004245345.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_005879180.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_010489224.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_014570231.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_019077808.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_025315442.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_040211070.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_065805092.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_071692247.1 MULTISPECIES: phage terminase small subunit P27 family",
-        "WP_128875152.1 MULTISPECIES: phage terminase small subunit P27 family"
-      ],
-      [
-        "terminase large subunit",
-        "WP_000127874.1 terminase large subunit",
-        "WP_000127880.1 terminase large subunit",
-        "WP_000127891.1 terminase large subunit",
-        "WP_000127893.1 terminase large subunit",
-        "WP_000127897.1 terminase large subunit",
-        "WP_001576610.1 terminase large subunit",
-        "WP_014570232.1 terminase large subunit",
-        "WP_021292931.1 terminase large subunit",
-        "WP_025315443.1 terminase large subunit",
-        "WP_031914421.1 terminase large subunit",
-        "WP_032326831.1 terminase large subunit",
-        "WP_038679608.1 terminase large subunit",
-        "WP_045517675.1 terminase large subunit",
-        "WP_048253837.1 terminase large subunit",
-        "WP_048618022.1 terminase large subunit",
-        "WP_049409526.1 terminase large subunit",
-        "WP_053017510.1 terminase large subunit",
-        "WP_074434940.1 terminase large subunit",
-        "WP_086392326.1 terminase large subunit",
-        "WP_095370788.1 terminase large subunit",
-        "WP_101999632.1 terminase large subunit",
-        "WP_103170272.1 terminase large subunit",
-        "WP_103301586.1 terminase large subunit",
-        "WP_107642694.1 terminase large subunit",
-        "WP_128875153.1 terminase large subunit",
-        "WP_135023961.1 terminase large subunit",
-        "WP_181597176.1 terminase large subunit",
-        "WP_198051934.1 terminase large subunit",
-        "WP_225230786.1 terminase large subunit",
-        "WP_232159793.1 terminase large subunit",
-        "WP_334325051.1 terminase large subunit"
-      ],
-      [
-        "MULTISPECIES: HK97 family phage prohead protease",
-        "WP_000504050.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_000504054.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_000504056.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_000798770.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_000798773.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_000848270.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_000987369.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_001547826.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_019077813.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_021214769.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_021538173.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_023195107.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_031914425.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_039128010.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_048618033.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_049007540.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_053017517.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_053026193.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_060579289.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_064138402.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_065805086.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_077139445.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_079773308.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_080783603.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_101999636.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_103360826.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_146877134.1 MULTISPECIES: HK97 family phage prohead protease",
-        "WP_197537132.1 MULTISPECIES: HK97 family phage prohead protease"
-      ],
-      [
-        "MULTISPECIES: phage head closure protein",
-        "WP_001020662.1 MULTISPECIES: phage head closure protein",
-        "WP_001020668.1 MULTISPECIES: phage head closure protein",
-        "WP_001020674.1 MULTISPECIES: phage head closure protein",
-        "WP_001201223.1 MULTISPECIES: phage head closure protein",
-        "WP_001201224.1 MULTISPECIES: phage head closure protein",
-        "WP_003586099.1 MULTISPECIES: phage head closure protein",
-        "WP_004150961.1 MULTISPECIES: phage head closure protein",
-        "WP_004174258.1 MULTISPECIES: phage head closure protein",
-        "WP_004245348.1 MULTISPECIES: phage head closure protein",
-        "WP_012424770.1 MULTISPECIES: phage head closure protein",
-        "WP_012492216.1 MULTISPECIES: phage head closure protein",
-        "WP_021538171.1 MULTISPECIES: phage head closure protein",
-        "WP_025315439.1 MULTISPECIES: phage head closure protein",
-        "WP_048288905.1 MULTISPECIES: phage head closure protein",
-        "WP_049335102.1 MULTISPECIES: phage head closure protein",
-        "WP_058654940.1 MULTISPECIES: phage head closure protein",
-        "WP_065805090.1 MULTISPECIES: phage head closure protein",
-        "WP_071687081.1 MULTISPECIES: phage head closure protein",
-        "WP_103301585.1 MULTISPECIES: phage head closure protein",
-        "WP_103848551.1 MULTISPECIES: phage head closure protein",
-        "WP_135023963.1 MULTISPECIES: phage head closure protein",
-        "WP_135911389.1 MULTISPECIES: phage head closure protein",
-        "WP_149608043.1 MULTISPECIES: phage head closure protein"
-      ],
-      [
-        "phage head closure protein",
-        "WP_001020659.1 phage head closure protein",
-        "WP_001020660.1 phage head closure protein",
-        "WP_001020663.1 phage head closure protein",
-        "WP_001020667.1 phage head closure protein",
-        "WP_001201245.1 phage head closure protein",
-        "WP_031914420.1 phage head closure protein",
-        "WP_045517674.1 phage head closure protein",
-        "WP_049409528.1 phage head closure protein",
-        "WP_095370796.1 phage head closure protein",
-        "WP_103170271.1 phage head closure protein",
-        "WP_119489320.1 phage head closure protein",
-        "WP_154876223.1 phage head closure protein",
-        "WP_191817117.1 phage head closure protein",
-        "WP_225823445.1 phage head closure protein",
-        "WP_235198448.1 phage head closure protein"
-      ],
-      [
-        "MULTISPECIES: phage portal protein",
-        "WP_000267605.1 MULTISPECIES: phage portal protein",
-        "WP_000270251.1 MULTISPECIES: phage portal protein",
-        "WP_000270252.1 MULTISPECIES: phage portal protein",
-        "WP_004150962.1 MULTISPECIES: phage portal protein",
-        "WP_010489222.1 MULTISPECIES: phage portal protein",
-        "WP_012424328.1 MULTISPECIES: phage portal protein",
-        "WP_023195108.1 MULTISPECIES: phage portal protein",
-        "WP_024188217.1 MULTISPECIES: phage portal protein",
-        "WP_032660540.1 MULTISPECIES: phage portal protein",
-        "WP_058654941.1 MULTISPECIES: phage portal protein",
-        "WP_060852487.1 MULTISPECIES: phage portal protein",
-        "WP_065805088.1 MULTISPECIES: phage portal protein",
-        "WP_079773307.1 MULTISPECIES: phage portal protein",
-        "WP_126066255.1 MULTISPECIES: phage portal protein",
-        "WP_232352985.1 MULTISPECIES: phage portal protein"
-      ],
-      [
-        "HNH endonuclease",
-        "WP_005879183.1 HNH endonuclease",
-        "WP_038679603.1 HNH endonuclease",
-        "WP_045517677.1 HNH endonuclease",
-        "WP_086392267.1 HNH endonuclease",
-        "WP_095370790.1 HNH endonuclease",
-        "WP_103170274.1 HNH endonuclease",
-        "WP_103301587.1 HNH endonuclease",
-        "WP_135023954.1 HNH endonuclease",
-        "WP_191817120.1 HNH endonuclease",
-        "WP_224732315.1 HNH endonuclease",
-        "WP_241960862.1 HNH endonuclease",
-        "WP_317134754.1 HNH endonuclease"
+        "WP_000171117.1",
+        "WP_000267600.1",
+        "WP_000267601.1",
+        "WP_000267605.1",
+        "WP_000267616.1",
+        "WP_000270251.1",
+        "WP_000270252.1",
+        "WP_004150962.1",
+        "WP_004245349.1",
+        "WP_010489222.1",
+        "WP_012424328.1",
+        "WP_014570233.1",
+        "WP_023195108.1",
+        "WP_024188217.1",
+        "WP_025315438.1",
+        "WP_032660540.1",
+        "WP_038679595.1",
+        "WP_045519151.1",
+        "WP_048253842.1",
+        "WP_049409516.1",
+        "WP_053265105.1",
+        "WP_058654941.1",
+        "WP_058820230.1",
+        "WP_060579290.1",
+        "WP_060852487.1",
+        "WP_065805088.1",
+        "WP_079773307.1",
+        "WP_086392271.1",
+        "WP_095370795.1",
+        "WP_103170278.1",
+        "WP_103301591.1",
+        "WP_107596518.1",
+        "WP_107642690.1",
+        "WP_126066255.1",
+        "WP_135023944.1",
+        "WP_136499213.1",
+        "WP_144413896.1",
+        "WP_162248835.1",
+        "WP_168177832.1",
+        "WP_179778328.1",
+        "WP_181655105.1",
+        "WP_191711191.1",
+        "WP_224732318.1",
+        "WP_232352985.1",
+        "WP_235601753.1",
+        "WP_249546630.1",
+        "WP_260390058.1",
+        "WP_389539698.1",
+        "WP_426760776.1"
       ],
       [
         "HK97 family phage prohead protease",
-        "WP_000504055.1 HK97 family phage prohead protease",
-        "WP_000504057.1 HK97 family phage prohead protease",
-        "WP_000504062.1 HK97 family phage prohead protease",
-        "WP_000504184.1 HK97 family phage prohead protease",
-        "WP_001475696.1 HK97 family phage prohead protease",
-        "WP_001576607.1 HK97 family phage prohead protease",
-        "WP_004245350.1 HK97 family phage prohead protease",
-        "WP_010905416.1 HK97 family phage prohead protease",
-        "WP_014573416.1 HK97 family phage prohead protease",
-        "WP_025315437.1 HK97 family phage prohead protease",
-        "WP_038679597.1 HK97 family phage prohead protease",
-        "WP_045519150.1 HK97 family phage prohead protease",
-        "WP_048253843.1 HK97 family phage prohead protease",
-        "WP_049409518.1 HK97 family phage prohead protease",
-        "WP_086392270.1 HK97 family phage prohead protease",
-        "WP_095370793.1 HK97 family phage prohead protease",
-        "WP_103170277.1 HK97 family phage prohead protease",
-        "WP_103301590.1 HK97 family phage prohead protease",
-        "WP_128875151.1 HK97 family phage prohead protease",
-        "WP_135023947.1 HK97 family phage prohead protease",
-        "WP_325989646.1 HK97 family phage prohead protease",
-        "WP_349302738.1 HK97 family phage prohead protease"
+        "WP_000504050.1",
+        "WP_000504054.1",
+        "WP_000504055.1",
+        "WP_000504056.1",
+        "WP_000504057.1",
+        "WP_000504062.1",
+        "WP_000504184.1",
+        "WP_000798770.1",
+        "WP_000798773.1",
+        "WP_000848270.1",
+        "WP_000987369.1",
+        "WP_001475696.1",
+        "WP_001547826.1",
+        "WP_001576607.1",
+        "WP_004245350.1",
+        "WP_010905416.1",
+        "WP_014573416.1",
+        "WP_019077813.1",
+        "WP_021214769.1",
+        "WP_021538173.1",
+        "WP_023195107.1",
+        "WP_025315437.1",
+        "WP_031914425.1",
+        "WP_038679597.1",
+        "WP_039128010.1",
+        "WP_045519150.1",
+        "WP_048253843.1",
+        "WP_048618033.1",
+        "WP_049007540.1",
+        "WP_049409518.1",
+        "WP_053017517.1",
+        "WP_053026193.1",
+        "WP_060579289.1",
+        "WP_064138402.1",
+        "WP_065805086.1",
+        "WP_077139445.1",
+        "WP_079773308.1",
+        "WP_080783603.1",
+        "WP_086392270.1",
+        "WP_095370793.1",
+        "WP_101999636.1",
+        "WP_103170277.1",
+        "WP_103301590.1",
+        "WP_103360826.1",
+        "WP_128875151.1",
+        "WP_135023947.1",
+        "WP_146877134.1",
+        "WP_197537132.1",
+        "WP_325989646.1",
+        "WP_349302738.1"
+      ],
+      [
+        "phage head closure protein",
+        "WP_001020659.1",
+        "WP_001020660.1",
+        "WP_001020662.1",
+        "WP_001020663.1",
+        "WP_001020667.1",
+        "WP_001020668.1",
+        "WP_001020674.1",
+        "WP_001201223.1",
+        "WP_001201224.1",
+        "WP_001201245.1",
+        "WP_003586099.1",
+        "WP_004150961.1",
+        "WP_004174258.1",
+        "WP_004245348.1",
+        "WP_012424770.1",
+        "WP_012492216.1",
+        "WP_021538171.1",
+        "WP_025315439.1",
+        "WP_031914420.1",
+        "WP_045517674.1",
+        "WP_048288905.1",
+        "WP_049335102.1",
+        "WP_049409528.1",
+        "WP_058654940.1",
+        "WP_065805090.1",
+        "WP_071687081.1",
+        "WP_095370796.1",
+        "WP_103170271.1",
+        "WP_103301585.1",
+        "WP_103848551.1",
+        "WP_119489320.1",
+        "WP_135023963.1",
+        "WP_135911389.1",
+        "WP_149608043.1",
+        "WP_154876223.1",
+        "WP_191817117.1",
+        "WP_225823445.1",
+        "WP_235198448.1"
       ],
       [
         "HNH endonuclease signature motif containing protein",
-        "WP_001145896.1 HNH endonuclease signature motif containing protein",
-        "WP_001145902.1 HNH endonuclease signature motif containing protein",
-        "WP_001145909.1 HNH endonuclease signature motif containing protein",
-        "WP_014952495.1 HNH endonuclease signature motif containing protein",
-        "WP_048253839.1 HNH endonuclease signature motif containing protein",
-        "WP_048618027.1 HNH endonuclease signature motif containing protein",
-        "WP_258127935.1 HNH endonuclease signature motif containing protein",
-        "WP_267370750.1 HNH endonuclease signature motif containing protein"
+        "WP_001145896.1",
+        "WP_001145897.1",
+        "WP_001145902.1",
+        "WP_001145903.1",
+        "WP_001145905.1",
+        "WP_001145909.1",
+        "WP_001547823.1",
+        "WP_001576609.1",
+        "WP_004150959.1",
+        "WP_014952495.1",
+        "WP_021538170.1",
+        "WP_023165946.1",
+        "WP_025315441.1",
+        "WP_044704018.1",
+        "WP_047723297.1",
+        "WP_048253839.1",
+        "WP_048618027.1",
+        "WP_058654938.1",
+        "WP_071687083.1",
+        "WP_079773304.1",
+        "WP_101999634.1",
+        "WP_103848550.1",
+        "WP_149608042.1",
+        "WP_258127935.1",
+        "WP_267370750.1"
+      ],
+      [
+        "HNH endonuclease",
+        "WP_004245346.1",
+        "WP_005879183.1",
+        "WP_012425247.1",
+        "WP_032455328.1",
+        "WP_032672058.1",
+        "WP_037589583.1",
+        "WP_038679603.1",
+        "WP_045517677.1",
+        "WP_048213275.1",
+        "WP_064138403.1",
+        "WP_086392267.1",
+        "WP_095370790.1",
+        "WP_103170274.1",
+        "WP_103301587.1",
+        "WP_119633652.1",
+        "WP_135023954.1",
+        "WP_191817120.1",
+        "WP_224732315.1",
+        "WP_233643641.1",
+        "WP_241960862.1",
+        "WP_317134754.1"
+      ],
+      [
+        "head-tail connector protein",
+        "WP_000123150.1",
+        "WP_000123184.1",
+        "WP_000134107.1",
+        "WP_000134108.1",
+        "WP_000134109.1",
+        "WP_000134110.1",
+        "WP_000134113.1",
+        "WP_000137525.1",
+        "WP_000909184.1",
+        "WP_001287546.1",
+        "WP_001547824.1",
+        "WP_001576608.1",
+        "WP_001650759.1",
+        "WP_003574397.1",
+        "WP_003586097.1",
+        "WP_004245347.1",
+        "WP_012425025.1",
+        "WP_023323295.1",
+        "WP_025315440.1",
+        "WP_025861186.1",
+        "WP_031914423.1",
+        "WP_032660536.1",
+        "WP_037558410.1",
+        "WP_037589585.1",
+        "WP_038679600.1",
+        "WP_045517678.1",
+        "WP_048253840.1",
+        "WP_048618028.1",
+        "WP_049409522.1",
+        "WP_063844875.1",
+        "WP_071687082.1",
+        "WP_086392268.1",
+        "WP_095370791.1",
+        "WP_097707711.1",
+        "WP_103301588.1",
+        "WP_105495004.1",
+        "WP_107642692.1",
+        "WP_115195176.1",
+        "WP_115199398.1",
+        "WP_135023951.1",
+        "WP_136766177.1",
+        "WP_196113093.1",
+        "WP_253030595.1",
+        "WP_289354186.1",
+        "WP_309192761.1",
+        "WP_408628715.1",
+        "WP_430875172.1"
       ]
     ],
     "length": 15000,
-    "minnumber": 4,
+    "minnumber": 5,
     "forbidden": [
-      "MULTISPECIES: aminotransferase",
+      "aminotransferase",
       "ATP-dependent nuclease",
+      "phage tail protein",
+      "Gp19/Gp15/Gp42 family protein",
+      "phage head completion protein",
+      "recombinase family protein",
       "DUF2637 domain-containing protein",
-      "protein gop",
-      "helper derepression protein",
-      "integrase arm-type DNA-binding domain-containing protein",
-      "MULTISPECIES: beta family protein",
-      "MULTISPECIES: DUF5375 domain-containing protein",
-      "MULTISPECIES: phage polarity suppression protein",
-      "MULTISPECIES: sce7726 family protein"
+      "phage scaffolding protein",
+      "beta family protein",
+      "DUF5375 domain-containing protein"
     ]
   },
   {
     "title": "EPIP",
     "proteins": [
       [
-        "Gp19/Gp15/Gp42 family protein",
-        "WP_240179228.1 Gp19/Gp15/Gp42 family protein"
-      ],
-      [
-        "WP_240179234.1 hypothetical protein"
-      ],
-      [
         "phage head completion protein",
-        "WP_065076362.1 phage head completion protein",
-        "WP_214396676.1 phage head completion protein",
-        "WP_241473174.1 phage head completion protein"
+        "WP_065076362.1",
+        "WP_214396676.1",
+        "WP_241473174.1"
+      ],
+      [
+        "WP_240179234.1"
       ],
       [
         "recombinase family protein",
-        "WP_396869312.1 recombinase family protein"
+        "WP_396869312.1"
       ],
       [
-        "WP_264022283.1 hypothetical protein"
+        "Gp19/Gp15/Gp42 family protein",
+        "WP_240179228.1"
       ],
       [
-        "WP_240179233.1 hypothetical protein"
+        "WP_240179233.1"
       ],
       [
-        "WP_240179238.1 hypothetical protein"
+        "WP_264022283.1"
       ],
       [
-        "WP_305093691.1 MULTISPECIES: hypothetical protein"
+        "WP_240179238.1"
       ],
       [
-        "WP_179969673.1 hypothetical protein"
+        "WP_305093691.1"
+      ],
+      [
+        "WP_179969673.1"
       ],
       [
         "phage tail protein",
-        "WP_240179230.1 phage tail protein",
-        "WP_258962921.1 phage tail protein"
+        "WP_240179230.1",
+        "WP_258962921.1"
       ],
       [
-        "WP_113964818.1 hypothetical protein"
+        "WP_113964818.1"
       ],
       [
-        "WP_036367304.1 MULTISPECIES: hypothetical protein"
+        "WP_167540958.1"
       ],
       [
         "DUF2510 domain-containing protein",
-        "WP_155268775.1 DUF2510 domain-containing protein"
+        "WP_155268775.1"
       ],
       [
-        "WP_167540958.1 hypothetical protein"
+        "WP_036367304.1"
       ],
       [
-        "WP_061697103.1 hypothetical protein"
+        "WP_061697103.1"
       ],
       [
-        "WP_335332105.1 hypothetical protein"
+        "WP_335332105.1"
       ],
       [
-        "WP_083142053.1 hypothetical protein"
+        "WP_264037635.1"
       ],
       [
-        "WP_264037635.1 hypothetical protein"
+        "WP_083142053.1"
       ],
       [
-        "WP_163736397.1 hypothetical protein"
+        "WP_396909484.1"
       ],
       [
-        "WP_131811879.1 hypothetical protein"
+        "WP_240179229.1"
       ],
       [
-        "WP_163736377.1 hypothetical protein"
+        "WP_163736397.1"
       ],
       [
-        "WP_083153993.1 hypothetical protein"
+        "WP_255162074.1"
       ],
       [
-        "WP_442375478.1 hypothetical protein"
+        "WP_083153993.1"
       ],
       [
-        "WP_234551598.1 hypothetical protein"
+        "WP_373142130.1"
       ],
       [
-        "WP_396909484.1 hypothetical protein"
+        "WP_234551598.1"
       ],
       [
-        "WP_373142130.1 hypothetical protein"
+        "WP_163736377.1"
       ],
       [
-        "WP_255162074.1 hypothetical protein"
+        "WP_131811879.1"
       ],
       [
-        "WP_240179229.1 hypothetical protein"
+        "WP_442375478.1"
       ],
       [
         "BRO family protein",
-        "WP_000422980.1 BRO family protein",
-        "WP_064438716.1 BRO family protein"
+        "WP_000422980.1",
+        "WP_064438716.1"
       ]
     ],
     "length": 15000,
     "minnumber": 12,
     "forbidden": [
-      "phage portal protein",
-      "terminase, partial"
+      "integrase",
+      "phage portal protein"
     ]
   },
   {
     "title": "MFMR",
     "proteins": [
       [
+        "phage scaffolding protein",
+        "WP_157432526.1",
+        "WP_360111896.1"
+      ],
+      [
         "DUF2637 domain-containing protein",
-        "WP_330264655.1 DUF2637 domain-containing protein",
-        "WP_403894253.1 DUF2637 domain-containing protein"
+        "WP_330264655.1",
+        "WP_403894253.1"
       ],
       [
-        "WP_184922672.1 hypothetical protein"
+        "WP_184922672.1"
       ],
       [
-        "endonuclease domain-containing protein",
-        "WP_229741952.1 endonuclease domain-containing protein"
+        "WP_389539692.1"
       ],
       [
         "GIY-YIG nuclease family protein",
-        "WP_391603436.1 GIY-YIG nuclease family protein"
+        "WP_391603436.1"
       ],
       [
-        "phage scaffolding protein",
-        "WP_157432526.1 phage scaffolding protein"
+        "WP_310359678.1"
       ],
       [
-        "WP_358339006.1 hypothetical protein"
+        "WP_399031527.1"
       ],
       [
-        "WP_399031527.1 hypothetical protein"
-      ],
-      [
-        "MULTISPECIES: phage scaffolding protein",
-        "WP_360111896.1 MULTISPECIES: phage scaffolding protein"
-      ],
-      [
-        "WP_310359678.1 hypothetical protein"
-      ],
-      [
-        "GntR family transcriptional regulator",
-        "WP_391191874.1 GntR family transcriptional regulator"
+        "endonuclease domain-containing protein",
+        "WP_229741952.1"
       ],
       [
         "membrane protein",
-        "YP_010107594.1 membrane protein"
+        "YP_010107594.1"
       ],
       [
-        "WP_356239485.1 hypothetical protein"
+        "WP_389539707.1"
       ],
       [
-        "WP_389539710.1 hypothetical protein"
+        "WP_356239485.1"
+      ],
+      [
+        "WP_389539710.1"
+      ],
+      [
+        "GntR family transcriptional regulator",
+        "WP_391191874.1"
+      ],
+      [
+        "WP_358339006.1"
       ],
       [
         "Lsr2 family DNA-binding protein",
-        "WP_391191876.1 Lsr2 family DNA-binding protein"
+        "WP_391191876.1"
       ],
       [
-        "WP_389539707.1 hypothetical protein"
-      ],
-      [
-        "WP_389539692.1 hypothetical protein"
-      ],
-      [
-        "phage terminase large subunit family protein",
-        "terminase large subunit domain-containing protein, partial",
-        "terminase, partial",
-        "WP_056607664.1 phage terminase large subunit family protein",
-        "WP_121720710.1 phage terminase large subunit family protein",
-        "WP_126066294.1 terminase, partial",
-        "WP_230016120.1 terminase large subunit domain-containing protein, partial",
-        "WP_267646228.1 terminase large subunit domain-containing protein, partial",
-        "WP_364561498.1 phage terminase large subunit family protein",
-        "WP_387750765.1 phage terminase large subunit family protein"
+        "terminase",
+        "WP_056607664.1",
+        "WP_119940474.1",
+        "WP_121720710.1",
+        "WP_126066294.1",
+        "WP_230016120.1",
+        "WP_267646228.1",
+        "WP_364561498.1",
+        "WP_387750765.1"
       ]
     ],
     "length": 15000,
     "minnumber": 7,
     "forbidden": [
       "HTH domain-containing protein",
-      "phage tail protein"
+      "host cell division inhibitor Icd-like protein"
     ]
   },
   {
     "title": "P4",
     "proteins": [
       [
-        "integrase arm-type DNA-binding domain-containing protein",
-        "NP_042035.1 integrase arm-type DNA-binding domain-containing protein"
-      ],
-      [
-        "MULTISPECIES: phage polarity suppression protein",
-        "WP_001660389.1 MULTISPECIES: phage polarity suppression protein"
-      ],
-      [
         "helper derepression protein",
-        "NP_042039.1 helper derepression protein"
+        "NP_042039.1"
       ],
       [
-        "ogr/Delta-like zinc finger family protein",
-        "WP_001405508.1 ogr/Delta-like zinc finger family protein"
+        "beta family protein",
+        "WP_001357996.1"
       ],
       [
         "protein gop",
-        "NP_042032.1 protein gop"
+        "NP_042032.1"
       ],
       [
-        "MULTISPECIES: sce7726 family protein",
-        "WP_001357997.1 MULTISPECIES: sce7726 family protein"
+        "ogr/Delta-like zinc finger family protein",
+        "WP_001405508.1"
       ],
       [
-        "MULTISPECIES: DUF5375 domain-containing protein",
-        "WP_000856729.1 MULTISPECIES: DUF5375 domain-containing protein"
+        "phage polarity suppression protein",
+        "WP_001660389.1"
       ],
       [
-        "WP_000459302.1 MULTISPECIES: hypothetical protein"
+        "DUF5375 domain-containing protein",
+        "WP_000856729.1"
+      ],
+      [
+        "WP_000459302.1"
       ],
       [
         "polarity suppression Psu-like by overcoming Rho",
-        "NP_042042.1 polarity suppression Psu-like by overcoming Rho"
+        "NP_042042.1"
       ],
       [
-        "MULTISPECIES: beta family protein",
-        "WP_001357996.1 MULTISPECIES: beta family protein"
+        "sce7726 family protein",
+        "WP_001357997.1"
+      ],
+      [
+        "integrase arm-type DNA-binding domain-containing protein",
+        "NP_042035.1",
+        "WP_153587513.1"
       ],
       [
         "excisionase",
-        "excisionase and transcriptional regulator",
-        "excisionase family DNA-binding protein",
-        "NP_042041.1 excisionase and transcriptional regulator",
-        "WP_049409504.1 excisionase family DNA-binding protein",
-        "WP_154876233.1 excisionase family DNA-binding protein",
-        "WP_174543323.1 excisionase"
-      ],
-      [
-        "MULTISPECIES: integrase",
-        "MULTISPECIES: integrase domain-containing protein",
-        "MULTISPECIES: integrase family protein",
-        "WP_000101718.1 MULTISPECIES: integrase domain-containing protein",
-        "WP_000101910.1 MULTISPECIES: integrase domain-containing protein",
-        "WP_001650768.1 MULTISPECIES: integrase family protein",
-        "WP_047669966.1 MULTISPECIES: integrase family protein",
-        "WP_077763187.1 MULTISPECIES: integrase",
-        "WP_101999641.1 MULTISPECIES: integrase family protein",
-        "WP_149608049.1 MULTISPECIES: integrase family protein",
-        "WP_198236630.1 MULTISPECIES: integrase domain-containing protein"
-      ],
-      [
-        "MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_000226782.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_000226783.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_000226784.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_000764070.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_000980227.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_001230911.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_001244082.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_001247058.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_001352454.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_001453500.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_001554854.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_004174243.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_012311676.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_014914999.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_023301289.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_032346737.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_033112023.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_039291223.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_047039161.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_048618050.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_057951293.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_071531908.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_071843246.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_081003611.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_106918304.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_128301480.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_158236511.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_199953417.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_306438019.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_346655495.1 MULTISPECIES: host cell division inhibitor Icd-like protein",
-        "WP_373371126.1 MULTISPECIES: host cell division inhibitor Icd-like protein"
+        "NP_042041.1",
+        "WP_010905405.1",
+        "WP_049409504.1",
+        "WP_154876233.1",
+        "WP_174543323.1"
       ],
       [
         "DNA primase",
-        "DNA primase family protein",
-        "primase-like DNA-binding domain-containing protein",
-        "NP_042036.1 DNA primase",
-        "WP_000434359.1 DNA primase family protein",
-        "WP_000761787.1 DNA primase family protein",
-        "WP_000761791.1 DNA primase family protein",
-        "WP_000761805.1 DNA primase family protein",
-        "WP_000761806.1 DNA primase family protein",
-        "WP_000761829.1 DNA primase family protein",
-        "WP_000761835.1 DNA primase family protein",
-        "WP_000833603.1 DNA primase family protein",
-        "WP_001576604.1 DNA primase family protein",
-        "WP_001838072.1 DNA primase family protein",
-        "WP_004245356.1 primase-like DNA-binding domain-containing protein",
-        "WP_005577184.1 DNA primase family protein",
-        "WP_005701724.1 DNA primase family protein",
-        "WP_010714140.1 DNA primase family protein",
-        "WP_011677048.1 DNA primase family protein",
-        "WP_011834142.1 DNA primase family protein",
-        "WP_011836154.1 DNA primase family protein",
-        "WP_012492215.1 DNA primase family protein",
-        "WP_012898688.1 DNA primase family protein",
-        "WP_014573413.1 DNA primase family protein",
-        "WP_023164725.1 DNA primase family protein",
-        "WP_023301285.1 DNA primase family protein",
-        "WP_032341440.1 DNA primase family protein",
-        "WP_033869045.1 DNA primase family protein",
-        "WP_040975392.1 DNA primase family protein",
-        "WP_048253848.1 DNA primase family protein",
-        "WP_048618040.1 DNA primase family protein",
-        "WP_049409514.1 DNA primase family protein",
-        "WP_054430838.1 DNA primase family protein",
-        "WP_074434943.1 DNA primase family protein",
-        "WP_080783596.1 DNA primase family protein",
-        "WP_096743601.1 DNA primase family protein",
-        "WP_107642689.1 DNA primase family protein",
-        "WP_109266685.1 DNA primase family protein",
-        "WP_128875150.1 DNA primase family protein",
-        "WP_129531126.1 DNA primase family protein",
-        "WP_181575774.1 DNA primase family protein",
-        "WP_181672506.1 DNA primase family protein",
-        "WP_204745779.1 DNA primase family protein",
-        "WP_228261414.1 primase-like DNA-binding domain-containing protein"
+        "NP_042036.1",
+        "WP_000434359.1",
+        "WP_000710160.1",
+        "WP_000761787.1",
+        "WP_000761791.1",
+        "WP_000761794.1",
+        "WP_000761802.1",
+        "WP_000761805.1",
+        "WP_000761806.1",
+        "WP_000761829.1",
+        "WP_000761835.1",
+        "WP_000761839.1",
+        "WP_000833603.1",
+        "WP_001547125.1",
+        "WP_001576604.1",
+        "WP_001838072.1",
+        "WP_004174245.1",
+        "WP_004245356.1",
+        "WP_005577184.1",
+        "WP_005701724.1",
+        "WP_005879186.1",
+        "WP_010714140.1",
+        "WP_011677048.1",
+        "WP_011834142.1",
+        "WP_011836154.1",
+        "WP_012492215.1",
+        "WP_012898688.1",
+        "WP_014573413.1",
+        "WP_015834858.1",
+        "WP_021538178.1",
+        "WP_023164725.1",
+        "WP_023301285.1",
+        "WP_032341440.1",
+        "WP_032441475.1",
+        "WP_032672063.1",
+        "WP_032737304.1",
+        "WP_033869045.1",
+        "WP_040975392.1",
+        "WP_048253848.1",
+        "WP_048618040.1",
+        "WP_049409514.1",
+        "WP_054430838.1",
+        "WP_074434943.1",
+        "WP_080783596.1",
+        "WP_096743601.1",
+        "WP_107642689.1",
+        "WP_109266685.1",
+        "WP_117259670.1",
+        "WP_128875150.1",
+        "WP_129531126.1",
+        "WP_149608045.1",
+        "WP_181575774.1",
+        "WP_181672506.1",
+        "WP_204745779.1",
+        "WP_228261414.1"
+      ],
+      [
+        "host cell division inhibitor Icd-like protein",
+        "WP_000226782.1",
+        "WP_000226783.1",
+        "WP_000226784.1",
+        "WP_000764070.1",
+        "WP_000980227.1",
+        "WP_001230909.1",
+        "WP_001230911.1",
+        "WP_001244082.1",
+        "WP_001247058.1",
+        "WP_001352454.1",
+        "WP_001362912.1",
+        "WP_001387819.1",
+        "WP_001427366.1",
+        "WP_001453500.1",
+        "WP_001554854.1",
+        "WP_001576602.1",
+        "WP_004174243.1",
+        "WP_012311676.1",
+        "WP_014326454.1",
+        "WP_014914999.1",
+        "WP_023301289.1",
+        "WP_032145563.1",
+        "WP_032346737.1",
+        "WP_032346745.1",
+        "WP_032995581.1",
+        "WP_033112023.1",
+        "WP_039291223.1",
+        "WP_047039161.1",
+        "WP_047083415.1",
+        "WP_047086949.1",
+        "WP_048618050.1",
+        "WP_052722512.1",
+        "WP_053285637.1",
+        "WP_057951293.1",
+        "WP_062899908.1",
+        "WP_071531908.1",
+        "WP_071843246.1",
+        "WP_072184187.1",
+        "WP_079779211.1",
+        "WP_080783590.1",
+        "WP_081003611.1",
+        "WP_106918304.1",
+        "WP_128301480.1",
+        "WP_148723012.1",
+        "WP_158236511.1",
+        "WP_172398234.1",
+        "WP_186279209.1",
+        "WP_197709760.1",
+        "WP_199953417.1",
+        "WP_201482899.1",
+        "WP_240321931.1",
+        "WP_245853693.1",
+        "WP_306438019.1",
+        "WP_322842823.1",
+        "WP_346655495.1",
+        "WP_366179557.1",
+        "WP_373370093.1",
+        "WP_373371126.1",
+        "WP_423270956.1",
+        "WP_428845805.1",
+        "WP_435890601.1",
+        "WP_436345310.1",
+        "WP_436835831.1",
+        "WP_438121734.1"
+      ],
+      [
+        "integrase",
+        "WP_000085256.1",
+        "WP_000085257.1",
+        "WP_000085259.1",
+        "WP_000085265.1",
+        "WP_000085269.1",
+        "WP_000085273.1",
+        "WP_000085276.1",
+        "WP_000085277.1",
+        "WP_000085279.1",
+        "WP_000092882.1",
+        "WP_000101718.1",
+        "WP_000101907.1",
+        "WP_000101910.1",
+        "WP_000266158.1",
+        "WP_000513574.1",
+        "WP_000704664.1",
+        "WP_000704676.1",
+        "WP_000929256.1",
+        "WP_001021177.1",
+        "WP_001021837.1",
+        "WP_001352457.1",
+        "WP_001364183.1",
+        "WP_001576601.1",
+        "WP_001650768.1",
+        "WP_002491528.1",
+        "WP_003131962.1",
+        "WP_004149996.1",
+        "WP_004150971.1",
+        "WP_004191833.1",
+        "WP_004245367.1",
+        "WP_005577176.1",
+        "WP_005701717.1",
+        "WP_010707087.1",
+        "WP_010774845.1",
+        "WP_010905403.1",
+        "WP_011094287.1",
+        "WP_011677065.1",
+        "WP_011834162.1",
+        "WP_011836145.1",
+        "WP_012422737.1",
+        "WP_012425794.1",
+        "WP_012898669.1",
+        "WP_013319157.1",
+        "WP_014326462.1",
+        "WP_014570221.1",
+        "WP_014570687.1",
+        "WP_014915002.1",
+        "WP_015604661.1",
+        "WP_015834863.1",
+        "WP_016090299.1",
+        "WP_016634813.1",
+        "WP_021312334.1",
+        "WP_021538184.1",
+        "WP_023301288.1",
+        "WP_023301292.1",
+        "WP_023309431.1",
+        "WP_024201490.1",
+        "WP_024414033.1",
+        "WP_025315426.1",
+        "WP_026888039.1",
+        "WP_031914436.1",
+        "WP_032317082.1",
+        "WP_032655311.1",
+        "WP_038434557.1",
+        "WP_038434561.1",
+        "WP_038666364.1",
+        "WP_038679584.1",
+        "WP_038807429.1",
+        "WP_038807432.1",
+        "WP_040975396.1",
+        "WP_042888951.1",
+        "WP_044597558.1",
+        "WP_045136506.1",
+        "WP_045517696.1",
+        "WP_046125099.1",
+        "WP_046333746.1",
+        "WP_047669966.1",
+        "WP_048253852.1",
+        "WP_048618056.1",
+        "WP_048979898.1",
+        "WP_049409500.1",
+        "WP_050289116.1",
+        "WP_053285638.1",
+        "WP_053810725.1",
+        "WP_060683763.1",
+        "WP_063159745.1",
+        "WP_069596069.1",
+        "WP_077763187.1",
+        "WP_080783584.1",
+        "WP_095370802.1",
+        "WP_101999641.1",
+        "WP_103170287.1",
+        "WP_103301599.1",
+        "WP_103848555.1",
+        "WP_107596511.1",
+        "WP_107642682.1",
+        "WP_128875146.1",
+        "WP_129531137.1",
+        "WP_135023920.1",
+        "WP_149608049.1",
+        "WP_154946333.1",
+        "WP_181575775.1",
+        "WP_181597172.1",
+        "WP_198236630.1",
+        "WP_204752501.1",
+        "WP_238723493.1",
+        "WP_389539713.1"
       ]
     ],
     "length": 15000,
-    "minnumber": 12,
+    "minnumber": 7,
     "forbidden": [
-      "phage portal protein",
-      "MULTISPECIES: head-tail connector protein"
+      "major capsid protein",
+      "phage portal protein"
     ]
   },
   {
     "title": "PHANIE",
     "proteins": [
       [
-        "WP_425665501.1 MULTISPECIES: hypothetical protein"
-      ],
-      [
-        "WP_227954247.1 hypothetical protein, partial"
-      ],
-      [
-        "YP_009857585.1 hypothetical protein HWD18_gp09"
-      ],
-      [
-        "WP_427287007.1 hypothetical protein, partial"
+        "WP_435534697.1"
       ],
       [
         "DNA polymerase",
-        "YP_009857579.1 DNA polymerase"
+        "YP_009857579.1"
       ],
       [
-        "WP_435534697.1 hypothetical protein"
+        "YP_009857585.1"
       ],
       [
-        "phage DNA encapsidation protein",
-        "WP_259542332.1 phage DNA encapsidation protein"
-      ],
-      [
-        "WP_443699221.1 hypothetical protein"
+        "WP_227954247.1"
       ],
       [
         "major head protein",
-        "YP_009857584.1 major head protein"
+        "YP_009857584.1"
+      ],
+      [
+        "WP_427287007.1"
       ],
       [
         "upper collar connector",
-        "YP_009857582.1 upper collar connector"
+        "YP_009857582.1"
+      ],
+      [
+        "WP_425665501.1"
+      ],
+      [
+        "WP_443699221.1"
       ],
       [
         "CHAP domain-containing protein",
-        "WP_443699225.1 CHAP domain-containing protein"
+        "WP_443699225.1"
+      ],
+      [
+        "phage DNA encapsidation protein",
+        "WP_259542332.1"
       ]
     ],
     "length": 15000,
-    "minnumber": 11,
+    "minnumber": 7,
     "forbidden": [
-      "HTH domain-containing protein",
-      "site-specific integrase"
+      "integrase",
+      "HTH domain-containing protein"
     ]
   },
   {
     "title": "PICI",
     "proteins": [
       [
+        "integrase",
+        "WP_000085256.1",
+        "WP_000085257.1",
+        "WP_000085259.1",
+        "WP_000085265.1",
+        "WP_000085269.1",
+        "WP_000085273.1",
+        "WP_000085276.1",
+        "WP_000085277.1",
+        "WP_000085279.1",
+        "WP_000092882.1",
+        "WP_000101718.1",
+        "WP_000101907.1",
+        "WP_000101910.1",
+        "WP_000266158.1",
+        "WP_000513574.1",
+        "WP_000704664.1",
+        "WP_000704676.1",
+        "WP_000929256.1",
+        "WP_001021177.1",
+        "WP_001021837.1",
+        "WP_001352457.1",
+        "WP_001364183.1",
+        "WP_001576601.1",
+        "WP_001650768.1",
+        "WP_002491528.1",
+        "WP_003131962.1",
+        "WP_004149996.1",
+        "WP_004150971.1",
+        "WP_004191833.1",
+        "WP_004245367.1",
+        "WP_005577176.1",
+        "WP_005701717.1",
+        "WP_010707087.1",
+        "WP_010774845.1",
+        "WP_010905403.1",
+        "WP_011094287.1",
+        "WP_011677065.1",
+        "WP_011834162.1",
+        "WP_011836145.1",
+        "WP_012422737.1",
+        "WP_012425794.1",
+        "WP_012898669.1",
+        "WP_013319157.1",
+        "WP_014326462.1",
+        "WP_014570221.1",
+        "WP_014570687.1",
+        "WP_014915002.1",
+        "WP_015604661.1",
+        "WP_015834863.1",
+        "WP_016090299.1",
+        "WP_016634813.1",
+        "WP_021312334.1",
+        "WP_021538184.1",
+        "WP_023301288.1",
+        "WP_023301292.1",
+        "WP_023309431.1",
+        "WP_024201490.1",
+        "WP_024414033.1",
+        "WP_025315426.1",
+        "WP_026888039.1",
+        "WP_031914436.1",
+        "WP_032317082.1",
+        "WP_032655311.1",
+        "WP_038434557.1",
+        "WP_038434561.1",
+        "WP_038666364.1",
+        "WP_038679584.1",
+        "WP_038807429.1",
+        "WP_038807432.1",
+        "WP_040975396.1",
+        "WP_042888951.1",
+        "WP_044597558.1",
+        "WP_045136506.1",
+        "WP_045517696.1",
+        "WP_046125099.1",
+        "WP_046333746.1",
+        "WP_047669966.1",
+        "WP_048253852.1",
+        "WP_048618056.1",
+        "WP_048979898.1",
+        "WP_049409500.1",
+        "WP_050289116.1",
+        "WP_053285638.1",
+        "WP_053810725.1",
+        "WP_060683763.1",
+        "WP_063159745.1",
+        "WP_069596069.1",
+        "WP_077763187.1",
+        "WP_080783584.1",
+        "WP_095370802.1",
+        "WP_101999641.1",
+        "WP_103170287.1",
+        "WP_103301599.1",
+        "WP_103848555.1",
+        "WP_107596511.1",
+        "WP_107642682.1",
+        "WP_128875146.1",
+        "WP_129531137.1",
+        "WP_135023920.1",
+        "WP_149608049.1",
+        "WP_154946333.1",
+        "WP_181575775.1",
+        "WP_181597172.1",
+        "WP_198236630.1",
+        "WP_204752501.1",
+        "WP_238723493.1",
+        "WP_389539713.1"
+      ],
+      [
         "DNA primase",
-        "DNA primase family protein",
-        "primase-like DNA-binding domain-containing protein",
-        "NP_042036.1 DNA primase",
-        "WP_000434359.1 DNA primase family protein",
-        "WP_000761787.1 DNA primase family protein",
-        "WP_000761791.1 DNA primase family protein",
-        "WP_000761805.1 DNA primase family protein",
-        "WP_000761806.1 DNA primase family protein",
-        "WP_000761829.1 DNA primase family protein",
-        "WP_000761835.1 DNA primase family protein",
-        "WP_000833603.1 DNA primase family protein",
-        "WP_001576604.1 DNA primase family protein",
-        "WP_001838072.1 DNA primase family protein",
-        "WP_004245356.1 primase-like DNA-binding domain-containing protein",
-        "WP_005577184.1 DNA primase family protein",
-        "WP_005701724.1 DNA primase family protein",
-        "WP_010714140.1 DNA primase family protein",
-        "WP_011677048.1 DNA primase family protein",
-        "WP_011834142.1 DNA primase family protein",
-        "WP_011836154.1 DNA primase family protein",
-        "WP_012492215.1 DNA primase family protein",
-        "WP_012898688.1 DNA primase family protein",
-        "WP_014573413.1 DNA primase family protein",
-        "WP_023164725.1 DNA primase family protein",
-        "WP_023301285.1 DNA primase family protein",
-        "WP_032341440.1 DNA primase family protein",
-        "WP_033869045.1 DNA primase family protein",
-        "WP_040975392.1 DNA primase family protein",
-        "WP_048253848.1 DNA primase family protein",
-        "WP_048618040.1 DNA primase family protein",
-        "WP_049409514.1 DNA primase family protein",
-        "WP_054430838.1 DNA primase family protein",
-        "WP_074434943.1 DNA primase family protein",
-        "WP_080783596.1 DNA primase family protein",
-        "WP_096743601.1 DNA primase family protein",
-        "WP_107642689.1 DNA primase family protein",
-        "WP_109266685.1 DNA primase family protein",
-        "WP_128875150.1 DNA primase family protein",
-        "WP_129531126.1 DNA primase family protein",
-        "WP_181575774.1 DNA primase family protein",
-        "WP_181672506.1 DNA primase family protein",
-        "WP_204745779.1 DNA primase family protein",
-        "WP_228261414.1 primase-like DNA-binding domain-containing protein"
+        "NP_042036.1",
+        "WP_000434359.1",
+        "WP_000710160.1",
+        "WP_000761787.1",
+        "WP_000761791.1",
+        "WP_000761794.1",
+        "WP_000761802.1",
+        "WP_000761805.1",
+        "WP_000761806.1",
+        "WP_000761829.1",
+        "WP_000761835.1",
+        "WP_000761839.1",
+        "WP_000833603.1",
+        "WP_001547125.1",
+        "WP_001576604.1",
+        "WP_001838072.1",
+        "WP_004174245.1",
+        "WP_004245356.1",
+        "WP_005577184.1",
+        "WP_005701724.1",
+        "WP_005879186.1",
+        "WP_010714140.1",
+        "WP_011677048.1",
+        "WP_011834142.1",
+        "WP_011836154.1",
+        "WP_012492215.1",
+        "WP_012898688.1",
+        "WP_014573413.1",
+        "WP_015834858.1",
+        "WP_021538178.1",
+        "WP_023164725.1",
+        "WP_023301285.1",
+        "WP_032341440.1",
+        "WP_032441475.1",
+        "WP_032672063.1",
+        "WP_032737304.1",
+        "WP_033869045.1",
+        "WP_040975392.1",
+        "WP_048253848.1",
+        "WP_048618040.1",
+        "WP_049409514.1",
+        "WP_054430838.1",
+        "WP_074434943.1",
+        "WP_080783596.1",
+        "WP_096743601.1",
+        "WP_107642689.1",
+        "WP_109266685.1",
+        "WP_117259670.1",
+        "WP_128875150.1",
+        "WP_129531126.1",
+        "WP_149608045.1",
+        "WP_181575774.1",
+        "WP_181672506.1",
+        "WP_204745779.1",
+        "WP_228261414.1"
       ],
       [
         "Rha family transcriptional regulator",
-        "WP_000424665.1 Rha family transcriptional regulator",
-        "WP_000424676.1 Rha family transcriptional regulator",
-        "WP_000424684.1 Rha family transcriptional regulator",
-        "WP_004245363.1 Rha family transcriptional regulator",
-        "WP_010707092.1 Rha family transcriptional regulator",
-        "WP_010714143.1 Rha family transcriptional regulator",
-        "WP_010774840.1 Rha family transcriptional regulator",
-        "WP_014326459.1 Rha family transcriptional regulator",
-        "WP_014573404.1 Rha family transcriptional regulator",
-        "WP_016634818.1 Rha family transcriptional regulator",
-        "WP_025404474.1 Rha family transcriptional regulator",
-        "WP_057609328.1 Rha family transcriptional regulator",
-        "WP_080783587.1 Rha family transcriptional regulator",
-        "WP_219597184.1 Rha family transcriptional regulator",
-        "WP_308042149.1 Rha family transcriptional regulator"
-      ],
-      [
-        "MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_000727198.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_000770147.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_000770153.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_000770157.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_000770160.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_000770163.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_000770175.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_000770178.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_000791984.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_000791986.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_000810838.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_001261489.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_001261494.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_001261503.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_001261505.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_017880049.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_021538179.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_032416075.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_040177077.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_053285630.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_062920959.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_064189217.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_071843247.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_079779208.1 MULTISPECIES: DUF4222 domain-containing protein",
-        "WP_149608046.1 MULTISPECIES: DUF4222 domain-containing protein"
-      ],
-      [
-        "TOPRIM and DUF927 domain-containing protein",
-        "WP_011094290.1 TOPRIM and DUF927 domain-containing protein",
-        "WP_013319149.1 TOPRIM and DUF927 domain-containing protein",
-        "WP_014914997.1 TOPRIM and DUF927 domain-containing protein",
-        "WP_038666379.1 TOPRIM and DUF927 domain-containing protein",
-        "WP_060682965.1 TOPRIM and DUF927 domain-containing protein"
-      ],
-      [
-        "ash family protein",
-        "WP_349044075.1 ash family protein"
-      ],
-      [
-        "MULTISPECIES: head decoration protein",
-        "WP_000380877.1 MULTISPECIES: head decoration protein",
-        "WP_000380879.1 MULTISPECIES: head decoration protein",
-        "WP_000380881.1 MULTISPECIES: head decoration protein",
-        "WP_000380882.1 MULTISPECIES: head decoration protein",
-        "WP_000380888.1 MULTISPECIES: head decoration protein"
-      ],
-      [
-        "MULTISPECIES: BRO-N domain-containing protein",
-        "WP_003132801.1 MULTISPECIES: BRO-N domain-containing protein",
-        "WP_011836147.1 MULTISPECIES: BRO-N domain-containing protein",
-        "WP_012898679.1 MULTISPECIES: BRO-N domain-containing protein",
-        "WP_023301290.1 MULTISPECIES: BRO-N domain-containing protein",
-        "WP_060682960.1 MULTISPECIES: BRO-N domain-containing protein"
-      ],
-      [
-        "DnaD domain protein",
-        "DnaD domain-containing protein",
-        "WP_000171242.1 DnaD domain-containing protein",
-        "WP_001140556.1 DnaD domain protein",
-        "WP_015647118.1 DnaD domain-containing protein",
-        "WP_231914051.1 DnaD domain protein"
-      ],
-      [
-        "WP_017880052.1 MULTISPECIES: hypothetical protein"
-      ],
-      [
-        "WP_000796963.1 MULTISPECIES: hypothetical protein"
-      ],
-      [
-        "sigma factor-like helix-turn-helix DNA-binding protein",
-        "WP_010905418.1 sigma factor-like helix-turn-helix DNA-binding protein",
-        "WP_011836158.1 sigma factor-like helix-turn-helix DNA-binding protein",
-        "WP_041168280.1 sigma factor-like helix-turn-helix DNA-binding protein",
-        "WP_043994857.1 sigma factor-like helix-turn-helix DNA-binding protein"
-      ],
-      [
-        "terminase small subunit",
-        "WP_001229487.1 terminase small subunit",
-        "WP_001229488.1 terminase small subunit",
-        "WP_011677046.1 terminase small subunit",
-        "WP_129531119.1 terminase small subunit"
-      ],
-      [
-        "Mor transcription activator family protein",
-        "WP_005577178.1 Mor transcription activator family protein",
-        "WP_005701718.1 Mor transcription activator family protein",
-        "WP_005725338.1 Mor transcription activator family protein",
-        "WP_040975391.1 Mor transcription activator family protein"
-      ],
-      [
-        "TPM domain-containing protein",
-        "TPM domain-containing protein, partial",
-        "WP_044861889.1 TPM domain-containing protein",
-        "WP_097437629.1 TPM domain-containing protein, partial"
-      ],
-      [
-        "replication protein",
-        "replication protein, partial",
-        "WP_074389766.1 replication protein",
-        "WP_130894734.1 replication protein",
-        "WP_161980445.1 replication protein",
-        "WP_242493569.1 replication protein, partial"
-      ],
-      [
-        "WP_010707097.1 MULTISPECIES: hypothetical protein"
-      ],
-      [
-        "WP_020802561.1 MULTISPECIES: hypothetical protein"
-      ],
-      [
-        "MULTISPECIES: YlcI/YnfO family protein",
-        "WP_000179579.1 MULTISPECIES: YlcI/YnfO family protein",
-        "WP_000190457.1 MULTISPECIES: YlcI/YnfO family protein",
-        "WP_000190541.1 MULTISPECIES: YlcI/YnfO family protein",
-        "WP_000190561.1 MULTISPECIES: YlcI/YnfO family protein",
-        "WP_000190563.1 MULTISPECIES: YlcI/YnfO family protein",
-        "WP_000201461.1 MULTISPECIES: YlcI/YnfO family protein",
-        "WP_014915000.1 MULTISPECIES: YlcI/YnfO family protein",
-        "WP_032235116.1 MULTISPECIES: YlcI/YnfO family protein",
-        "WP_039291225.1 MULTISPECIES: YlcI/YnfO family protein",
-        "WP_048618052.1 MULTISPECIES: YlcI/YnfO family protein",
-        "WP_048982935.1 MULTISPECIES: YlcI/YnfO family protein",
-        "WP_058659836.1 MULTISPECIES: YlcI/YnfO family protein",
-        "WP_064735216.1 MULTISPECIES: YlcI/YnfO family protein"
-      ],
-      [
-        "Fic family protein",
-        "WP_000222518.1 Fic family protein",
-        "WP_000222521.1 Fic family protein",
-        "WP_016634812.1 Fic family protein"
-      ],
-      [
-        "inorganic pyrophosphatase",
-        "WP_040975389.1 inorganic pyrophosphatase",
-        "WP_065294730.1 inorganic pyrophosphatase",
-        "WP_279895440.1 inorganic pyrophosphatase"
-      ],
-      [
-        "MULTISPECIES: ClpP-like prohead protease/major capsid protein fusion protein",
-        "WP_053888089.1 MULTISPECIES: ClpP-like prohead protease/major capsid protein fusion protein",
-        "WP_064160165.1 MULTISPECIES: ClpP-like prohead protease/major capsid protein fusion protein"
-      ],
-      [
-        "DNA helicase UvrB",
-        "WP_427813826.1 DNA helicase UvrB"
-      ],
-      [
-        "WP_017880053.1 MULTISPECIES: hypothetical protein"
-      ],
-      [
-        "DUF1655 domain-containing protein",
-        "WP_011834149.1 DUF1655 domain-containing protein",
-        "WP_012898680.1 DUF1655 domain-containing protein",
-        "WP_023163716.1 DUF1655 domain-containing protein"
-      ],
-      [
-        "MULTISPECIES: DUF1655 domain-containing protein",
-        "WP_010905406.1 MULTISPECIES: DUF1655 domain-containing protein",
-        "WP_011677056.1 MULTISPECIES: DUF1655 domain-containing protein",
-        "WP_014573405.1 MULTISPECIES: DUF1655 domain-containing protein"
-      ],
-      [
-        "type II toxin-antitoxin system RelE/ParE family toxin",
-        "WP_000551587.1 type II toxin-antitoxin system RelE/ParE family toxin",
-        "WP_011094293.1 type II toxin-antitoxin system RelE/ParE family toxin",
-        "WP_015604673.1 type II toxin-antitoxin system RelE/ParE family toxin"
+        "WP_000424665.1",
+        "WP_000424676.1",
+        "WP_000424684.1",
+        "WP_004245363.1",
+        "WP_010707092.1",
+        "WP_010714143.1",
+        "WP_010774840.1",
+        "WP_014326459.1",
+        "WP_014573404.1",
+        "WP_016634818.1",
+        "WP_025404474.1",
+        "WP_057609328.1",
+        "WP_065560021.1",
+        "WP_080783587.1",
+        "WP_219597184.1",
+        "WP_308042149.1"
       ],
       [
         "head decoration protein",
-        "WP_000380883.1 head decoration protein",
-        "WP_053285624.1 head decoration protein"
+        "WP_000380877.1",
+        "WP_000380879.1",
+        "WP_000380881.1",
+        "WP_000380882.1",
+        "WP_000380883.1",
+        "WP_000380888.1",
+        "WP_053285624.1"
       ],
       [
-        "DUF1492 domain-containing protein",
-        "WP_000187319.1 DUF1492 domain-containing protein",
-        "WP_001816190.1 DUF1492 domain-containing protein",
-        "WP_061649797.1 DUF1492 domain-containing protein"
+        "terminase small subunit",
+        "WP_000835278.1",
+        "WP_000835281.1",
+        "WP_000835284.1",
+        "WP_001229487.1",
+        "WP_001229488.1",
+        "WP_011677046.1",
+        "WP_129531119.1"
       ],
       [
-        "MULTISPECIES: cell envelope stress response protein YqcG",
-        "WP_001288227.1 MULTISPECIES: cell envelope stress response protein YqcG",
-        "WP_001288228.1 MULTISPECIES: cell envelope stress response protein YqcG"
+        "WP_017880052.1"
       ],
       [
-        "DUF4433 domain-containing protein",
-        "WP_198765623.1 DUF4433 domain-containing protein",
-        "WP_240074880.1 DUF4433 domain-containing protein"
+        "ash family protein",
+        "WP_349044075.1"
+      ],
+      [
+        "cold-shock protein",
+        "WP_010707103.1",
+        "WP_010714131.1",
+        "WP_016634828.1",
+        "WP_063283138.1"
+      ],
+      [
+        "7-carboxy-7-deazaguanine synthase QueE",
+        "WP_001199973.1"
+      ],
+      [
+        "DUF1655 domain-containing protein",
+        "WP_010905406.1",
+        "WP_011677056.1",
+        "WP_011834149.1",
+        "WP_012898680.1",
+        "WP_014573405.1",
+        "WP_023163716.1"
+      ],
+      [
+        "TOPRIM and DUF927 domain-containing protein",
+        "WP_011094290.1",
+        "WP_013319149.1",
+        "WP_014914997.1",
+        "WP_032655299.1",
+        "WP_038666379.1",
+        "WP_060579286.1",
+        "WP_060682965.1"
+      ],
+      [
+        "replication protein",
+        "WP_074389766.1",
+        "WP_130894734.1",
+        "WP_161980445.1",
+        "WP_242493569.1"
+      ],
+      [
+        "WP_000796963.1"
+      ],
+      [
+        "Mor transcription activator family protein",
+        "WP_005577178.1",
+        "WP_005701718.1",
+        "WP_005725338.1",
+        "WP_040975391.1"
+      ],
+      [
+        "DnaD domain protein",
+        "WP_000171242.1",
+        "WP_001140556.1",
+        "WP_015647118.1",
+        "WP_231914051.1"
+      ],
+      [
+        "WP_017880053.1"
+      ],
+      [
+        "sigma factor-like helix-turn-helix DNA-binding protein",
+        "WP_010905418.1",
+        "WP_011834138.1",
+        "WP_011836158.1",
+        "WP_041168280.1",
+        "WP_043994857.1"
+      ],
+      [
+        "WP_020802561.1"
+      ],
+      [
+        "inorganic pyrophosphatase",
+        "WP_040975389.1",
+        "WP_065294730.1",
+        "WP_279895440.1"
+      ],
+      [
+        "cell envelope stress response protein YqcG",
+        "WP_001288227.1",
+        "WP_001288228.1"
+      ],
+      [
+        "aminotransferase",
+        "WP_101999638.1",
+        "WP_238984203.1"
+      ],
+      [
+        "recombination regulator RecX",
+        "WP_000140508.1"
+      ],
+      [
+        "WP_010707097.1"
+      ],
+      [
+        "WP_244512036.1"
+      ],
+      [
+        "type II toxin-antitoxin system RelE/ParE family toxin",
+        "WP_000551587.1",
+        "WP_011094293.1",
+        "WP_015604673.1"
+      ],
+      [
+        "Abi family protein",
+        "WP_000801979.1",
+        "WP_014326450.1"
+      ],
+      [
+        "ClpP-like prohead protease/major capsid protein fusion protein",
+        "WP_053888089.1",
+        "WP_064160165.1"
+      ],
+      [
+        "HGGxSTG domain-containing protein",
+        "WP_015854059.1",
+        "WP_038666382.1"
+      ],
+      [
+        "phosphopyruvate hydratase",
+        "WP_000036723.1",
+        "WP_249825046.1"
       ]
     ],
     "length": 15000,
     "minnumber": 3,
     "forbidden": [
-      "MULTISPECIES: HNH endonuclease signature motif containing protein",
-      "MULTISPECIES: phage portal protein",
-      "MULTISPECIES: phage terminase small subunit P27 family",
-      "single-stranded DNA-binding protein",
-      "terminase large subunit",
       "phage portal protein",
-      "terminase, partial",
-      "excisionase",
-      "DUF2637 domain-containing protein",
-      "protein gop"
+      "terminase large subunit",
+      "Gp19/Gp15/Gp42 family protein",
+      "phage head completion protein",
+      "recombinase family protein",
+      "integrase arm-type DNA-binding domain-containing protein",
+      "beta family protein",
+      "DUF5375 domain-containing protein",
+      "protein gop",
+      "helper derepression protein"
     ]
   }
 ]

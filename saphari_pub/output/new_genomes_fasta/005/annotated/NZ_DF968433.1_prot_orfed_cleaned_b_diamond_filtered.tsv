@@ -1,0 +1,19 @@
+NZ_DF968433.1_1|2|877|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.663	WP_059423607.1 carbohydrate ABC transporter permease, partial [Streptomyces azureus]	100	100	3.53e-212
+NZ_DF968433.1_2|877|2166|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.639	WP_059423608.1 ABC transporter substrate-binding protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968433.1_3|2732|3190|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.678	WP_059423611.1 TIGR02611 family protein [Streptomyces azureus]	100	99.3	3.63e-102
+NZ_DF968433.1_4|3382|3795|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.710	WP_004002642.1 MULTISPECIES: SsgA family sporulation/cell division regulator [Actinomycetes]	100	99.3	1.73e-95
+NZ_DF968433.1_5|4130|4690|1|ID=1_5;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.713	WP_059423613.1 CGNR zinc finger domain-containing protein [Streptomyces azureus]	100	99.5	2.82e-127
+NZ_DF968433.1_6|4778|4954|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.655	WP_167407346.1 MULTISPECIES: hypothetical protein [Streptomyces]	98.3	98.3	3.93e-22
+NZ_DF968433.1_7|5107|5550|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.718	WP_059423615.1 hypothetical protein [Streptomyces azureus]	100	99.3	5.62e-90
+NZ_DF968433.1_8|5714|6247|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.728	WP_059423616.1 DsbA family protein [Streptomyces azureus]	100	99.4	1.21e-119
+NZ_DF968433.1_9|6290|7114|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.731	WP_059423617.1 GNAT family N-acetyltransferase [Streptomyces azureus]	100	99.6	2.55e-194
+NZ_DF968433.1_10|7168|7989|-1|ID=1_10;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.737	WP_059423619.1 aminotransferase class IV [Streptomyces azureus]	100	99.6	1.42e-195
+NZ_DF968433.1_11|7986|9029|-1|ID=1_11;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.724	WP_059423621.1 chorismate-binding protein [Streptomyces azureus]	100	99.7	1.92e-253
+NZ_DF968433.1_12|9558|9848|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.684	WP_078945653.1 TFIIB-type zinc ribbon-containing protein [Streptomyces azureus]	100	99.0	3.00e-36
+NZ_DF968433.1_13|9928|10869|-1|ID=1_13;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.764	WP_059423623.1 phosphotransferase [Streptomyces azureus]	100	99.7	1.36e-229
+NZ_DF968433.1_14|11232|11438|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.725	WP_059423625.1 hypothetical protein [Streptomyces azureus]	100	98.6	3.76e-40
+NZ_DF968433.1_15|12144|13571|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.746	WP_059423628.1 serine/threonine-protein kinase [Streptomyces azureus]	100	99.8	1.16e-278
+NZ_DF968433.1_16|13634|14026|-1|ID=1_16;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.730	WP_059423629.1 NUDIX domain-containing protein [Streptomyces azureus]	100	99.2	1.35e-91
+NZ_DF968433.1_17|14036|14854|-1|ID=1_17;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.708	WP_059423631.1 TrmH family RNA methyltransferase [Streptomyces azureus]	100	99.6	7.00e-191
+NZ_DF968433.1_18|14919|16160|-1|ID=1_18;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.732	WP_059423632.1 uroporphyrinogen-III C-methyltransferase [Streptomyces azureus]	100	99.8	2.23e-290
+NZ_DF968433.1_19|16320|18404|-1|ID=1_19;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.731	WP_236711921.1 nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase, partial [Streptomyces azureus]	100	99.9	0.0

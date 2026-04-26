@@ -1,0 +1,17 @@
+NZ_DF968437.1_1|2|697|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.714	WP_059423678.1 NAD(P)-dependent oxidoreductase, partial [Streptomyces azureus]	100	100	5.50e-161
+NZ_DF968437.1_2|694|1773|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.712	WP_059423649.1 ABC transporter ATP-binding protein [Streptomyces azureus]	100	99.7	4.69e-251
+NZ_DF968437.1_3|1893|2699|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.703	WP_059423650.1 DeoR/GlpR family DNA-binding transcription regulator [Streptomyces azureus]	100	99.6	2.51e-182
+NZ_DF968437.1_4|2696|3784|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.726	WP_059423652.1 ABC transporter ATP-binding protein [Streptomyces azureus]	100	99.7	9.57e-257
+NZ_DF968437.1_5|3781|4605|-1|ID=1_5;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.667	WP_059423654.1 carbohydrate ABC transporter permease [Streptomyces azureus]	100	99.6	1.52e-186
+NZ_DF968437.1_6|4602|5486|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.668	WP_059423656.1 carbohydrate ABC transporter permease [Streptomyces azureus]	100	99.7	7.33e-204
+NZ_DF968437.1_7|5490|6911|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.688	WP_059423658.1 ABC transporter substrate-binding protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968437.1_8|7068|8552|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.766	WP_059423660.1 FGGY-family carbohydrate kinase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968437.1_9|8549|9181|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.741	WP_059423663.1 histidine phosphatase family protein [Streptomyces azureus]	100	99.5	2.09e-143
+NZ_DF968437.1_10|9194|9970|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.718	WP_059423665.1 SAM-dependent methyltransferase [Streptomyces azureus]	100	99.6	1.79e-186
+NZ_DF968437.1_11|10088|10735|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.670	WP_059423667.1 superoxide dismutase [Streptomyces azureus]	100	99.5	6.52e-154
+NZ_DF968437.1_12|10893|11312|1|ID=1_12;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.726	WP_059423668.1 MULTISPECIES: hypothetical protein [Streptomyces]	100	99.3	3.61e-89
+NZ_DF968437.1_13|11309|13501|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.722	WP_059423673.1 tetratricopeptide repeat protein [Streptomyces azureus]	100	76.3	0.0
+NZ_DF968437.1_14|13502|14884|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.702	WP_059423674.1 amino acid permease [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968437.1_15|15265|15846|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.756	WP_059423675.1 biotin transporter BioY [Streptomyces azureus]	100	99.5	2.01e-119
+NZ_DF968437.1_16|16042|16770|-1|ID=1_16;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.665	WP_359311496.1 LPXTG cell wall anchor domain-containing protein [Streptomyces coeruleorubidus]	97.5	99.2	1.23e-158
+NZ_DF968437.1_17|16958|17677|1|ID=1_17;partial=01;start_type=TTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.707	WP_236711923.1 serine/threonine-protein kinase, partial [Streptomyces azureus]	100	87.9	7.29e-145

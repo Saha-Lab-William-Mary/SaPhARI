@@ -1,0 +1,7 @@
+NZ_DF968418.1_1|121|1704|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.681	WP_059423409.1 MDR family MFS transporter [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968418.1_2|1841|2425|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.662	WP_059423411.1 TetR/AcrR family transcriptional regulator [Streptomyces azureus]	100	99.5	4.76e-133
+NZ_DF968418.1_3|2449|3153|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.709	WP_059423414.1 M23 family metallopeptidase [Streptomyces azureus]	100	99.6	2.28e-106
+NZ_DF968418.1_4|3595|4227|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.679	WP_059423416.1 HAD family acid phosphatase [Streptomyces azureus]	100	99.5	2.59e-128
+NZ_DF968418.1_5|4278|7346|1|ID=1_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.730	WP_059423418.1 NACHT domain-containing protein [Streptomyces azureus]	99.9	99.6	0.0
+NZ_DF968418.1_6|7477|10002|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.667	WP_059423420.1 MULTISPECIES: ATP-dependent Clp protease ATP-binding subunit [Streptomyces]	100	99.9	0.0
+NZ_DF968418.1_7|10433|10759|1|ID=1_7;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.743	WP_236711915.1 SCO3374 family protein, partial [Streptomyces azureus]	100	100	2.42e-77

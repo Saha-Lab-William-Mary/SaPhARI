@@ -1,0 +1,8 @@
+NZ_LJHL01000185.1_1|249|692|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.547	WP_080691083.1 MULTISPECIES: cupin domain-containing protein [Mycobacterium]	100	99.3	4.14e-101
+NZ_LJHL01000185.1_2|1006|1767|1|ID=1_2;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.644	WP_152978968.1 alpha/beta fold hydrolase [Mycobacterium sp. 050128]	99.6	99.6	4.13e-180
+NZ_LJHL01000185.1_3|1764|2183|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.545	WP_082385914.1 4-carboxymuconolactone decarboxylase [Mycobacterium intracellulare]	100	99.3	3.22e-92
+NZ_LJHL01000185.1_4|2180|2863|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596	WP_054585769.1 3-oxoacid CoA-transferase subunit A [Mycobacterium intracellulare]	100	99.6	9.88e-155
+NZ_LJHL01000185.1_5|2860|3534|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.609	WP_054585770.1 MULTISPECIES: 3-oxoacid CoA-transferase subunit B [Mycobacterium]	100	99.6	9.95e-158
+NZ_LJHL01000185.1_7|4027|4506|-1|ID=1_7;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.679	WP_080691085.1 IS3 family transposase [Mycobacterium intracellulare]	99.4	99.4	1.81e-111
+NZ_LJHL01000185.1_8|4961|5746|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.641	WP_123766331.1 IS110 family transposase [Mycolicibacterium hassiacum]	90.3	98.5	2.89e-154
+NZ_LJHL01000185.1_9|5786|6178|-1|ID=1_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.606	WP_232530540.1 integrase core domain-containing protein, partial [Mycobacterium intracellulare]	100	99.2	6.94e-94

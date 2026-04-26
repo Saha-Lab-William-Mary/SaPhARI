@@ -12,7 +12,7 @@ CFPICI REGION 1 - NZ_OGTW02000045.1	Core	27	12238	13410	1	CORE	99.7	99.7	1.37e-2
 CFPICI REGION 1 - NZ_OGTW02000045.1	Core	28	13456	14160	1	WP_223848659.1	100	99.6	2.72e-160	head maturation protease, ClpP-related [Lactococcus lactis]
 CFPICI REGION 1 - NZ_OGTW02000045.1	Core	29	14172	15386	1	WP_127093812.1	100	99.8	1.72e-278	phage major capsid protein [Lactococcus lactis]
 CFPICI REGION 1 - NZ_OGTW02000045.1	Core	30	15452	15610	1	WP_185852382.1	100	98.1	4.30e-30	hypothetical protein [Lactococcus lactis]
-CFPICI REGION 1 - NZ_OGTW02000045.1	Core	31	15591	15914	1	WP_058225632.1	100	99.1	7.92e-71	head-tail connector protein [Lactococcus lactis]
+CFPICI REGION 1 - NZ_OGTW02000045.1	Core	31	15591	15914	1	CORE	100	99.1	7.92e-71	PROTEIN: WP_058225632.1 head-tail connector protein [Lactococcus lactis]
 CFPICI REGION 1 - NZ_OGTW02000045.1	Core	32	15889	16239	1	CORE	100	99.1	4.77e-74	PROTEIN: WP_127093813.1 phage head closure protein [Lactococcus lactis]
 CFPICI REGION 1 - NZ_OGTW02000045.1	Downstream	33	16241	16747	1	WP_127093814.1	100	99.4	1.09e-113	HK97 gp10 family phage protein [Lactococcus lactis]
 CFPICI REGION 1 - NZ_OGTW02000045.1	Downstream	34	16744	17139	1	WP_127093815.1	100	99.2	1.57e-86	DUF806 family protein [Lactococcus lactis]

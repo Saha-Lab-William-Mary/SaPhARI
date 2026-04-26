@@ -1,0 +1,16 @@
+NZ_LQOO01000086.1_1|272|874|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650	WP_074020877.1 MULTISPECIES: recombinase family protein [Mycobacterium]	100	99.5	9.65e-135
+NZ_LQOO01000086.1_2|886|1089|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647	WP_074020875.1 MULTISPECIES: helix-turn-helix domain-containing protein [Mycobacterium]	100	98.5	4.64e-36
+NZ_LQOO01000086.1_3|1262|1561|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.693	WP_139315503.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.0	2.11e-60
+NZ_LQOO01000086.1_4|1564|2130|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.700	WP_287041700.1 hypothetical protein [Mycobacterium sp.]	100	99.5	3.83e-126
+NZ_LQOO01000086.1_5|2137|4554|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.653	WP_142263551.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.9	0.0
+NZ_LQOO01000086.1_6|4551|5390|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.648	WP_074021169.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.6	4.29e-209
+NZ_LQOO01000086.1_7|5761|8616|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.674	WP_074021167.1 MULTISPECIES: MobF family relaxase [Mycobacterium]	100	99.9	0.0
+NZ_LQOO01000086.1_8|8895|9164|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.670	WP_139315504.1 MULTISPECIES: antitoxin VbhA family protein [Mycobacterium]	100	98.9	1.30e-54
+NZ_LQOO01000086.1_9|9365|10513|-1|ID=1_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.739	WP_232512932.1 MULTISPECIES: helix-turn-helix domain-containing protein [Mycobacterium]	100	99.7	3.72e-255
+NZ_LQOO01000086.1_10|10767|10982|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.625	WP_265385115.1 toxin-antitoxin system [Rhodococcus antarcticus]	56.9	80.6	8.75e-10
+NZ_LQOO01000086.1_11|11052|11600|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.667	WP_139315499.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.5	6.71e-133
+NZ_LQOO01000086.1_12|11725|11940|1|ID=1_12;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.653	WP_074021176.1 LuxR family transcriptional regulator [Mycobacterium kiyosense]	100	98.6	7.99e-41
+NZ_LQOO01000086.1_13|12002|12310|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.647	WP_074021163.1 hypothetical protein [Mycobacterium intracellulare]	100	99.0	2.34e-63
+NZ_LQOO01000086.1_14|12307|13089|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.612	WP_074021160.1 MULTISPECIES: ParA family protein [Mycobacterium]	100	99.6	1.52e-179
+NZ_LQOO01000086.1_15|13344|14333|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.584	WP_074021174.1 MULTISPECIES: DNA adenine methylase [Mycobacterium]	100	99.7	2.03e-239
+NZ_LQOO01000086.1_16|14334|15182|1|ID=1_16;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.592	WP_201028002.1 DpnII family type II restriction endonuclease [Mycolicibacterium fortuitum]	73.6	98.9	2.32e-141

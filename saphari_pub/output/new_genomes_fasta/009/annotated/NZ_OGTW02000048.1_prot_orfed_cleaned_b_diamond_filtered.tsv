@@ -1,0 +1,19 @@
+NZ_OGTW02000048.1_1|77|1228|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=8bp;gc_cont=0.381	WP_185852391.1 lactate oxidase [Lactococcus lactis]	100	95.3	2.48e-254
+NZ_OGTW02000048.1_2|1295|2770|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.331	WP_010905850.1 MULTISPECIES: alpha-amylase [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000048.1_3|3006|3908|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.286	WP_127093849.1 hexosyltransferase [Lactococcus lactis]	100	99.7	2.52e-223
+NZ_OGTW02000048.1_4|4020|6074|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.318	WP_127093850.1 cation:proton antiporter [Lactococcus lactis]	100	94.7	0.0
+NZ_OGTW02000048.1_5|6404|7111|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=6bp;gc_cont=0.287	WP_003131017.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.6	1.34e-156
+NZ_OGTW02000048.1_6|7381|8847|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=AAAAA;rbs_spacer=11bp;gc_cont=0.330	WP_010905846.1 MULTISPECIES: helix-turn-helix domain-containing protein [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000048.1_7|9215|10711|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AAA;rbs_spacer=4bp;gc_cont=0.429	WP_003131019.1 MULTISPECIES: glycerol kinase GlpK [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000048.1_8|10748|12577|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=11bp;gc_cont=0.436	WP_010905845.1 MULTISPECIES: type 1 glycerol-3-phosphate oxidase [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000048.1_9|12628|13365|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=9bp;gc_cont=0.439	WP_127093851.1 MIP/aquaporin family protein [Lactococcus lactis]	100	99.6	1.30e-168
+NZ_OGTW02000048.1_10|13426|13536|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=TAAAA;rbs_spacer=4bp;gc_cont=0.243	WP_217205761.1 recombinase RecA [Lactococcus cremoris]	71.9	86.5	3.57e-05
+NZ_OGTW02000048.1_11|13838|14680|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=12bp;gc_cont=0.353	WP_003131024.1 MULTISPECIES: aldo/keto reductase [Lactococcus]	100	99.6	1.23e-204
+NZ_OGTW02000048.1_12|15174|15416|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=14bp;gc_cont=0.391	WP_003131025.1 MULTISPECIES: GlsB/YeaQ/YmgE family stress response membrane protein [Lactococcus]	100	98.8	3.98e-45
+NZ_OGTW02000048.1_13|15688|16011|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=5bp;gc_cont=0.293	WP_003131026.1 MULTISPECIES: alkaline shock response membrane anchor protein AmaP [Lactococcus]	100	99.1	3.20e-64
+NZ_OGTW02000048.1_14|16230|16781|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=TATAA;rbs_spacer=12bp;gc_cont=0.355	WP_003131027.1 MULTISPECIES: Asp23/Gls24 family envelope stress response protein [Lactococcus]	100	99.5	5.86e-114
+NZ_OGTW02000048.1_15|16939|17118|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=4bp;gc_cont=0.328	WP_003131028.1 CorA family divalent cation transporter [Lactococcus lactis]	100	98.3	8.67e-33
+NZ_OGTW02000048.1_16|17157|18086|1|ID=1_16;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=3bp;gc_cont=0.334	WP_003131029.1 MULTISPECIES: N(5)-(carboxyethyl)ornithine synthase [Lactococcus]	100	99.7	5.08e-223
+NZ_OGTW02000048.1_17|18356|19315|-1|ID=1_17;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.292	WP_010905843.1 MULTISPECIES: LysR family transcriptional regulator [Lactococcus]	100	94.7	5.14e-215
+NZ_OGTW02000048.1_18|19335|21092|-1|ID=1_18;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=15bp;gc_cont=0.363	WP_014570605.1 MULTISPECIES: CocE/NonD family hydrolase [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000048.1_19|22278|22571|1|ID=1_19;partial=00;start_type=TTG;rbs_motif=AAAAA;rbs_spacer=11bp;gc_cont=0.344	WP_240758613.1 tyrosine recombinase XerS [Lactococcus lactis]	96.9	99.0	9.18e-58

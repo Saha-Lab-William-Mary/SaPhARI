@@ -1,0 +1,16 @@
+NZ_OGTW02000024.1_1|2|292|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.340	WP_063283710.1 hypothetical protein, partial [Lactococcus lactis]	100	100	1.20e-61
+NZ_OGTW02000024.1_2|296|490|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.308	WP_063283709.1 DUF1655 domain-containing protein [Lactococcus lactis]	100	98.5	1.12e-37
+NZ_OGTW02000024.1_3|561|1286|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.365	WP_063283708.1 Rha family transcriptional regulator [Lactococcus lactis]	100	99.6	5.28e-166
+NZ_OGTW02000024.1_4|1458|1679|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.302	WP_014735153.1 MULTISPECIES: helix-turn-helix domain-containing protein [Lactococcus]	100	98.6	4.72e-43
+NZ_OGTW02000024.1_5|1850|2392|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.262	WP_011835948.1 MULTISPECIES: helix-turn-helix domain-containing protein [Lactococcus]	100	99.4	1.35e-122
+NZ_OGTW02000024.1_6|2438|2701|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.371	WP_031559300.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	72.7	2.91e-37
+NZ_OGTW02000024.1_7|2930|3247|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.264	WP_228766108.1 hypothetical protein [Lactococcus lactis]	99.0	96.2	5.50e-47
+NZ_OGTW02000024.1_8|3362|4684|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.395	WP_127093709.1 DNA/RNA non-specific endonuclease [Lactococcus lactis]	100	99.8	6.80e-285
+NZ_OGTW02000024.1_9|4764|5114|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.276	WP_422120275.1 MULTISPECIES: DUF1648 domain-containing protein [Lactococcus]	40.4	96.6	3.25e-19
+NZ_OGTW02000024.1_10|5456|5782|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.291	WP_011834160.1 MULTISPECIES: hypothetical protein [Bacillati]	100	99.1	2.54e-72
+NZ_OGTW02000024.1_11|6690|6854|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.345	WP_010905061.1 MULTISPECIES: bacteriocin [Bacteria]	100	98.2	1.16e-28
+NZ_OGTW02000024.1_12|6976|7281|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.337	WP_010905062.1 MULTISPECIES: bacteriocin immunity protein [Bacillati]	100	99.0	8.85e-63
+NZ_OGTW02000024.1_13|7531|8715|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.367	WP_014570326.1 MULTISPECIES: tyrosine-type recombinase/integrase [Lactococcus]	100	99.7	4.44e-285
+NZ_OGTW02000024.1_14|9168|9617|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.300	WP_010905064.1 MULTISPECIES: GNAT family N-acetyltransferase [Lactococcus]	100	99.3	2.90e-102
+NZ_OGTW02000024.1_15|9694|9936|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.350	WP_010905065.1 MULTISPECIES: TM2 domain-containing protein [Lactococcus]	100	98.8	2.77e-54
+NZ_OGTW02000024.1_16|10017|11441|-1|ID=1_16;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.351	WP_148113546.1 SulP family inorganic anion transporter, partial [Lactococcus lactis]	100	99.8	0.0

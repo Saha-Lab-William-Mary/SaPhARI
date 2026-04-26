@@ -1,0 +1,6 @@
+NZ_LJHL01000107.1_1|2|307|-1|ID=1_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.699	WP_277814421.1 ribonuclease III family protein, partial [Mycobacterium intracellulare]	100	100	1.40e-66
+NZ_LJHL01000107.1_2|304|903|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.707	WP_180831731.1 YceD family protein [Mycobacterium intracellulare]	100	99.5	4.81e-139
+NZ_LJHL01000107.1_3|973|1710|-1|ID=1_3;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.686	WP_008258949.1 MULTISPECIES: cell division protein SepIVA [Mycobacterium]	100	99.6	4.30e-63
+NZ_LJHL01000107.1_4|2143|3309|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.664	WP_042912695.1 permease [Mycobacterium intracellulare]	100	99.7	2.36e-261
+NZ_LJHL01000107.1_5|3316|5025|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.730	WP_042912696.1 thiamine pyrophosphate-requiring protein [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LJHL01000107.1_6|5354|5785|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.655	WP_225336771.1 DUF222 domain-containing protein, partial [Mycobacterium intracellulare]	100	94.4	1.24e-85

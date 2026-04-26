@@ -1,0 +1,17 @@
+NZ_LJHL01000115.1_1|135|1034|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626	WP_042913104.1 SDR family NAD(P)-dependent oxidoreductase [Mycobacterium intracellulare]	100	99.7	8.99e-212
+NZ_LJHL01000115.1_2|1086|3806|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.670	WP_197690743.1 ATP-binding protein [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000115.1_3|3915|4268|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.678	WP_042913105.1 nitroreductase family protein [Mycobacterium intracellulare]	100	99.2	7.27e-83
+NZ_LJHL01000115.1_4|4288|4938|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.691	WP_042913107.1 HD domain-containing protein [Mycobacterium intracellulare]	100	99.5	4.95e-154
+NZ_LJHL01000115.1_5|5040|6020|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.695	WP_014385633.1 MULTISPECIES: GlxA family transcriptional regulator [Mycobacterium]	100	99.7	1.98e-224
+NZ_LJHL01000115.1_6|6024|8996|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.665	WP_026071234.1 MULTISPECIES: UPF0182 family protein [Mycobacterium]	100	99.9	0.0
+NZ_LJHL01000115.1_7|9076|10074|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.673	WP_009955776.1 MULTISPECIES: YlbL family protein [Mycobacterium]	100	99.7	5.90e-231
+NZ_LJHL01000115.1_8|10085|11581|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.688	WP_161807805.1 zinc-dependent metalloprotease [Mycobacterium intracellulare]	99.8	91.8	0.0
+NZ_LJHL01000115.1_9|11617|12483|1|ID=1_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.737	WP_180831696.1 cyclodehydratase [Mycobacterium intracellulare]	100	93.8	7.44e-190
+NZ_LJHL01000115.1_10|12565|13908|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.670	WP_008259631.1 MULTISPECIES: macrolide-binding ATPase MABP-1 [Mycobacterium]	100	99.8	0.0
+NZ_LJHL01000115.1_11|13918|14169|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.718	WP_042913111.1 WhiB family transcriptional regulator [Mycobacterium intracellulare]	100	98.8	2.60e-58
+NZ_LJHL01000115.1_12|14312|14473|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.741	WP_162494288.1 hypothetical protein [Mycobacterium intracellulare]	100	98.1	1.63e-21
+NZ_LJHL01000115.1_13|14574|16694|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.723	WP_161807806.1 ATP-dependent DNA helicase UvrD2 [Mycobacterium intracellulare]	100	99.4	0.0
+NZ_LJHL01000115.1_14|16940|17194|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.655	WP_042913114.1 mycoredoxin Mrx1 [Mycobacterium intracellulare]	100	98.8	3.04e-53
+NZ_LJHL01000115.1_15|17206|18138|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.696	WP_014712227.1 MULTISPECIES: NAD(+) diphosphatase [Mycobacterium]	100	99.7	3.86e-223
+NZ_LJHL01000115.1_16|18138|19208|-1|ID=1_16;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682	WP_008259653.1 MULTISPECIES: potassium channel family protein [Mycobacterium]	100	99.7	1.22e-240
+NZ_LJHL01000115.1_17|19257|20792|-1|ID=1_17;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.723	WP_054585282.1 ATP-dependent helicase [Mycobacterium intracellulare]	100	99.8	0.0

@@ -1,0 +1,18 @@
+NZ_OGTW02000109.1_1|81|803|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333	WP_003132036.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	87.6	4.39e-144
+NZ_OGTW02000109.1_2|806|1627|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.353	WP_031296592.1 MULTISPECIES: pseudouridine synthase [Lactococcus]	100	88.3	3.74e-170
+NZ_OGTW02000109.1_3|1706|2344|-1|ID=1_3;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.338	WP_010906406.1 MULTISPECIES: TetR/AcrR family transcriptional regulator [Lactococcus]	100	95.8	2.80e-138
+NZ_OGTW02000109.1_4|2729|7039|1|ID=1_4;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.379	WP_185852445.1 2-hydroxyacyl-CoA dehydratase [Lactococcus lactis]	99.9	99.7	0.0
+NZ_OGTW02000109.1_5|7286|7489|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.309	WP_003132029.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	98.5	1.48e-41
+NZ_OGTW02000109.1_6|7509|7946|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.356	WP_003132028.1 MULTISPECIES: universal stress protein [Lactococcus]	100	99.3	5.04e-92
+NZ_OGTW02000109.1_7|8009|9229|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.379	WP_010906404.1 MULTISPECIES: MFS transporter [Lactococcus]	100	99.8	6.16e-273
+NZ_OGTW02000109.1_8|9327|9998|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.312	WP_127094131.1 Crp/Fnr family transcriptional regulator [Lactococcus lactis]	100	99.6	7.77e-158
+NZ_OGTW02000109.1_9|10082|10756|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.364	WP_003132023.1 MULTISPECIES: ribose-5-phosphate isomerase RpiA [Lactococcus]	100	99.6	1.85e-153
+NZ_OGTW02000109.1_10|10784|11224|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.367	WP_003132021.1 MULTISPECIES: NUDIX hydrolase [Lactococcus]	100	99.3	3.55e-106
+NZ_OGTW02000109.1_11|11517|12392|1|ID=1_11;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.355	WP_003132018.1 MULTISPECIES: rod shape-determining protein MreC [Lactococcus]	100	99.7	2.23e-192
+NZ_OGTW02000109.1_12|12482|13009|1|ID=1_12;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.335	WP_014570856.1 MULTISPECIES: rod shape-determining protein MreD [Lactococcus]	100	99.4	1.07e-112
+NZ_OGTW02000109.1_13|13113|14483|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.389	WP_010906400.1 MULTISPECIES: CHAP domain-containing protein [Lactococcus]	100	99.8	1.13e-161
+NZ_OGTW02000109.1_14|14606|16483|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.355	WP_003132014.1 MULTISPECIES: asparagine synthase (glutamine-hydrolyzing) [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000109.1_15|16495|17721|1|ID=1_15;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.332	WP_010906398.1 MULTISPECIES: carboxylate--amine ligase [Lactococcus]	100	99.8	1.81e-307
+NZ_OGTW02000109.1_16|17753|18475|1|ID=1_16;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.351	WP_003132012.1 MULTISPECIES: aspartate/glutamate racemase family protein [Lactococcus]	100	99.6	6.46e-171
+NZ_OGTW02000109.1_17|18465|19208|1|ID=1_17;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.344	WP_017865247.1 MULTISPECIES: C39 family peptidase [Lactococcus]	100	99.6	2.64e-178
+NZ_OGTW02000109.1_18|19322|20461|1|ID=1_18;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.404	WP_010906396.1 MULTISPECIES: molecular chaperone DnaJ [Lactococcus]	100	99.7	6.49e-220

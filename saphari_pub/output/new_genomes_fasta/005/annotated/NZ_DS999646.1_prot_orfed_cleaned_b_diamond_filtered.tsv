@@ -1,0 +1,12 @@
+NZ_DS999646.1_1|21|758|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.638	WP_037631010.1 GntR family transcriptional regulator [Streptomyces albidoflavus]	100	99.6	3.18e-169
+NZ_DS999646.1_2|944|1399|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.664	WP_397772201.1 hypothetical protein [Streptomyces globisporus]	94.7	99.3	1.48e-96
+NZ_DS999646.1_3|1396|1611|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.667	WP_003952350.1 hypothetical protein [Streptomyces albidoflavus]	100	98.6	1.08e-47
+NZ_DS999646.1_4|1608|3041|1|ID=1_4;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.713	WP_435838057.1 replication initiator protein RepSA [Streptomyces albidoflavus]	99.2	99.8	0.0
+NZ_DS999646.1_5|3034|3213|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.683	WP_037631013.1 helix-turn-helix domain-containing protein [Streptomyces albidoflavus]	100	98.3	2.05e-31
+NZ_DS999646.1_6|3213|4370|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.670	WP_003952353.1 tyrosine-type recombinase/integrase [Streptomyces albidoflavus]	100	99.7	3.74e-277
+NZ_DS999646.1_7|5311|6048|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.638	WP_037631010.1 GntR family transcriptional regulator [Streptomyces albidoflavus]	100	99.6	3.18e-169
+NZ_DS999646.1_8|6234|6689|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.664	WP_397772201.1 hypothetical protein [Streptomyces globisporus]	94.7	99.3	1.48e-96
+NZ_DS999646.1_9|6686|6901|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.667	WP_003952350.1 hypothetical protein [Streptomyces albidoflavus]	100	98.6	1.08e-47
+NZ_DS999646.1_10|6898|8331|1|ID=1_10;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.713	WP_435838057.1 replication initiator protein RepSA [Streptomyces albidoflavus]	99.2	99.8	0.0
+NZ_DS999646.1_11|8324|8503|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.683	WP_037631013.1 helix-turn-helix domain-containing protein [Streptomyces albidoflavus]	100	98.3	2.05e-31
+NZ_DS999646.1_12|8503|9660|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.670	WP_003952353.1 tyrosine-type recombinase/integrase [Streptomyces albidoflavus]	100	99.7	3.74e-277

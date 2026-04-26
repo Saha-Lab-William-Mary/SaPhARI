@@ -1,0 +1,4 @@
+NZ_OGTW02000035.1_1|582|1064|1|ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.296	WP_369125712.1 plasmid mobilization protein [Lactococcus sp.]	99.4	99.4	9.43e-102
+NZ_OGTW02000035.1_2|2713|3864|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.363	WP_014011566.1 MULTISPECIES: RepB family plasmid replication initiator protein [Lactococcus]	100	99.7	5.00e-265
+NZ_OGTW02000035.1_3|3861|4484|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.301	WP_127093743.1 MULTISPECIES: DNA-binding protein [Lactococcus]	100	99.0	6.10e-100
+NZ_OGTW02000035.1_4|4463|5698|1|ID=1_4;partial=00;start_type=GTG;rbs_motif=AAAAA;rbs_spacer=11bp;gc_cont=0.362	WP_127093744.1 MULTISPECIES: restriction endonuclease subunit S [Lactococcus]	100	99.0	1.86e-294

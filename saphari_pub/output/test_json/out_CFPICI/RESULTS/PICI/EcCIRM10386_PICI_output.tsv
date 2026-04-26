@@ -8,5 +8,5 @@ PICI REGION 1 - EcCIRM10386	Core	14	9276	11093	-1	CORE	100	99.8	0.0	PROTEIN: WP_
 PICI REGION 1 - EcCIRM10386	Core	15	11090	11389	-1	WP_001261488.1	100	99.0	1.37e-65	DUF4222 domain-containing protein [Escherichia coli]
 PICI REGION 1 - EcCIRM10386	Core	16	11396	11716	-1	WP_001113156.1	100	99.1	8.94e-72	hypothetical protein [Escherichia coli]
 PICI REGION 1 - EcCIRM10386	Core	17	11709	11912	-1	WP_001427366.1	100	98.5	1.04e-41	host cell division inhibitor Icd-like protein [Escherichia coli]
-PICI REGION 1 - EcCIRM10386	Core	18	12110	12415	1	CORE	100	99.0	4.06e-59	PROTEIN: WP_000179579.1 MULTISPECIES: YlcI/YnfO family protein [Enterobacteriaceae]
-PICI REGION 1 - EcCIRM10386	Downstream	19	13474	14691	-1	WP_000085277.1	100	99.8	4.22e-301	tyrosine-type recombinase/integrase [Escherichia coli]
+PICI REGION 1 - EcCIRM10386	Core	18	12110	12415	1	WP_000179579.1	100	99.0	4.06e-59	MULTISPECIES: YlcI/YnfO family protein [Enterobacteriaceae]
+PICI REGION 1 - EcCIRM10386	Core	19	13474	14691	-1	CORE	100	99.8	4.22e-301	PROTEIN: WP_000085277.1 tyrosine-type recombinase/integrase [Escherichia coli]

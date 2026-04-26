@@ -1,0 +1,19 @@
+NZ_OGTW02000058.1_1|1|972|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.349	WP_148113553.1 distal tail protein Dit, partial [Lactococcus lactis]	100	100	1.63e-224
+NZ_OGTW02000058.1_2|974|3556|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.365	WP_127093904.1 phage tail protein [Lactococcus lactis]	100	99.9	0.0
+NZ_OGTW02000058.1_3|3556|3930|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333	WP_015974097.1 MULTISPECIES: DUF5361 domain-containing protein [Lactococcus]	100	99.2	8.62e-83
+NZ_OGTW02000058.1_4|3945|4205|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.284	WP_127093905.1 hypothetical protein [Lactococcus lactis]	100	98.9	2.89e-52
+NZ_OGTW02000058.1_5|4248|4805|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.369	WP_047686876.1 phage tail tube protein [Lactococcus lactis]	100	99.5	9.11e-128
+NZ_OGTW02000058.1_6|4816|5151|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.307	WP_252172531.1 SIMPL domain-containing protein [Lactococcus lactis]	98.2	99.1	5.93e-68
+NZ_OGTW02000058.1_7|5152|5388|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.359	NP_996710.1 neck protein [Lactococcus phage phiLC3]	100	98.7	1.03e-46
+NZ_OGTW02000058.1_8|5381|5719|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.366	WP_058220434.1 hypothetical protein [Lactococcus lactis]	100	99.1	6.61e-79
+NZ_OGTW02000058.1_9|5706|6104|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.366	WP_058220433.1 phage Gp19/Gp15/Gp42 family protein [Lactococcus lactis]	100	99.2	3.99e-85
+NZ_OGTW02000058.1_10|6106|6405|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.360	NP_996707.1 Arc-like repressor [Lactococcus phage phiLC3]	98.0	99.0	1.81e-61
+NZ_OGTW02000058.1_11|6420|7316|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.434	WP_032398983.1 phage major capsid protein [Lactococcus lactis]	100	99.7	4.30e-214
+NZ_OGTW02000058.1_12|7320|7784|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.366	WP_004254272.1 MULTISPECIES: capsid assembly scaffolding protein Gp46 family protein [Lactobacillales]	100	99.4	8.19e-100
+NZ_OGTW02000058.1_13|7857|9266|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.367	WP_127093908.1 DEAD/DEAH box helicase family protein [Lactococcus lactis]	100	99.8	0.0
+NZ_OGTW02000058.1_14|9323|9556|-1|ID=1_14;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.350	WP_081196687.1 MULTISPECIES: hypothetical protein [Lactobacillales]	100	98.7	7.89e-46
+NZ_OGTW02000058.1_15|9556|10323|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.322	WP_127093909.1 MULTISPECIES: hypothetical protein [Lactobacillales]	100	99.6	1.59e-183
+NZ_OGTW02000058.1_16|10323|11552|-1|ID=1_16;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.372	WP_185852402.1 MULTISPECIES: phage portal protein [Lactobacillales]	100	99.8	9.19e-297
+NZ_OGTW02000058.1_17|11583|11894|-1|ID=1_17;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.340	WP_127093910.1 MULTISPECIES: helix-turn-helix domain-containing protein [Lactobacillales]	100	99.0	9.10e-66
+NZ_OGTW02000058.1_18|12497|12928|-1|ID=1_18;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.368	WP_004254241.1 MULTISPECIES: transcriptional regulator [Lactococcus]	100	99.3	4.70e-105
+NZ_OGTW02000058.1_19|13011|13172|-1|ID=1_19;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.284	WP_003131301.1 hypothetical protein [Lactococcus lactis]	100	98.1	8.09e-22

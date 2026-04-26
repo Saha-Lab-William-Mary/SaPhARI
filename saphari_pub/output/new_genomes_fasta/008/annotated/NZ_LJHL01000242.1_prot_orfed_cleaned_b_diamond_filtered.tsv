@@ -1,0 +1,10 @@
+NZ_LJHL01000242.1_1|79|1116|-1|ID=1_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.635	WP_054585860.1 phospholipase D-like domain-containing protein [Mycobacterium intracellulare]	100	93.9	3.52e-225
+NZ_LJHL01000242.1_2|1287|1916|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.675	WP_241777325.1 hypothetical protein [Mycobacterium intracellulare]	100	91.4	6.19e-120
+NZ_LJHL01000242.1_3|1913|3349|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.704	WP_054585861.1 hypothetical protein [Mycobacterium intracellulare]	100	99.8	6.89e-141
+NZ_LJHL01000242.1_5|3462|4346|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.633	WP_241777326.1 DUF4333 domain-containing protein [Mycobacterium intracellulare]	100	99.7	2.52e-179
+NZ_LJHL01000242.1_6|4472|5947|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614	WP_317728626.1 peptidase [Mycobacterium intracellulare]	99.8	97.0	0.0
+NZ_LJHL01000242.1_7|6066|7196|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.681	WP_161807993.1 sensor domain-containing protein [Mycobacterium intracellulare]	98.8	65.0	1.20e-142
+NZ_LJHL01000242.1_8|7232|8134|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.636	WP_231614245.1 MULTISPECIES: DUF4333 domain-containing protein [Mycobacterium]	68.2	65.8	2.35e-82
+NZ_LJHL01000242.1_9|8221|9303|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.654	WP_152978980.1 helix-turn-helix domain-containing protein [Mycobacterium intracellulare]	100	99.7	2.89e-247
+NZ_LJHL01000242.1_10|9375|9923|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.638	WP_152978981.1 hypothetical protein [Mycobacterium intracellulare]	99.3	77.0	5.44e-98
+NZ_LJHL01000242.1_11|9935|10246|-1|ID=1_11;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.606	WP_161807994.1 hypothetical protein, partial [Mycobacterium intracellulare]	100	99.0	8.39e-71

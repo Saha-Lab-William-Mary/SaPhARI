@@ -1,0 +1,17 @@
+NZ_LQOO01000060.1_1|1|1005|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.602	WP_232512923.1 thioesterase domain-containing protein, partial [Mycobacterium intracellulare]	100	99.7	2.20e-241
+NZ_LQOO01000060.1_2|1002|2513|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.683	WP_087139707.1 MFS transporter [Mycobacterium intracellulare]	100	99.6	0.0
+NZ_LQOO01000060.1_3|2894|9244|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.685	WP_054585178.1 sulfolipid-1 biosynthesis phthioceranic/hydroxyphthioceranic acid synthase [Mycobacterium intracellulare]	100	100.0	0.0
+NZ_LQOO01000060.1_4|9263|10561|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.629	WP_054585572.1 cytochrome P450 [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LQOO01000060.1_5|10558|10896|1|ID=1_5;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.649	WP_172417511.1 MULTISPECIES: hemophore-related protein [Mycobacterium]	100	99.1	9.42e-70
+NZ_LQOO01000060.1_6|10945|11712|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.681	WP_172417512.1 siderophore-interacting protein [Mycobacterium intracellulare]	100	99.6	5.96e-179
+NZ_LQOO01000060.1_7|11715|13454|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.646	WP_054585189.1 AMP-binding protein [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LQOO01000060.1_8|13535|13702|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.530	WP_165606875.1 hypothetical protein [Mycobacterium mantenii]	72.9	85.7	1.18e-22
+NZ_LQOO01000060.1_9|14265|15143|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.702	WP_054585181.1 SDR family oxidoreductase [Mycobacterium intracellulare]	100	99.7	9.56e-199
+NZ_LQOO01000060.1_10|15140|16585|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.663	WP_054585182.1 amino acid permease [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LQOO01000060.1_11|16661|17563|-1|ID=1_11;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.697	WP_014380025.1 MULTISPECIES: PAC2 family protein [Mycobacterium]	100	99.7	1.83e-216
+NZ_LQOO01000060.1_12|18049|21837|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.666	WP_054585183.1 methionine synthase [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LQOO01000060.1_13|21926|22624|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.651	WP_072501510.1 TetR/AcrR family transcriptional regulator [Mycobacterium intracellulare]	100	99.1	4.36e-158
+NZ_LQOO01000060.1_14|22726|23163|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.664	WP_054585185.1 hypothetical protein [Mycobacterium intracellulare]	100	99.3	1.70e-99
+NZ_LQOO01000060.1_15|23160|23927|-1|ID=1_15;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.661	WP_014711532.1 MULTISPECIES: mannan-binding family protein [Mycobacterium]	100	99.6	1.17e-185
+NZ_LQOO01000060.1_16|23924|24592|-1|ID=1_16;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.632	WP_054585186.1 tetratricopeptide repeat protein [Mycobacterium intracellulare]	99.5	99.6	3.54e-146
+NZ_LQOO01000060.1_17|24629|25936|-1|ID=1_17;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.680	WP_054585187.1 MlaD family protein [Mycobacterium intracellulare]	100	96.1	7.08e-292

@@ -1,7 +1,7 @@
 Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
 CFPICI REGION 1 - SeCIFDA336426-1	Upstream	1	1	117	-1	WP_069142260.1	100	100	8.48e-21	DUF3892 domain-containing protein, partial [Salmonella enterica]
 CFPICI REGION 1 - SeCIFDA336426-1	Core	2	268	1929	-1	CORE	100	99.8	0.0	PROTEIN: WP_058654936.1 MULTISPECIES: terminase large subunit [Enterobacteriaceae]
-CFPICI REGION 1 - SeCIFDA336426-1	Core	3	1913	2269	-1	CORE	100	99.2	1.21e-77	PROTEIN: WP_000113647.1 MULTISPECIES: phage terminase small subunit P27 family [Gammaproteobacteria]
+CFPICI REGION 1 - SeCIFDA336426-1	Core	3	1913	2269	-1	WP_000113647.1	100	99.2	1.21e-77	MULTISPECIES: phage terminase small subunit P27 family [Gammaproteobacteria]
 CFPICI REGION 1 - SeCIFDA336426-1	Core	4	2227	2418	-1	WP_126066294.1	91.9	96.9	1.15e-34	terminase, partial [Klebsiella pneumoniae]
 CFPICI REGION 1 - SeCIFDA336426-1	Core	5	2400	2552	-1	WP_161397194.1	100	98.0	2.11e-27	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
 CFPICI REGION 1 - SeCIFDA336426-1	Core	6	2545	2988	-1	CORE	100	99.3	1.97e-108	PROTEIN: WP_058654938.1 MULTISPECIES: HNH endonuclease signature motif containing protein [Salmonella]

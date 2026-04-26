@@ -1,0 +1,9 @@
+NZ_OGTW02000031.1_1|84|230|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.286	WP_023349233.1 MULTISPECIES: hypothetical protein [Bacteria]	100	98.0	4.23e-24
+NZ_OGTW02000031.1_2|676|918|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.329	WP_127093737.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	98.8	1.67e-53
+NZ_OGTW02000031.1_3|1502|1669|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.327	WP_011834683.1 MULTISPECIES: lactococcin family bacteriocin [Bacteria]	100	98.2	2.38e-35
+NZ_OGTW02000031.1_4|1676|1978|1|ID=1_4;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.284	WP_015081754.1 MULTISPECIES: bacteriocin immunity protein [Lactobacillales]	77.0	99.0	2.55e-48
+NZ_OGTW02000031.1_5|2230|4092|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.409	WP_127093738.1 MULTISPECIES: heavy metal translocating P-type ATPase [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000031.1_6|4798|5025|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.355	WP_047686754.1 MULTISPECIES: heavy-metal-associated domain-containing protein [Bacillati]	100	98.7	1.10e-42
+NZ_OGTW02000031.1_7|5071|5619|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.362	WP_225509929.1 MULTISPECIES: DNA-binding protein [Actinomycetes]	100	99.5	4.03e-125
+NZ_OGTW02000031.1_8|5705|6394|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.374	WP_011834689.1 MULTISPECIES: Crp/Fnr family transcriptional regulator [Bacillati]	100	99.6	5.95e-157
+NZ_OGTW02000031.1_9|7213|7431|-1|ID=1_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.425	WP_148113550.1 helix-turn-helix domain-containing protein, partial [Lactococcus lactis]	100	98.6	2.55e-42

@@ -6,7 +6,7 @@ CFPICI REGION 1 - PgCIFDAARGOS_186	Core	4	956	2617	-1	CORE	100	99.8	0.0	PROTEIN:
 CFPICI REGION 1 - PgCIFDAARGOS_186	Core	5	2601	2957	-1	WP_048253838.1	100	99.2	7.26e-79	phage terminase small subunit P27 family [Pluralibacter gergoviae]
 CFPICI REGION 1 - PgCIFDAARGOS_186	Core	6	3086	3238	-1	WP_162268877.1	100	98.0	8.61e-27	hypothetical protein [Pluralibacter gergoviae]
 CFPICI REGION 1 - PgCIFDAARGOS_186	Core	7	3231	3674	-1	CORE	100	99.3	9.76e-109	PROTEIN: WP_048253839.1 HNH endonuclease signature motif containing protein [Pluralibacter gergoviae]
-CFPICI REGION 1 - PgCIFDAARGOS_186	Core	8	3674	3973	-1	WP_048253840.1	100	99.0	1.37e-65	head-tail connector protein [Pluralibacter gergoviae]
+CFPICI REGION 1 - PgCIFDAARGOS_186	Core	8	3674	3973	-1	CORE	100	99.0	1.37e-65	PROTEIN: WP_048253840.1 head-tail connector protein [Pluralibacter gergoviae]
 CFPICI REGION 1 - PgCIFDAARGOS_186	Core	9	3966	4292	-1	CORE	100	99.1	2.09e-71	PROTEIN: WP_225823445.1 phage head closure protein [Pluralibacter gergoviae]
 CFPICI REGION 1 - PgCIFDAARGOS_186	Core	10	4304	5485	-1	CORE	100	99.7	1.53e-289	PROTEIN: WP_048253842.1 phage portal protein [Pluralibacter gergoviae]
 CFPICI REGION 1 - PgCIFDAARGOS_186	Core	11	5541	6101	-1	CORE	100	99.5	6.17e-131	PROTEIN: WP_048253843.1 HK97 family phage prohead protease [Pluralibacter gergoviae]

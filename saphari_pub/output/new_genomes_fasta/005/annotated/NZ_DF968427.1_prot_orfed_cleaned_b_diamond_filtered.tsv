@@ -1,0 +1,19 @@
+NZ_DF968427.1_1|64|1419|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=3-4bp;gc_cont=0.735	WP_059423496.1 two-component system sensor histidine kinase CseC [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968427.1_2|1429|2130|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.709	WP_059423499.1 two-component system response regulator CseB [Streptomyces azureus]	100	99.6	5.52e-164
+NZ_DF968427.1_3|2268|2918|-1|ID=1_3;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.707	WP_059423500.1 hypothetical protein [Streptomyces azureus]	100	99.5	1.53e-148
+NZ_DF968427.1_4|2906|3445|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.711	WP_059423502.1 MULTISPECIES: SigE family RNA polymerase sigma factor [Streptomyces]	100	99.4	1.35e-117
+NZ_DF968427.1_5|3734|4669|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.761	WP_059423527.1 A/G-specific adenine glycosylase [Streptomyces azureus]	100	99.7	2.01e-230
+NZ_DF968427.1_6|4789|6363|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.766	WP_059423504.1 sensor histidine kinase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968427.1_7|6360|7034|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.747	WP_059423506.1 response regulator transcription factor [Streptomyces azureus]	100	99.6	1.75e-142
+NZ_DF968427.1_8|7096|7956|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.715	WP_059423509.1 phosphatase PAP2 family protein [Streptomyces azureus]	100	74.2	2.14e-145
+NZ_DF968427.1_9|7982|8773|1|ID=1_9;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.723	WP_381207281.1 hypothetical protein [Streptomyces hawaiiensis]	84.7	99.2	1.39e-105
+NZ_DF968427.1_10|9095|10219|-1|ID=1_10;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.725	WP_059423513.1 DNA integrity scanning diadenylate cyclase DisA [Streptomyces azureus]	100	99.7	6.40e-252
+NZ_DF968427.1_11|10300|11709|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.730	WP_059423515.1 DNA repair protein RadA [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968427.1_12|11905|13617|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.774	WP_059423517.1 BACON domain-containing protein [Streptomyces azureus]	100	94.4	0.0
+NZ_DF968427.1_13|13691|14491|-1|ID=1_13;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.703	WP_059423518.1 hypothetical protein [Streptomyces azureus]	100	99.6	5.21e-208
+NZ_DF968427.1_14|14563|15495|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.732	WP_059423520.1 MULTISPECIES: Ppx/GppA phosphatase family protein [Streptomyces]	100	99.7	1.19e-217
+NZ_DF968427.1_15|15509|16411|1|ID=1_15;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.710	WP_059423529.1 sugar phosphate isomerase/epimerase family protein [Streptomyces azureus]	100	91.0	3.92e-198
+NZ_DF968427.1_16|16408|17046|1|ID=1_16;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.743	WP_059423522.1 TetR/AcrR family transcriptional regulator [Streptomyces azureus]	100	99.5	2.34e-141
+NZ_DF968427.1_17|17185|19038|1|ID=1_17;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.706	WP_059423524.1 dihydroxy-acid dehydratase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968427.1_18|19087|21177|-1|ID=1_18;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.719	WP_059423526.1 serine/threonine-protein kinase [Streptomyces azureus]	100	99.9	0.0
+NZ_DF968427.1_19|21360|21578|1|ID=1_19;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.721	WP_059423531.1 SH3 domain-containing protein, partial [Streptomyces azureus]	100	100	1.92e-44

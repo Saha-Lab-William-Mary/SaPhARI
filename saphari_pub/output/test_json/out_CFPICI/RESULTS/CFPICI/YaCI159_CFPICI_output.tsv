@@ -6,7 +6,7 @@ CFPICI REGION 1 - YaCI159	Core	4	3036	4712	-1	CORE	99.8	98.9	0.0	PROTEIN: WP_048
 CFPICI REGION 1 - YaCI159	Core	5	4684	5037	-1	WP_048618025.1	100	99.2	1.93e-78	phage terminase small subunit P27 family [Yersinia aleksiciae]
 CFPICI REGION 1 - YaCI159	Core	6	5167	5319	-1	WP_162928757.1	100	98.0	1.18e-24	MULTISPECIES: hypothetical protein [Yersinia]
 CFPICI REGION 1 - YaCI159	Core	7	5326	5769	-1	CORE	100	99.3	2.30e-107	PROTEIN: WP_048618027.1 HNH endonuclease signature motif containing protein [Yersinia aleksiciae]
-CFPICI REGION 1 - YaCI159	Core	8	5769	6071	-1	WP_048618028.1	100	99.0	1.79e-66	head-tail connector protein [Yersinia aleksiciae]
+CFPICI REGION 1 - YaCI159	Core	8	5769	6071	-1	CORE	100	99.0	1.79e-66	PROTEIN: WP_048618028.1 head-tail connector protein [Yersinia aleksiciae]
 CFPICI REGION 1 - YaCI159	Core	9	6068	7270	-1	CORE	100	99.8	1.46e-293	PROTEIN: WP_144413896.1 phage portal protein [Yersinia aleksiciae]
 CFPICI REGION 1 - YaCI159	Core	10	7272	7829	-1	CORE	100	99.5	9.11e-128	PROTEIN: WP_048618033.1 MULTISPECIES: HK97 family phage prohead protease [Yersinia]
 CFPICI REGION 1 - YaCI159	Downstream	11	7872	9044	-1	WP_048618035.1	100	99.7	3.48e-280	phage major capsid protein [Yersinia aleksiciae]

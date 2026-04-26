@@ -1,7 +1,7 @@
 Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
 CFPICI REGION 1 - CpCITV06	Upstream	1	146	685	-1	WP_149608040.1	100	99.4	4.20e-121	MULTISPECIES: hypothetical protein [Citrobacter]
 CFPICI REGION 1 - CpCITV06	Core	2	1193	2854	-1	CORE	100	99.8	0.0	PROTEIN: WP_149608041.1 MULTISPECIES: terminase large subunit [Citrobacter]
-CFPICI REGION 1 - CpCITV06	Core	3	2838	3194	-1	CORE	100	99.2	1.47e-78	PROTEIN: WP_071692247.1 MULTISPECIES: phage terminase small subunit P27 family [Enterobacteriaceae]
+CFPICI REGION 1 - CpCITV06	Core	3	2838	3194	-1	WP_071692247.1	100	99.2	1.47e-78	MULTISPECIES: phage terminase small subunit P27 family [Enterobacteriaceae]
 CFPICI REGION 1 - CpCITV06	Core	5	3334	3777	-1	CORE	100	99.3	1.14e-107	PROTEIN: WP_149608042.1 MULTISPECIES: HNH endonuclease signature motif containing protein [Citrobacter]
 CFPICI REGION 1 - CpCITV06	Core	6	3778	4068	-1	CORE	100	99.0	2.31e-67	PROTEIN: WP_001650759.1 MULTISPECIES: head-tail connector protein [Enterobacteriaceae]
 CFPICI REGION 1 - CpCITV06	Core	7	4061	4399	-1	CORE	100	99.1	3.15e-77	PROTEIN: WP_149608043.1 MULTISPECIES: phage head closure protein [Citrobacter]

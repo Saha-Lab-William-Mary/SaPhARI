@@ -5,7 +5,7 @@ CFPICI REGION 1 - CP006853.1	Upstream	3061	3395734	3396288	-1	WP_023875406.1	100
 CFPICI REGION 1 - CP006853.1	Upstream	3062	3396299	3396709	-1	WP_023875408.1	100	99.3	1.41e-97	hypothetical protein [Pseudomonas aeruginosa]
 CFPICI REGION 1 - CP006853.1	Upstream	3063	3397108	3397530	-1	YP_002284344.1	97.1	99.3	4.60e-101	alpha-2;3-sialyltransferase [Pseudomonas phage PAJU2]
 CFPICI REGION 1 - CP006853.1	Core	3065	3397894	3398235	-1	CORE	98.2	99.1	5.64e-76	PROTEIN: WP_079385338.1 phage head closure protein [Pseudomonas aeruginosa]
-CFPICI REGION 1 - CP006853.1	Core	3066	3398245	3398619	-1	WP_015994271.1	100	99.2	8.62e-83	head-tail connector protein [Pseudomonas aeruginosa]
+CFPICI REGION 1 - CP006853.1	Core	3066	3398245	3398619	-1	CORE	100	99.2	8.62e-83	PROTEIN: WP_015994271.1 head-tail connector protein [Pseudomonas aeruginosa]
 CFPICI REGION 1 - CP006853.1	Core	3067	3398616	3399620	-1	WP_023875412.1	100	99.7	4.92e-190	hypothetical protein [Pseudomonas aeruginosa]
 CFPICI REGION 1 - CP006853.1	Core	3068	3399613	3400998	-1	CORE	100	99.8	0.0	PROTEIN: WP_023875413.1 phage portal protein [Pseudomonas aeruginosa]
 CFPICI REGION 1 - CP006853.1	Core	3069	3400991	3401209	-1	WP_023875414.1	100	98.6	5.82e-39	MULTISPECIES: hypothetical protein [Pseudomonas aeruginosa group]

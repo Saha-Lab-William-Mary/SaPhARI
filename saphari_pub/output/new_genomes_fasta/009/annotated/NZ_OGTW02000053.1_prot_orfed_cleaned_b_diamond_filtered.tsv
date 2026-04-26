@@ -1,0 +1,11 @@
+NZ_OGTW02000053.1_1|87|704|1|ID=1_1;partial=00;start_type=TTG;rbs_motif=TAAA;rbs_spacer=9bp;gc_cont=0.307	WP_081144415.1 MULTISPECIES: S24 family peptidase [Lactococcus]	100	99.5	2.57e-146
+NZ_OGTW02000053.1_2|1228|2580|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.310	WP_127093878.1 MULTISPECIES: replication initiation protein [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000053.1_3|2925|3815|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.380	WP_127093879.1 IS982 family transposase [Lactococcus lactis]	100	99.7	2.19e-206
+NZ_OGTW02000053.1_4|3875|4072|1|ID=1_4;partial=00;start_type=GTG;rbs_motif=AAAAA;rbs_spacer=6bp;gc_cont=0.298	WP_225745504.1 hypothetical protein [Streptococcus sp. Marseille-Q3604]	66.7	95.5	2.57e-23
+NZ_OGTW02000053.1_5|4118|4930|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=TAAAAA;rbs_spacer=15bp;gc_cont=0.310	WP_127093880.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.6	1.58e-186
+NZ_OGTW02000053.1_6|4955|6475|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.326	WP_127093881.1 MULTISPECIES: Sau3AI family type II restriction endonuclease [Lactococcus]	100	97.8	0.0
+NZ_OGTW02000053.1_7|6559|7821|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=15bp;gc_cont=0.386	WP_127093882.1 MULTISPECIES: DNA cytosine methyltransferase [Lactococcus]	100	99.8	6.16e-312
+NZ_OGTW02000053.1_8|7852|10404|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.316	WP_127093883.1 MULTISPECIES: SNF2-related protein [Lactococcus]	100	99.9	0.0
+NZ_OGTW02000053.1_9|10406|11602|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.323	WP_127093884.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein [Lactococcus]	100	99.7	6.67e-273
+NZ_OGTW02000053.1_10|11599|14073|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=5bp;gc_cont=0.299	WP_375217512.1 sigma factor-like helix-turn-helix DNA-binding protein [Streptococcus salivarius]	95.5	97.9	0.0
+NZ_OGTW02000053.1_11|14354|14533|1|ID=1_11;partial=01;start_type=ATG;rbs_motif=AAA;rbs_spacer=3bp;gc_cont=0.383	WP_071519354.1 IS3 family transposase [Lactococcus lactis]	100	100	9.21e-35

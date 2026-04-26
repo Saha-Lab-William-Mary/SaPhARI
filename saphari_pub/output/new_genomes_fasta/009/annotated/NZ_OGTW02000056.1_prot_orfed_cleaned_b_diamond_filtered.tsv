@@ -1,0 +1,11 @@
+NZ_OGTW02000056.1_1|2|331|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.309	WP_278320049.1 S41 family peptidase [Lactococcus cremoris]	98.2	100	4.10e-69
+NZ_OGTW02000056.1_2|595|843|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.273	WP_127093898.1 MULTISPECIES: helix-turn-helix transcriptional regulator [Lactococcus]	100	98.8	6.00e-50
+NZ_OGTW02000056.1_3|824|937|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.211	WP_259743651.1 hypothetical protein [Lactococcus lactis]	100	92.1	1.51e-15
+NZ_OGTW02000056.1_5|1200|2075|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.323	WP_127093899.1 MULTISPECIES: DNA-methyltransferase [Lactococcus]	100	99.7	3.81e-209
+NZ_OGTW02000056.1_6|2068|4824|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.306	WP_127093900.1 MULTISPECIES: Eco57I restriction-modification methylase domain-containing protein [Lactococcus]	100	99.9	0.0
+NZ_OGTW02000056.1_7|4985|5194|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.333	WP_014570256.1 hypothetical protein [Lactococcus lactis]	100	98.6	2.34e-39
+NZ_OGTW02000056.1_8|5636|6160|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.312	WP_260604560.1 GNAT family N-acetyltransferase [Lactococcus lactis]	100	99.4	1.12e-118
+NZ_OGTW02000056.1_9|6668|7801|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.313	WP_081144480.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.7	1.46e-254
+NZ_OGTW02000056.1_10|8205|9488|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.322	WP_081144479.1 MULTISPECIES: DUF2130 domain-containing protein [Lactococcus]	100	99.8	4.65e-251
+NZ_OGTW02000056.1_11|9535|12075|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.290	WP_014570260.1 MULTISPECIES: TrlF family AAA-like ATPase [Lactococcus]	100	99.9	0.0
+NZ_OGTW02000056.1_12|12324|12908|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.369	WP_014570261.1 MULTISPECIES: dTDP-4-dehydrorhamnose 3,5-epimerase family protein [Lactococcus]	100	99.5	1.05e-135

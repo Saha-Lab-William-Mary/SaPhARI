@@ -1,0 +1,4 @@
+NZ_JH993792.1_1|2|2143|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.708	WP_016828728.1 condensation domain-containing protein, partial [Streptomyces viridosporus]	100	100	0.0
+NZ_JH993792.1_2|2143|5283|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.753	WP_191093705.1 non-ribosomal peptide synthetase [Streptomyces viridosporus]	77.3	99.0	0.0
+NZ_JH993792.1_3|5250|6722|-1|ID=1_3;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.743	WP_150474997.1 non-ribosomal peptide synthetase [Streptomyces viridosporus]	99.8	89.0	1.85e-275
+NZ_JH993792.1_4|6719|7984|-1|ID=1_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.743	WP_435532549.1 condensation domain-containing protein, partial [Streptomyces viridosporus]	99.6	64.9	2.05e-189

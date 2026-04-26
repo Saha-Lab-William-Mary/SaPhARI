@@ -2,7 +2,7 @@ Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Prote
 CFPICI REGION 1 - BtCIBGSC4W14W1	Core	1	18	1658	-1	CORE	100	99.8	0.0	PROTEIN: WP_086392326.1 terminase large subunit [Bacillus thuringiensis]
 CFPICI REGION 1 - BtCIBGSC4W14W1	Core	2	1663	2010	-1	WP_086392266.1	100	99.1	5.18e-73	hypothetical protein [Bacillus thuringiensis]
 CFPICI REGION 1 - BtCIBGSC4W14W1	Core	3	2138	2428	-1	CORE	100	99.0	1.44e-70	PROTEIN: WP_086392267.1 HNH endonuclease [Bacillus thuringiensis]
-CFPICI REGION 1 - BtCIBGSC4W14W1	Core	4	2421	2708	-1	WP_086392268.1	100	99.0	1.92e-61	head-tail connector protein [Bacillus thuringiensis]
+CFPICI REGION 1 - BtCIBGSC4W14W1	Core	4	2421	2708	-1	CORE	100	99.0	1.92e-61	PROTEIN: WP_086392268.1 head-tail connector protein [Bacillus thuringiensis]
 CFPICI REGION 1 - BtCIBGSC4W14W1	Core	5	2775	4022	-1	WP_086392269.1	100	99.8	1.11e-275	phage major capsid protein [Bacillus thuringiensis]
 CFPICI REGION 1 - BtCIBGSC4W14W1	Core	6	4027	4605	-1	CORE	100	99.5	2.79e-130	PROTEIN: WP_086392270.1 HK97 family phage prohead protease [Bacillus thuringiensis]
 CFPICI REGION 1 - BtCIBGSC4W14W1	Core	7	4602	5801	-1	CORE	100	99.8	1.61e-285	PROTEIN: WP_086392271.1 phage portal protein [Bacillus thuringiensis]

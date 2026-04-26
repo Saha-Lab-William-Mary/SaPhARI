@@ -1,11 +1,1 @@
 Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
-CFPICI REGION 1 - CP064772.1	Core	1	1	1362	1	CORE	100	99.8	0.0	PROTEIN: WP_374273756.1 terminase large subunit [Staphylococcus aureus]
-CFPICI REGION 1 - CP064772.1	Core	2	1367	2605	1	CORE	100	99.8	9.96e-298	PROTEIN: WP_001100660.1 MULTISPECIES: phage portal protein [Staphylococcus]
-CFPICI REGION 1 - CP064772.1	Core	3	2589	3362	1	WP_000061872.1	100	99.6	8.72e-173	MULTISPECIES: head maturation protease, ClpP-related [Bacillati]
-CFPICI REGION 1 - CP064772.1	Core	4	3329	4537	1	YP_010083315.1	100	99.8	1.01e-285	major capsid protein [Staphylococcus phage LH1]
-CFPICI REGION 1 - CP064772.1	Core	5	4606	4884	1	CORE	100	98.9	1.80e-60	PROTEIN: WP_000050973.1 MULTISPECIES: head-tail connector protein [Bacteria]
-CFPICI REGION 1 - CP064772.1	Downstream	6	4896	5228	1	YP_239941.1	100	99.1	1.07e-74	ORF036 [Staphylococcus phage 3A]
-CFPICI REGION 1 - CP064772.1	Downstream	7	5225	5626	1	YP_010083318.1	100	99.3	7.43e-86	minor structural protein [Staphylococcus phage LH1]
-CFPICI REGION 1 - CP064772.1	Downstream	8	5627	6022	1	WP_001023802.1	100	99.2	1.29e-85	MULTISPECIES: DUF3168 domain-containing protein [Bacteria]
-CFPICI REGION 1 - CP064772.1	Downstream	9	6057	6698	1	WP_000807536.1	100	99.5	2.77e-154	MULTISPECIES: major tail protein [Bacteria]
-CFPICI REGION 1 - CP064772.1	Downstream	10	6790	7245	1	WP_244777070.1	100	99.3	1.32e-99	Ig-like domain-containing protein [Staphylococcus aureus]

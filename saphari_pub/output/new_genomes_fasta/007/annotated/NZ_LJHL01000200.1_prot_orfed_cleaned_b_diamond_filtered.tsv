@@ -1,0 +1,5 @@
+NZ_LJHL01000200.1_1|1|501|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.663	WP_075362194.1 transposase [Mycobacterium avium]	100	100	1.13e-117
+NZ_LJHL01000200.1_2|768|2555|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.635	WP_046186391.1 MULTISPECIES: group II intron reverse transcriptase/maturase [Mycobacteriaceae]	100	99.8	0.0
+NZ_LJHL01000200.1_3|2681|3328|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.665	WP_429429018.1 MULTISPECIES: IS3 family transposase [unclassified Nocardia]	64.2	24.5	1.74e-09
+NZ_LJHL01000200.1_4|3268|4506|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.683	WP_007172236.1 MULTISPECIES: IS110 family transposase [Mycobacteriaceae]	100	99.8	1.11e-294
+NZ_LJHL01000200.1_6|5330|5527|1|ID=1_6;partial=01;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.596	WP_161807822.1 metal-dependent hydrolase, partial [Mycobacterium intracellulare]	98.5	100	7.15e-41

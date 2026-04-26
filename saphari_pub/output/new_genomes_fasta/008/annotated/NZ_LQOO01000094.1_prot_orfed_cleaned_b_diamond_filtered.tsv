@@ -1,0 +1,12 @@
+NZ_LQOO01000094.1_1|2|1405|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.705	WP_332457816.1 ATP-binding protein, partial [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LQOO01000094.1_2|1710|1895|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.613	WP_047324259.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	98.4	6.40e-38
+NZ_LQOO01000094.1_3|2035|2250|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.606	WP_047324258.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	98.6	2.55e-46
+NZ_LQOO01000094.1_4|2272|4305|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.661	WP_047324257.1 MULTISPECIES: serine/threonine-protein kinase [Mycobacterium]	100	99.9	0.0
+NZ_LQOO01000094.1_5|4313|5521|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650	WP_047324256.1 MULTISPECIES: DUF7373 family lipoprotein [Mycobacterium]	100	99.8	2.66e-281
+NZ_LQOO01000094.1_6|5518|6816|-1|ID=1_6;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.677	WP_231614292.1 MULTISPECIES: DUF7373 family lipoprotein [Mycobacterium]	100	98.2	5.19e-297
+NZ_LQOO01000094.1_7|6813|7250|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.655	WP_047324254.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.3	6.88e-90
+NZ_LQOO01000094.1_8|7334|8095|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.621	WP_158086685.1 MULTISPECIES: sensor domain-containing protein [Mycobacterium]	100	99.6	9.20e-182
+NZ_LQOO01000094.1_9|8184|9239|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.658	WP_158090652.1 sensor domain-containing protein [Mycobacterium intracellulare]	100	99.7	6.80e-240
+NZ_LQOO01000094.1_10|9557|9985|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.664	WP_158086684.1 MULTISPECIES: WhiB family transcriptional regulator [Mycobacterium]	99.2	85.3	1.50e-85
+NZ_LQOO01000094.1_11|9995|10834|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.651	WP_047324250.1 MULTISPECIES: sensor domain-containing protein [Mycobacterium]	100	99.6	7.89e-196
+NZ_LQOO01000094.1_12|10922|11017|1|ID=1_12;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.677	WP_264055671.1 hypothetical protein [Mycobacterium nebraskense]	100	93.8	1.50e-12

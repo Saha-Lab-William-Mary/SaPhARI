@@ -1,0 +1,12 @@
+NZ_LJHL01000181.1_1|1|711|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.696	WP_152978965.1 AAA family ATPase, partial [Mycobacterium intracellulare]	100	99.6	5.49e-161
+NZ_LJHL01000181.1_2|902|1087|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.591	WP_054585748.1 hypothetical protein [Mycobacterium intracellulare]	100	98.4	2.61e-37
+NZ_LJHL01000181.1_3|1213|1428|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.593	WP_054585749.1 hypothetical protein [Mycobacterium intracellulare]	100	98.6	7.33e-46
+NZ_LJHL01000181.1_4|1447|3459|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.656	WP_054585750.1 serine/threonine-protein kinase [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000181.1_5|3467|4675|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.653	WP_054585751.1 DUF7373 family lipoprotein [Mycobacterium intracellulare]	100	99.8	1.06e-287
+NZ_LJHL01000181.1_6|4672|5964|-1|ID=1_6;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.689	WP_082385906.1 DUF7373 family lipoprotein [Mycobacterium intracellulare]	100	98.1	2.86e-293
+NZ_LJHL01000181.1_7|5961|6398|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.642	WP_152978966.1 hypothetical protein [Mycobacterium intracellulare]	100	99.3	1.69e-90
+NZ_LJHL01000181.1_8|6488|7252|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.610	WP_082385907.1 sensor domain-containing protein [Mycobacterium intracellulare]	100	99.6	8.87e-185
+NZ_LJHL01000181.1_9|7438|8316|-1|ID=1_9;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.646	WP_161807988.1 sensor domain-containing protein [Mycobacterium intracellulare]	99.6	80.9	1.01e-164
+NZ_LJHL01000181.1_10|8789|9211|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.681	WP_082385909.1 WhiB family transcriptional regulator [Mycobacterium intracellulare]	100	99.3	9.57e-99
+NZ_LJHL01000181.1_11|9221|9733|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.635	WP_317728611.1 sensor domain-containing protein [Mycobacterium intracellulare]	96.3	63.7	3.45e-65
+NZ_LJHL01000181.1_12|9733|10065|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.622	WP_241777350.1 sensor domain-containing protein [Mycobacterium intracellulare]	100	99.1	5.31e-73

@@ -1,0 +1,7 @@
+NZ_OGTW02000070.1_1|85|666|1|ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.323	WP_148084611.1 metal ABC transporter solute-binding protein, Zn/Mn family, partial [Lactococcus lactis]	100	98.5	1.08e-125
+NZ_OGTW02000070.1_2|667|1089|1|ID=1_2;partial=00;start_type=GTG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.322	WP_270734492.1 metal-binding protein ZinT, partial [Lactococcus lactis]	97.9	99.3	2.69e-95
+NZ_OGTW02000070.1_3|1389|3350|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.339	WP_010905876.1 MULTISPECIES: MucBP domain-containing protein [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000070.1_4|3425|3952|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.280	WP_003130166.1 MULTISPECIES: DUF805 domain-containing protein [Lactococcus]	100	99.4	2.95e-110
+NZ_OGTW02000070.1_5|4017|5054|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.349	WP_120784964.1 M24 family metallopeptidase [Lactococcus lactis]	100	99.7	1.68e-249
+NZ_OGTW02000070.1_6|5047|5403|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.305	WP_143459849.1 M24 family metallopeptidase [Lactococcus lactis]	100	90.8	2.14e-67
+NZ_OGTW02000070.1_7|5396|6157|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.320	WP_003130169.1 MULTISPECIES: DeoR/GlpR family DNA-binding transcription regulator [Lactococcus]	100	99.6	2.40e-168

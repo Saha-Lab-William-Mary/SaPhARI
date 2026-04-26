@@ -1,0 +1,9 @@
+contig_4_1|2|151|-1|ID=3_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.687	WP_142553049.1 endonuclease domain-containing protein [Mycolicibacterium hodleri]	70.0	100	4.21e-13
+contig_4_2|258|1031|-1|ID=3_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.618	WP_115317639.1 EAL domain-containing protein [Mycolicibacterium aichiense]	100	99.6	3.21e-184
+contig_4_3|1051|1638|-1|ID=3_3;partial=00;start_type=TTG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.655	WP_115317640.1 recombination mediator RecR [Mycolicibacterium aichiense]	99.5	99.5	7.51e-136
+contig_4_4|1667|2053|-1|ID=3_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.682	WP_163789511.1 YbaB/EbfC family nucleoid-associated protein [Mycolicibacterium aichiense]	95.4	83.7	2.73e-61
+contig_4_5|2158|2916|1|ID=3_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.690	WP_115317641.1 Rv3717 family N-acetylmuramoyl-L-alanine amidase [Mycolicibacterium aichiense]	100	99.6	9.43e-170
+contig_4_6|2913|3359|-1|ID=3_6;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.658	WP_115317642.1 SRPBCC family protein [Mycolicibacterium aichiense]	100	99.3	8.32e-97
+contig_4_7|3488|4822|1|ID=3_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.641	WP_115317643.1 FAD-binding oxidoreductase [Mycolicibacterium aichiense]	99.8	99.8	0.0
+contig_4_8|4819|6132|1|ID=3_8;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.673	WP_115317644.1 class I SAM-dependent methyltransferase [Mycolicibacterium aichiense]	100	99.8	0.0
+contig_4_9|6140|6358|-1|ID=3_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.653	WP_115317645.1 heme-binding protein [Mycolicibacterium aichiense]	100	98.6	2.12e-44

@@ -1,0 +1,12 @@
+NZ_OGTW02000059.1_1|263|1315|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.394	WP_127093912.1 MULTISPECIES: sugar transferase [Lactococcus]	100	99.7	1.46e-254
+NZ_OGTW02000059.1_2|1331|2428|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.402	WP_127093913.1 MULTISPECIES: UDP-galactopyranose mutase [Lactococcus]	100	99.7	8.74e-275
+NZ_OGTW02000059.1_3|2439|3854|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.355	WP_127093914.1 MULTISPECIES: flippase [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000059.1_4|3851|4999|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.305	WP_127093915.1 MULTISPECIES: polysaccharide polymerase [Lactococcus]	100	99.7	5.77e-259
+NZ_OGTW02000059.1_5|5001|5993|-1|ID=1_5;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.324	WP_127093916.1 MULTISPECIES: glycosyltransferase family 2 protein [Lactococcus]	100	99.7	1.36e-233
+NZ_OGTW02000059.1_6|6003|6989|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.308	WP_127093917.1 MULTISPECIES: glycosyltransferase [Lactococcus]	100	99.7	4.95e-235
+NZ_OGTW02000059.1_7|7312|7458|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.272	WP_158531072.1 MULTISPECIES: hypothetical protein [Streptococcus]	95.8	98.0	7.29e-25
+NZ_OGTW02000059.1_8|7469|8470|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.313	WP_127093918.1 MULTISPECIES: glycosyltransferase [Lactococcus]	100	99.7	7.63e-237
+NZ_OGTW02000059.1_9|8567|9715|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.399	WP_127093919.1 MULTISPECIES: glycosyltransferase family 4 protein [Lactococcus]	100	99.7	1.35e-273
+NZ_OGTW02000059.1_10|9718|10890|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.391	WP_127093920.1 MULTISPECIES: beta 1-4 rhamnosyltransferase Cps2T [Lactococcus]	100	99.7	2.22e-292
+NZ_OGTW02000059.1_11|10948|11358|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.377	WP_271285641.1 sugar transferase, partial [Streptococcus thermophilus]	97.1	99.3	1.35e-92
+NZ_OGTW02000059.1_12|11830|12381|1|ID=1_12;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.357	WP_127093921.1 MULTISPECIES: recombinase family protein [Lactococcus]	100	99.5	3.06e-125

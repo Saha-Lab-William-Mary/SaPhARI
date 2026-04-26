@@ -1,0 +1,11 @@
+NZ_OGTW02000115.1_1|169|1536|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=9bp;gc_cont=0.379	WP_127094147.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE [Lactococcus lactis]	100	99.8	1.16e-311
+NZ_OGTW02000115.1_2|1587|2333|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.325	WP_010906409.1 MULTISPECIES: hypothetical protein [Bacilli]	100	99.6	3.33e-177
+NZ_OGTW02000115.1_3|2333|4333|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=4bp;gc_cont=0.380	WP_031561236.1 MULTISPECIES: ATP-dependent DNA helicase RecG [Bacilli]	100	99.9	0.0
+NZ_OGTW02000115.1_4|4471|4815|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=10bp;gc_cont=0.351	WP_010906411.1 MULTISPECIES: zinc ribbon domain-containing protein YjdM [Bacilli]	100	99.1	1.27e-77
+NZ_OGTW02000115.1_5|4886|5896|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=14bp;gc_cont=0.406	WP_003131244.1 MULTISPECIES: type I glyceraldehyde-3-phosphate dehydrogenase [Bacilli]	100	99.7	1.94e-236
+NZ_OGTW02000115.1_6|6176|6697|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.360	WP_003131246.1 MULTISPECIES: DUF536 domain-containing protein [Lactococcus]	100	99.4	1.29e-87
+NZ_OGTW02000115.1_7|6825|9518|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=4bp;gc_cont=0.395	WP_010906412.1 cation-translocating P-type ATPase [Lactococcus lactis]	100	99.9	0.0
+NZ_OGTW02000115.1_8|9560|10087|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=5bp;gc_cont=0.328	WP_021214616.1 MULTISPECIES: TetR/AcrR family transcriptional regulator [Bacilli]	100	99.4	2.27e-123
+NZ_OGTW02000115.1_9|10212|11231|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.347	WP_127094148.1 SDR family NAD(P)-dependent oxidoreductase [Lactococcus lactis]	100	99.7	3.16e-248
+NZ_OGTW02000115.1_10|11706|12239|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.320	WP_010906415.1 MULTISPECIES: CPBP family intramembrane glutamic endopeptidase [Lactococcus]	100	99.4	3.19e-115
+NZ_OGTW02000115.1_11|12263|12718|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=11bp;gc_cont=0.333	WP_010906416.1 transporter [Bacillus bombysepticus]	100	99.3	1.32e-99

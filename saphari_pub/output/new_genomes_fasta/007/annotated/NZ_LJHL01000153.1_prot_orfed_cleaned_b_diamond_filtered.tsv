@@ -1,0 +1,5 @@
+NZ_LJHL01000153.1_1|1|840|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.669	WP_054585626.1 C40 family peptidase, partial [Mycobacterium intracellulare]	100	99.6	2.49e-167
+NZ_LJHL01000153.1_2|868|2433|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.685	WP_241777287.1 type VII secretion protein EccB [Mycobacterium intracellulare]	99.8	98.3	0.0
+NZ_LJHL01000153.1_3|2430|6677|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.641	WP_054585628.1 type VII secretion protein EccCa [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000153.1_4|6753|7049|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.690	WP_054585629.1 PE family protein [Mycobacterium intracellulare]	100	99.0	1.75e-54
+NZ_LJHL01000153.1_5|7074|7907|1|ID=1_5;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.677	WP_152978943.1 PPE family protein, partial [Mycobacterium intracellulare]	100	100	7.73e-184

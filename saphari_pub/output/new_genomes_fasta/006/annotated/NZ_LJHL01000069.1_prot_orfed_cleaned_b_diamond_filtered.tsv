@@ -1,0 +1,11 @@
+NZ_LJHL01000069.1_1|2|1228|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.677	WP_054585574.1 Pup--protein ligase, partial [Mycobacterium intracellulare]	100	99.8	8.50e-297
+NZ_LJHL01000069.1_2|1304|2311|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.717	WP_054585321.1 helix-turn-helix transcriptional regulator [Mycobacterium intracellulare]	100	99.7	1.42e-233
+NZ_LJHL01000069.1_3|2308|3279|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.715	WP_008256317.1 MULTISPECIES: helix-turn-helix transcriptional regulator [Mycobacterium]	100	99.7	7.16e-221
+NZ_LJHL01000069.1_4|3374|3652|1|ID=1_4;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.674	WP_008256319.1 MULTISPECIES: Sec-independent protein translocase subunit TatA [Mycobacterium]	100	98.9	9.70e-56
+NZ_LJHL01000069.1_5|3801|4664|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.653	WP_008256322.1 MULTISPECIES: twin-arginine translocase subunit TatC [Mycobacterium]	100	99.7	1.67e-197
+NZ_LJHL01000069.1_6|4654|7464|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.707	WP_054585322.1 DEAD/DEAH box helicase [Mycobacterium intracellulare]	99.9	98.8	0.0
+NZ_LJHL01000069.1_7|7530|8291|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.680	WP_368834075.1 DUF4333 domain-containing protein [Mycobacterium intracellulare]	100	99.6	6.53e-127
+NZ_LJHL01000069.1_8|8299|9255|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.695	WP_054585378.1 5'-3' exonuclease [Mycobacterium intracellulare]	100	99.7	4.16e-222
+NZ_LJHL01000069.1_9|9398|10525|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.692	WP_054585323.1 M24 family metallopeptidase [Mycobacterium intracellulare]	100	99.7	5.79e-260
+NZ_LJHL01000069.1_10|10662|13427|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.645	WP_225336696.1 WXG100-like domain-containing protein [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000069.1_11|13439|13540|1|ID=1_11;partial=01;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=11-12bp;gc_cont=0.490	WP_072501287.1 hypothetical protein [Mycobacterium intracellulare]	100	100	1.45e-15

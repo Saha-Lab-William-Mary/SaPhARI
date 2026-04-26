@@ -1,0 +1,5 @@
+NZ_LJHL01000062.1_1|322|3030|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.676	WP_341271899.1 helix-turn-helix transcriptional regulator [Mycobacterium intracellulare]	99.7	99.9	0.0
+NZ_LJHL01000062.1_2|3147|3338|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.677	WP_142383097.1 hypothetical protein [Mycobacterium intracellulare]	100	98.4	2.39e-34
+NZ_LJHL01000062.1_3|3454|6123|1|ID=1_3;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.688	WP_324604000.1 helix-turn-helix transcriptional regulator [Mycobacterium intracellulare]	98.8	99.9	0.0
+NZ_LJHL01000062.1_4|6611|6844|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.603	WP_014711528.1 MULTISPECIES: MbtH family protein [Mycobacterium]	100	98.7	1.07e-52
+NZ_LJHL01000062.1_5|6862|8229|1|ID=1_5;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.605	WP_152981288.1 non-ribosomal peptide synthetase, partial [Mycobacterium intracellulare]	100	100	0.0

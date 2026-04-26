@@ -1,9 +1,9 @@
 Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
 CFPICI REGION 1 - EcCIPUO103	Upstream	1	527	808	-1	WP_000133417.1	100	98.9	5.16e-56	hypothetical protein [Escherichia coli]
 CFPICI REGION 1 - EcCIPUO103	Core	2	1009	2481	-1	CORE	100	64.8	4.16e-226	PROTEIN: WP_000127874.1 terminase large subunit [Escherichia coli]
-CFPICI REGION 1 - EcCIPUO103	Core	3	2465	2821	-1	CORE	100	99.2	5.97e-78	PROTEIN: WP_000113645.1 MULTISPECIES: phage terminase small subunit P27 family [Enterobacteriaceae]
+CFPICI REGION 1 - EcCIPUO103	Core	3	2465	2821	-1	WP_000113645.1	100	99.2	5.97e-78	MULTISPECIES: phage terminase small subunit P27 family [Enterobacteriaceae]
 CFPICI REGION 1 - EcCIPUO103	Core	4	3111	3386	-1	CORE	100	98.9	6.37e-65	PROTEIN: WP_001145909.1 HNH endonuclease signature motif containing protein [Escherichia coli]
-CFPICI REGION 1 - EcCIPUO103	Core	5	3551	3844	-1	WP_000137525.1	100	99.0	8.33e-66	head-tail connector protein [Escherichia coli]
+CFPICI REGION 1 - EcCIPUO103	Core	5	3551	3844	-1	CORE	100	99.0	8.33e-66	PROTEIN: WP_000137525.1 head-tail connector protein [Escherichia coli]
 CFPICI REGION 1 - EcCIPUO103	Core	6	3841	4179	-1	CORE	100	99.1	8.38e-73	PROTEIN: WP_001020667.1 phage head closure protein [Escherichia coli]
 CFPICI REGION 1 - EcCIPUO103	Core	7	4176	5255	-1	CORE	100	99.7	1.75e-269	PROTEIN: WP_179778328.1 phage portal protein, partial [Escherichia coli]
 CFPICI REGION 1 - EcCIPUO103	Core	8	5388	5945	-1	CORE	100	99.5	1.70e-132	PROTEIN: WP_001475696.1 HK97 family phage prohead protease [Escherichia coli]

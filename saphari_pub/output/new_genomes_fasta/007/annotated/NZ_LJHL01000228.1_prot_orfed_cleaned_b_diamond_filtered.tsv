@@ -1,0 +1,17 @@
+NZ_LJHL01000228.1_1|2|172|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.673	WP_225331264.1 DUF4226 domain-containing protein [Mycobacterium intracellulare]	94.2	91.2	2.92e-24
+NZ_LJHL01000228.1_2|838|1053|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.606	WP_007172131.1 MULTISPECIES: hypothetical protein [Mycobacteriaceae]	100	98.6	4.80e-42
+NZ_LJHL01000228.1_3|1327|2334|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.631	WP_007172130.1 MULTISPECIES: DUF4226 domain-containing protein [Mycobacteriaceae]	100	99.7	4.06e-233
+NZ_LJHL01000228.1_4|2392|2748|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.664	WP_132160395.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.2	1.93e-74
+NZ_LJHL01000228.1_5|2919|8171|-1|ID=1_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.652	WP_085087820.1 helicase [Mycobacterium gordonae]	99.9	99.9	0.0
+NZ_LJHL01000228.1_6|8408|9208|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.673	WP_244604171.1 hypothetical protein [Mycobacterium attenuatum]	83.0	97.0	1.04e-152
+NZ_LJHL01000228.1_7|9205|9369|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.582	WP_007172126.1 MULTISPECIES: hypothetical protein [Mycobacteriaceae]	100	98.2	2.95e-31
+NZ_LJHL01000228.1_8|9385|9870|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.619	WP_007172125.1 MULTISPECIES: transcription elongation factor NusA [Mycobacterium]	100	90.7	2.97e-98
+NZ_LJHL01000228.1_9|9885|10208|-1|ID=1_9;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.722	WP_007172124.1 MULTISPECIES: hypothetical protein [Mycobacteriaceae]	100	99.1	4.42e-68
+NZ_LJHL01000228.1_10|10201|10611|-1|ID=1_10;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.674	WP_072501167.1 MULTISPECIES: WhiB family transcriptional regulator [Mycobacteriaceae]	100	99.3	2.28e-86
+NZ_LJHL01000228.1_11|10945|11616|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.652	WP_007172122.1 MULTISPECIES: helix-turn-helix transcriptional regulator [Mycobacteriaceae]	100	99.6	4.15e-145
+NZ_LJHL01000228.1_12|11564|12529|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.680	WP_051445829.1 MULTISPECIES: C40 family peptidase [Mycobacteriaceae]	100	99.7	1.48e-202
+NZ_LJHL01000228.1_13|12664|13671|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.677	WP_396878927.1 lytic transglycosylase [Mycobacterium sp. SMC-2]	94.3	99.7	1.04e-193
+NZ_LJHL01000228.1_14|14022|14912|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.621	WP_007172119.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein [Mycobacteriaceae]	100	99.7	1.59e-199
+NZ_LJHL01000228.1_15|14912|15742|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.613	WP_007172118.1 MULTISPECIES: ParA family protein [Mycobacteriaceae]	100	85.9	8.01e-174
+NZ_LJHL01000228.1_16|15905|16219|-1|ID=1_16;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.670	WP_276806451.1 hypothetical protein [Mycobacterium nebraskense]	73.1	49.5	4.01e-15
+NZ_LJHL01000228.1_17|16216|16782|-1|ID=1_17;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.679	WP_174814220.1 MULTISPECIES: hypothetical protein [Mycobacteriaceae]	99.4	95.2	2.81e-71

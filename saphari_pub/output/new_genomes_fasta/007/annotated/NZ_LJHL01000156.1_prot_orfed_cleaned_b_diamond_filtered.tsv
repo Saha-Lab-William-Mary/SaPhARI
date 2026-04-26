@@ -1,0 +1,12 @@
+NZ_LJHL01000156.1_1|2|229|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.579	WP_161807820.1 metal-dependent hydrolase, partial [Mycobacterium intracellulare]	100	100	1.22e-46
+NZ_LJHL01000156.1_2|775|1638|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.618	WP_007172270.1 MULTISPECIES: SDR family NAD(P)-dependent oxidoreductase [Mycobacteriaceae]	100	99.7	1.49e-204
+NZ_LJHL01000156.1_3|1851|2879|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.632	WP_033721575.1 MULTISPECIES: AurF N-oxygenase family protein [Mycobacteriaceae]	99.7	98.5	1.16e-255
+NZ_LJHL01000156.1_4|3626|3820|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.631	WP_442396186.1 class I SAM-dependent methyltransferase [Mycobacterium sp.]	84.6	40.0	1.83e-05
+NZ_LJHL01000156.1_5|4623|5546|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.569	WP_224112829.1 ferritin-like domain-containing protein [Mycobacterium avium]	99.3	99.7	3.72e-224
+NZ_LJHL01000156.1_6|5738|6412|1|ID=1_6;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.650	WP_202287128.1 helix-turn-helix domain-containing protein [Mycobacterium intracellulare]	100	88.9	2.29e-144
+NZ_LJHL01000156.1_7|6281|6589|-1|ID=1_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.670	YP_009290919.1 hypothetical protein BI041_gp12 [Propionibacterium phage PFR2]	39.6	93.2	1.70e-10
+NZ_LJHL01000156.1_8|6619|6987|1|ID=1_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.645	WP_225343354.1 transposase, partial [Mycobacterium avium]	97.9	76.4	1.51e-61
+NZ_LJHL01000156.1_10|7216|8760|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.573	WP_007172264.1 MULTISPECIES: MCE family protein [Mycobacteriaceae]	100	99.8	0.0
+NZ_LJHL01000156.1_11|8766|9899|-1|ID=1_11;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.586	WP_033721559.1 MULTISPECIES: virulence factor Mce family protein [Mycobacteriaceae]	100	99.2	4.61e-262
+NZ_LJHL01000156.1_12|9896|11410|-1|ID=1_12;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.578	WP_007172262.1 MULTISPECIES: virulence factor Mce family protein [Mycobacteriaceae]	100	99.8	0.0
+NZ_LJHL01000156.1_13|11407|12162|-1|ID=1_13;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.668	WP_007172261.1 MULTISPECIES: virulence factor Mce family protein [Mycobacteriaceae]	100	94.4	4.50e-158

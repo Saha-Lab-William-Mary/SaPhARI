@@ -1,0 +1,13 @@
+NZ_OGTW02000061.1_1|2|2377|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.377	WP_148113554.1 DEAD/DEAH box helicase family protein, partial [Lactococcus lactis]	100	99.9	0.0
+NZ_OGTW02000061.1_2|2377|3972|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.400	WP_127093925.1 MULTISPECIES: type I restriction-modification system subunit M [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000061.1_3|3962|5164|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.351	WP_127093926.1 MULTISPECIES: restriction endonuclease subunit S [Lactococcus]	100	99.8	2.70e-289
+NZ_OGTW02000061.1_4|5350|6300|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=14bp;gc_cont=0.320	WP_003131454.1 MULTISPECIES: magnesium transporter CorA family protein [Lactobacillales]	100	99.7	1.33e-217
+NZ_OGTW02000061.1_5|6942|7295|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.240	WP_021211582.1 hypothetical protein [Lactococcus lactis]	100	99.2	4.75e-70
+NZ_OGTW02000061.1_6|7384|7836|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=5bp;gc_cont=0.276	WP_259700717.1 transporter, partial [Streptococcus thermophilus]	96.0	99.3	7.00e-94
+NZ_OGTW02000061.1_7|7960|8550|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333	WP_127093927.1 class I SAM-dependent methyltransferase [Lactococcus sp.]	100	99.5	1.01e-134
+NZ_OGTW02000061.1_8|8505|9095|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=4bp;gc_cont=0.376	WP_032398729.1 MULTISPECIES: site-specific integrase [Bacillati]	100	99.5	3.67e-137
+NZ_OGTW02000061.1_9|9145|9348|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=11bp;gc_cont=0.279	WP_023349238.1 MULTISPECIES: hypothetical protein [Bacillota]	100	98.5	1.43e-39
+NZ_OGTW02000061.1_10|9773|9988|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=14bp;gc_cont=0.269	WP_225509927.1 MULTISPECIES: hypothetical protein [Bacilli]	100	94.4	8.61e-40
+NZ_OGTW02000061.1_11|10010|10201|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.255	WP_023349236.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	98.4	4.99e-36
+NZ_OGTW02000061.1_12|10253|10429|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=TATAA;rbs_spacer=4bp;gc_cont=0.271	WP_023349235.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	98.3	3.30e-32
+NZ_OGTW02000061.1_13|10576|11181|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.300	WP_023349234.1 MULTISPECIES: helix-turn-helix domain-containing protein [Bacillati]	100	99.5	1.36e-130

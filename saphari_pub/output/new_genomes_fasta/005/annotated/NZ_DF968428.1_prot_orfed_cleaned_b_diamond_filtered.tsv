@@ -1,0 +1,22 @@
+NZ_DF968428.1_1|301|1308|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.704	WP_059423533.1 stage II sporulation protein M [Streptomyces azureus]	100	99.7	6.01e-235
+NZ_DF968428.1_2|1437|2408|1|ID=1_2;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.721	WP_059423535.1 RDD family protein [Streptomyces azureus]	100	99.7	1.72e-196
+NZ_DF968428.1_3|2445|3059|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.693	WP_059423537.1 hypothetical protein [Streptomyces azureus]	100	99.5	2.89e-147
+NZ_DF968428.1_4|3183|4640|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.660	WP_059423538.1 adenosylhomocysteinase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968428.1_5|5002|5982|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.687	WP_059423540.1 cation diffusion facilitator family transporter [Streptomyces azureus]	100	99.7	5.00e-218
+NZ_DF968428.1_6|6135|7286|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.731	WP_059423541.1 mannose-6-phosphate isomerase, class I [Streptomyces azureus]	100	99.7	3.63e-283
+NZ_DF968428.1_7|7342|8469|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.766	WP_059423544.1 SIS domain-containing protein [Streptomyces azureus]	100	99.7	3.07e-255
+NZ_DF968428.1_8|8598|8768|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.696	WP_078945647.1 MULTISPECIES: Trm112 family protein [Streptomyces]	100	98.2	1.22e-33
+NZ_DF968428.1_9|8972|10336|-1|ID=1_9;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.708	WP_059423547.1 phosphomannomutase/phosphoglucomutase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968428.1_10|10439|12055|-1|ID=1_10;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.719	WP_059423549.1 L-lactate permease [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968428.1_11|12174|12596|-1|ID=1_11;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.752	WP_010034669.1 MULTISPECIES: DUF3499 domain-containing protein [Streptomyces]	100	99.3	2.09e-93
+NZ_DF968428.1_12|12960|13346|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.747	WP_078885356.1 MULTISPECIES: metallopeptidase family protein [Streptomyces]	100	99.2	3.18e-85
+NZ_DF968428.1_13|13368|14894|-1|ID=1_13;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.735	WP_059423556.1 DUF5719 family protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968428.1_14|14891|18499|-1|ID=1_14;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.754	WP_078945648.1 glycosyltransferase family 2 protein [Streptomyces azureus]	99.9	99.9	0.0
+NZ_DF968428.1_15|18800|19063|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.682	WP_010034659.1 MULTISPECIES: WhiB family transcriptional regulator [Streptomyces]	100	98.9	8.21e-57
+NZ_DF968428.1_16|19709|20287|1|ID=1_16;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.722	WP_059423560.1 cysteine dioxygenase [Streptomyces azureus]	100	85.5	7.22e-120
+NZ_DF968428.1_17|20350|21309|1|ID=1_17;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.728	WP_059423562.1 2-phospho-L-lactate transferase [Streptomyces azureus]	100	99.7	6.84e-217
+NZ_DF968428.1_18|21306|22634|1|ID=1_18;partial=00;start_type=TTG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.750	WP_059423564.1 coenzyme F420-0:L-glutamate ligase [Streptomyces azureus]	100	99.8	1.91e-308
+NZ_DF968428.1_19|22710|23711|1|ID=1_19;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.748	WP_059423565.1 DNA-3-methyladenine glycosylase family protein [Streptomyces azureus]	100	99.7	1.19e-249
+NZ_DF968428.1_20|24044|25126|-1|ID=1_20;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.714	WP_059423566.1 sugar phosphate nucleotidyltransferase [Streptomyces azureus]	100	99.7	2.50e-219
+NZ_DF968428.1_21|25263|26567|-1|ID=1_21;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.724	WP_059423569.1 peptidoglycan recognition protein family protein [Streptomyces azureus]	97.2	99.8	3.43e-302
+NZ_DF968428.1_22|26880|27635|1|ID=1_22;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.714	WP_059423568.1 TIGR03089 family protein [Streptomyces azureus]	100	99.6	5.73e-175

@@ -1,0 +1,9 @@
+NZ_OGTW02000060.1_1|821|1666|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.420	WP_127093922.1 WxL domain-containing protein [Lactococcus lactis]	100	99.6	2.60e-170
+NZ_OGTW02000060.1_2|1695|2486|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.407	WP_003130734.1 MULTISPECIES: WxL domain-containing protein [Lactococcus]	100	99.6	2.01e-165
+NZ_OGTW02000060.1_3|2524|3282|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.382	WP_010906040.1 MULTISPECIES: WxL domain-containing protein [Lactococcus]	100	99.6	1.11e-177
+NZ_OGTW02000060.1_4|3320|4075|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.435	WP_003130730.1 MULTISPECIES: WxL domain-containing protein [Lactococcus]	100	99.6	4.86e-151
+NZ_OGTW02000060.1_5|4112|9061|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.382	WP_127093923.1 beta strand repeat-containing protein [Lactococcus lactis]	100	99.9	0.0
+NZ_OGTW02000060.1_6|9184|9558|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.339	WP_251916599.1 DUF916 domain-containing protein [Lactococcus lactis]	100	99.2	4.59e-78
+NZ_OGTW02000060.1_7|9577|10356|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.301	WP_196497982.1 DUF3324 domain-containing protein, partial [Lactococcus lactis]	99.6	99.2	1.78e-159
+NZ_OGTW02000060.1_8|10438|10749|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.317	WP_003130721.1 MULTISPECIES: helix-turn-helix domain-containing protein [Lactococcus]	100	99.0	5.90e-71
+NZ_OGTW02000060.1_9|10826|11860|-1|ID=1_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.396	WP_260604561.1 tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA, partial [Lactococcus lactis]	100	99.7	1.63e-248

@@ -1,0 +1,13 @@
+NZ_LQOO01000090.1_1|3|1901|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.675	WP_085081472.1 hypothetical protein, partial [Mycobacterium intracellulare]	100	100	0.0
+NZ_LQOO01000090.1_2|1898|4891|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.658	WP_047323681.1 MULTISPECIES: ATP-binding protein [Mycobacterium]	100	99.9	0.0
+NZ_LQOO01000090.1_3|4964|5248|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.656	WP_186244539.1 glycosyl transferase family 39 [Mycobacterium simulans]	95.7	98.9	2.55e-52
+NZ_LQOO01000090.1_4|5245|5472|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.645	WP_047323679.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	98.7	4.87e-37
+NZ_LQOO01000090.1_5|5481|6404|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.686	WP_047323678.1 MULTISPECIES: conjugal transfer protein [Mycobacterium]	100	99.7	9.02e-216
+NZ_LQOO01000090.1_6|6419|7654|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.687	WP_052955339.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.8	9.06e-289
+NZ_LQOO01000090.1_7|7651|7959|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.693	WP_047323677.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.0	1.46e-57
+NZ_LQOO01000090.1_8|8059|8493|1|ID=1_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657	WP_052955338.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.3	3.57e-96
+NZ_LQOO01000090.1_9|8468|9133|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.626	WP_052955337.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.5	1.17e-159
+NZ_LQOO01000090.1_10|9136|10548|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.660	WP_047323676.1 MULTISPECIES: type IV secretory system conjugative DNA transfer family protein [Mycobacteriaceae]	100	99.8	0.0
+NZ_LQOO01000090.1_11|10560|10778|-1|ID=1_11;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.671	WP_330981387.1 hypothetical protein [Mycobacterium sp. 050128]	58.0	68.5	2.44e-09
+NZ_LQOO01000090.1_12|11424|12356|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.652	WP_136246248.1 MULTISPECIES: non-homologous end-joining DNA ligase [Mycobacterium]	100	99.7	7.74e-230
+NZ_LQOO01000090.1_13|12420|13460|-1|ID=1_13;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.648	WP_085081473.1 phospholipase D-like domain-containing protein [Mycobacterium nebraskense]	100	99.7	8.32e-243

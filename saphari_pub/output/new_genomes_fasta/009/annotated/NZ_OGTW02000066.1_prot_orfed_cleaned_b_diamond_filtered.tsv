@@ -1,0 +1,11 @@
+NZ_OGTW02000066.1_1|2|181|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.389	WP_071519354.1 IS3 family transposase [Lactococcus lactis]	100	100	9.21e-35
+NZ_OGTW02000066.1_2|287|1189|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.319	WP_081144430.1 MULTISPECIES: LCP family glycopolymer transferase [Bacillota]	100	99.7	3.91e-186
+NZ_OGTW02000066.1_3|1214|2104|-1|ID=1_3;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.350	WP_095350703.1 MULTISPECIES: phosphodiester glycosidase family protein [Lactococcus]	100	99.7	2.90e-211
+NZ_OGTW02000066.1_4|2318|2686|-1|ID=1_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.287	WP_095350696.1 MULTISPECIES: glycosyltransferase [Bacteria]	97.5	99.2	3.28e-73
+NZ_OGTW02000066.1_5|2688|3377|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.281	WP_095350696.1 MULTISPECIES: glycosyltransferase [Bacteria]	98.6	93.5	1.31e-139
+NZ_OGTW02000066.1_6|3457|4143|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.355	WP_095350695.1 MULTISPECIES: sugar transferase [Bacteria]	95.2	99.6	5.29e-155
+NZ_OGTW02000066.1_7|4165|4929|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.331	WP_127093934.1 MULTISPECIES: tyrosine-protein phosphatase [Lactococcus]	100	99.6	4.05e-181
+NZ_OGTW02000066.1_8|4984|5679|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.358	WP_127093935.1 MULTISPECIES: polysaccharide biosynthesis tyrosine autokinase [Lactococcus]	100	99.6	7.45e-152
+NZ_OGTW02000066.1_9|5689|6468|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.341	WP_127093936.1 MULTISPECIES: Wzz/FepE/Etk N-terminal domain-containing protein [Lactococcus]	100	99.6	7.51e-159
+NZ_OGTW02000066.1_10|6508|7275|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.298	WP_127093937.1 SGNH/GDSL hydrolase family protein [Lactococcus lactis]	100	99.6	1.03e-179
+NZ_OGTW02000066.1_11|7309|7626|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.302	WP_003131262.1 MULTISPECIES: helix-turn-helix domain-containing protein [Bacteria]	100	99.1	1.38e-70

@@ -1,0 +1,6 @@
+NZ_OGTW02000068.1_1|1|240|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.379	WP_428281973.1 Y-family DNA polymerase, partial [Lactococcus lactis]	100	100	5.00e-46
+NZ_OGTW02000068.1_2|673|1530|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.314	WP_017865367.1 MULTISPECIES: AraC family transcriptional regulator [Streptococcaceae]	100	99.7	3.26e-207
+NZ_OGTW02000068.1_3|1633|2481|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.303	WP_010890651.1 MULTISPECIES: helix-turn-helix domain-containing protein [Lactococcus]	100	99.6	2.47e-180
+NZ_OGTW02000068.1_5|2716|4560|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.258	WP_010890677.1 MULTISPECIES: class III lanthionine synthetase LanKC N-terminal domain-containing protein [Bacillota]	100	99.8	0.0
+NZ_OGTW02000068.1_6|4557|5777|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.326	WP_010890650.1 MULTISPECIES: MFS transporter [Bacillota]	100	99.8	4.05e-262
+NZ_OGTW02000068.1_7|6132|6833|-1|ID=1_7;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.312	WP_127093942.1 hypothetical protein, partial [Lactococcus lactis]	100	99.6	8.43e-159

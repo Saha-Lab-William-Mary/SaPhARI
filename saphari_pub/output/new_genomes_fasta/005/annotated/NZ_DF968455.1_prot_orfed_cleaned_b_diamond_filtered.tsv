@@ -1,0 +1,7 @@
+NZ_DF968455.1_1|646|1509|-1|ID=1_1;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.674	WP_059423770.1 phosphatase PAP2 family protein [Streptomyces azureus]	100	95.8	1.91e-202
+NZ_DF968455.1_2|1570|2697|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.715	WP_059423772.1 LacI family DNA-binding transcriptional regulator [Streptomyces azureus]	99.7	91.5	9.22e-238
+NZ_DF968455.1_3|2997|4265|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.681	WP_059423774.1 extracellular solute-binding protein [Streptomyces azureus]	100	99.8	7.73e-307
+NZ_DF968455.1_4|4390|5394|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.664	WP_059423777.1 carbohydrate ABC transporter permease [Streptomyces azureus]	100	99.7	5.04e-247
+NZ_DF968455.1_5|5409|6317|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.657	WP_059423779.1 sugar ABC transporter permease [Streptomyces azureus]	100	99.7	1.96e-212
+NZ_DF968455.1_6|6487|8217|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.708	WP_059423781.1 glycoside hydrolase family 13 protein [Streptomyces azureus]	100	97.9	0.0
+NZ_DF968455.1_7|8337|8657|1|ID=1_7;partial=01;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.685	WP_423587587.1 alpha-amylase [Streptomyces azureus]	100	100	2.35e-67

@@ -3,7 +3,7 @@ CFPICI REGION 1 - SeCIDMS15097	Core	1	492	800	-1	CORE	100	99.0	7.79e-71	PROTEIN:
 CFPICI REGION 1 - SeCIDMS15097	Core	2	990	2633	-1	CORE	100	99.8	0.0	PROTEIN: WP_103170272.1 terminase large subunit [Staphylococcus equorum]
 CFPICI REGION 1 - SeCIDMS15097	Core	3	2626	2958	-1	WP_103170273.1	100	99.1	2.84e-70	MULTISPECIES: hypothetical protein [Staphylococcus]
 CFPICI REGION 1 - SeCIDMS15097	Core	4	3118	3408	-1	CORE	100	99.0	8.33e-70	PROTEIN: WP_103170274.1 HNH endonuclease [Staphylococcus equorum]
-CFPICI REGION 1 - SeCIDMS15097	Core	5	3401	3685	-1	WP_103170275.1	100	98.9	3.74e-63	phage gp6-like head-tail connector protein [Staphylococcus equorum]
+CFPICI REGION 1 - SeCIDMS15097	Core	5	3401	3685	-1	CORE	100	98.9	3.74e-63	PROTEIN: WP_103170275.1 phage gp6-like head-tail connector protein [Staphylococcus equorum]
 CFPICI REGION 1 - SeCIDMS15097	Core	6	3816	5051	-1	WP_103170276.1	100	99.8	3.69e-288	phage major capsid protein [Staphylococcus equorum]
 CFPICI REGION 1 - SeCIDMS15097	Core	7	5053	5622	-1	CORE	100	99.5	3.03e-128	PROTEIN: WP_103170277.1 HK97 family phage prohead protease [Staphylococcus equorum]
 CFPICI REGION 1 - SeCIDMS15097	Core	8	5609	6814	-1	CORE	100	99.8	2.68e-285	PROTEIN: WP_103170278.1 phage portal protein [Staphylococcus equorum]

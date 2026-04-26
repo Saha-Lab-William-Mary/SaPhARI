@@ -1,0 +1,17 @@
+NZ_OGTW02000022.1_1|1|102|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.422	WP_282676002.1 bacteriocin [Lactococcus cremoris]	100	97.1	1.56e-13
+NZ_OGTW02000022.1_2|565|1791|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.343	WP_127093701.1 tyrosine-type recombinase/integrase [Lactococcus lactis]	100	96.3	4.63e-277
+NZ_OGTW02000022.1_3|2081|2527|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.345	WP_003131961.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.3	2.29e-94
+NZ_OGTW02000022.1_4|2616|2888|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.319	WP_010906376.1 MULTISPECIES: chorismate mutase [Lactococcus]	100	98.9	3.71e-50
+NZ_OGTW02000022.1_5|2972|3460|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.329	WP_003131959.1 MULTISPECIES: GAF domain-containing protein [Lactococcus]	100	99.4	2.32e-112
+NZ_OGTW02000022.1_6|3492|4133|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.355	WP_010906375.1 MULTISPECIES: phosphotransferase [Lactococcus]	100	99.5	7.02e-148
+NZ_OGTW02000022.1_7|4182|5840|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.369	WP_127093702.1 DNA polymerase III subunit gamma/tau [Lactococcus lactis]	100	99.8	0.0
+NZ_OGTW02000022.1_8|5875|7395|-1|ID=1_8;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.400	WP_021214997.1 amino acid permease [Lactococcus lactis]	99.8	96.3	0.0
+NZ_OGTW02000022.1_10|7863|8717|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.364	WP_010906372.1 MULTISPECIES: undecaprenyl-diphosphate phosphatase [Lactococcus]	100	99.6	5.37e-201
+NZ_OGTW02000022.1_11|8909|9202|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.388	WP_003131954.1 MULTISPECIES: 30S ribosomal protein S6 [Lactococcus]	100	99.0	2.69e-62
+NZ_OGTW02000022.1_12|9232|9732|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.425	WP_003131953.1 MULTISPECIES: single-stranded DNA-binding protein [Lactococcus]	100	99.4	4.64e-114
+NZ_OGTW02000022.1_13|9906|10151|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.447	WP_003131952.1 MULTISPECIES: 30S ribosomal protein S18 [Lactococcus]	100	98.8	1.27e-46
+NZ_OGTW02000022.1_14|10351|11124|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.359	WP_003131951.1 MULTISPECIES: metallophosphoesterase [Lactococcus]	100	99.6	3.21e-184
+NZ_OGTW02000022.1_15|11198|11506|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.395	WP_010906371.1 MULTISPECIES: DUF960 domain-containing protein [Lactococcus]	100	99.0	3.18e-70
+NZ_OGTW02000022.1_16|11544|12392|-1|ID=1_16;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.365	WP_012898662.1 MULTISPECIES: MurR/RpiR family transcriptional regulator [Lactococcus]	100	99.6	6.17e-190
+NZ_OGTW02000022.1_17|12753|13661|1|ID=1_17;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.391	WP_031297004.1 MULTISPECIES: phosphogluconate dehydrogenase (NAD(+)-dependent, decarboxylating) [Lactococcus]	100	99.3	4.15e-216
+NZ_OGTW02000022.1_18|13782|15341|1|ID=1_18;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.394	WP_127093703.1 gluconokinase [Lactococcus lactis]	100	99.8	0.0

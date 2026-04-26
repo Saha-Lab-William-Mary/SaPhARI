@@ -1,0 +1,8 @@
+NZ_LJHL01000101.1_1|130|1392|-1|ID=1_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.712	WP_042912451.1 histidine--tRNA ligase [Mycobacterium intracellulare]	100	99.8	1.26e-295
+NZ_LJHL01000101.1_2|1396|2073|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.684	WP_042913011.1 MBL fold metallo-hydrolase [Mycobacterium intracellulare]	99.5	98.2	7.36e-162
+NZ_LJHL01000101.1_3|2180|3073|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.682	WP_042912453.1 peptidylprolyl isomerase [Mycobacterium intracellulare]	100	99.7	2.23e-179
+NZ_LJHL01000101.1_4|3086|5464|-1|ID=1_4;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.683	WP_008258303.1 RelA/SpoT family protein [Mycobacterium sp. H4Y]	99.9	99.9	0.0
+NZ_LJHL01000101.1_5|5509|6051|-1|ID=1_5;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.737	WP_042912455.1 adenine phosphoribosyltransferase [Mycobacterium intracellulare]	100	99.4	8.42e-117
+NZ_LJHL01000101.1_6|6059|7762|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.706	WP_042912457.1 ABC transporter substrate-binding protein [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LJHL01000101.1_7|7768|9057|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.688	WP_042913012.1 protein translocase subunit SecF [Mycobacterium intracellulare]	100	99.8	5.70e-276
+NZ_LJHL01000101.1_8|9062|10270|-1|ID=1_8;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.673	WP_054585593.1 protein translocase subunit SecD, partial [Mycobacterium intracellulare]	100	99.8	4.32e-271

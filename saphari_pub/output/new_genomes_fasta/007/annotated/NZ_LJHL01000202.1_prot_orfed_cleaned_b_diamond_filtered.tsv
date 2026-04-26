@@ -1,0 +1,4 @@
+NZ_LJHL01000202.1_1|3|1025|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.694	WP_338391003.1 DUF4192 family protein, partial [Mycobacterium intracellulare]	100	99.7	7.60e-236
+NZ_LJHL01000202.1_2|1346|1924|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.701	WP_054585779.1 hypothetical protein [Mycobacterium intracellulare]	100	90.2	1.20e-120
+NZ_LJHL01000202.1_3|1959|2435|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.696	WP_054585780.1 hypothetical protein [Mycobacterium intracellulare]	100	99.4	6.06e-88
+NZ_LJHL01000202.1_4|2713|7839|1|ID=1_4;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.691	WP_054585781.1 MobF family relaxase, partial [Mycobacterium intracellulare]	100	100	0.0

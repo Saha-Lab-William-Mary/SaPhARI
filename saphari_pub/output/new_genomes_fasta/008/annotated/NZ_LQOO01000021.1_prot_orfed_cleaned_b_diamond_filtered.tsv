@@ -1,0 +1,12 @@
+NZ_LQOO01000021.1_1|3|644|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657	WP_415880916.1 transglycosylase SLT domain-containing protein, partial [Mycobacterium intracellulare]	100	99.5	4.02e-138
+NZ_LQOO01000021.1_2|697|1758|1|ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.692	WP_083179935.1 C40 family peptidase [Mycobacterium nebraskense]	100	99.7	1.60e-200
+NZ_LQOO01000021.1_3|1819|3360|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.686	WP_082147687.1 MULTISPECIES: type VII secretion protein EccB [Mycobacteriaceae]	100	99.8	0.0
+NZ_LQOO01000021.1_4|3357|7568|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.644	WP_047324159.1 MULTISPECIES: type VII secretion protein EccCa [Mycobacterium]	100	99.9	0.0
+NZ_LQOO01000021.1_5|7665|7961|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.667	WP_047324169.1 MULTISPECIES: PE family protein [Mycobacteriaceae]	100	99.0	1.75e-54
+NZ_LQOO01000021.1_6|7986|9146|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.700	WP_047324160.1 MULTISPECIES: PPE family protein [Mycobacterium]	100	99.7	3.24e-235
+NZ_LQOO01000021.1_7|9288|9584|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.636	WP_047324161.1 MULTISPECIES: WXG100 family type VII secretion target [Mycobacteriaceae]	100	99.0	1.01e-62
+NZ_LQOO01000021.1_8|9628|9912|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.625	WP_047324162.1 MULTISPECIES: WXG100 family type VII secretion target [Mycobacteriaceae]	100	98.9	2.96e-60
+NZ_LQOO01000021.1_9|9994|10917|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.676	WP_047324163.1 MULTISPECIES: ESX secretion-associated protein EspG [Mycobacterium]	100	99.7	4.79e-211
+NZ_LQOO01000021.1_10|11044|12552|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=3-4bp;gc_cont=0.671	WP_047324164.1 MULTISPECIES: MinD/ParA family ATP-binding protein [Mycobacterium]	100	99.8	0.0
+NZ_LQOO01000021.1_11|12549|14066|1|ID=1_11;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.694	WP_082147688.1 MULTISPECIES: type VII secretion integral membrane protein EccD [Mycobacterium]	100	99.8	0.0
+NZ_LQOO01000021.1_12|14237|14662|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.704	WP_439651130.1 S8 family serine peptidase, partial [Mycobacterium intracellulare]	100	82.4	4.53e-81

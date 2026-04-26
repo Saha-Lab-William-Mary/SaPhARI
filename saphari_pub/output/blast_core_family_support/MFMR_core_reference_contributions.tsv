@@ -1,0 +1,2 @@
+query_id	family	reference	aligned_query_bp	query_fraction	aligned_subject_bp	subject_coverage	weighted_pident	bitscore_sum	n_hsps
+PV944735.1|MFMR|R1|core|batch=009|record=PV944735.1_MAG__Caudoviricetes_sp._isolate_pajarito_V4_3767_genomic_sequence|start=594|end=12749|strand=1	MFMR	OQ357865.1	328	0.027	328	0.0188	79.228	219.4	3

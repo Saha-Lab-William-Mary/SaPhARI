@@ -1,0 +1,9 @@
+NZ_OGTW02000064.1_1|407|553|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333	WP_340128921.1 recombinase family protein, partial [Staphylococcus hominis]	91.9	75.5	2.92e-12
+NZ_OGTW02000064.1_2|573|1013|1|ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333	WP_017865303.1 MULTISPECIES: recombinase family protein [Lactococcus]	97.9	99.3	1.15e-92
+NZ_OGTW02000064.1_3|1527|2669|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.307	WP_014011544.1 MULTISPECIES: cation:proton antiporter [Bacteria]	100	99.7	6.01e-244
+NZ_OGTW02000064.1_4|2686|4023|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.342	WP_342630400.1 TrkH family potassium uptake protein [Lactococcus lactis]	95.3	99.8	4.11e-247
+NZ_OGTW02000064.1_5|4043|4711|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.327	WP_003129675.1 MULTISPECIES: potassium channel family protein [Bacteria]	100	99.6	1.07e-151
+NZ_OGTW02000064.1_6|4800|5300|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.307	WP_015081739.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.4	3.83e-122
+NZ_OGTW02000064.1_7|5688|5912|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.236	WP_003129673.1 MULTISPECIES: hypothetical protein [Bacillota]	100	98.7	1.70e-41
+NZ_OGTW02000064.1_8|5914|6723|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.284	WP_003129672.1 MULTISPECIES: ParA family protein [Bacillota]	100	99.6	5.32e-189
+NZ_OGTW02000064.1_9|6869|8023|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.294	WP_011669114.1 MULTISPECIES: RepB family plasmid replication initiator protein [Lactococcus]	100	99.7	1.69e-268

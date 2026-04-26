@@ -1,0 +1,7 @@
+NZ_DF968463.1_1|1|270|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.744	WP_148640425.1 AMP-binding protein, partial [Streptomyces azureus]	100	100	2.81e-56
+NZ_DF968463.1_2|422|655|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.692	WP_059423787.1 DUF6480 family protein [Streptomyces azureus]	100	98.7	7.33e-42
+NZ_DF968463.1_3|729|1817|-1|ID=1_3;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=11-12bp;gc_cont=0.725	WP_059423789.1 glutamate--cysteine ligase 2 [Streptomyces azureus]	100	99.7	3.89e-256
+NZ_DF968463.1_4|1931|4138|-1|ID=1_4;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.712	WP_059423791.1 1,4-alpha-glucan branching protein GlgB [Streptomyces azureus]	100	99.9	0.0
+NZ_DF968463.1_5|4142|5512|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.748	WP_059423792.1 maltokinase N-terminal cap-like domain-containing protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968463.1_6|5541|7259|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.669	WP_059423793.1 maltose alpha-D-glucosyltransferase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968463.1_7|7256|7873|-1|ID=1_7;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.694	WP_148640426.1 DUF3459 domain-containing protein, partial [Streptomyces azureus]	100	99.5	3.96e-150

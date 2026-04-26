@@ -1,0 +1,12 @@
+NZ_DF968477.1_1|209|754|1|ID=1_1;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.707	WP_387538995.1 IS1380 family transposase [Streptomyces canus]	90.6	99.5	1.77e-107
+NZ_DF968477.1_2|1376|2806|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.679	WP_059424020.1 glycoside hydrolase family 43 protein [Streptomyces azureus]	100	99.8	1.71e-310
+NZ_DF968477.1_3|2905|3930|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.663	WP_059424022.1 galactofuranose ABC transporter, permease protein YjfF [Streptomyces azureus]	100	99.7	1.46e-229
+NZ_DF968477.1_4|3927|5021|-1|ID=1_4;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.679	WP_059424023.1 ABC transporter permease [Streptomyces azureus]	100	99.7	8.83e-238
+NZ_DF968477.1_5|5018|6556|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.686	WP_059424025.1 sugar ABC transporter ATP-binding protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968477.1_6|6651|7661|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.667	WP_059424027.1 ABC transporter substrate-binding protein [Streptomyces azureus]	100	99.7	1.44e-222
+NZ_DF968477.1_7|8053|8214|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.753	WP_167745805.1 hypothetical protein [Streptomyces azureus]	100	98.1	6.53e-30
+NZ_DF968477.1_8|9712|10692|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.718	WP_059424029.1 helix-turn-helix transcriptional regulator [Streptomyces azureus]	100	99.7	5.69e-224
+NZ_DF968477.1_9|10788|11189|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.654	WP_059424033.1 RidA family protein [Streptomyces azureus]	100	99.3	2.91e-92
+NZ_DF968477.1_10|11626|11781|1|ID=1_10;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.679	WP_236711940.1 hypothetical protein [Streptomyces azureus]	100	98.1	6.93e-31
+NZ_DF968477.1_11|11844|12338|1|ID=1_11;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.741	WP_359193638.1 hypothetical protein [Streptomyces coeruleorubidus]	97.6	99.4	4.13e-107
+NZ_DF968477.1_12|12476|12922|1|ID=1_12;partial=01;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.685	WP_174523404.1 SAM-dependent methyltransferase, partial [Streptomyces azureus]	100	100	1.38e-102

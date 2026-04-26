@@ -4,7 +4,7 @@ CFPICI REGION 1 - SaCIVET0180R	Core	2	542	850	-1	CORE	100	99.0	5.28e-69	PROTEIN:
 CFPICI REGION 1 - SaCIVET0180R	Core	3	911	2554	-1	CORE	100	99.8	0.0	PROTEIN: WP_031914421.1 terminase large subunit [Staphylococcus aureus]
 CFPICI REGION 1 - SaCIVET0180R	Core	4	2547	2867	-1	WP_015728780.1	100	99.1	1.74e-69	MULTISPECIES: hypothetical protein [Staphylococcus]
 CFPICI REGION 1 - SaCIVET0180R	Core	5	3005	3229	-1	CORE	100	98.7	2.47e-52	PROTEIN: WP_224732315.1 HNH endonuclease [Staphylococcus aureus]
-CFPICI REGION 1 - SaCIVET0180R	Core	6	3288	3569	-1	WP_031914423.1	100	98.9	2.86e-62	head-tail connector protein [Staphylococcus aureus]
+CFPICI REGION 1 - SaCIVET0180R	Core	6	3288	3569	-1	CORE	100	98.9	2.86e-62	PROTEIN: WP_031914423.1 head-tail connector protein [Staphylococcus aureus]
 CFPICI REGION 1 - SaCIVET0180R	Core	7	3626	4855	-1	WP_031914424.1	100	99.8	1.75e-285	phage major capsid protein [Staphylococcus aureus]
 CFPICI REGION 1 - SaCIVET0180R	Core	8	4857	5423	-1	CORE	100	99.5	3.83e-126	PROTEIN: WP_031914425.1 MULTISPECIES: HK97 family phage prohead protease [Staphylococcus]
 CFPICI REGION 1 - SaCIVET0180R	Core	9	5410	6654	-1	CORE	99.8	99.0	1.11e-292	PROTEIN: WP_224732318.1 phage portal protein [Staphylococcus aureus]

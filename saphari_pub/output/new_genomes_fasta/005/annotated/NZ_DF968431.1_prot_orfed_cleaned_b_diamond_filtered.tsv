@@ -1,0 +1,11 @@
+NZ_DF968431.1_1|2|877|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.721	WP_148640418.1 aldehyde dehydrogenase family protein, partial [Streptomyces azureus]	100	99.7	7.91e-202
+NZ_DF968431.1_2|1122|2204|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.751	WP_059423581.1 Zn-dependent alcohol dehydrogenase [Streptomyces azureus]	100	99.7	2.41e-249
+NZ_DF968431.1_3|2397|3767|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.723	WP_059423582.1 MFS transporter [Streptomyces azureus]	100	99.8	1.57e-305
+NZ_DF968431.1_4|3756|4721|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.745	WP_059423583.1 DMT family transporter [Streptomyces azureus]	100	93.2	1.95e-199
+NZ_DF968431.1_5|4825|5535|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.768	WP_059423585.1 ArsR/SmtB family transcription factor [Streptomyces azureus]	100	99.6	2.50e-157
+NZ_DF968431.1_6|5610|6260|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.739	WP_345664648.1 MULTISPECIES: TetR/AcrR family transcriptional regulator [Streptomyces]	99.1	99.5	1.08e-148
+NZ_DF968431.1_7|6326|7480|1|ID=1_7;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.713	WP_059423596.1 acyl-CoA dehydrogenase family protein [Streptomyces azureus]	99.7	99.5	2.58e-265
+NZ_DF968431.1_8|7541|7801|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.697	WP_059423588.1 YiaA/YiaB family inner membrane protein [Streptomyces azureus]	100	98.9	4.81e-51
+NZ_DF968431.1_9|7872|8513|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.732	WP_059423590.1 TetR/AcrR family transcriptional regulator [Streptomyces azureus]	100	99.5	1.36e-145
+NZ_DF968431.1_10|8523|8984|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.682	WP_059423592.1 MaoC family dehydratase [Streptomyces azureus]	100	99.4	7.33e-107
+NZ_DF968431.1_11|9096|9560|1|ID=1_11;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.697	WP_059423594.1 redox-sensitive transcriptional activator SoxR [Streptomyces azureus]	100	99.4	8.88e-104

@@ -1,0 +1,22 @@
+NZ_LQOO01000092.1_1|3|4445|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.696	WP_083651537.1 MobF family relaxase [Mycobacterium intracellulare]	100	100	0.0
+NZ_LQOO01000092.1_2|4733|5224|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.715	WP_074021723.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.4	1.73e-94
+NZ_LQOO01000092.1_3|5241|5837|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.695	WP_047323391.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	87.4	1.53e-120
+NZ_LQOO01000092.1_4|6193|7239|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.676	WP_047323392.1 MULTISPECIES: DUF932 domain-containing protein [Mycobacterium]	100	99.7	1.32e-240
+NZ_LQOO01000092.1_5|7704|8651|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.677	WP_047323393.1 MULTISPECIES: DUF4192 family protein [Mycobacterium]	100	99.7	2.98e-209
+NZ_LQOO01000092.1_6|9065|9241|-1|ID=1_6;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.610	WP_156181198.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	98.3	2.41e-34
+NZ_LQOO01000092.1_7|9275|9733|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.632	WP_047323394.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.3	5.37e-113
+NZ_LQOO01000092.1_8|10153|10488|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.652	WP_047323395.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.1	1.19e-76
+NZ_LQOO01000092.1_9|10572|11033|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.671	WP_047323396.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.4	3.78e-109
+NZ_LQOO01000092.1_10|11453|11788|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.667	WP_047323397.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.1	3.05e-70
+NZ_LQOO01000092.1_11|12205|12600|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.644	WP_047323398.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.2	1.99e-89
+NZ_LQOO01000092.1_12|13017|13343|-1|ID=1_12;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.593	WP_074021438.1 hypothetical protein [Mycobacterium intracellulare]	100	99.1	6.19e-82
+NZ_LQOO01000092.1_13|13432|13971|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.654	WP_047323400.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.4	1.03e-121
+NZ_LQOO01000092.1_14|14563|15282|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.653	WP_101953446.1 serine protease [Mycobacterium intracellulare]	98.3	99.6	2.24e-166
+NZ_LQOO01000092.1_15|15304|15474|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.743	WP_089150878.1 MULTISPECIES: amidohydrolase [Mycobacterium]	100	98.2	1.56e-27
+NZ_LQOO01000092.1_16|15471|16751|-1|ID=1_16;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.685	WP_047323402.1 MULTISPECIES: toprim domain-containing protein [Mycobacterium]	100	99.8	2.23e-308
+NZ_LQOO01000092.1_17|16751|17044|-1|ID=1_17;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.636	WP_052955321.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.0	3.04e-59
+NZ_LQOO01000092.1_18|17072|17305|-1|ID=1_18;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.581	WP_047323403.1 MULTISPECIES: glutaredoxin-like protein NrdH [Mycobacterium]	100	98.7	2.96e-50
+NZ_LQOO01000092.1_19|18025|19704|-1|ID=1_19;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.658	WP_074021311.1 ParB/RepB/Spo0J family partition protein [Mycobacterium intracellulare]	100	97.9	0.0
+NZ_LQOO01000092.1_20|20787|21638|1|ID=1_20;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.617	WP_047322051.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.6	7.13e-210
+NZ_LQOO01000092.1_21|21909|22169|-1|ID=1_21;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.663	WP_047322050.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	98.9	1.87e-57
+NZ_LQOO01000092.1_22|22674|23657|-1|ID=1_22;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.617	WP_082147492.1 MULTISPECIES: pentapeptide repeat-containing protein [Mycobacterium]	100	88.4	1.16e-102

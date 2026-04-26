@@ -1,7 +1,7 @@
 Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
 CFPICI REGION 1 - EcCI392917	Upstream	1	173	481	-1	WP_001547818.1	100	99.0	2.32e-72	MULTISPECIES: DUF3892 domain-containing protein [Enterobacterales]
 CFPICI REGION 1 - EcCI392917	Core	2	632	2293	-1	CORE	99.8	99.8	0.0	PROTEIN: WP_058654936.1 MULTISPECIES: terminase large subunit [Enterobacteriaceae]
-CFPICI REGION 1 - EcCI392917	Core	3	2277	2633	-1	CORE	100	99.2	1.21e-77	PROTEIN: WP_000113647.1 MULTISPECIES: phage terminase small subunit P27 family [Gammaproteobacteria]
+CFPICI REGION 1 - EcCI392917	Core	3	2277	2633	-1	WP_000113647.1	100	99.2	1.21e-77	MULTISPECIES: phage terminase small subunit P27 family [Gammaproteobacteria]
 CFPICI REGION 1 - EcCI392917	Core	4	2591	2782	-1	WP_126066294.1	90.3	96.9	3.87e-33	terminase, partial [Klebsiella pneumoniae]
 CFPICI REGION 1 - EcCI392917	Core	5	2764	2916	-1	WP_000139144.1	98.0	98.0	5.66e-23	MULTISPECIES: hypothetical protein [Enterobacteriaceae]
 CFPICI REGION 1 - EcCI392917	Core	6	2909	3352	-1	CORE	100	99.3	2.69e-106	PROTEIN: WP_032672058.1 MULTISPECIES: HNH endonuclease [Enterobacteriaceae]

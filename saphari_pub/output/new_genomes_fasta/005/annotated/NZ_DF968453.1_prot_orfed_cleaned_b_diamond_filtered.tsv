@@ -1,0 +1,22 @@
+NZ_DF968453.1_1|2|769|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.758	WP_059423737.1 hypothetical protein, partial [Streptomyces azureus]	100	99.6	1.46e-179
+NZ_DF968453.1_2|964|2244|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.719	WP_059423739.1 S1 family peptidase [Streptomyces azureus]	100	99.8	1.38e-297
+NZ_DF968453.1_3|2285|3265|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.720	WP_059423741.1 ornithine cyclodeaminase family protein [Streptomyces azureus]	100	99.7	4.88e-225
+NZ_DF968453.1_4|3308|4132|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.752	WP_059423743.1 EamA family transporter [Streptomyces azureus]	100	99.6	2.88e-175
+NZ_DF968453.1_5|4189|4374|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.688	WP_037667954.1 MULTISPECIES: hypothetical protein [Streptomyces]	100	98.4	1.65e-31
+NZ_DF968453.1_6|4475|5635|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.724	WP_059423744.1 ROK family transcriptional regulator [Streptomyces azureus]	100	99.7	2.15e-272
+NZ_DF968453.1_7|5805|6770|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.678	WP_059423746.1 carbohydrate ABC transporter permease [Streptomyces azureus]	100	99.7	3.17e-223
+NZ_DF968453.1_8|6789|7712|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.667	WP_059423748.1 carbohydrate ABC transporter permease [Streptomyces azureus]	100	99.7	4.11e-212
+NZ_DF968453.1_9|7723|9072|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.658	WP_059423750.1 ABC transporter substrate-binding protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968453.1_10|9102|10301|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.693	WP_059423752.1 Gfo/Idh/MocA family protein [Streptomyces azureus]	100	99.8	1.57e-292
+NZ_DF968453.1_11|10330|11025|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.664	WP_059423755.1 L,D-transpeptidase family protein [Streptomyces azureus]	100	99.6	1.17e-173
+NZ_DF968453.1_12|11271|12185|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.719	WP_059423756.1 SDR family oxidoreductase [Streptomyces azureus]	100	99.7	1.34e-220
+NZ_DF968453.1_13|12276|12905|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.725	WP_059423757.1 MBL fold metallo-hydrolase [Streptomyces azureus]	100	99.5	1.28e-157
+NZ_DF968453.1_14|12905|13990|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.707	WP_059423758.1 S-(hydroxymethyl)mycothiol dehydrogenase [Streptomyces azureus]	100	99.7	5.81e-262
+NZ_DF968453.1_15|14181|15935|1|ID=1_15;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.731	WP_059423759.1 ABC transporter ATP-binding protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968453.1_16|15996|16286|-1|ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.698	WP_059423761.1 hypothetical protein [Streptomyces azureus]	100	99.0	3.30e-58
+NZ_DF968453.1_17|16423|16788|1|ID=1_17;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.667	WP_059423762.1 nuclear transport factor 2 family protein [Streptomyces azureus]	100	99.2	1.63e-81
+NZ_DF968453.1_18|16937|17794|1|ID=1_18;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.733	WP_059423764.1 bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase [Streptomyces azureus]	100	99.7	2.64e-197
+NZ_DF968453.1_19|17795|18793|-1|ID=1_19;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.748	WP_059423766.1 CU044_5270 family protein [Streptomyces azureus]	100	99.7	2.20e-240
+NZ_DF968453.1_20|18786|19046|-1|ID=1_20;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.720	WP_397852926.1 hypothetical protein [Streptomyces coeruleorubidus]	45.3	98.9	2.97e-13
+NZ_DF968453.1_21|19043|19594|-1|ID=1_21;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.737	WP_059423768.1 RNA polymerase sigma factor [Streptomyces azureus]	100	99.5	5.50e-128
+NZ_DF968453.1_22|19700|19798|1|ID=1_22;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.586	WP_402706642.1 cbb3-type cytochrome c oxidase subunit I, partial [Streptomyces tibetensis]	100	100	2.52e-14

@@ -1,0 +1,8 @@
+NZ_OGTW02000030.1_1|165|623|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.407	WP_440311453.1 IS6 family transposase [Lactococcus sp.]	100	99.3	1.16e-103
+NZ_OGTW02000030.1_2|1115|2794|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.389	WP_127093736.1 MULTISPECIES: D-lactate dehydrogenase [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000030.1_3|3051|3644|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.269	WP_347706989.1 hypothetical protein [Lactococcus lactis]	100	99.5	6.43e-81
+NZ_OGTW02000030.1_4|3666|5180|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.259	WP_003132712.1 MULTISPECIES: membrane protein [Bacillati]	100	99.8	0.0
+NZ_OGTW02000030.1_5|5260|5622|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.372	WP_420795093.1 DDE-type integrase/transposase/recombinase, partial [Lactococcus lactis]	100	99.2	2.32e-76
+NZ_OGTW02000030.1_6|5973|6410|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.358	WP_003106725.1 MULTISPECIES: universal stress protein [Streptococcaceae]	100	99.3	1.50e-93
+NZ_OGTW02000030.1_7|6419|7996|-1|ID=1_7;partial=00;start_type=TTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.368	WP_032398719.1 MULTISPECIES: Nramp family divalent metal transporter [Lactococcus]	99.8	99.8	0.0
+NZ_OGTW02000030.1_8|8187|8345|-1|ID=1_8;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.308	WP_171031441.1 integrase core domain-containing protein, partial [Lactococcus cremoris]	96.1	96.2	4.14e-28

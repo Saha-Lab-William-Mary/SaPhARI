@@ -1,0 +1,15 @@
+NZ_OGTW02000087.1_1|52|918|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379	WP_252172222.1 RTX toxin [Lactococcus lactis]	99.6	93.4	2.19e-181
+NZ_OGTW02000087.1_2|958|1539|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.364	WP_010905905.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.5	4.24e-121
+NZ_OGTW02000087.1_3|1736|4930|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.384	WP_010905906.1 MULTISPECIES: carbamoyl-phosphate synthase large subunit [Lactococcus]	100	99.9	0.0
+NZ_OGTW02000087.1_4|5242|5715|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.333	WP_010905907.1 glutathione peroxidase [Lactococcus lactis]	100	99.4	1.53e-110
+NZ_OGTW02000087.1_5|5898|6527|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.349	WP_010905908.1 MULTISPECIES: glycoside hydrolase family 73 protein [Lactococcus]	100	99.5	2.26e-142
+NZ_OGTW02000087.1_6|6569|9205|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.383	WP_010905909.1 MULTISPECIES: cation-translocating P-type ATPase [Lactococcus]	100	99.9	0.0
+NZ_OGTW02000087.1_7|9463|10185|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.314	WP_023189145.1 MULTISPECIES: epoxyqueuosine reductase QueH [Lactococcus]	100	99.6	2.45e-175
+NZ_OGTW02000087.1_8|10406|10975|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.288	WP_014570628.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.5	1.44e-126
+NZ_OGTW02000087.1_9|11116|11931|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.331	WP_003132438.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.6	4.52e-166
+NZ_OGTW02000087.1_10|12442|12996|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.335	WP_023349291.1 TMEM175 family protein [Lactococcus lactis]	100	99.5	4.01e-126
+NZ_OGTW02000087.1_11|13179|13937|1|ID=1_11;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.345	WP_003130487.1 MULTISPECIES: TraX family protein [Lactococcus]	100	99.6	9.43e-170
+NZ_OGTW02000087.1_12|14003|14356|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.314	WP_003130485.1 MULTISPECIES: DUF1304 domain-containing protein [Lactococcus]	100	99.2	4.04e-62
+NZ_OGTW02000087.1_13|14453|14881|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.371	WP_003130484.1 MULTISPECIES: universal stress protein [Lactococcus]	100	99.3	1.78e-95
+NZ_OGTW02000087.1_14|15001|15162|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.278	WP_003130483.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	98.1	3.79e-29
+NZ_OGTW02000087.1_15|15192|15593|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.351	WP_003130481.1 MULTISPECIES: arsenate reductase (thioredoxin) [Lactococcus]	100	99.3	2.49e-93

@@ -1,0 +1,9 @@
+NZ_LQOO01000101.1_1|1|636|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.664	WP_074020922.1 hypothetical protein [Mycobacterium intracellulare]	97.9	90.1	4.81e-113
+NZ_LQOO01000101.1_2|633|2054|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.698	WP_074020920.1 hypothetical protein [Mycobacterium intracellulare]	100	99.8	2.80e-178
+NZ_LQOO01000101.1_4|2161|3090|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.639	WP_232512939.1 MULTISPECIES: DUF4333 domain-containing protein [Mycobacterium avium complex (MAC)]	100	99.7	7.47e-200
+NZ_LQOO01000101.1_5|3203|4672|1|ID=1_5;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.617	WP_047323672.1 MULTISPECIES: peptidase [Mycobacterium]	100	99.8	0.0
+NZ_LQOO01000101.1_6|4790|5920|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.678	WP_074020913.1 MULTISPECIES: sensor domain-containing protein [Mycobacterium]	99.5	50.1	6.54e-124
+NZ_LQOO01000101.1_7|6015|6380|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.626	WP_047323669.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.2	1.19e-74
+NZ_LQOO01000101.1_8|6384|7046|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.661	WP_231614245.1 MULTISPECIES: DUF4333 domain-containing protein [Mycobacterium]	100	87.8	4.67e-139
+NZ_LQOO01000101.1_9|7096|8448|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.643	WP_169824282.1 helix-turn-helix domain-containing protein [Mycobacterium intracellulare]	100	86.5	1.55e-262
+NZ_LQOO01000101.1_10|8554|9018|-1|ID=1_10;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.669	WP_142263557.1 hypothetical protein, partial [Mycobacterium intracellulare]	100	99.4	9.72e-83

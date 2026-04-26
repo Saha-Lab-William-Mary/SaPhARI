@@ -1,0 +1,11 @@
+NZ_LJHL01000138.1_2|562|3534|1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.693	WP_162839943.1 (Fe-S)-binding protein [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000138.1_3|3594|4871|1|ID=1_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.671	WP_008261567.1 MULTISPECIES: pyridoxal phosphate-dependent aminotransferase [Mycobacterium]	99.8	99.8	5.74e-315
+NZ_LJHL01000138.1_4|4904|6193|1|ID=1_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.719	WP_042913715.1 YibE/F family protein [Mycobacterium intracellulare]	100	99.8	3.94e-283
+NZ_LJHL01000138.1_5|6190|7065|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.630	WP_008261569.1 MULTISPECIES: glucose-1-phosphate thymidylyltransferase RfbA [Mycobacterium]	100	99.7	1.89e-209
+NZ_LJHL01000138.1_6|7101|7475|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.715	WP_042913716.1 nuclear transport factor 2 family protein [Mycobacterium intracellulare]	100	99.2	6.82e-80
+NZ_LJHL01000138.1_7|7505|8260|-1|ID=1_7;partial=00;start_type=GTG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.746	WP_009954014.1 maleylpyruvate isomerase family mycothiol-dependent enzyme [Mycobacterium intracellulare]	100	99.6	7.94e-191
+NZ_LJHL01000138.1_8|8361|9017|1|ID=1_8;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.697	WP_042913717.1 class I SAM-dependent methyltransferase [Mycobacterium intracellulare]	100	99.5	3.59e-148
+NZ_LJHL01000138.1_9|9267|10589|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.685	WP_042913718.1 MFS transporter [Mycobacterium intracellulare]	100	99.8	2.13e-304
+NZ_LJHL01000138.1_10|10608|11567|-1|ID=1_10;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.656	WP_372459601.1 TauD/TfdA dioxygenase family protein [Mycobacterium intracellulare]	100	99.7	1.04e-236
+NZ_LJHL01000138.1_11|11687|13012|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.683	WP_042913719.1 UDP-glucose dehydrogenase family protein [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LJHL01000138.1_12|13109|14575|-1|ID=1_12;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.743	WP_418287979.1 DUF7159 family protein [Mycobacterium intracellulare]	100	99.8	4.31e-245

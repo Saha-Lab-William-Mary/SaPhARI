@@ -12,7 +12,7 @@ CFPICI REGION 1 - CP157500.1	Core	1576	1589185	1590357	1	CORE	99.7	99.7	4.57e-28
 CFPICI REGION 1 - CP157500.1	Core	1577	1590403	1591107	1	WP_406834293.1	100	99.6	1.15e-159	head maturation protease, ClpP-related [Lactococcus lactis]
 CFPICI REGION 1 - CP157500.1	Core	1578	1591119	1592390	1	WP_406834294.1	100	99.8	3.01e-284	phage major capsid protein [Lactococcus lactis]
 CFPICI REGION 1 - CP157500.1	Core	1579	1592406	1593272	1	WP_406834295.1	100	99.7	6.61e-213	hypothetical protein [Lactococcus lactis]
-CFPICI REGION 1 - CP157500.1	Core	1580	1593256	1593579	1	WP_406834296.1	100	99.1	4.59e-70	head-tail connector protein [Lactococcus lactis]
+CFPICI REGION 1 - CP157500.1	Core	1580	1593256	1593579	1	CORE	100	99.1	4.59e-70	PROTEIN: WP_406834296.1 head-tail connector protein [Lactococcus lactis]
 CFPICI REGION 1 - CP157500.1	Core	1581	1593554	1593904	1	CORE	100	99.1	4.08e-75	PROTEIN: WP_012898015.1 phage head closure protein [Lactococcus lactis]
 CFPICI REGION 1 - CP157500.1	Downstream	1582	1593906	1594412	1	WP_305774829.1	100	99.4	3.13e-113	HK97 gp10 family phage protein [Lactococcus lactis]
 CFPICI REGION 1 - CP157500.1	Downstream	1583	1594409	1594804	1	WP_216793462.1	100	99.2	9.10e-86	DUF806 family protein [Lactococcus lactis]

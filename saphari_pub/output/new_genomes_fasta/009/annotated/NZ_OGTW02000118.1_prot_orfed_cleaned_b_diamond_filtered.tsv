@@ -1,0 +1,10 @@
+NZ_OGTW02000118.1_1|391|609|1|ID=1_1;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.420	WP_003130554.1 MULTISPECIES: translation initiation factor IF-1 [Lactococcus]	100	98.6	5.34e-44
+NZ_OGTW02000118.1_2|633|779|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.401	WP_001808836.1 MULTISPECIES: 50S ribosomal protein L36 [Bacillati]	100	77.6	3.22e-20
+NZ_OGTW02000118.1_3|797|1162|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.415	WP_003130555.1 MULTISPECIES: 30S ribosomal protein S13 [Lactococcus]	100	99.2	5.90e-75
+NZ_OGTW02000118.1_4|1183|1566|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.430	WP_010906297.1 MULTISPECIES: 30S ribosomal protein S11 [Lactococcus]	100	99.2	4.74e-77
+NZ_OGTW02000118.1_5|1614|2552|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.383	WP_003130557.1 MULTISPECIES: DNA-directed RNA polymerase subunit alpha [Lactococcus]	100	99.7	3.00e-212
+NZ_OGTW02000118.1_6|2571|2951|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.415	WP_003130558.1 MULTISPECIES: 50S ribosomal protein L17 [Lactococcus]	100	99.2	1.87e-78
+NZ_OGTW02000118.1_7|3300|3467|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.304	WP_010906295.1 MULTISPECIES: isomerase [Lactococcus]	100	98.2	4.64e-33
+NZ_OGTW02000118.1_8|3766|3993|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.364	WP_010906294.1 MULTISPECIES: heavy-metal-associated domain-containing protein [Lactococcus]	100	98.7	2.30e-44
+NZ_OGTW02000118.1_9|4155|5516|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.400	WP_003130563.1 MULTISPECIES: DNA repair protein RadA [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000118.1_10|5560|6246|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.317	WP_127094152.1 YoaK family protein [Lactococcus lactis]	100	99.6	4.47e-147

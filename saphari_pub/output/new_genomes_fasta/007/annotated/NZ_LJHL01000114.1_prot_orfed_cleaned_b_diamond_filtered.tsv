@@ -1,0 +1,6 @@
+NZ_LJHL01000114.1_1|194|622|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.604	WP_042912983.1 tautomerase family protein [Mycobacterium intracellulare]	100	99.3	2.73e-99
+NZ_LJHL01000114.1_2|1363|2364|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.664	WP_042912984.1 LLM class flavin-dependent oxidoreductase [Mycobacterium intracellulare]	100	99.7	1.26e-235
+NZ_LJHL01000114.1_3|2370|3968|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.615	WP_042912985.1 UbiD family decarboxylase [Mycobacterium intracellulare]	100	99.8	0.0
+NZ_LJHL01000114.1_4|3979|4635|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.613	WP_042912986.1 UbiX family flavin prenyltransferase [Mycobacterium intracellulare]	100	99.5	2.17e-149
+NZ_LJHL01000114.1_5|4674|5174|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.613	WP_080691222.1 Dps family protein [Mycobacterium intracellulare]	100	99.4	5.00e-109
+NZ_LJHL01000114.1_7|6222|6443|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.590	WP_065507680.1 hypothetical protein [Mycobacterium intracellulare]	50.8	79.7	2.93e-10

@@ -1,10 +1,1 @@
 Region	Section	ORF No.	Start	Stop	Strand	Protein ID	%ID	%Cov	Blast e-value	Protein Name
-CFPICI REGION 1 - EdCI4928STDY7071318	Core	1	2	613	-1	CORE	98.5	100	2.05e-136	PROTEIN: WP_267646228.1 terminase large subunit domain-containing protein, partial [Enterococcus faecium]
-CFPICI REGION 1 - EdCI4928STDY7071318	Core	2	610	1083	-1	CORE	100	99.4	4.04e-106	PROTEIN: WP_005879180.1 MULTISPECIES: phage terminase small subunit P27 family [Enterococcus]
-CFPICI REGION 1 - EdCI4928STDY7071318	Core	3	1152	1322	-1	WP_005879181.1	100	89.5	2.38e-28	MULTISPECIES: DUF2292 domain-containing protein [Enterococcus]
-CFPICI REGION 1 - EdCI4928STDY7071318	Core	4	1441	1821	-1	CORE	100	99.2	1.08e-86	PROTEIN: WP_005879183.1 HNH endonuclease [Enterococcus durans]
-CFPICI REGION 1 - EdCI4928STDY7071318	Downstream	5	1825	2034	-1	WP_005879184.1	100	98.6	1.59e-44	MULTISPECIES: hypothetical protein [Enterococcus]
-CFPICI REGION 1 - EdCI4928STDY7071318	Downstream	6	2043	2450	-1	WP_005879185.1	100	99.3	1.14e-90	DUF3206 domain-containing protein [Enterococcus durans]
-CFPICI REGION 1 - EdCI4928STDY7071318	Downstream	7	2724	4130	-1	WP_005879186.1	100	99.8	0.0	MULTISPECIES: DNA primase family protein [Enterococcus]
-CFPICI REGION 1 - EdCI4928STDY7071318	Downstream	8	4127	5032	-1	WP_005879187.1	100	99.7	7.71e-214	primase alpha helix C-terminal domain-containing protein [Enterococcus durans]
-CFPICI REGION 1 - EdCI4928STDY7071318	Downstream	9	5029	5253	-1	WP_005879189.1	100	94.7	1.83e-40	hypothetical protein [Enterococcus durans]

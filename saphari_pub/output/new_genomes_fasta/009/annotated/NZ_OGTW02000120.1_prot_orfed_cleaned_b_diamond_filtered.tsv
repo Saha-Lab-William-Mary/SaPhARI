@@ -1,0 +1,8 @@
+NZ_OGTW02000120.1_1|35|457|1|ID=1_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.324	WP_014573151.1 MULTISPECIES: RinA family protein [Bacillati]	100	99.3	1.86e-96
+NZ_OGTW02000120.1_2|701|1204|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.393	WP_127094158.1 helix-turn-helix domain-containing protein [Lactococcus lactis]	100	92.3	1.98e-106
+NZ_OGTW02000120.1_3|1152|2585|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.397	WP_127094159.1 phage terminase large subunit [Lactococcus lactis]	100	96.7	0.0
+NZ_OGTW02000120.1_4|2586|3947|1|ID=1_4;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.347	WP_127094160.1 phage portal protein [Lactococcus lactis]	100	99.8	0.0
+NZ_OGTW02000120.1_5|3951|4190|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.396	WP_025016874.1 minor capsid protein [Lactococcus lactis]	100	98.8	3.30e-45
+NZ_OGTW02000120.1_6|4254|4991|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379	WP_260318941.1 minor capsid protein [Lactococcus lactis]	100	99.6	3.69e-169
+NZ_OGTW02000120.1_7|4998|5129|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.417	WP_011676519.1 hypothetical protein [Lactococcus cremoris]	85.7	95.5	5.42e-16
+NZ_OGTW02000120.1_8|5089|5436|-1|ID=1_8;partial=00;start_type=TTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.353	WP_023164006.1 MULTISPECIES: hypothetical protein [Bacillati]	100	99.1	1.80e-73

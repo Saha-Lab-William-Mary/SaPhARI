@@ -7,7 +7,7 @@ CFPICI REGION 1 - LcCIBL23	Upstream	11	4390	5976	1	WP_012492215.1	100	99.8	0.0	D
 CFPICI REGION 1 - LcCIBL23	Core	12	6302	6637	1	CORE	100	99.1	3.05e-70	PROTEIN: WP_012492216.1 MULTISPECIES: phage head closure protein [Lacticaseibacillus]
 CFPICI REGION 1 - LcCIBL23	Core	13	6642	6827	1	WP_012492217.1	100	98.4	2.23e-38	MULTISPECIES: hypothetical protein [Lacticaseibacillus]
 CFPICI REGION 1 - LcCIBL23	Core	14	6824	7246	1	CORE	100	99.3	2.54e-103	PROTEIN: WP_014952495.1 HNH endonuclease signature motif containing protein [Lacticaseibacillus paracasei]
-CFPICI REGION 1 - LcCIBL23	Core	15	7363	7833	1	CORE	100	99.4	3.60e-104	PROTEIN: WP_010489224.1 MULTISPECIES: phage terminase small subunit P27 family [Lacticaseibacillus]
+CFPICI REGION 1 - LcCIBL23	Core	15	7363	7833	1	WP_010489224.1	100	99.4	3.60e-104	MULTISPECIES: phage terminase small subunit P27 family [Lacticaseibacillus]
 CFPICI REGION 1 - LcCIBL23	Core	16	7830	9533	1	CORE	100	99.8	0.0	PROTEIN: WP_012492218.1 MULTISPECIES: terminase large subunit [Lacticaseibacillus]
 CFPICI REGION 1 - LcCIBL23	Core	17	9499	9678	1	WP_014952496.1	100	98.3	4.14e-31	MULTISPECIES: hypothetical protein [Lactobacillaceae]
 CFPICI REGION 1 - LcCIBL23	Core	18	9683	10864	1	CORE	100	99.7	1.60e-282	PROTEIN: WP_010489222.1 MULTISPECIES: phage portal protein [Lacticaseibacillus]

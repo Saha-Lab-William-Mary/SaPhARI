@@ -1,0 +1,8 @@
+NZ_OGTW02000034.1_1|1|585|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.344	WP_260604543.1 RepB-like protein, partial [Lactococcus lactis]	100	99.5	2.64e-120
+NZ_OGTW02000034.1_2|582|1733|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.362	WP_014570892.1 MULTISPECIES: replication initiation protein [Bacillati]	100	99.7	7.74e-269
+NZ_OGTW02000034.1_3|2114|2716|-1|ID=1_3;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.320	WP_002410828.1 MULTISPECIES: protein adenylyltransferase Fic [Lactobacillales]	100	99.5	3.13e-140
+NZ_OGTW02000034.1_4|2733|3356|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.373	WP_047687103.1 MULTISPECIES: mobilization protein [Lactococcus]	100	99.5	5.57e-142
+NZ_OGTW02000034.1_5|3353|4585|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.406	WP_095348645.1 MULTISPECIES: relaxase/mobilization nuclease domain-containing protein [Lactococcus]	100	99.8	4.25e-266
+NZ_OGTW02000034.1_6|4564|5058|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.345	WP_250884836.1 plasmid mobilization protein [Lactococcus garvieae]	99.4	99.4	2.13e-109
+NZ_OGTW02000034.1_7|5482|5694|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.376	WP_003131227.1 MULTISPECIES: integrase [Bacillati]	98.6	98.6	1.10e-42
+NZ_OGTW02000034.1_8|5772|5945|1|ID=1_8;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.368	WP_148113551.1 transposase, partial [Lactococcus lactis]	100	100	6.62e-34

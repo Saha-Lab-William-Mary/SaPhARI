@@ -1,0 +1,8 @@
+NZ_DF968416.1_1|2|721|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.785	WP_423587092.1 streptophobe family protein [Streptomyces azureus]	93.3	99.6	2.59e-53
+NZ_DF968416.1_2|851|2065|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.700	WP_059423299.1 phosphoserine phosphatase SerB [Streptomyces azureus]	100	99.8	1.65e-276
+NZ_DF968416.1_3|2178|2696|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.701	WP_059423301.1 SixA phosphatase family protein [Streptomyces azureus]	100	99.4	4.97e-121
+NZ_DF968416.1_4|2762|2968|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.720	WP_059423303.1 hypothetical protein [Streptomyces azureus]	100	98.6	3.21e-41
+NZ_DF968416.1_5|3136|3252|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.590	WP_099054755.1 MULTISPECIES: SGM_5486 family transporter-associated protein [Streptomyces]	100	97.4	2.87e-18
+NZ_DF968416.1_6|3322|4791|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.757	WP_236711912.1 MFS transporter [Streptomyces azureus]	100	99.6	5.85e-306
+NZ_DF968416.1_7|4871|5563|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.729	WP_059423306.1 FadR/GntR family transcriptional regulator [Streptomyces azureus]	100	99.6	3.56e-154
+NZ_DF968416.1_8|5541|5636|-1|ID=1_8;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.719	WP_423587089.1 hypothetical protein [Streptomyces azureus]	100	96.9	2.79e-15

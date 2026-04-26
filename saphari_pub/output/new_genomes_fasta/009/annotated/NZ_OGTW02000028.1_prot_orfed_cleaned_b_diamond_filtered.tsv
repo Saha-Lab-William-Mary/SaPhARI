@@ -1,0 +1,15 @@
+NZ_OGTW02000028.1_1|1|168|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.333	WP_058221359.1 hypothetical protein, partial [Lactococcus lactis]	100	98.2	2.84e-34
+NZ_OGTW02000028.1_2|211|450|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.383	WP_127093725.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	98.8	3.41e-50
+NZ_OGTW02000028.1_3|447|698|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.397	WP_127093726.1 hypothetical protein [Lactococcus lactis]	100	98.8	3.31e-52
+NZ_OGTW02000028.1_4|695|1009|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.340	WP_127093727.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.0	3.99e-65
+NZ_OGTW02000028.1_5|1006|1332|1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.379	WP_369164252.1 HTH domain-containing protein [Lactococcus sp. AK05]	98.1	99.1	7.02e-70
+NZ_OGTW02000028.1_6|1450|2244|1|ID=1_6;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.421	WP_127093729.1 MULTISPECIES: bifunctional DNA primase/polymerase [Lactococcus]	100	99.6	1.32e-200
+NZ_OGTW02000028.1_7|2255|3889|1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.391	WP_127093730.1 DNA primase family protein [Lactococcus lactis]	100	99.8	0.0
+NZ_OGTW02000028.1_8|4089|4223|1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333	WP_257875581.1 hypothetical protein [Lactococcus lactis]	100	97.8	1.89e-23
+NZ_OGTW02000028.1_9|4374|5615|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.390	WP_127093731.1 phage major capsid protein [Lactococcus lactis]	100	99.8	3.31e-292
+NZ_OGTW02000028.1_10|5618|6238|1|ID=1_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.348	WP_127093732.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.5	3.59e-133
+NZ_OGTW02000028.1_11|6270|6485|1|ID=1_11;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.389	WP_259687427.1 MULTISPECIES: HK97 family phage prohead protease [Lactococcus]	100	98.6	2.89e-43
+NZ_OGTW02000028.1_12|6689|6823|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.370	WP_023190201.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	97.8	1.06e-20
+NZ_OGTW02000028.1_13|6971|7300|1|ID=1_13;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.376	WP_032944146.1 hypothetical protein [Lactococcus lactis]	100	99.1	1.53e-69
+NZ_OGTW02000028.1_14|7403|7726|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.404	WP_127093734.1 sigma factor-like helix-turn-helix DNA-binding protein [Lactococcus lactis]	100	99.1	6.52e-70
+NZ_OGTW02000028.1_15|8533|8601|1|ID=1_15;partial=01;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.304	WP_038602477.1 hypothetical protein [Lactococcus lactis]	100	100	8.73e-08

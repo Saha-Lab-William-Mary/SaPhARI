@@ -5,7 +5,7 @@ CFPICI REGION 1 - LrCIGG	Upstream	10	3473	4300	1	WP_014570227.1	100	99.6	3.38e-2
 CFPICI REGION 1 - LrCIGG	Upstream	11	4293	5717	1	WP_014570228.1	100	99.8	0.0	virulence-associated E family protein [Lacticaseibacillus rhamnosus]
 CFPICI REGION 1 - LrCIGG	Upstream	12	5997	6419	1	WP_014570229.1	100	99.3	7.00e-101	hypothetical protein [Lacticaseibacillus rhamnosus]
 CFPICI REGION 1 - LrCIGG	Core	13	6456	6875	1	CORE	97.1	99.3	3.35e-94	PROTEIN: WP_258127935.1 HNH endonuclease signature motif containing protein [Lacticaseibacillus rhamnosus]
-CFPICI REGION 1 - LrCIGG	Core	14	7000	7470	1	CORE	100	99.4	5.11e-104	PROTEIN: WP_014570231.1 MULTISPECIES: phage terminase small subunit P27 family [Lacticaseibacillus]
+CFPICI REGION 1 - LrCIGG	Core	14	7000	7470	1	WP_014570231.1	100	99.4	5.11e-104	MULTISPECIES: phage terminase small subunit P27 family [Lacticaseibacillus]
 CFPICI REGION 1 - LrCIGG	Core	15	7467	9170	1	CORE	100	99.8	0.0	PROTEIN: WP_014570232.1 terminase large subunit [Lacticaseibacillus rhamnosus]
 CFPICI REGION 1 - LrCIGG	Core	16	9136	9315	1	WP_015765114.1	100	98.3	2.92e-31	hypothetical protein [Lacticaseibacillus rhamnosus]
 CFPICI REGION 1 - LrCIGG	Core	17	9320	10504	1	CORE	100	99.7	1.49e-283	PROTEIN: WP_014570233.1 phage portal protein [Lacticaseibacillus rhamnosus]

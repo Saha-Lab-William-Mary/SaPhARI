@@ -1,0 +1,21 @@
+NZ_OGTW02000050.1_1|178|1524|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=AAA;rbs_spacer=3bp;gc_cont=0.440	WP_014017779.1 MULTISPECIES: NADP-specific glutamate dehydrogenase [Lactobacillales]	100	99.8	0.0
+NZ_OGTW02000050.1_2|1924|2835|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.281	WP_127093864.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.7	2.15e-221
+NZ_OGTW02000050.1_3|2853|4835|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=7bp;gc_cont=0.353	WP_127093865.1 MULTISPECIES: type ISP restriction/modification enzyme [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000050.1_4|5266|6300|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AAA;rbs_spacer=3bp;gc_cont=0.366	WP_127093866.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.7	2.01e-233
+NZ_OGTW02000050.1_5|6340|7218|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=11bp;gc_cont=0.390	WP_127093867.1 MULTISPECIES: GIY-YIG nuclease family protein [Lactococcus]	99.6	94.9	1.83e-195
+NZ_OGTW02000050.1_6|7351|7626|1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.366	WP_057720941.1 IS3 family transposase [Lactococcus lactis]	98.9	98.9	1.06e-54
+NZ_OGTW02000050.1_7|7629|8492|1|ID=1_7;partial=00;start_type=TTG;rbs_motif=AAAA;rbs_spacer=12bp;gc_cont=0.361	WP_231740806.1 IS3 family transposase, partial [Lactococcus lactis]	97.6	99.3	5.91e-200
+NZ_OGTW02000050.1_8|8494|9267|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.380	WP_431453044.1 ImmA/IrrE family metallo-endopeptidase, partial [Enterococcus faecalis]	94.8	97.7	3.19e-174
+NZ_OGTW02000050.1_9|9287|10681|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.320	WP_127093869.1 MULTISPECIES: LlaJI family restriction endonuclease [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000050.1_10|10694|11707|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.364	WP_032491816.1 MULTISPECIES: AAA family ATPase [Lactococcus]	100	99.7	2.59e-246
+NZ_OGTW02000050.1_11|11718|12722|-1|ID=1_11;partial=00;start_type=GTG;rbs_motif=TATAA;rbs_spacer=12bp;gc_cont=0.336	WP_032398735.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	98.8	1.97e-241
+NZ_OGTW02000050.1_12|12719|14587|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.350	WP_032398734.1 MULTISPECIES: Dam family site-specific DNA-(adenine-N6)-methyltransferase [Lactococcus]	100	99.8	0.0
+NZ_OGTW02000050.1_13|14587|14823|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.367	WP_440311454.1 helix-turn-helix domain-containing protein [Lactococcus sp.]	100	98.7	2.61e-49
+NZ_OGTW02000050.1_14|14978|15727|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=14bp;gc_cont=0.344	WP_127093870.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.6	1.64e-173
+NZ_OGTW02000050.1_15|16056|16466|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.355	WP_145996152.1 IS3 family transposase, partial [Lactococcus lactis]	100	99.3	1.72e-95
+NZ_OGTW02000050.1_16|16761|17060|-1|ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.273	WP_012477786.1 MULTISPECIES: hypothetical protein [Lactococcus]	100	99.0	8.61e-60
+NZ_OGTW02000050.1_17|17079|17927|-1|ID=1_17;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.325	WP_012477785.1 MULTISPECIES: ParA family protein [Lactococcus]	100	99.6	1.58e-192
+NZ_OGTW02000050.1_18|18485|19555|1|ID=1_18;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=9bp;gc_cont=0.349	WP_127093871.1 replication initiator protein A [Lactococcus lactis]	100	99.7	4.05e-224
+NZ_OGTW02000050.1_19|19612|19908|-1|ID=1_19;partial=00;start_type=GTG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.313	WP_216871281.1 S24 family peptidase [Lactococcus lactis]	97.9	94.9	1.95e-57
+NZ_OGTW02000050.1_20|20588|21268|1|ID=1_20;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.373	WP_127093873.1 MULTISPECIES: IS6 family transposase [Lactococcus]	100	99.6	4.57e-164
+NZ_OGTW02000050.1_21|21281|21433|-1|ID=1_21;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.373	WP_254490425.1 IS3 family transposase, partial [Salmonella enterica]	100	72.5	4.73e-18

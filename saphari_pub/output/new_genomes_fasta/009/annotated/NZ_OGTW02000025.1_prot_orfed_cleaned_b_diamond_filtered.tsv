@@ -1,0 +1,13 @@
+NZ_OGTW02000025.1_1|1|306|-1|ID=1_1;partial=10;start_type=TTG;rbs_motif=AAAAAA;rbs_spacer=6bp;gc_cont=0.356	WP_098408202.1 nucleotide sugar dehydrogenase [Lactococcus lactis]	100	100	2.83e-62
+NZ_OGTW02000025.1_2|757|1062|-1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.395	WP_428211919.1 IS6-like element ISS1N family transposase, partial [Enterococcus casseliflavus]	100	99.0	4.57e-68
+NZ_OGTW02000025.1_3|2334|3479|1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.340	WP_127093711.1 MULTISPECIES: RepB family plasmid replication initiator protein [Lactococcus]	100	99.7	3.37e-246
+NZ_OGTW02000025.1_4|3476|4057|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=14bp;gc_cont=0.352	WP_127093712.1 DUF536 domain-containing protein [Lactococcus lactis]	100	99.5	6.19e-91
+NZ_OGTW02000025.1_5|4379|5896|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.313	WP_127093713.1 relaxase/mobilization nuclease domain-containing protein [Lactococcus lactis]	100	99.8	0.0
+NZ_OGTW02000025.1_6|5902|6270|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.255	WP_127093714.1 plasmid mobilization protein [Lactococcus lactis]	100	99.2	9.39e-77
+NZ_OGTW02000025.1_7|6576|6770|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.267	WP_127093715.1 hypothetical protein [Lactococcus lactis]	100	98.5	4.73e-39
+NZ_OGTW02000025.1_8|6767|7498|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=12bp;gc_cont=0.280	WP_260604540.1 Type 1 glutamine amidotransferase-like domain-containing protein [Lactococcus lactis]	100	99.6	1.96e-167
+NZ_OGTW02000025.1_9|7785|8612|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=AAAAA;rbs_spacer=11bp;gc_cont=0.302	WP_011834702.1 MULTISPECIES: hypothetical protein [Bacteria]	100	99.6	1.64e-186
+NZ_OGTW02000025.1_10|8609|8953|-1|ID=1_10;partial=00;start_type=TTG;rbs_motif=TAA;rbs_spacer=3bp;gc_cont=0.328	WP_080715440.1 PadR family transcriptional regulator [Methanobrevibacter smithii]	100	99.1	5.00e-75
+NZ_OGTW02000025.1_11|9111|9458|1|ID=1_11;partial=00;start_type=TTG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.282	WP_011834700.1 MULTISPECIES: DUF2089 family protein [Lactococcus]	100	78.4	1.40e-54
+NZ_OGTW02000025.1_12|9436|9753|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=6bp;gc_cont=0.289	WP_011834699.1 hypothetical protein [uncultured Clostridium sp.]	99.0	99.1	1.01e-63
+NZ_OGTW02000025.1_13|10177|10887|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.380	WP_127093717.1 IS6-like element ISS1N family transposase [Lactococcus lactis]	100	95.4	1.62e-162

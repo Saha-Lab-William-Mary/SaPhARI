@@ -1,31 +1,27 @@
 === CFPICI ===
-n_samples=57  objective=10.865418  k=11  m=4
+n_samples=57  objective=11.165118  k=7  m=5
 precision=1.0000  recall=0.9474  specificity=1.0000  fpr=0.0000  f1=0.9730  mcc=0.9560
 TP=54 FP=0 FN=3 TN=82
-notes: remove_marker:FUNC:multispecies_hnh_endonuclease_signature_motif | pass1:rivals=PICI,MFMR,P4 | pass2:rivals=MFMR,P4,PICI | pass3:rivals=MFMR,P4,PICI | pass4:rivals=MFMR,P4,PICI
+notes: add_forbid:FUNC:duf5375 | pass1:rivals=PICI,MFMR,P4,EPIP | pass2:rivals=MFMR,P4,EPIP,PICI | pass3:rivals=MFMR,P4,EPIP,PICI | pass4:rivals=MFMR,P4,EPIP,PICI
 markers:
-  - FUNC:multispecies_head_tail_connector (p_in=0.632, p_out=0.012)
-  - FUNC:portal (p_in=0.649, p_out=0.024)
-  - FUNC:multispecies_terminase_p27 (p_in=0.614, p_out=0.012)
-  - FUNC:terminase_large (p_in=0.526, p_out=0.012)
-  - FUNC:multispecies_hk97_prohead_protease (p_in=0.561, p_out=0.024)
-  - FUNC:multispecies_head_closure (p_in=0.509, p_out=0.012)
-  - FUNC:head_closure (p_in=0.316, p_out=0.000)
-  - FUNC:multispecies_portal (p_in=0.316, p_out=0.012)
-  - FUNC:hnh_endonuclease (p_in=0.228, p_out=0.000)
-  - FUNC:hk97_prohead_protease (p_in=0.368, p_out=0.024)
-  - FUNC:hnh_endonuclease_signature_motif (p_in=0.140, p_out=0.000)
+  - FUNC:terminase_large (p_in=0.930, p_out=0.012)
+  - FUNC:portal (p_in=0.965, p_out=0.037)
+  - FUNC:hk97_prohead_protease (p_in=0.930, p_out=0.049)
+  - FUNC:head_closure (p_in=0.825, p_out=0.012)
+  - FUNC:hnh_endonuclease_signature_motif (p_in=0.614, p_out=0.012)
+  - FUNC:hnh_endonuclease (p_in=0.386, p_out=0.000)
+  - FUNC:head_tail_connector (p_in=0.930, p_out=0.146)
 forbidden:
-  - FUNC:multispecies_aminotransferase => MULTISPECIES: aminotransferase
+  - FUNC:aminotransferase => aminotransferase
   - FUNC:nuclease => ATP-dependent nuclease
+  - FUNC:tail => phage tail protein
+  - FUNC:gp19_gp15_gp42 => Gp19/Gp15/Gp42 family protein
+  - FUNC:head_completion => phage head completion protein
+  - FUNC:recombinase => recombinase family protein
   - FUNC:duf2637 => DUF2637 domain-containing protein
-  - FUNC:gop => protein gop
-  - FUNC:helper_derepression => helper derepression protein
-  - FUNC:integrase_arm => integrase arm-type DNA-binding domain-containing protein
-  - FUNC:multispecies_beta => MULTISPECIES: beta family protein
-  - FUNC:multispecies_duf5375 => MULTISPECIES: DUF5375 domain-containing protein
-  - FUNC:multispecies_polarity_suppression => MULTISPECIES: phage polarity suppression protein
-  - FUNC:multispecies_sce7726 => MULTISPECIES: sce7726 family protein
+  - FUNC:scaffolding => phage scaffolding protein
+  - FUNC:beta => beta family protein
+  - FUNC:duf5375 => DUF5375 domain-containing protein
 
 === EPIP ===
 n_samples=13  objective=12.033048  k=29  m=12
@@ -33,65 +29,64 @@ precision=1.0000  recall=1.0000  specificity=1.0000  fpr=0.0000  f1=1.0000  mcc=
 TP=13 FP=0 FN=0 TN=126
 notes: seed_prefix_k=29_forb=2 | pass1:frozen | pass2:frozen | pass3:frozen | pass4:frozen
 markers:
-  - FUNC:gp19_gp15_gp42 (p_in=1.000, p_out=0.000)
-  - HYP:WP_240179234.1 (p_in=1.000, p_out=0.000)
   - FUNC:head_completion (p_in=1.000, p_out=0.000)
+  - HYP:WP_240179234.1 (p_in=1.000, p_out=0.000)
   - FUNC:recombinase (p_in=1.000, p_out=0.000)
-  - HYP:WP_264022283.1 (p_in=0.923, p_out=0.000)
+  - FUNC:gp19_gp15_gp42 (p_in=1.000, p_out=0.000)
   - HYP:WP_240179233.1 (p_in=0.923, p_out=0.000)
+  - HYP:WP_264022283.1 (p_in=0.923, p_out=0.000)
   - HYP:WP_240179238.1 (p_in=0.923, p_out=0.000)
   - HYP:WP_305093691.1 (p_in=0.846, p_out=0.000)
   - HYP:WP_179969673.1 (p_in=0.846, p_out=0.000)
   - FUNC:tail (p_in=1.000, p_out=0.008)
   - HYP:WP_113964818.1 (p_in=0.615, p_out=0.000)
-  - HYP:WP_036367304.1 (p_in=0.615, p_out=0.000)
-  - FUNC:duf2510 (p_in=0.615, p_out=0.000)
   - HYP:WP_167540958.1 (p_in=0.615, p_out=0.000)
+  - FUNC:duf2510 (p_in=0.615, p_out=0.000)
+  - HYP:WP_036367304.1 (p_in=0.615, p_out=0.000)
   - HYP:WP_061697103.1 (p_in=0.385, p_out=0.000)
   - HYP:WP_335332105.1 (p_in=0.308, p_out=0.000)
-  - HYP:WP_083142053.1 (p_in=0.308, p_out=0.000)
   - HYP:WP_264037635.1 (p_in=0.308, p_out=0.000)
-  - HYP:WP_163736397.1 (p_in=0.077, p_out=0.000)
-  - HYP:WP_131811879.1 (p_in=0.077, p_out=0.000)
-  - HYP:WP_163736377.1 (p_in=0.077, p_out=0.000)
-  - HYP:WP_083153993.1 (p_in=0.077, p_out=0.000)
-  - HYP:WP_442375478.1 (p_in=0.077, p_out=0.000)
-  - HYP:WP_234551598.1 (p_in=0.077, p_out=0.000)
+  - HYP:WP_083142053.1 (p_in=0.308, p_out=0.000)
   - HYP:WP_396909484.1 (p_in=0.077, p_out=0.000)
-  - HYP:WP_373142130.1 (p_in=0.077, p_out=0.000)
-  - HYP:WP_255162074.1 (p_in=0.077, p_out=0.000)
   - HYP:WP_240179229.1 (p_in=0.077, p_out=0.000)
+  - HYP:WP_163736397.1 (p_in=0.077, p_out=0.000)
+  - HYP:WP_255162074.1 (p_in=0.077, p_out=0.000)
+  - HYP:WP_083153993.1 (p_in=0.077, p_out=0.000)
+  - HYP:WP_373142130.1 (p_in=0.077, p_out=0.000)
+  - HYP:WP_234551598.1 (p_in=0.077, p_out=0.000)
+  - HYP:WP_163736377.1 (p_in=0.077, p_out=0.000)
+  - HYP:WP_131811879.1 (p_in=0.077, p_out=0.000)
+  - HYP:WP_442375478.1 (p_in=0.077, p_out=0.000)
   - FUNC:bro (p_in=0.538, p_out=0.016)
 forbidden:
+  - FUNC:integrase => integrase
   - FUNC:portal => phage portal protein
-  - FUNC:terminase => terminase, partial
 
 === MFMR ===
-n_samples=2  objective=11.554801  k=17  m=7
+n_samples=2  objective=11.566815  k=16  m=7
 precision=1.0000  recall=1.0000  specificity=1.0000  fpr=0.0000  f1=1.0000  mcc=1.0000
 TP=2 FP=0 FN=0 TN=137
-notes: seed_prefix_k=17_forb=2 | pass1:frozen | pass2:frozen | pass3:frozen | pass4:frozen
+notes: seed_prefix_k=16_forb=2 | pass1:frozen | pass2:frozen | pass3:frozen | pass4:frozen
 markers:
+  - FUNC:scaffolding (p_in=1.000, p_out=0.000)
   - FUNC:duf2637 (p_in=1.000, p_out=0.000)
   - HYP:WP_184922672.1 (p_in=0.500, p_out=0.000)
-  - FUNC:endonuclease (p_in=0.500, p_out=0.000)
+  - HYP:WP_389539692.1 (p_in=0.500, p_out=0.000)
   - FUNC:giy_yig_nuclease (p_in=0.500, p_out=0.000)
-  - FUNC:scaffolding (p_in=0.500, p_out=0.000)
-  - HYP:WP_358339006.1 (p_in=0.500, p_out=0.000)
-  - HYP:WP_399031527.1 (p_in=0.500, p_out=0.000)
-  - FUNC:multispecies_scaffolding (p_in=0.500, p_out=0.000)
   - HYP:WP_310359678.1 (p_in=0.500, p_out=0.000)
-  - FUNC:gntr_transcriptional_regulator (p_in=0.500, p_out=0.000)
+  - HYP:WP_399031527.1 (p_in=0.500, p_out=0.000)
+  - FUNC:endonuclease (p_in=0.500, p_out=0.000)
   - FUNC:membrane (p_in=0.500, p_out=0.000)
+  - HYP:WP_389539707.1 (p_in=0.500, p_out=0.000)
   - HYP:WP_356239485.1 (p_in=0.500, p_out=0.000)
   - HYP:WP_389539710.1 (p_in=0.500, p_out=0.000)
+  - FUNC:gntr_transcriptional_regulator (p_in=0.500, p_out=0.000)
+  - HYP:WP_358339006.1 (p_in=0.500, p_out=0.000)
   - FUNC:lsr2 (p_in=0.500, p_out=0.000)
-  - HYP:WP_389539707.1 (p_in=0.500, p_out=0.000)
-  - HYP:WP_389539692.1 (p_in=0.500, p_out=0.000)
-  - FUNC:terminase (p_in=1.000, p_out=0.051)
+  - FUNC:terminase (p_in=1.000, p_out=0.066)
 forbidden:
   - FUNC:htH => HTH domain-containing protein
-  - FUNC:tail => phage tail protein
+  - FUNC:host_cell_division_inhibitor_icd => host cell division inhibitor Icd-like protein
 
 === P4 ===
 n_samples=1  objective=12.283755  k=14  m=12
@@ -99,23 +94,23 @@ precision=1.0000  recall=1.0000  specificity=1.0000  fpr=0.0000  f1=1.0000  mcc=
 TP=1 FP=0 FN=0 TN=138
 notes: seed_prefix_k=14_forb=2 | pass1:frozen | pass2:frozen | pass3:frozen | pass4:frozen
 markers:
-  - FUNC:integrase_arm (p_in=1.000, p_out=0.000)
-  - FUNC:multispecies_polarity_suppression (p_in=1.000, p_out=0.000)
   - FUNC:helper_derepression (p_in=1.000, p_out=0.000)
-  - FUNC:ogr_delta_zinc_finger (p_in=1.000, p_out=0.000)
+  - FUNC:beta (p_in=1.000, p_out=0.000)
   - FUNC:gop (p_in=1.000, p_out=0.000)
-  - FUNC:multispecies_sce7726 (p_in=1.000, p_out=0.000)
-  - FUNC:multispecies_duf5375 (p_in=1.000, p_out=0.000)
+  - FUNC:ogr_delta_zinc_finger (p_in=1.000, p_out=0.000)
+  - FUNC:polarity_suppression (p_in=1.000, p_out=0.000)
+  - FUNC:duf5375 (p_in=1.000, p_out=0.000)
   - HYP:WP_000459302.1 (p_in=1.000, p_out=0.000)
   - FUNC:polarity_suppression_psu_by_overcoming_rho (p_in=1.000, p_out=0.000)
-  - FUNC:multispecies_beta (p_in=1.000, p_out=0.000)
-  - FUNC:excisionase (p_in=1.000, p_out=0.022)
-  - FUNC:multispecies_integrase (p_in=1.000, p_out=0.072)
-  - FUNC:multispecies_host_cell_division_inhibitor_icd (p_in=1.000, p_out=0.297)
-  - FUNC:primase (p_in=1.000, p_out=0.312)
+  - FUNC:sce7726 (p_in=1.000, p_out=0.000)
+  - FUNC:integrase_arm (p_in=1.000, p_out=0.007)
+  - FUNC:excisionase (p_in=1.000, p_out=0.029)
+  - FUNC:primase (p_in=1.000, p_out=0.413)
+  - FUNC:host_cell_division_inhibitor_icd (p_in=1.000, p_out=0.478)
+  - FUNC:integrase (p_in=1.000, p_out=0.819)
 forbidden:
+  - FUNC:capsid => major capsid protein
   - FUNC:portal => phage portal protein
-  - FUNC:multispecies_head_tail_connector => MULTISPECIES: head-tail connector protein
 
 === PHANIE ===
 n_samples=1  objective=12.284569  k=11  m=11
@@ -123,66 +118,65 @@ precision=1.0000  recall=1.0000  specificity=1.0000  fpr=0.0000  f1=1.0000  mcc=
 TP=1 FP=0 FN=0 TN=138
 notes: seed_prefix_k=11_forb=2 | pass1:frozen | pass2:frozen | pass3:frozen | pass4:frozen
 markers:
-  - HYP:WP_425665501.1 (p_in=1.000, p_out=0.000)
-  - HYP:WP_227954247.1 (p_in=1.000, p_out=0.000)
-  - HYP:YP_009857585.1 (p_in=1.000, p_out=0.000)
-  - HYP:WP_427287007.1 (p_in=1.000, p_out=0.000)
-  - FUNC:polymerase (p_in=1.000, p_out=0.000)
   - HYP:WP_435534697.1 (p_in=1.000, p_out=0.000)
-  - FUNC:encapsidation (p_in=1.000, p_out=0.000)
-  - HYP:WP_443699221.1 (p_in=1.000, p_out=0.000)
+  - FUNC:polymerase (p_in=1.000, p_out=0.000)
+  - HYP:YP_009857585.1 (p_in=1.000, p_out=0.000)
+  - HYP:WP_227954247.1 (p_in=1.000, p_out=0.000)
   - FUNC:major_head (p_in=1.000, p_out=0.000)
+  - HYP:WP_427287007.1 (p_in=1.000, p_out=0.000)
   - FUNC:upper_collar_connector (p_in=1.000, p_out=0.000)
+  - HYP:WP_425665501.1 (p_in=1.000, p_out=0.000)
+  - HYP:WP_443699221.1 (p_in=1.000, p_out=0.000)
   - FUNC:chap (p_in=1.000, p_out=0.000)
+  - FUNC:encapsidation (p_in=1.000, p_out=0.000)
 forbidden:
+  - FUNC:integrase => integrase
   - FUNC:htH => HTH domain-containing protein
-  - FUNC:integrase => site-specific integrase
 
 === PICI ===
-n_samples=65  objective=6.986871  k=30  m=3
-precision=1.0000  recall=0.6154  specificity=1.0000  fpr=0.0000  f1=0.7619  mcc=0.6782
-TP=40 FP=0 FN=25 TN=74
-notes: add_forbid:FUNC:gop | pass1:rivals=CFPICI,P4,MFMR | pass2:rivals=CFPICI,P4,MFMR | pass3:rivals=CFPICI,P4,MFMR | pass4:rivals=CFPICI,P4,MFMR
+n_samples=65  objective=9.621478  k=29  m=3
+precision=1.0000  recall=0.8615  specificity=1.0000  fpr=0.0000  f1=0.9256  mcc=0.8764
+TP=56 FP=0 FN=9 TN=74
+notes: remove_marker:FUNC:helicase_uvrb | pass2:rivals=P4,CFPICI,EPIP | pass3:rivals=P4,CFPICI,EPIP | pass4:rivals=P4,CFPICI,EPIP
 markers:
-  - FUNC:primase (p_in=0.431, p_out=0.216)
-  - FUNC:rha_transcriptional_regulator (p_in=0.215, p_out=0.027)
-  - FUNC:multispecies_duf4222 (p_in=0.323, p_out=0.176)
-  - FUNC:toprim_and_duf927 (p_in=0.077, p_out=0.000)
-  - FUNC:ash (p_in=0.123, p_out=0.000)
-  - FUNC:multispecies_head_decoration (p_in=0.123, p_out=0.000)
-  - FUNC:multispecies_bro_n (p_in=0.092, p_out=0.000)
-  - FUNC:dnad (p_in=0.062, p_out=0.000)
+  - FUNC:integrase (p_in=0.954, p_out=0.703)
+  - FUNC:primase (p_in=0.538, p_out=0.311)
+  - FUNC:rha_transcriptional_regulator (p_in=0.215, p_out=0.041)
+  - FUNC:head_decoration (p_in=0.169, p_out=0.000)
+  - FUNC:terminase_small (p_in=0.138, p_out=0.000)
   - HYP:WP_017880052.1 (p_in=0.138, p_out=0.000)
-  - HYP:WP_000796963.1 (p_in=0.092, p_out=0.000)
-  - FUNC:sigma_factor_helix_turn_helix (p_in=0.062, p_out=0.000)
-  - FUNC:terminase_small (p_in=0.062, p_out=0.000)
-  - FUNC:mor_transcription_activator (p_in=0.062, p_out=0.000)
-  - FUNC:tpm (p_in=0.031, p_out=0.000)
+  - FUNC:ash (p_in=0.123, p_out=0.000)
+  - FUNC:cold_shock (p_in=0.092, p_out=0.000)
+  - FUNC:7_carboxy_7_deazaguanine_synthase_quee (p_in=0.031, p_out=0.000)
+  - FUNC:duf1655 (p_in=0.092, p_out=0.000)
+  - FUNC:toprim_and_duf927 (p_in=0.077, p_out=0.027)
   - FUNC:replication (p_in=0.077, p_out=0.000)
-  - HYP:WP_010707097.1 (p_in=0.062, p_out=0.000)
-  - HYP:WP_020802561.1 (p_in=0.092, p_out=0.000)
-  - FUNC:multispecies_ylci_ynfo (p_in=0.138, p_out=0.081)
-  - FUNC:fic (p_in=0.062, p_out=0.000)
-  - FUNC:inorganic_pyrophosphatase (p_in=0.062, p_out=0.000)
-  - FUNC:multispecies_clpp_prohead_protease_major_capsid_fusion (p_in=0.031, p_out=0.000)
-  - FUNC:helicase_uvrb (p_in=0.062, p_out=0.000)
+  - HYP:WP_000796963.1 (p_in=0.092, p_out=0.000)
+  - FUNC:mor_transcription_activator (p_in=0.062, p_out=0.000)
+  - FUNC:dnad (p_in=0.062, p_out=0.000)
   - HYP:WP_017880053.1 (p_in=0.092, p_out=0.000)
-  - FUNC:duf1655 (p_in=0.046, p_out=0.000)
-  - FUNC:multispecies_duf1655 (p_in=0.046, p_out=0.000)
+  - FUNC:sigma_factor_helix_turn_helix (p_in=0.077, p_out=0.000)
+  - HYP:WP_020802561.1 (p_in=0.092, p_out=0.000)
+  - FUNC:inorganic_pyrophosphatase (p_in=0.062, p_out=0.000)
+  - FUNC:cell_envelope_stress_response_yqcg (p_in=0.031, p_out=0.000)
+  - FUNC:aminotransferase (p_in=0.031, p_out=0.000)
+  - FUNC:recombination_regulator_recx (p_in=0.015, p_out=0.000)
+  - HYP:WP_010707097.1 (p_in=0.062, p_out=0.000)
+  - HYP:WP_244512036.1 (p_in=0.046, p_out=0.000)
   - FUNC:ii_toxin_antitoxin_system_rele_pare_toxin (p_in=0.046, p_out=0.000)
-  - FUNC:head_decoration (p_in=0.046, p_out=0.000)
-  - FUNC:duf1492 (p_in=0.062, p_out=0.000)
-  - FUNC:multispecies_cell_envelope_stress_response_yqcg (p_in=0.031, p_out=0.000)
-  - FUNC:duf4433 (p_in=0.046, p_out=0.000)
+  - FUNC:abi (p_in=0.031, p_out=0.000)
+  - FUNC:clpp_prohead_protease_major_capsid_fusion (p_in=0.031, p_out=0.000)
+  - FUNC:hggxstg (p_in=0.031, p_out=0.000)
+  - FUNC:phosphopyruvate_hydratase (p_in=0.031, p_out=0.000)
 forbidden:
-  - FUNC:multispecies_hnh_endonuclease_signature_motif => MULTISPECIES: HNH endonuclease signature motif containing protein
-  - FUNC:multispecies_portal => MULTISPECIES: phage portal protein
-  - FUNC:multispecies_terminase_p27 => MULTISPECIES: phage terminase small subunit P27 family
-  - FUNC:ssDNA_binding => single-stranded DNA-binding protein
-  - FUNC:terminase_large => terminase large subunit
   - FUNC:portal => phage portal protein
-  - FUNC:terminase => terminase, partial
-  - FUNC:excisionase => excisionase
-  - FUNC:duf2637 => DUF2637 domain-containing protein
+  - FUNC:terminase_large => terminase large subunit
+  - FUNC:gp19_gp15_gp42 => Gp19/Gp15/Gp42 family protein
+  - FUNC:head_completion => phage head completion protein
+  - FUNC:recombinase => recombinase family protein
+  - FUNC:integrase_arm => integrase arm-type DNA-binding domain-containing protein
+  - FUNC:beta => beta family protein
+  - FUNC:duf5375 => DUF5375 domain-containing protein
   - FUNC:gop => protein gop
+  - FUNC:helper_derepression => helper derepression protein
 

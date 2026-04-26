@@ -1,0 +1,19 @@
+NZ_DF968476.1_1|2|292|-1|ID=1_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.722	WP_236711938.1 FAD/NAD(P)-binding protein, partial [Streptomyces azureus]	100	100	9.36e-66
+NZ_DF968476.1_3|1245|2807|-1|ID=1_3;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.708	WP_236711939.1 MDR family MFS transporter [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968476.1_4|3204|4241|1|ID=1_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.751	WP_078945675.1 ParB N-terminal domain-containing protein [Streptomyces azureus]	100	99.7	5.56e-236
+NZ_DF968476.1_5|4296|5045|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.724	WP_059423991.1 response regulator transcription factor [Streptomyces azureus]	100	99.6	1.98e-175
+NZ_DF968476.1_6|5240|5644|-1|ID=1_6;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.699	WP_059423993.1 GNAT family N-acetyltransferase [Streptomyces azureus]	100	99.3	1.01e-88
+NZ_DF968476.1_7|5628|6914|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.720	WP_078945676.1 adenylosuccinate lyase [Streptomyces azureus]	100	99.8	1.88e-301
+NZ_DF968476.1_8|7012|8517|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.742	WP_059423995.1 glutamine synthetase family protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968476.1_9|8521|9921|-1|ID=1_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.754	WP_063889051.1 amidase [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968476.1_10|9985|11928|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.735	WP_059423997.1 hypothetical protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968476.1_11|11925|12254|-1|ID=1_11;partial=00;start_type=GTG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.673	WP_201785098.1 4Fe-4S dicluster-binding protein [Streptomyces azureus]	100	99.1	2.52e-77
+NZ_DF968476.1_12|12960|14396|-1|ID=1_12;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.732	WP_059423998.1 nucleotide pyrophosphatase/phosphodiesterase family protein [Streptomyces azureus]	100	99.8	0.0
+NZ_DF968476.1_13|14393|15562|-1|ID=1_13;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.762	WP_059424000.1 metabolite traffic protein EboE [Streptomyces azureus]	100	99.7	8.25e-283
+NZ_DF968476.1_14|15567|16439|-1|ID=1_14;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.709	WP_059424001.1 TatD family hydrolase [Streptomyces azureus]	100	99.7	1.90e-213
+NZ_DF968476.1_15|16439|17014|-1|ID=1_15;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.766	WP_059424002.1 EboA domain-containing protein [Streptomyces azureus]	100	99.5	2.90e-127
+NZ_DF968476.1_16|17011|17856|-1|ID=1_16;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.738	WP_059424003.1 sugar phosphate isomerase/epimerase family protein [Streptomyces azureus]	100	99.6	1.38e-206
+NZ_DF968476.1_17|17853|18848|-1|ID=1_17;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.805	WP_099054770.1 SCO3242 family prenyltransferase [Streptomyces azureus]	100	99.7	9.94e-200
+NZ_DF968476.1_18|18845|19987|-1|ID=1_18;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.751	WP_078945677.1 inositol-3-phosphate synthase [Streptomyces azureus]	100	99.7	6.12e-269
+NZ_DF968476.1_19|20259|21344|-1|ID=1_19;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.716	WP_059424004.1 ScyD/ScyE family protein [Streptomyces azureus]	100	99.7	7.32e-240
+NZ_DF968476.1_20|21598|22683|1|ID=1_20;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.714	WP_078945678.1 methyltransferase [Streptomyces azureus]	100	99.7	5.34e-258

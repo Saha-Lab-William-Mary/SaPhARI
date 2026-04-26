@@ -1,0 +1,5 @@
+NZ_LQOO01000005.1_1|191|589|-1|ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612	WP_047323683.1 MULTISPECIES: hypothetical protein [Mycobacteriaceae]	100	99.2	4.67e-93
+NZ_LQOO01000005.1_2|670|1113|-1|ID=1_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.635	WP_047323684.1 MULTISPECIES: hypothetical protein [Mycobacterium]	100	99.3	1.69e-100
+NZ_LQOO01000005.1_3|1118|2950|-1|ID=1_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639	WP_047323685.1 MULTISPECIES: type VII secretion AAA-ATPase EccA [Mycobacterium]	100	99.8	0.0
+NZ_LQOO01000005.1_4|2972|4564|-1|ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.695	WP_047323686.1 MULTISPECIES: type VII secretion protein EccE [Mycobacterium]	100	99.8	0.0
+NZ_LQOO01000005.1_5|4564|5595|-1|ID=1_5;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.684	WP_085081452.1 type VII secretion-associated serine protease mycosin, partial [Mycobacterium intracellulare]	100	99.7	7.55e-233

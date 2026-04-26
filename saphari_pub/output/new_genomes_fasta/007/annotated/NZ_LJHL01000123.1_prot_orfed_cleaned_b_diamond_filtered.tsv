@@ -1,0 +1,14 @@
+NZ_LJHL01000123.1_1|2|2044|1|ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.690	WP_054585285.1 ATP-binding cassette domain-containing protein, partial [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000123.1_2|2081|4432|1|ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.725	WP_042913264.1 ATP-binding cassette domain-containing protein [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000123.1_3|4451|5014|-1|ID=1_3;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.709	WP_042913265.1 pentapeptide repeat-containing protein [Mycobacterium intracellulare]	100	99.5	6.21e-95
+NZ_LJHL01000123.1_4|5011|5598|-1|ID=1_4;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.702	WP_008260062.1 MULTISPECIES: GTP-binding protein [Mycobacterium]	100	99.5	1.28e-132
+NZ_LJHL01000123.1_5|5579|5962|-1|ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.701	WP_009956846.1 MULTISPECIES: DUF742 domain-containing protein [Mycobacterium]	100	99.2	6.75e-86
+NZ_LJHL01000123.1_6|5969|6370|-1|ID=1_6;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.714	WP_009956847.1 MULTISPECIES: serine protease inhibitor [Mycobacterium]	100	99.3	1.75e-84
+NZ_LJHL01000123.1_7|6367|9153|-1|ID=1_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.733	WP_075630267.1 sensor histidine kinase [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000123.1_8|9410|10015|-1|ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.715	WP_042913267.1 class I SAM-dependent methyltransferase [Mycobacterium intracellulare]	100	99.5	2.12e-143
+NZ_LJHL01000123.1_9|10045|10497|1|ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.722	WP_008260072.1 MULTISPECIES: tRNA (cytidine(34)-2'-O)-methyltransferase [Mycobacterium]	100	99.3	1.25e-102
+NZ_LJHL01000123.1_10|10507|11151|-1|ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.699	WP_014385739.1 MULTISPECIES: nitroreductase family protein [Mycobacterium]	100	99.5	1.32e-157
+NZ_LJHL01000123.1_11|11258|14509|-1|ID=1_11;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.716	WP_042913269.1 error-prone DNA polymerase [Mycobacterium intracellulare]	100	99.9	0.0
+NZ_LJHL01000123.1_12|14601|15743|1|ID=1_12;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.743	WP_042913270.1 trehalose-phosphatase [Mycobacterium intracellulare]	100	99.7	2.19e-262
+NZ_LJHL01000123.1_13|15744|16610|-1|ID=1_13;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.710	WP_008260079.1 MULTISPECIES: MaoC family dehydratase [Mycobacterium]	100	99.7	1.74e-208
+NZ_LJHL01000123.1_14|16704|17420|1|ID=1_14;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.667	WP_008260081.1 MULTISPECIES: histidine phosphatase family protein [Mycobacterium]	100	99.6	6.74e-172
